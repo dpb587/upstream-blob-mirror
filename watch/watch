@@ -1,0 +1,39 @@
+#!/bin/bash
+
+set -eu -o pipefail
+
+origin="$1"
+repository="$2"
+
+cd "$repository"
+repository_dir="$PWD"
+
+echo "$repository"
+
+.watch/check > /tmp/ubr-watch-check
+
+filename=$( blob-receipt dump /tmp/ubr-watch-check --name )
+receipt="$filename.json"
+
+if [ -e "$receipt" ]; then
+  exit
+fi
+
+mkdir /tmp/ubr-watch
+
+( cd /tmp/ubr-watch
+
+  $repository_dir/.watch/mirror < /tmp/ubr-watch-check
+
+  blob-receipt create receipt.json "$filename"
+
+  sha1=$( blob-receipt dump receipt.json --digest sha1 )
+
+  blob-receipt upload receipt.json "$origin$sha1" "$filename"
+
+  rm "$filename"
+)
+
+cp /tmp/ubr-watch/receipt.json "$receipt"
+
+rm -fr /tmp/ubr-watch /tmp/ubr-watch-check

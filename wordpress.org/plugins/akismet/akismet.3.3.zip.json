@@ -1,0 +1,22 @@
+{
+  "digest": {
+    "md5": "7774939cda2488cd051c0f18b53118e5",
+    "sha1": "0faf7c85eaafbcfb86d51c2815278b87068c040e",
+    "sha256": "37cdfb059d63811f2000609525b2140e90de505a2eec3e44c265b4a39761a8bb",
+    "sha512": "c6b51e20ad83fb7fc9d180a8188013ef47c0a3fbfd62ab6471e796178935512f70a2a68b0a9f3630ca8543d0d99883ed8ab7b36c5e6fe24ca128a7424ac093f6"
+  },
+  "metadata": [
+    {
+      "key": "version",
+      "value": "3.3"
+    }
+  ],
+  "name": "akismet.3.3.zip",
+  "origin": [
+    {
+      "uri": "https://s3-us-west-2.amazonaws.com/dpb587-tmp-us-west-2/upstream-blob-receipts/0faf7c85eaafbcfb86d51c2815278b87068c040e"
+    }
+  ],
+  "size": 63529,
+  "time": "2017-02-23T09:24:17-08:00"
+}

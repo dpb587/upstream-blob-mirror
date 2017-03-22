@@ -1,0 +1,22 @@
+{
+  "digest": {
+    "md5": "c1d06d10de82695c353f7b344ff4c94b",
+    "sha1": "d3f32ab74c7d4aae8c669faf27c67a8912dfffed",
+    "sha256": "5fe321bc1f38b09c15d6fe891bad2cfca31a270350e48133cf107f08e0a663e3",
+    "sha512": "e0fce893d0724367bfe7e1830efbb0aab127a60188501d789fb54be614050abe9fa7059d5f851b1f148501d20832f612a2382d4c05a61cd7872440c258f39fc2"
+  },
+  "metadata": [
+    {
+      "key": "version",
+      "value": "2.10.5"
+    }
+  ],
+  "name": "google-apps-login.2.10.5.zip",
+  "origin": [
+    {
+      "uri": "https://s3-us-west-2.amazonaws.com/dpb587-tmp-us-west-2/upstream-blob-receipts/d3f32ab74c7d4aae8c669faf27c67a8912dfffed"
+    }
+  ],
+  "size": 956396,
+  "time": "2016-12-05T13:34:07-08:00"
+}

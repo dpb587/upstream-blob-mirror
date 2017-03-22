@@ -1,0 +1,26 @@
+#!/bin/bash
+
+set -eu -o pipefail
+
+cat > check-receipt.json.raw
+
+version=$( blob-receipt dump "check-receipt.json.raw" --metadata version )
+filename=$( blob-receipt dump "check-receipt.json.raw" --name )
+
+jq \
+  --arg md5 "$( wget -qO- https://wordpress.org/wordpress-$version.tar.gz.md5 )" \
+  --arg sha1 "$( wget -qO- https://wordpress.org/wordpress-$version.tar.gz.sha1 )" \
+  '. + { "digest": { "md5": $md5, "sha1": $sha1 } }' \
+  > check-receipt.json \
+  < check-receipt.json.raw
+
+rm check-receipt.json.raw
+
+blob-receipt download --digest=all check-receipt.json "$filename"
+
+jq \
+  'del(.origin)' \
+  > receipt.json \
+  < check-receipt.json
+
+rm check-receipt.json

@@ -1,0 +1,22 @@
+{
+  "digest": {
+    "md5": "c70babd2ab99b5dd1d6c12b4ce47f56e",
+    "sha1": "83dad7597b25e31d85da15e9a00dbe6e2cf211ad",
+    "sha256": "87743ff395239abcdbe6aa9436bff3ef599d9783b904b0551304223671831cb8",
+    "sha512": "a3d868f2cf137622cf7b2c190f407c9d6faf74c26352b514d414fbbd6d37e5487133f4af058fb18d438ba68d221cc3026aabc8fe45f389db0a7932fb77a73622"
+  },
+  "metadata": [
+    {
+      "key": "version",
+      "value": "0.10.1"
+    }
+  ],
+  "name": "wp-mail-smtp.0.10.1.zip",
+  "origin": [
+    {
+      "uri": "https://s3-us-west-2.amazonaws.com/dpb587-tmp-us-west-2/upstream-blob-receipts/83dad7597b25e31d85da15e9a00dbe6e2cf211ad"
+    }
+  ],
+  "size": 522723,
+  "time": "2017-03-15T06:20:17-07:00"
+}

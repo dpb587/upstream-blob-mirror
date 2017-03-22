@@ -1,0 +1,25 @@
+#!/bin/bash
+
+set -eu -o pipefail
+
+plugin=$( basename "$PWD" )
+
+wget -qO- "https://api.wordpress.org/plugins/info/1.0/$plugin.json" \
+  | jq \
+    --arg plugin "$plugin" \
+    '
+      .version | {
+        "metadata": [
+          {
+            "key": "version",
+            "value": "\(.)"
+          }
+        ],
+        "name": "\($plugin).\(.).zip",
+        "origin": [
+          {
+            "uri": "http://downloads.wordpress.org/plugin/\($plugin).\(.).zip"
+          }
+        ]
+      }
+    '

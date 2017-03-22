@@ -1,0 +1,22 @@
+{
+  "digest": {
+    "md5": "0c48603fb160ad4a88c8f17947af7d84",
+    "sha1": "0e2dfb1b904d1edba60cd7b78bb6b95308f2c9e3",
+    "sha256": "eb68430369dde8bbf1b2abd2e090889efb2139559683a30b4a2b752aea78e35e",
+    "sha512": "cf299d23b3da5afa797b1925a3f0915071de96af22d00098cedb65cb1d5c83869902a99dcdf2e0c53fa5c60c9eb720fe3365f42b6797251f9a4cae9f872b23c8"
+  },
+  "metadata": [
+    {
+      "key": "version",
+      "value": "2.2.6"
+    }
+  ],
+  "name": "regenerate-thumbnails.2.2.6.zip",
+  "origin": [
+    {
+      "uri": "https://s3-us-west-2.amazonaws.com/dpb587-tmp-us-west-2/upstream-blob-receipts/0e2dfb1b904d1edba60cd7b78bb6b95308f2c9e3"
+    }
+  ],
+  "size": 181785,
+  "time": "2015-12-30T01:47:12-08:00"
+}

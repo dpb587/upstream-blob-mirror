@@ -1,0 +1,9 @@
+#!/bin/bash
+
+set -eu -o pipefail
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/.."
+
+cd "$DIR"
+
+find . -name .watch | xargs -n1 dirname | xargs -n1 watch/watch "$1"

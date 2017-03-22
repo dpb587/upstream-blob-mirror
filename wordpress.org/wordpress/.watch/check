@@ -1,0 +1,27 @@
+#!/bin/bash
+
+set -eu -o pipefail
+
+git ls-remote --tags https://github.com/WordPress/WordPress.git \
+  | cut -f2 \
+  | grep -E '^refs/tags/.+$' \
+  | sed -E 's/^refs\/tags\/(.+)$/\1/' \
+  | gsort -rV \
+  | head -n1 \
+  | jq -R \
+    '
+      {
+        "metadata": [
+          {
+            "key": "version",
+            "value": "\(.)"
+          }
+        ],
+        "name": "wordpress-\(.).tar.gz",
+        "origin": [
+          {
+            "uri": "https://downloads.wordpress.org/release/wordpress-\(.).tar.gz"
+          }
+        ]
+      }
+    '

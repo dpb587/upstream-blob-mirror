@@ -1,0 +1,22 @@
+{
+  "digest": {
+    "md5": "4d1ff6ebcbb522eed368c720de8b1e84",
+    "sha1": "f7627aeb496bafae38b0ab68bf4a0454a64f1393",
+    "sha256": "58740004aa51ddd6c6579de98e1cb8f72f4e181d692a088ad779d28fd95979ef",
+    "sha512": "6195cb02e3630458af7dc4a1852b24d99727e455266f31fd08b03cd5f6eab72a0c8cc3d6ade746770ae80b4ef1d100ab783cbe9d7efc4d6374645fe2b94df607"
+  },
+  "metadata": [
+    {
+      "key": "version",
+      "value": "4.5"
+    }
+  ],
+  "name": "wordpress-seo.4.5.zip",
+  "origin": [
+    {
+      "uri": "https://s3-us-west-2.amazonaws.com/dpb587-tmp-us-west-2/upstream-blob-receipts/f7627aeb496bafae38b0ab68bf4a0454a64f1393"
+    }
+  ],
+  "size": 3083706,
+  "time": "2017-03-21T03:57:48-07:00"
+}

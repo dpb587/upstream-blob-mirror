@@ -1,0 +1,16 @@
+#!/bin/bash
+
+set -eu -o pipefail
+
+cat > check-receipt.json
+
+filename=$( blob-receipt dump "check-receipt.json" --name )
+
+wget -qO "$filename" "$( jq -r '.origin[0].uri' < check-receipt.json )"
+
+jq \
+  'del(.origin)' \
+  > receipt.json \
+  < check-receipt.json
+
+rm check-receipt.json
