@@ -1,0 +1,25 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+version=$(
+  git ls-remote --tags https://github.com/bagder/curl.git \
+    | cut -f2 \
+    | grep -Ev '\^{}' \
+    | grep -E '^refs/tags/curl-.+$' \
+    | sed -E 's/^refs\/tags\/curl-(.+)$/\1/' \
+    | tr '_' '.' \
+    | grep -E '^\d+\.\d+\.\d+$' \
+    | gsort -rV \
+    | head -n1
+)
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="curl-${version}.tar.gz">
+    <url>http://curl.askapache.com/download/curl-${version}.tar.gz</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF

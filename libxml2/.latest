@@ -1,0 +1,23 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+version=$(
+  curl -s -l \
+    ftp://xmlsoft.org/libxml2/ \
+    | grep -E '^libxml2-.+.tar.gz$' \
+    | sed -E 's/^libxml2-(.+)\.tar.gz$/\1/' \
+    | grep -E '^\d+\.\d+\.\d+\w*$' \
+    | gsort -rV \
+    | head -n1
+)
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="libxml2-${version}.tar.gz">
+    <url>ftp://xmlsoft.org/libxml2/libxml2-${version}.tar.gz</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF

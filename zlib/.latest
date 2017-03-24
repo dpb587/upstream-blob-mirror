@@ -1,0 +1,25 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+version=$(
+  git ls-remote --tags https://github.com/madler/zlib.git \
+    | cut -f2 \
+    | grep -Ev '\^{}' \
+    | grep -E '^refs/tags/v.+$' \
+    | sed -E 's/^refs\/tags\/v(.+)$/\1/' \
+    | tr '_' '.' \
+    | grep -v '-' \
+    | gsort -rV \
+    | head -n1
+)
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="zlib-v${version}.tar.gz">
+    <url>https://github.com/madler/zlib/archive/v${version}.tar.gz</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF

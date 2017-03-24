@@ -1,0 +1,32 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+version=$(
+  wget -qO- http://source.icu-project.org/repos/icu/tags/ \
+    | sed -E 's/.+ name="([^"]+)".+/\1/' \
+    | grep -E "^release-" \
+    | sed -E 's/^release-(.+)$/\1/' \
+    | tr '-' '.' \
+    | grep -E '^\d+\.\d+(\.\d+)?$' \
+    | gsort -rV \
+    | head -n1
+)
+underversion=$( echo "$version" | tr . _ )
+
+md5=$(
+  wget -qO- "https://ssl.icu-project.org/files/icu4c/${version}/icu4c-src-${underversion}.md5" \
+    | grep "icu4c-${underversion}-src.tgz" \
+    | awk '{ print $1 }'
+)
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="icu4c-${underversion}-src.tgz">
+    <hash type="md5">${md5}</hash>
+    <url>https://downloads.sourceforge.net/project/icu/ICU4C/${version}/icu4c-${underversion}-src.tgz</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF

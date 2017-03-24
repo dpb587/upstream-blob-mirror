@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eu -o pipefail
+set -eu -o pipefail ; export SHELLOPTS
 
 origin="$1"
 repository="$2"
@@ -10,30 +10,34 @@ repository_dir="$PWD"
 
 echo "$repository"
 
-.watch/check > /tmp/ubr-watch-check
+rm -fr /tmp/ubr-watch
+mkdir /tmp/ubr-watch
 
-filename=$( blob-receipt dump /tmp/ubr-watch-check --name )
-receipt="$filename.json"
+./.latest > /tmp/ubr-watch/metalink.meta4
 
-if [ -e "$receipt" ]; then
+cd /tmp/ubr-watch
+
+version=$( meta4 file-version )
+filename=$( meta4 files )
+metalink="v$version.json"
+
+if [ -e "$repository_dir/$metalink" ]; then
   exit
 fi
 
-mkdir /tmp/ubr-watch
+# download
+aria2c metalink.meta4
 
-( cd /tmp/ubr-watch
+# remove the original url
+meta4 file-remove-url "$( meta4 file-urls )"
 
-  $repository_dir/.watch/mirror < /tmp/ubr-watch-check
+# import more details
+meta4 import-file --merge "$filename"
 
-  blob-receipt create receipt.json "$filename"
+# upload
+sha1=$( meta4 file-hash sha-1 )
+meta4 file-upload "$filename" "$origin$sha1"
 
-  sha1=$( blob-receipt dump receipt.json --digest sha1 )
+cp metalink.meta4 "$repository_dir/$metalink"
 
-  blob-receipt upload receipt.json "$origin$sha1" "$filename"
-
-  rm "$filename"
-)
-
-cp /tmp/ubr-watch/receipt.json "$receipt"
-
-rm -fr /tmp/ubr-watch /tmp/ubr-watch-check
+rm -fr /tmp/ubr-watch

@@ -1,0 +1,22 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+version=$(
+  wget -q-O- http://hg.nginx.org/nginx/tags?style=raw \
+    | cut -f1 \
+    | grep '^release-' \
+    | sed -E 's/^release-(.+)$/\1/' \
+    | gsort -rV \
+    | head -n1
+)
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="nginx-${version}.tar.gz">
+    <url>https://nginx.org/download/nginx-${version}.tar.gz</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF

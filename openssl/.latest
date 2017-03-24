@@ -1,0 +1,27 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+version=$(
+  git ls-remote --tags https://github.com/openssl/openssl.git \
+    | cut -f2 \
+    | grep -Ev '\^{}' \
+    | grep -E '^refs/tags/OpenSSL_.+$' \
+    | sed -E 's/^refs\/tags\/OpenSSL_(.+)$/\1/' \
+    | tr '_' '.' \
+    | gsort -rV \
+    | head -n1
+)
+
+sha256=$( wget -qO- "https://www.openssl.org/source/openssl-${version}.tar.gz.sha256" )
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="openssl-${version}.tar.gz">
+    <hash type="sha256">${sha256}</hash>
+    <url>https://www.openssl.org/source/openssl-${version}.tar.gz</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF

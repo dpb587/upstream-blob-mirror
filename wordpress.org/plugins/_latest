@@ -1,0 +1,19 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+plugin=$( basename "$PWD" )
+version=$(
+  wget -qO- "https://api.wordpress.org/plugins/info/1.0/$plugin.json" \
+    | jq -r .version
+)
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="${plugin}.${version}.zip">
+    <url>http://downloads.wordpress.org/plugin/${plugin}.${version}.zip</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF
