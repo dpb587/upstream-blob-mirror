@@ -19,7 +19,7 @@ cd /tmp/ubr-watch
 
 version=$( meta4 file-version )
 filename=$( meta4 files )
-metalink="v$version.json"
+metalink="v$version.meta4"
 
 if [ -e "$repository_dir/$metalink" ]; then
   exit
