@@ -1,0 +1,29 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+version=$(
+  wget -qO- https://www.oberhumer.com/opensource/lzo/download/ \
+    | grep -E 'href="lzo-[^"]+.tar.gz"' \
+    | sed -E 's/^.+href="lzo-([^"]+).tar.gz".+$/\1/' \
+    | gsort -rV \
+    | head -n1
+)
+
+sha1=$(
+  wget -qO- https://www.oberhumer.com/opensource/lzo/ \
+    | grep -E 'SHA1: ' \
+    | sed -E 's/.+SHA1: +([a-f0-9]+).+/\1/' \
+    | head -n1
+)
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="lzo-${version}.tar.gz">
+    <hash type="sha-1">${sha1}</hash>
+    <url>https://www.oberhumer.com/opensource/lzo/download/lzo-${version}.tar.gz</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF
