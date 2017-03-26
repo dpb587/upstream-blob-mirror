@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="php-5.6.30.tar.gz">
-    <hash type="sha256">8bc7d93e4c840df11e3d9855dcad15c1b7134e8acf0cf3b90b932baea2d0bde2</hash>
     <hash type="md5">8c7ef86c259abad33f213405a35a13c2</hash>
     <hash type="sha-1">98c95bc9a48eefad5bbb4f05fb5cd51ff390fe48</hash>
     <hash type="sha-256">8bc7d93e4c840df11e3d9855dcad15c1b7134e8acf0cf3b90b932baea2d0bde2</hash>

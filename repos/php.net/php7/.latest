@@ -2,7 +2,7 @@
 
 set -eu -o pipefail ; export SHELLOPTS
 
-raw=$( wget -qO- 'https://secure.php.net/releases/index.php?json&max=1&version=5.6' )
+raw=$( wget -qO- 'https://secure.php.net/releases/index.php?json&max=1&version=7' )
 version=$( echo "$raw" | jq -r 'to_entries[0].key' )
 json=$( echo "$raw" | jq -r 'to_entries[0].value.source | map(select(.filename | test("\\.tar\\.gz$") ))[0]' )
 
@@ -13,7 +13,7 @@ cat <<EOF
 <?xml version="1.0" encoding="utf-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="php-${version}.tar.gz">
-    <hash type="sha256">${sha256}</hash>
+    <hash type="sha-256">${sha256}</hash>
     <url>http://us1.php.net/distributions/php-${version}.tar.gz</url>
     <version>${version}</version>
   </file>
