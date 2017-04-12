@@ -13,7 +13,7 @@ echo "$repository"
 rm -fr /tmp/ubr-watch
 mkdir /tmp/ubr-watch
 
-./.latest > /tmp/ubr-watch/metalink.meta4
+./metalink > /tmp/ubr-watch/metalink.meta4
 
 cd /tmp/ubr-watch
 
@@ -21,31 +21,31 @@ version=$( meta4 file-version )
 filename=$( meta4 files )
 metalink="v$version.meta4"
 
-if [ -e "$repository_dir/$metalink" ]; then
-  exit
+if [ ! -e "$repository_dir/$metalink" ]; then
+  hashes=$( meta4 file-hashes )
+
+  arg=""
+
+  if [[ "" == "$hashes" ]]; then
+    arg="--no-verify"
+  fi
+
+  # download
+  meta4 file-download $arg "$( meta4 files )"
+
+  # remove the original url
+  meta4 file-remove-url "$( meta4 file-urls )"
+
+  # import more details
+  meta4 import-file --merge "$filename"
+
+  # upload
+  sha1=$( meta4 file-hash sha-1 )
+  meta4 file-upload "$filename" "$origin$sha1"
+
+  cp metalink.meta4 "$repository_dir/$metalink"
+
+  rm -fr /tmp/ubr-watch
 fi
 
-hashes=$( meta4 file-hashes )
-
-arg=""
-
-if [[ "" == "$hashes" ]]; then
-  arg="--no-verify"
-fi
-
-# download
-meta4 file-download $arg "$( meta4 files )"
-
-# remove the original url
-meta4 file-remove-url "$( meta4 file-urls )"
-
-# import more details
-meta4 import-file --merge "$filename"
-
-# upload
-sha1=$( meta4 file-hash sha-1 )
-meta4 file-upload "$filename" "$origin$sha1"
-
-cp metalink.meta4 "$repository_dir/$metalink"
-
-rm -fr /tmp/ubr-watch
+meta4-repo filter "file://$repository_dir" > "$repository_dir/repository.xml"
