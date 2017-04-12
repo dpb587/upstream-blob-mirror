@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/zlib</repository>
+      <path>v1.2.11.meta4</path>
+      <version>2017-03-24T01:59:57-07:00</version>
+    </repository-reference>
+    <file name="zlib-v1.2.11.tar.gz">
+      <hash type="md5">0095d2d2d1f3442ce1318336637b695f</hash>
+      <hash type="sha-1">56559d4c03beaedb0be1c7481d6a371e2458a496</hash>
+      <hash type="sha-256">629380c90a77b964d896ed37163f5c3a34f6e6d897311f1df2a7016355c45eff</hash>
+      <hash type="sha-512">104c62ed1228b5f1199bc037081861576900eb0697a226cafa62a35c4c890b5cb46622e399f9aad82ee5dfb475bae26ae75e2bd6da3d261361b1c8b996970faf</hash>
+      <size>644492</size>
+      <url>https://s3-us-west-2.amazonaws.com/dpb587-tmp-us-west-2/upstream-blob-receipts/56559d4c03beaedb0be1c7481d6a371e2458a496</url>
+      <version>1.2.11</version>
+    </file>
+  </metalink>
+</repository>

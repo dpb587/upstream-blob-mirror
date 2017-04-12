@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <path>v6.1.7.meta4</path>
+      <version>2017-04-11T19:43:25-07:00</version>
+    </repository-reference>
+    <file name="google-analytics-for-wordpress.6.1.7.zip">
+      <hash type="md5">423fcc99601bddc15ed0b6841c049c6b</hash>
+      <hash type="sha-1">b44af839f8897ece93351274992498dc76c60a31</hash>
+      <hash type="sha-256">64c33363aeb2f0455f24b431dcb70a016d19193a40c05e7fe0ab57ca5b300fab</hash>
+      <hash type="sha-512">57fd0f5b4a526cfa15b946deca515f05df1f4f1a5611c0c48b440769e10d40e00a4a2cfec9975e964c81cb361226437201464a5c098716ce9786c59752b7c4f2</hash>
+      <size>1784194</size>
+      <url>https://s3-us-west-2.amazonaws.com/dpb587-tmp-us-west-2/upstream-blob-receipts/b44af839f8897ece93351274992498dc76c60a31</url>
+      <version>6.1.7</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <path>v6.1.6.meta4</path>
+      <version>2017-03-29T20:24:01-07:00</version>
+    </repository-reference>
+    <file name="google-analytics-for-wordpress.6.1.6.zip">
+      <hash type="md5">f1cb584cabbf1725b31777c9c9c30bde</hash>
+      <hash type="sha-1">f2e38684409e2380525219a8e24fa5b5f80d54e2</hash>
+      <hash type="sha-256">9ae6d24b0512c526a7ad90c499f7530d7059c3ff458e52cd3d19f038e77b0b17</hash>
+      <hash type="sha-512">b69447cfb4249dfa26c2dfc0e82d22475e460aa51871bbed0b10396988da790a7943b0bb028e796855b01e1a5a4783176325d6b0ff583abfc451c9681ff135eb</hash>
+      <size>1783931</size>
+      <url>https://s3-us-west-2.amazonaws.com/dpb587-tmp-us-west-2/upstream-blob-receipts/f2e38684409e2380525219a8e24fa5b5f80d54e2</url>
+      <version>6.1.6</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <path>v6.1.5.meta4</path>
+      <version>2017-03-24T21:07:04-07:00</version>
+    </repository-reference>
+    <file name="google-analytics-for-wordpress.6.1.5.zip">
+      <hash type="md5">3495a69232e17c63a339de30b39a3127</hash>
+      <hash type="sha-1">a4c6ef516bde3bed6e7a22e3b991dab416383bc1</hash>
+      <hash type="sha-256">b8cd25bc991b77d103e0fe025bb3ff6a037cb8c3df0f43ea03b4f7c32f0e0d79</hash>
+      <hash type="sha-512">29cfdacb023b5d689745047c17edb86808784f6053ec3f803e200ebd84313ffa30578c7f770cfc6486864417f5fac52150e94cdcdc403ec3c7e3938cc824e84b</hash>
+      <size>1725809</size>
+      <url>https://s3-us-west-2.amazonaws.com/dpb587-tmp-us-west-2/upstream-blob-receipts/a4c6ef516bde3bed6e7a22e3b991dab416383bc1</url>
+      <version>6.1.5</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <path>v6.1.4.meta4</path>
+      <version>2017-03-23T23:48:02-07:00</version>
+    </repository-reference>
+    <file name="google-analytics-for-wordpress.6.1.4.zip">
+      <hash type="md5">32440dfb33cc41fc2045378cb9af4d16</hash>
+      <hash type="sha-1">533f04aa3f5375a2fab95b91c92874a9ffc7738c</hash>
+      <hash type="sha-256">3628effa9bf88961f115ea51143f6efc643521b4b2446a538c3b8d8f6d1a2bc0</hash>
+      <hash type="sha-512">453cb43a41f9ee71a419bb8a4b07ddc8d38afe3ba10016f7d7ca476be5ef0f3921c7120a0f4fddfc840179b702e451ecdbc9e81a505aed2ea284bced900deb85</hash>
+      <size>1725837</size>
+      <url>https://s3-us-west-2.amazonaws.com/dpb587-tmp-us-west-2/upstream-blob-receipts/533f04aa3f5375a2fab95b91c92874a9ffc7738c</url>
+      <version>6.1.4</version>
+    </file>
+  </metalink>
+</repository>
