@@ -13,7 +13,7 @@ mc config host add "$alias" https://s3.amazonaws.com "$AWS_ACCESS_KEY_ID" "$AWS_
 for file in $( cd repos ; find . -name repository.xml ); do
   file=$( echo "$file" | cut -c3- )
 
-  mc cp $PWD/repos/$file $alias/$S3_REPOS_BUCKET/$S3_REPOS_PREFIX$file
+  mc cp $PWD/repos/$file $alias/$S3_REPOS_BUCKET/metalink/$file
 done
 
 mc config host remove "$alias"
