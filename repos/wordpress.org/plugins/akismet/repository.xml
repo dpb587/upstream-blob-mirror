@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/plugins/akismet</repository>
+      <path>v3.3.meta4</path>
+      <version>2017-04-12T18:34:07-07:00</version>
+    </repository-reference>
+    <file name="akismet.3.3.zip">
+      <hash type="md5">15ad14b7edadc287ba6761ad2ee341a4</hash>
+      <hash type="sha-1">7f4a5118dbb35624c55b9bf911772e10646da0f1</hash>
+      <hash type="sha-256">fbde12c01c08205648a74236448d051fb45fd9cd891c532356b5923a988234d2</hash>
+      <hash type="sha-512">1cdc188fc9c396a3e5a2b95c3c8f0feb7b20da8f3a87186e565fb051099d69c785d9a74e26001beb856f3542dba8d7116ef53cb338b3b09c6731c770e7546397</hash>
+      <size>63509</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7f4a5118dbb35624c55b9bf911772e10646da0f1</url>
+      <version>3.3</version>
+    </file>
+  </metalink>
+</repository>

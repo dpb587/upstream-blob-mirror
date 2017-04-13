@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="pcre-8.40.tar.gz">
+    <hash type="md5">890c808122bd90f398e6bc40ec862102</hash>
+    <hash type="sha-1">10384eb3d411794cc15f55b9d837d3f69e35391e</hash>
+    <hash type="sha-256">1d75ce90ea3f81ee080cdc04e68c9c25a9fb984861a0618be7bbf676b18eda3e</hash>
+    <hash type="sha-512">b722e4b75bda548913917677348d4f892fef5eb2c879c0e8cc187c21fb8c1afcd0f7782fba95b3730335fdcba9759f945714779c03b5575f0044c1a667d1d308</hash>
+    <size>2065161</size>
+    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/10384eb3d411794cc15f55b9d837d3f69e35391e</url>
+    <version>8.40</version>
+  </file>
+</metalink>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="libxml2-2.9.4.tar.gz">
+    <hash type="md5">ae249165c173b1ff386ee8ad676815f5</hash>
+    <hash type="sha-1">958ae70baf186263a4bd801a81dd5d682aedd1db</hash>
+    <hash type="sha-256">ffb911191e509b966deb55de705387f14156e1a56b21824357cdf0053233633c</hash>
+    <hash type="sha-512">f5174ab1a3a0ec0037a47f47aa47def36674e02bfb42b57f609563f84c6247c585dbbb133c056953a5adb968d328f18cbc102eb0d00d48eb7c95478389e5daf9</hash>
+    <size>5374830</size>
+    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/958ae70baf186263a4bd801a81dd5d682aedd1db</url>
+    <version>2.9.4</version>
+  </file>
+</metalink>
