@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="yet-another-related-posts-plugin.4.4.zip">
+    <hash type="md5">85903c5d353662f47f131615bcbee2f3</hash>
+    <hash type="sha-1">61d764d71d921f07b7c69e525f9c882ae12b93ce</hash>
+    <hash type="sha-256">56560b8716153857b56782486362cf038e258a9404d4cf0d261149dcf9963388</hash>
+    <hash type="sha-512">dc1651308436fa25b02c7b786d77d605addbef102fc83b1956dfa8f21533429543fb2efec258ac97acc1d92c173e7350d6ffb5c447b77e6800edb555c16c8621</hash>
+    <size>756360</size>
+    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/61d764d71d921f07b7c69e525f9c882ae12b93ce</url>
+    <version>4.4</version>
+  </file>
+</metalink>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="wp-mail-smtp.0.10.1.zip">
+    <hash type="md5">dc704a8c9ce8752539af62a4b863c703</hash>
+    <hash type="sha-1">0e58359d8d9a858f4e8d05ddfad49a8819b60a61</hash>
+    <hash type="sha-256">00f98fa0309a04a3dda41ab629283d0a66f187ad294d615db6552de17c3c9231</hash>
+    <hash type="sha-512">e753772637263ba419c7f59384d69d5e7e64da2da03f7df1c846205ac50c5e0990be91b7dfa70d5234cc230a10fee9f842950297aef0ec6308ff3307d267bd73</hash>
+    <size>522695</size>
+    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/0e58359d8d9a858f4e8d05ddfad49a8819b60a61</url>
+    <version>0.10.1</version>
+  </file>
+</metalink>
