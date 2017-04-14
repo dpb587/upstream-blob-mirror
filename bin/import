@@ -30,7 +30,7 @@ if [[ "" == "$hashes" ]]; then
 fi
 
 # download
-meta4 file-download --signature-trusted-store="$repository_dir/signature.gpg" $arg "$( meta4 files )"
+meta4 file-download --signature-trust-store="$repository_dir/signature.gpg" $arg "$( meta4 files )"
 
 # remove the original url
 meta4 file-remove-url "$( meta4 file-urls )"
