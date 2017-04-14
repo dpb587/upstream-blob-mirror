@@ -3,6 +3,7 @@
 set -eu -o pipefail ; export SHELLOPTS
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/.."
+cd "$DIR"
 
 origin="$1"
 repository="$2"
@@ -24,7 +25,7 @@ filename=$( meta4 files )
 metalink="v$version.meta4"
 
 if [ ! -e "$repository_dir/$metalink" ]; then
-  cat metalink.meta4 | "$DIR/bin/import"
+  cat metalink.meta4 | "$DIR/bin/import" "$origin" "$repository"
 fi
 
 meta4-repo filter "file://$repository_dir" > "$repository_dir/repository.xml"
