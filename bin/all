@@ -3,8 +3,7 @@
 set -eu -o pipefail
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/.."
-
-cd "$DIR/repos"
+cd "$DIR"
 
 find . -name metalink | xargs -n1 dirname | xargs -n1 ../bin/watch "$S3_BLOBS"
 
