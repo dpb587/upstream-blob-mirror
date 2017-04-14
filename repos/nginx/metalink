@@ -2,14 +2,16 @@
 
 set -eu -o pipefail ; export SHELLOPTS
 
-version=$(
-  wget -qO- http://hg.nginx.org/nginx/tags?style=raw \
-    | cut -f1 \
-    | grep '^release-' \
-    | sed -E 's/^release-(.+)$/\1/' \
-    | gsort -rV \
-    | head -n1
-)
+if [ -z "${version:-}" ]; then
+  version=$(
+    wget -qO- http://hg.nginx.org/nginx/tags?style=raw \
+      | cut -f1 \
+      | grep '^release-' \
+      | sed -E 's/^release-(.+)$/\1/' \
+      | gsort -rV \
+      | head -n1
+  )
+fi
 
 cat <<EOF
 <?xml version="1.0" encoding="utf-8"?>

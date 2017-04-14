@@ -3,10 +3,13 @@
 set -eu -o pipefail ; export SHELLOPTS
 
 plugin=$( basename "$PWD" )
-version=$(
-  wget -qO- "https://api.wordpress.org/plugins/info/1.0/$plugin.json" \
-    | jq -r .version
-)
+
+if [ -z "${version:-}" ]; then
+  version=$(
+    wget -qO- "https://api.wordpress.org/plugins/info/1.0/$plugin.json" \
+      | jq -r .version
+  )
+fi
 
 cat <<EOF
 <?xml version="1.0" encoding="utf-8"?>

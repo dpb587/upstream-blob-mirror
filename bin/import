@@ -46,11 +46,11 @@ cp metalink.meta4 "$repository_dir/$metalink"
 
 cd "$DIR"
 
-git add "$repository-dir/$metalink"
+git add "$repository_dir/$metalink"
 
 meta4-repo filter "file://$repository_dir" > "$repository_dir/repository.xml"
 git add "$repository_dir/repository.xml"
 
-git commit -m "$repository ($version)" "$repository-dir/$metalink" "$repository_dir/repository.xml"
+git commit -m "$( echo "$repository" | cut -c7- ) ($version)" "$repository_dir/$metalink" "$repository_dir/repository.xml"
 
 rm -fr /tmp/ubr-import

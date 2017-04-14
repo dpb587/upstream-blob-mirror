@@ -2,16 +2,19 @@
 
 set -eu -o pipefail ; export SHELLOPTS
 
-version=$(
-  wget -qO- http://source.icu-project.org/repos/icu/tags/ \
-    | sed -E 's/.+ name="([^"]+)".+/\1/' \
-    | grep -E "^release-" \
-    | sed -E 's/^release-(.+)$/\1/' \
-    | tr '-' '.' \
-    | grep -E '^\d+\.\d+(\.\d+)?$' \
-    | gsort -rV \
-    | head -n1
-)
+if [ -z "${version:-}" ]; then
+  version=$(
+    wget -qO- http://source.icu-project.org/repos/icu/tags/ \
+      | sed -E 's/.+ name="([^"]+)".+/\1/' \
+      | grep -E "^release-" \
+      | sed -E 's/^release-(.+)$/\1/' \
+      | tr '-' '.' \
+      | grep -E '^\d+\.\d+(\.\d+)?$' \
+      | gsort -rV \
+      | head -n1
+  )
+fi
+
 underversion=$( echo "$version" | tr . _ )
 
 md5=$(

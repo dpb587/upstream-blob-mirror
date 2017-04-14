@@ -2,17 +2,19 @@
 
 set -eu -o pipefail ; export SHELLOPTS
 
-version=$(
-  git ls-remote --tags https://github.com/madler/zlib.git \
-    | cut -f2 \
-    | grep -Ev '\^{}' \
-    | grep -E '^refs/tags/v.+$' \
-    | sed -E 's/^refs\/tags\/v(.+)$/\1/' \
-    | tr '_' '.' \
-    | grep -v '-' \
-    | gsort -rV \
-    | head -n1
-)
+if [ -z "${version:-}" ]; then
+  version=$(
+    git ls-remote --tags https://github.com/madler/zlib.git \
+      | cut -f2 \
+      | grep -Ev '\^{}' \
+      | grep -E '^refs/tags/v.+$' \
+      | sed -E 's/^refs\/tags\/v(.+)$/\1/' \
+      | tr '_' '.' \
+      | grep -v '-' \
+      | gsort -rV \
+      | head -n1
+  )
+fi
 
 cat <<EOF
 <?xml version="1.0" encoding="utf-8"?>

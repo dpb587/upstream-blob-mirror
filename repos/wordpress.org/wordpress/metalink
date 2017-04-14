@@ -2,14 +2,16 @@
 
 set -eu -o pipefail ; export SHELLOPTS
 
-version=$(
-  git ls-remote --tags https://github.com/WordPress/WordPress.git \
-    | cut -f2 \
-    | grep -E '^refs/tags/.+$' \
-    | sed -E 's/^refs\/tags\/(.+)$/\1/' \
-    | gsort -rV \
-    | head -n1 \
-)
+if [ -z "${version:-}" ]; then
+  version=$(
+    git ls-remote --tags https://github.com/WordPress/WordPress.git \
+      | cut -f2 \
+      | grep -E '^refs/tags/.+$' \
+      | sed -E 's/^refs\/tags\/(.+)$/\1/' \
+      | gsort -rV \
+      | head -n1 \
+  )
+fi
 
 sha1=$( wget -qO- "https://wordpress.org/wordpress-${version}.tar.gz.sha1" )
 

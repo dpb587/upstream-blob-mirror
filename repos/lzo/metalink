@@ -2,13 +2,15 @@
 
 set -eu -o pipefail ; export SHELLOPTS
 
-version=$(
-  wget -qO- https://www.oberhumer.com/opensource/lzo/download/ \
-    | grep -E 'href="lzo-[^"]+.tar.gz"' \
-    | sed -E 's/^.+href="lzo-([^"]+).tar.gz".+$/\1/' \
-    | gsort -rV \
-    | head -n1
-)
+if [ -z "${version:-}" ]; then
+  version=$(
+    wget -qO- https://www.oberhumer.com/opensource/lzo/download/ \
+      | grep -E 'href="lzo-[^"]+.tar.gz"' \
+      | sed -E 's/^.+href="lzo-([^"]+).tar.gz".+$/\1/' \
+      | gsort -rV \
+      | head -n1
+  )
+fi
 
 sha1=$(
   wget -qO- https://www.oberhumer.com/opensource/lzo/ \
