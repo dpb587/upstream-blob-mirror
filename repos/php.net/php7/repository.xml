@@ -3,6 +3,23 @@
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php7</repository>
+      <path>v7.1.4.meta4</path>
+      <version>2017-04-13T22:09:24-07:00</version>
+    </repository-reference>
+    <file name="php-7.1.4.tar.gz">
+      <hash type="sha-256">ed0006c86de503684dde04c6dd811ea2354a3b6d10ebd9f0cb103dcd28f0e70f</hash>
+      <hash type="md5">47e7d116553a879ff957ef2684987c23</hash>
+      <hash type="sha-1">ff9ded1b6672ffd48e71f1ac53aa3d65ba3ded22</hash>
+      <hash type="sha-256">ed0006c86de503684dde04c6dd811ea2354a3b6d10ebd9f0cb103dcd28f0e70f</hash>
+      <hash type="sha-512">3fc16c08aaf46bc498fbb187255534ff4fd5d5c28902d99e1fe1af9ad3fb99b550186c7f1ab927c05f3ce7c6884959029fb1ffb158d4e3153703d9d145016046</hash>
+      <size>20319716</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/ff9ded1b6672ffd48e71f1ac53aa3d65ba3ded22</url>
+      <version>7.1.4</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php7</repository>
       <path>v7.1.3.meta4</path>
       <version>2017-04-12T18:34:00-07:00</version>
     </repository-reference>
@@ -15,6 +32,23 @@
       <size>20312185</size>
       <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/55366f0d7fa257e3e9a6c72deb38cbeb622bb9f3</url>
       <version>7.1.3</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php7</repository>
+      <path>v7.1.0.meta4</path>
+      <version>2017-04-15T09:22:45-07:00</version>
+    </repository-reference>
+    <file name="php-7.1.0.tar.gz">
+      <hash type="sha-256">9e84c5b13005c56374730edf534fe216f6a2e63792a9703d4b894e770bbccbae</hash>
+      <hash type="md5">ec2218f97b4edbc35a2d7919ff37a662</hash>
+      <hash type="sha-1">3de1f1998317becde6feb90fe811af7dc78bbde1</hash>
+      <hash type="sha-256">9e84c5b13005c56374730edf534fe216f6a2e63792a9703d4b894e770bbccbae</hash>
+      <hash type="sha-512">2a8ad9d8171e670516c9f9a196744fd8d739228bfe9fa5e395faf7de2640a9a1967130f346f6bdbda5a2104fc401c70fae8d3a8742d216941e8131b65cb4b9c4</hash>
+      <size>20190703</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/3de1f1998317becde6feb90fe811af7dc78bbde1</url>
+      <version>7.1.0</version>
     </file>
   </metalink>
 </repository>
