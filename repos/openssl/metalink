@@ -16,13 +16,24 @@ if [ -z "${version:-}" ]; then
   )
 fi
 
-sha256=$( wget -qO- "https://www.openssl.org/source/openssl-${version}.tar.gz.sha256" )
+sha1=$( wget -qO- "https://www.openssl.org/source/openssl-${version}.tar.gz.sha1" || true )
+sha256=$( wget -qO- "https://www.openssl.org/source/openssl-${version}.tar.gz.sha256" || true )
+signature=$( wget -qO- "https://www.openssl.org/source/openssl-${version}.tar.gz.asc" )
+
+if [ -z "$sha256" ]; then
+  hash_type=sha-1
+  hash_value=$sha1
+else
+  hash_type=sha-256
+  hash_value=$sha256
+fi
 
 cat <<EOF
 <?xml version="1.0" encoding="utf-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="openssl-${version}.tar.gz">
-    <hash type="sha-256">${sha256}</hash>
+    <hash type="${hash_type}">${hash_value}</hash>
+    <signature mediatype="application/pgp-signature">${signature}</signature>
     <url>https://www.openssl.org/source/openssl-${version}.tar.gz</url>
     <version>${version}</version>
   </file>
