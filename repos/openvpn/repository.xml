@@ -119,4 +119,27 @@ XzEAn2WfGAwaVUHPCUB7TPzsDjHEKMwR
       <version>2.3.10</version>
     </file>
   </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn</repository>
+      <path>v2.3.9.meta4</path>
+      <version>2017-04-14T19:41:01-07:00</version>
+    </repository-reference>
+    <file name="openvpn-2.3.9.tar.gz">
+      <hash type="md5">265755044ae88f9249d509f6d061f7e5</hash>
+      <hash type="sha-1">b1d4dafb7286cb6ab890e5d96c4c02a2fd685464</hash>
+      <hash type="sha-256">2c12fe9ea641ac1291e70322cc500641c84e5903dd4f40bf2eda7e9f209b2f9c</hash>
+      <hash type="sha-512">597ad93caf5e4489bfdc78413756af516cad88679460ebadbef91358c6ca505dd0d5c3bb508b463fd34008be80d37f464271db0beec8439619510d7cf3b3b000</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlZxZD4ACgkQwp2X7RmNIqOAGACbBMjAK+23VCb0OX5xn22OUIrM
+2toAoNnfu/8sbMpsADd41XoOoSAYPDFs
+=cRzV
+-----END PGP SIGNATURE-----]]></signature>
+      <size>1222797</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/b1d4dafb7286cb6ab890e5d96c4c02a2fd685464</url>
+      <version>2.3.9</version>
+    </file>
+  </metalink>
 </repository>
