@@ -19,6 +19,33 @@
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <path>v1.11.5.meta4</path>
+      <version>2017-04-15T13:51:06-07:00</version>
+    </repository-reference>
+    <file name="nginx-1.11.5.tar.gz">
+      <hash type="md5">db43f2b19746f6f47401c3afc3924dc6</hash>
+      <hash type="sha-1">3658724f3c6d049cd1d24f02f1acb7f9be250886</hash>
+      <hash type="sha-256">223f8a2345a75f891098cf26ccdf208b293350388f51ce69083674c9432db6f6</hash>
+      <hash type="sha-512">f41b21b5d8c6b7fe7f8713e96fb6b1c40da49bf64ebb790fb5aa38f036a37b36fcf048ff72c2216552b2f75366b30c5fcdef26312bd4e5515b2476a1cd944b8c</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAABCAAGBQJX/P9pAAoJEFIKmZOhwFL4CZwH/jsxeNwEfdnMpYzyJePS+OpC
+FTIFzMIKa1giJBjC2Em7JNOI0o8dzHziVF97bKJl35v15hLDaBYGIgZ2Ggv+7bqV
+hJ0+EeJpeYG42a+76GS/Ioj9jOgzAflCoFTKRbxowGMezINnFWaCWSMjcWsei+Fo
+ILGjUAE48wXZCvJk3oVW0Pi1tItehRRzeDJhTip6Ru74JnZqaufHbtPtT73qAF1h
+vMGS717ShcAX1BXh8aUeg9MYnBHtmB9NOgjkJW2LRjFwwrTgkD8xQoUrK7USs3g+
+55uQWWJU7yuy7UJoiJl6sCP0MG5ZU2si9MRlU0KIoNR8SJWIgKZCWpVFB2ippVE=
+=3/BP
+-----END PGP SIGNATURE-----]]></signature>
+      <size>956517</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/3658724f3c6d049cd1d24f02f1acb7f9be250886</url>
+      <version>1.11.5</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
       <path>v1.11.4.meta4</path>
       <version>2017-04-15T13:50:38-07:00</version>
     </repository-reference>
