@@ -171,6 +171,34 @@ Oi1yVap1NlwfZeiNCwuVK5fWFfNlFACB3vzEEPnD3lVQhUFyDveyeP9AQsFc090=
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.0.2g.meta4</path>
+      <version>2017-04-15T10:30:04-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.0.2g.tar.gz">
+      <hash type="sha-256">b784b1b3907ce39abf4098702dade6365522a253ad1552e267a9a0e89594aa33</hash>
+      <hash type="md5">f3c710c045cdee5fd114feb69feba7aa</hash>
+      <hash type="sha-1">36af23887402a5ea4ebef91df8e61654906f58f2</hash>
+      <hash type="sha-256">b784b1b3907ce39abf4098702dade6365522a253ad1552e267a9a0e89594aa33</hash>
+      <hash type="sha-512">4d96b6c8a232203483d6e8bee81da01ba10977bfbac92f25304a36dec9ea584b7ef917bc45e097cc7dbe681d71a4570d649c22244c178393ae91fab48323f735</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJW1Zr6AAoJENnE0m0OYESRRpkH/0SkDJcp4rvICbxuaD9jyJCa
+UJLH3vSMfJ9QNMdIp8yemixGSvjr0mPhFOcZPysXRZo88IwuIV0+Q5I7hvCQ0PSt
+YH/HzBZO0eShhUyDxb397odbbhsAkZFJytT+EXdFqd0HJLtWuPxaBF0WPgkklOQC
+3R/sv+M8FAaZiIbdBwNv1FNgGG26T4up0RgV0ETpXXv9Da+AViGrefA5szKAj9aL
+SOCRuUnzQO7ohSh5AZvgHylh1m7CGpH4MIyoAtNFtyogukO3yS3CzZ1iFcjsdHDn
+sDIRZ18a5JOX/vWU0OmUXGhF7XXV93S1/1mKAAEXRJZOxzrneFuyv5b61t/xXCE=
+=/pDQ
+-----END PGP SIGNATURE-----]]></signature>
+      <size>5266102</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/36af23887402a5ea4ebef91df8e61654906f58f2</url>
+      <version>1.0.2g</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
       <path>v1.1.0a.meta4</path>
       <version>2017-04-15T09:52:17-07:00</version>
     </repository-reference>
@@ -249,33 +277,6 @@ no+VkssaY7385gKKCq6cc5zNqkbXh0H/AjFiVTJf7NyCs11rwWOZMY9QQy8snqo=
       <size>5179668</size>
       <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/920e6e7bdaccd94d7564af1097176f11900d20ca</url>
       <version>1.1.0c</version>
-    </file>
-  </metalink>
-  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
-    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
-      <path>v1.1.0d.meta4</path>
-      <version>2017-04-15T10:01:39-07:00</version>
-    </repository-reference>
-    <file name="openssl-1.1.0d.tar.gz">
-      <hash type="sha-256">7d5ebb9e89756545c156ff9c13cf2aa6214193b010a468a3bc789c3c28fe60df</hash>
-      <hash type="md5">711ce3cd5f53a99c0e12a7d5804f0f63</hash>
-      <hash type="sha-1">f423e9253ad8a8617fc9fb3562788a9fa066d46f</hash>
-      <hash type="sha-256">7d5ebb9e89756545c156ff9c13cf2aa6214193b010a468a3bc789c3c28fe60df</hash>
-      <hash type="sha-512">9f84b3a584df4058f70da6a6ee26a788cc321df218dcabc60ae82913b85af932ed6470e881cd369ead904e5cbc3e4bb0d44e4871b7ba687fe1dba027505363ed</hash>
-      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
-
-iQEcBAABCAAGBQJYifVEAAoJENnE0m0OYESR810IAIMBkstSRrKo1iTCvYgtj92t
-eEc0zq2cBQWo0N8qBGgs1sVdhUWZw6+Hl8sWrYh5jMmqTJnrDjPAIw2RmPLQXp6V
-clR2LkAMe85NVqWDB1b+A118rLm3+eusultawzRTh/f+PAZeBFEcpNnEpE0mwx81
-0i/aUZ2WwYPbCNQD/tcQwYHv1k/kd38VMWdN+9HQwRPgZyFX+zIR4oD/5BiXDlY2
-hDAk0FM96VA/Vl9xs611wSZbpMFYQFRB7Z8wSbPYU/ibnvM0AKv+mfvHMPssHdku
-TxU7TuRb2/k52baoc8Np9JFLmQCWjZNPZ7zB7EnoTB2qokboO/b1/KXClA0zzRY=
-=Zmm0
------END PGP SIGNATURE-----]]></signature>
-      <size>5201626</size>
-      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f423e9253ad8a8617fc9fb3562788a9fa066d46f</url>
-      <version>1.1.0d</version>
     </file>
   </metalink>
 </repository>
