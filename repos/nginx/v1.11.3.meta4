@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="nginx-1.11.3.tar.gz">
+    <hash type="md5">18275c1daa39c5fac12e56c34907d45b</hash>
+    <hash type="sha-1">dbccb96ac381118ae8d527947f03b93d5ec51017</hash>
+    <hash type="sha-256">4a667f40f9f3917069db1dea1f2d5baa612f1fa19378aadf71502e846a424610</hash>
+    <hash type="sha-512">b983aca61335facf5778675b80fc28341ec9cfee2190319ed130b9c5d5ceff8133677f4609ecafd5a782daa5962e41bb6cb6a857380bbbe9cee67cd0ab2026d4</hash>
+    <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAABCAAGBQJXl2zVAAoJEFIKmZOhwFL4L30IAMXQIwLWJU+rd8IGeclGDzzL
+FU0nD/LJs8mzMD+m+IjO4/tk3ADzkZHtjEWyb1tzi2GazhqsEnmoYfbthGT+jWDO
+xj/JhNBpllEKFeUXN8BiJ3NXoBtPzPEM7OOK5xIeZ1DQC2Ob/LwpiN9UwZUf6Jsn
+rpgSkiz2ZnSxxzH329rJSZCXI3RhGabBG0voN54z8ugWslvEm7Ud6fhQRQxh5xFi
+6Z22xTo184GUQktG5BSeDp1tKqww9P+os7m7FuhNnKl7ADDnAnI1s59tvUf1icCC
+ZpCRCONaXnWxlmrimA/6nJGIp6zARe6IDClb8PWloxef2SR72bQXH4Q9uUPoZMc=
+=kC5f
+-----END PGP SIGNATURE-----]]></signature>
+    <size>938045</size>
+    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/dbccb96ac381118ae8d527947f03b93d5ec51017</url>
+    <version>1.11.3</version>
+  </file>
+</metalink>
