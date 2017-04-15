@@ -13,10 +13,13 @@ if [ -z "${version:-}" ]; then
   )
 fi
 
+signature=$( wget -qO- "http://nginx.org/download/nginx-${version}.tar.gz.asc" )
+
 cat <<EOF
 <?xml version="1.0" encoding="utf-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="nginx-${version}.tar.gz">
+    <signature mediatype="application/pgp-signature">${signature}</signature>
     <url>https://nginx.org/download/nginx-${version}.tar.gz</url>
     <version>${version}</version>
   </file>

@@ -1,0 +1,18 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/.."
+cd "$DIR"
+
+cat > /tmp/ubr-import-key
+
+keyid=$(
+  gpg1 --dry-run --keyid-format 0xLONG --import /tmp/ubr-import-key 2>&1 \
+    | grep key \
+    | awk '{ print $3 }'
+)
+
+mkdir -p repos/$1/metalink.asc
+
+mv /tmp/ubr-import-key repos/$1/metalink.asc/$keyid.asc
