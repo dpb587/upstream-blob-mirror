@@ -20,6 +20,23 @@
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56</repository>
+      <path>v5.6.2.meta4</path>
+      <version>2017-04-14T20:19:33-07:00</version>
+    </repository-reference>
+    <file name="php-5.6.2.tar.gz">
+      <hash type="md5">f0b54371fae6d4b6b99fb3d360f086ac</hash>
+      <hash type="md5">f0b54371fae6d4b6b99fb3d360f086ac</hash>
+      <hash type="sha-1">4a1f11967bd0aa6a470914c030059a797719e09d</hash>
+      <hash type="sha-256">4bb316831979317caf738bb9e2c590bf3b7951ce60c69b9ca33f26069d9a2f39</hash>
+      <hash type="sha-512">a4d374fcf636deee32286715d88e5c0cb74dac9609c461cfa2de2f96d717a53ba540257aaab95ca1c54d43e33cb27856b8694a7368754bce1d681d6b73a7f415</hash>
+      <size>17500319</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/4a1f11967bd0aa6a470914c030059a797719e09d</url>
+      <version>5.6.2</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56</repository>
       <path>v5.6.1.meta4</path>
       <version>2017-04-14T20:14:29-07:00</version>
     </repository-reference>
