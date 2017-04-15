@@ -20,6 +20,23 @@
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56</repository>
+      <path>v5.6.16.meta4</path>
+      <version>2017-04-15T01:40:23-07:00</version>
+    </repository-reference>
+    <file name="php-5.6.16.tar.gz">
+      <hash type="md5">dc3c848000a80b805c1393abe39341fa</hash>
+      <hash type="md5">dc3c848000a80b805c1393abe39341fa</hash>
+      <hash type="sha-1">666ddf8b4d425b1f679138ac1262ad304e104add</hash>
+      <hash type="sha-256">b6618df6b11a275fa28596f1775727679f8492e100f3bd488d8a8bfbfc19349f</hash>
+      <hash type="sha-512">6481a56930a351dee42bd61ef2d905e621d3d8a01de5c83c6919cdd21f0a5d7da29d0edb14486e6cc6d738210fe7996e6d03391b2534c34c2a229600478156c4</hash>
+      <size>18319620</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/666ddf8b4d425b1f679138ac1262ad304e104add</url>
+      <version>5.6.16</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56</repository>
       <path>v5.6.15.meta4</path>
       <version>2017-04-15T01:29:16-07:00</version>
     </repository-reference>
@@ -151,23 +168,6 @@
       <size>17795907</size>
       <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/63f4a0ef50ed4036d8b0366bc20a6afaa540f666</url>
       <version>5.6.8</version>
-    </file>
-  </metalink>
-  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
-    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56</repository>
-      <path>v5.6.7.meta4</path>
-      <version>2017-04-14T21:15:18-07:00</version>
-    </repository-reference>
-    <file name="php-5.6.7.tar.gz">
-      <hash type="md5">92a7d40a5d42a24506f1cea2709f3633</hash>
-      <hash type="md5">92a7d40a5d42a24506f1cea2709f3633</hash>
-      <hash type="sha-1">e2225fe32290f1c80bf653ae8d52e2cd791318da</hash>
-      <hash type="sha-256">11398540a582c876f5e070207231afde975eb49bb2eeae20b052e8ca325c0f47</hash>
-      <hash type="sha-512">f8938e46fe2ba7f4a9500a4dd014f33a358b3efdb897ef1a07136bd0189dde4406685d12cd0a8e92aef6777d6cf27f715dc8b44d740bb68bcc7c24a3d9ae54e4</hash>
-      <size>17756830</size>
-      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/e2225fe32290f1c80bf653ae8d52e2cd791318da</url>
-      <version>5.6.7</version>
     </file>
   </metalink>
 </repository>
