@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="openssl-1.1.0b.tar.gz">
+    <hash type="sha-256">a45de072bf9be4dea437230aaf036000f0e68c6a665931c57e76b5b036cef6f7</hash>
+    <hash type="md5">77895d5d0fbccf3172ae5b9897a0dedc</hash>
+    <hash type="sha-1">cbf391d0d68a9f144c24c5c3c5028c07fa00264c</hash>
+    <hash type="sha-256">a45de072bf9be4dea437230aaf036000f0e68c6a665931c57e76b5b036cef6f7</hash>
+    <hash type="sha-512">b6d66261427f1acc049bf5469a0dc668490e752c2ba4802481809e7e35367213eca17ac9fdc3f23ed5f7a53d303abca78b13a48b169f154043199f2680ccf1a4</hash>
+    <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJX6O5iAAoJENnE0m0OYESRzccIAIGlLentz7up1mMuT1CmPs7Z
+szXX0JGtUCVCEhCN0kN79BxNoEdOgobn2hM77q3A8XCXj9XT+lVQiCRX4SCD0c3F
+OKSQbb2bnRptEX8RSwWvbTwGcaopcHnn3T/wR4Ktr3gL6kTr4alJFa/+dQOEJeHv
+t88HekUSMWSMXahsaa7qMRiyEl10N1GwE600fJcHJB1h0Srb5L7MH5cyMZcn5zHe
+rW6+mqEtgk5wJoK4MMY9xLnWUsXPHwHZEFJ5ui9aRTJ2DiE0FF7/3dbkYDcHvtpH
++i7NVXJtpMOxZO3WxNHPEDNoPYVtW03m1jj8la1sJBJwZWbiL4dYuqGWXXgEAXQ=
+=hFqE
+-----END PGP SIGNATURE-----]]></signature>
+    <size>5162355</size>
+    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/cbf391d0d68a9f144c24c5c3c5028c07fa00264c</url>
+    <version>1.1.0b</version>
+  </file>
+</metalink>
