@@ -3,6 +3,34 @@
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.0.2a.meta4</path>
+      <version>2017-04-15T10:15:18-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.0.2a.tar.gz">
+      <hash type="sha-1">46ecd325b8e587fa491f6bb02ad4a9fb9f382f5f</hash>
+      <hash type="md5">a06c547dac9044161a477211049f60ef</hash>
+      <hash type="sha-1">46ecd325b8e587fa491f6bb02ad4a9fb9f382f5f</hash>
+      <hash type="sha-256">15b6393c20030aab02c8e2fe0243cb1d1d18062f6c095d67bca91871dc7f324a</hash>
+      <hash type="sha-512">02d228578824add52b73433d64697706e6503c2334933fe8dd6b477f59c430977012c3c34da207096229a425e1dcb6f3ae806043894b5ac98c27bbcddb794dd4</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJVCs+pAAoJENnE0m0OYESRFCAH+gLn6G4l1HY1R6agC3WYf8Xj
+iTUFCJnwHN1jSgF9edLxASDS5DJ9kstEu1xyswdJT4jumFusxgnrDkqorN0K50Xe
+PlflZyRdr8Fkg9M3pYkRZ7hxvZszmdx53hnuYTZ5m4C/8EUd12icAHhho8M0ks+E
+rT1VfVKfX7iD9MIgLJ+9ZVGWUdUH/1RsQPPEWPWed5TCQUmilvm6Ygz2LsTKYQSQ
+TOvhCMCnWl6gVrc3o0AlrgHRL01dq6kMwNSnvC09Iby/C3N+b7VbOG3sZU/xTO/M
+YhqFJOjGYk5W1SFJ4PNpM504sPo2N6uJ8pCgSa3chcqfvzSjFgKzAqI9CHv8BD4=
+=mSK1
+-----END PGP SIGNATURE-----]]></signature>
+      <size>5262089</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/46ecd325b8e587fa491f6bb02ad4a9fb9f382f5f</url>
+      <version>1.0.2a</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
       <path>v1.1.0a.meta4</path>
       <version>2017-04-15T09:52:17-07:00</version>
     </repository-reference>
