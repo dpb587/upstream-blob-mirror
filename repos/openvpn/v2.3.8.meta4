@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="openvpn-2.3.8.tar.gz">
+    <hash type="md5">51d996f1f1fc30f501ae251a254effeb</hash>
+    <hash type="sha-1">29698c4e10dfe0f73d39b5f65b96cd66340d828d</hash>
+    <hash type="sha-256">532435eff61c14b44a583f27b72f93e7864e96c95fe51134ec0ad4b1b1107c51</hash>
+    <hash type="sha-512">b619283d87eea2e47a2f0dfdbf0ffd1d10388fbdaadb33b43c7a2743748a4814f869fad6215d32fab156664d554ae94af456e7bf496890c68e6729b153d76db9</hash>
+    <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iEYEABECAAYFAlXA9x0ACgkQwp2X7RmNIqOi7wCfTR3IkWcWiiqmnTXwLxc2R1wa
+l4UAnjxpKS6xiaTSBcTwkYNcbqfStIPg
+=S4Rx
+-----END PGP SIGNATURE-----]]></signature>
+    <size>1214843</size>
+    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/29698c4e10dfe0f73d39b5f65b96cd66340d828d</url>
+    <version>2.3.8</version>
+  </file>
+</metalink>
