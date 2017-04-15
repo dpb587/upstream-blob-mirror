@@ -227,6 +227,34 @@ wFOcJhcGUqKSxlHqukAusxeZLuXMzw7UmucLCDxW9ETB644KlZ3/8E4CkOlLNIM=
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.0.2i.meta4</path>
+      <version>2017-04-15T10:34:56-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.0.2i.tar.gz">
+      <hash type="sha-256">9287487d11c9545b6efb287cdb70535d4e9b284dd10d51441d9b9963d000de6f</hash>
+      <hash type="md5">678374e63f8df456a697d3e5e5a931fb</hash>
+      <hash type="sha-1">25a92574ebad029dcf2fa26c02e10400a0882111</hash>
+      <hash type="sha-256">9287487d11c9545b6efb287cdb70535d4e9b284dd10d51441d9b9963d000de6f</hash>
+      <hash type="sha-512">41764debd5d64e4e770945f30d682e2c887d9cefb39b358c5c7f9d2cdce34393ed28d49b24e95c4639db2df01c278cbcde71bed2b03f9aafafc76766b03850e3</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJX47F5AAoJENnE0m0OYESRw9EIAIrsnAEo5U5XcfpSWVkHLIF4
+HEPpuSsKhFl8Ccy3lSEaewb2eMngN/nuE4FBgXxJgthXwmpu+LCLyZN9JYHXMSjq
+qOn/cGROPOLREWY0vEXUtZYiigB8Hbi2SCrozpI9XSHkjDKeiR9PwGb1qbcnm8Sv
+YJ1r/nwAZcThI9kwPOsM6ZLuoqVH7uSNPmDAUSCngd3KFTEj1o6S+A7oqoKfundq
+ISESk2xup2unCjZQYQM0vsxuEmC+7fia+iHLZuLsrXsxyUSYNETjgY5ZwuRysV+Q
+B9p33iY66PL90lRPcYnPT6nEGf+ZHhDnesbX2NE/Ug458/cvroRWWhbYEMUm5xo=
+=Ho4k
+-----END PGP SIGNATURE-----]]></signature>
+      <size>5308232</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/25a92574ebad029dcf2fa26c02e10400a0882111</url>
+      <version>1.0.2i</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
       <path>v1.1.0a.meta4</path>
       <version>2017-04-15T09:52:17-07:00</version>
     </repository-reference>
@@ -250,34 +278,6 @@ l6O9LxbG7RmeeYBKUvkamzoXZiTljOR/A0ggEl8pL/w/47GYGSY9IgpA2k9+tV4=
       <size>5161414</size>
       <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/335d7168b612efd3cf16f621b09d4cd5af4232a6</url>
       <version>1.1.0a</version>
-    </file>
-  </metalink>
-  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
-    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
-      <path>v1.1.0b.meta4</path>
-      <version>2017-04-15T09:56:12-07:00</version>
-    </repository-reference>
-    <file name="openssl-1.1.0b.tar.gz">
-      <hash type="sha-256">a45de072bf9be4dea437230aaf036000f0e68c6a665931c57e76b5b036cef6f7</hash>
-      <hash type="md5">77895d5d0fbccf3172ae5b9897a0dedc</hash>
-      <hash type="sha-1">cbf391d0d68a9f144c24c5c3c5028c07fa00264c</hash>
-      <hash type="sha-256">a45de072bf9be4dea437230aaf036000f0e68c6a665931c57e76b5b036cef6f7</hash>
-      <hash type="sha-512">b6d66261427f1acc049bf5469a0dc668490e752c2ba4802481809e7e35367213eca17ac9fdc3f23ed5f7a53d303abca78b13a48b169f154043199f2680ccf1a4</hash>
-      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1
-
-iQEcBAABAgAGBQJX6O5iAAoJENnE0m0OYESRzccIAIGlLentz7up1mMuT1CmPs7Z
-szXX0JGtUCVCEhCN0kN79BxNoEdOgobn2hM77q3A8XCXj9XT+lVQiCRX4SCD0c3F
-OKSQbb2bnRptEX8RSwWvbTwGcaopcHnn3T/wR4Ktr3gL6kTr4alJFa/+dQOEJeHv
-t88HekUSMWSMXahsaa7qMRiyEl10N1GwE600fJcHJB1h0Srb5L7MH5cyMZcn5zHe
-rW6+mqEtgk5wJoK4MMY9xLnWUsXPHwHZEFJ5ui9aRTJ2DiE0FF7/3dbkYDcHvtpH
-+i7NVXJtpMOxZO3WxNHPEDNoPYVtW03m1jj8la1sJBJwZWbiL4dYuqGWXXgEAXQ=
-=hFqE
------END PGP SIGNATURE-----]]></signature>
-      <size>5162355</size>
-      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/cbf391d0d68a9f144c24c5c3c5028c07fa00264c</url>
-      <version>1.1.0b</version>
     </file>
   </metalink>
 </repository>
