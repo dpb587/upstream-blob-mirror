@@ -59,6 +59,34 @@ SE2eudvw/zr8xBC0nGQ3GsBM7gmfmLAtIKwWBCZ6Lq4P+qd4PMaGIb4dNRZyxrI=
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.0.2c.meta4</path>
+      <version>2017-04-15T10:20:37-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.0.2c.tar.gz">
+      <hash type="sha-1">6e4a5e91159eb32383296c7c83ac0e59b83a0a44</hash>
+      <hash type="md5">8c8d81a9ae7005276e486702edbcd4b6</hash>
+      <hash type="sha-1">6e4a5e91159eb32383296c7c83ac0e59b83a0a44</hash>
+      <hash type="sha-256">0038ba37f35a6367c58f17a7a7f687953ef8ce4f9684bbdec63e62515ed36a83</hash>
+      <hash type="sha-512">2a68e8b017d0d3e34e4f9d33b77abd960b3d04e418f106e852684a2ff247dc8ea390b7d6a42d130fd84d821a15e84e77b68b3677433433ef5c10d156333b9dae</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJVevZ0AAoJENnE0m0OYESRvXIIAKpCfBHUd7YYf6wLKBAKYHOm
+xFKSyc9uW9GGST4rJG9T68FNzmsVKv2RZ7n4QV1BYimrIv9MZ++PmITHY9GbfsyU
+ZZ88GmI81uhNQKV2KXvjb3rbXD8Ty8GMcWr7VyvVo/uLEUpW1VJe8rZaNlmpike/
+lg+4Z/9wRMEx7g1MRS3LDVTrUnSjJJs2vnAgXIktATc3EGY3PHZDbzC837JFJTwV
+qAZ2okW/QfyPsfpLEiS5PpPoTDjMKL6rooJh4frE/CgxTj851Ab5AhTqQwIqghCB
++/gQNiIFqvF0+7153bgKh45LIwfU09cl4ppkOJWxUJX4jlOKCaI8IF0rev0tUqg=
+=I4uu
+-----END PGP SIGNATURE-----]]></signature>
+      <size>5280670</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/6e4a5e91159eb32383296c7c83ac0e59b83a0a44</url>
+      <version>1.0.2c</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
       <path>v1.1.0a.meta4</path>
       <version>2017-04-15T09:52:17-07:00</version>
     </repository-reference>
