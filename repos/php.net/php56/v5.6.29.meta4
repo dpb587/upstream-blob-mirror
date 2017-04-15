@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="php-5.6.29.tar.gz">
+    <hash type="md5">826ae90570ad480ee4541d6a320b406a</hash>
+    <hash type="md5">826ae90570ad480ee4541d6a320b406a</hash>
+    <hash type="sha-1">f5e45a16e4edb8e4acde9892923a85ba4fb20628</hash>
+    <hash type="sha-256">0b1b939129a7286c5a474ac2cf845b979477f26dff36639e04022def9e252574</hash>
+    <hash type="sha-512">0ccc2d35037c3385db69e57e0893a7351bc068d84ceb91cd5a1757a20b0fd843b6baf2ab0caa489c014b0441d3411fd38b078494960a539e1f0a52023ee63675</hash>
+    <size>19268105</size>
+    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f5e45a16e4edb8e4acde9892923a85ba4fb20628</url>
+    <version>5.6.29</version>
+  </file>
+</metalink>
