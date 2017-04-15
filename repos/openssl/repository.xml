@@ -115,6 +115,34 @@ uKYp7jxV0tdzZeQcuPIOxq74yGQuYTell+hHXKdlmYPrH8LL27ZUpVmGuCUrHBku
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.0.2e.meta4</path>
+      <version>2017-04-15T10:25:29-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.0.2e.tar.gz">
+      <hash type="sha-256">e23ccafdb75cfcde782da0151731aa2185195ac745eea3846133f2e05c0e0bff</hash>
+      <hash type="md5">5262bfa25b60ed9de9f28d5d52d77fc5</hash>
+      <hash type="sha-1">2c5691496761cb18f98476eefa4d35c835448fb6</hash>
+      <hash type="sha-256">e23ccafdb75cfcde782da0151731aa2185195ac745eea3846133f2e05c0e0bff</hash>
+      <hash type="sha-512">b73f114a117ccab284cf5891dac050e3016d28e0b1fc71639442cdb42accef676115af90a12deff4bcc1f599cc0cbdeb38142cbf4570bd7d03634786ad32c95f</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJWYIyiAAoJENnE0m0OYESRdSwIAIlfOOvtTaKbsY1gDhM8LaAM
+gC2HYR18ipcz0ZdZzNch/mGy8gpVNmBWDhWzTd5Yz0AHRFX0fpOX7QZXHozV/QaB
+2LmQ9N1QbztqSq0MW+2VCX31BR79wWYHVQF4A9QT7MOwCSA3RhGfEiZiIHNNloRa
+j55Dpe0CMVdpdQc2WxlUC1A8O837bwr6ruPxctneJAvHK/XyeS/ta7a4eI8UQxMS
+zkBNlsuiWQRzlAqMyiAkqu9NBkuLdBhP5Gkh2D8XP/yt1KwECFJiyAc0PFXTMILi
+cNG5KdPe3tN3xCgR38k4/DKRNi4F1IVoe5YE7sk7U2wmG4dc5Z/9zGCTx+2atc0=
+=PIJl
+-----END PGP SIGNATURE-----]]></signature>
+      <size>5256555</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2c5691496761cb18f98476eefa4d35c835448fb6</url>
+      <version>1.0.2e</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
       <path>v1.1.0a.meta4</path>
       <version>2017-04-15T09:52:17-07:00</version>
     </repository-reference>
