@@ -280,4 +280,158 @@ yoyIzj1a/h8M/PJGzADgpxZAdE2cpZAlQAhZdQutst0GRma6i36HGzq4IUDwbCc=
       <version>1.0.2j</version>
     </file>
   </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.0.2k.meta4</path>
+      <version>2017-04-15T10:40:32-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.0.2k.tar.gz">
+      <hash type="sha-256">6b3977c61f2aedf0f96367dcfb5c6e578cf37e7b8d913b4ecb6643c3cb88d8c0</hash>
+      <hash type="md5">f965fc0bf01bf882b31314b61391ae65</hash>
+      <hash type="sha-1">5f26a624479c51847ebd2f22bb9f84b3b44dcb44</hash>
+      <hash type="sha-256">6b3977c61f2aedf0f96367dcfb5c6e578cf37e7b8d913b4ecb6643c3cb88d8c0</hash>
+      <hash type="sha-512">0d314b42352f4b1df2c40ca1094abc7e9ad684c5c35ea997efdd58204c70f22a1abcb17291820f0fff3769620a4e06906034203d31eb1a4d540df3e0db294016</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+
+iQEcBAABCAAGBQJYifggAAoJENnE0m0OYESRTAIH/RsiR+7jvmA8AZJppQZOpVgX
+8N5CZNBEaRTuKcRNmQX1oHk5Ms2g4MM4TmNDOFF7+ZtByoeyv2NWnLWJmBsSxuQU
+ZEbeXFIgkBnvD5qOBdi84udw0/HOP5P3GcxAOC8QE1Av7pTwAdKToheqixuE5D8+
+9zzw4VgXCa5L18JDf3XdkTDUUUQitz1o2ck8BVIGyhxgIUDJXEF8t29yTGYWF/YV
+b45G1igbJlZtoR4IA1pSR3hrDjJaNQtCpkxK+DKoLTm+Z9RMTe40Q8W7dBn1iwUm
+N/m9CUovBoqIv1nrSJeFNXuIuuHYt/1gflJBiem7QC9fNtdZuGlKXBq5bcL1qV8=
+=uQ9m
+-----END PGP SIGNATURE-----]]></signature>
+      <size>5309236</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/5f26a624479c51847ebd2f22bb9f84b3b44dcb44</url>
+      <version>1.0.2k</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.1.0a.meta4</path>
+      <version>2017-04-15T09:52:17-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.1.0a.tar.gz">
+      <hash type="sha-256">c2e696e34296cde2c9ec5dcdad9e4f042cd703932591d395c389de488302442b</hash>
+      <hash type="md5">38a0bf2883ab4951acb15b1886b7f5aa</hash>
+      <hash type="sha-1">335d7168b612efd3cf16f621b09d4cd5af4232a6</hash>
+      <hash type="sha-256">c2e696e34296cde2c9ec5dcdad9e4f042cd703932591d395c389de488302442b</hash>
+      <hash type="sha-512">80d6cf795decc923b0ea6a005805993d2a4133a1d41f0208982f4b147471e24782227c77611cc4c6d1e61849ce66c57987ea7a26ea66cd0b0adc66c200b96c21</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJX468gAAoJENnE0m0OYESRPaoH/0A7YB1vJv2ApH3RqEJTqFFT
+JsFratChKb1OZ/+TXxmqHbkBkt10IAlYhRgIbSVUPDq9GjPSqIMLf6DwLmeUdtqo
+O6fAMGsq7mNfwxmF1EY3TeyDq6+WUSx+YrBDuwm17+Y4NBorYW+ynzFmmHDOxN78
+IxCyppVI8EXyCezTNorFXHnRvgPOK57DYKA1BT8YpQMtL2V9xw/PYgQb+wX55old
+o3VOGHAfkZvHj5U8+KKTjM2rpcxHbPbe5k7w9ckSzxbJzIPqm0m6m4PQmbFmO4NL
+l6O9LxbG7RmeeYBKUvkamzoXZiTljOR/A0ggEl8pL/w/47GYGSY9IgpA2k9+tV4=
+=icmS
+-----END PGP SIGNATURE-----]]></signature>
+      <size>5161414</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/335d7168b612efd3cf16f621b09d4cd5af4232a6</url>
+      <version>1.1.0a</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.1.0b.meta4</path>
+      <version>2017-04-15T09:56:12-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.1.0b.tar.gz">
+      <hash type="sha-256">a45de072bf9be4dea437230aaf036000f0e68c6a665931c57e76b5b036cef6f7</hash>
+      <hash type="md5">77895d5d0fbccf3172ae5b9897a0dedc</hash>
+      <hash type="sha-1">cbf391d0d68a9f144c24c5c3c5028c07fa00264c</hash>
+      <hash type="sha-256">a45de072bf9be4dea437230aaf036000f0e68c6a665931c57e76b5b036cef6f7</hash>
+      <hash type="sha-512">b6d66261427f1acc049bf5469a0dc668490e752c2ba4802481809e7e35367213eca17ac9fdc3f23ed5f7a53d303abca78b13a48b169f154043199f2680ccf1a4</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJX6O5iAAoJENnE0m0OYESRzccIAIGlLentz7up1mMuT1CmPs7Z
+szXX0JGtUCVCEhCN0kN79BxNoEdOgobn2hM77q3A8XCXj9XT+lVQiCRX4SCD0c3F
+OKSQbb2bnRptEX8RSwWvbTwGcaopcHnn3T/wR4Ktr3gL6kTr4alJFa/+dQOEJeHv
+t88HekUSMWSMXahsaa7qMRiyEl10N1GwE600fJcHJB1h0Srb5L7MH5cyMZcn5zHe
+rW6+mqEtgk5wJoK4MMY9xLnWUsXPHwHZEFJ5ui9aRTJ2DiE0FF7/3dbkYDcHvtpH
++i7NVXJtpMOxZO3WxNHPEDNoPYVtW03m1jj8la1sJBJwZWbiL4dYuqGWXXgEAXQ=
+=hFqE
+-----END PGP SIGNATURE-----]]></signature>
+      <size>5162355</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/cbf391d0d68a9f144c24c5c3c5028c07fa00264c</url>
+      <version>1.1.0b</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.1.0c.meta4</path>
+      <version>2017-04-15T09:58:53-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.1.0c.tar.gz">
+      <hash type="sha-256">fc436441a2e05752d31b4e46115eb89709a28aef96d4fe786abe92409b2fd6f5</hash>
+      <hash type="md5">601e8191f72b18192a937ecf1a800f3f</hash>
+      <hash type="sha-1">920e6e7bdaccd94d7564af1097176f11900d20ca</hash>
+      <hash type="sha-256">fc436441a2e05752d31b4e46115eb89709a28aef96d4fe786abe92409b2fd6f5</hash>
+      <hash type="sha-512">e3cfba6c682e5edd6f678df7c1da9c9713880f7dca248e6d62f095185c22ce8fd7571d53a54a119fb5d4422578637746ad2809bb2ba324a5c54564f532307ad9</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+
+iQEcBAABCAAGBQJYJH5FAAoJENnE0m0OYESRMI0IAKQwVl/DLAnuWG8+EcI3kfaJ
+EXaGJuTrloRrWFgwCkDbDSXAV5yU4vSC3Mu9RnSAMkX+XKIj9sj4/p14WIvF/2+t
+5GhBVxusd5nJY3lYMhZzlraPQamnjBMJK4yMU4ivOAr8eigXedxhRmezfXqtxfIg
+iuslGDE7rLNHdrVLmxj1hiWIjvDlxNc/pPWQTXxFDk6mwS6k71OPE83lmAC9Pepu
+j8H3cpSMlO/0FSem2DLrZtRQQ6cbHpzNLZdji+vYaWfz2NBdX5GUOpuyllbVRKyk
+no+VkssaY7385gKKCq6cc5zNqkbXh0H/AjFiVTJf7NyCs11rwWOZMY9QQy8snqo=
+=MJ6h
+-----END PGP SIGNATURE-----]]></signature>
+      <size>5179668</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/920e6e7bdaccd94d7564af1097176f11900d20ca</url>
+      <version>1.1.0c</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.1.0d.meta4</path>
+      <version>2017-04-15T10:01:39-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.1.0d.tar.gz">
+      <hash type="sha-256">7d5ebb9e89756545c156ff9c13cf2aa6214193b010a468a3bc789c3c28fe60df</hash>
+      <hash type="md5">711ce3cd5f53a99c0e12a7d5804f0f63</hash>
+      <hash type="sha-1">f423e9253ad8a8617fc9fb3562788a9fa066d46f</hash>
+      <hash type="sha-256">7d5ebb9e89756545c156ff9c13cf2aa6214193b010a468a3bc789c3c28fe60df</hash>
+      <hash type="sha-512">9f84b3a584df4058f70da6a6ee26a788cc321df218dcabc60ae82913b85af932ed6470e881cd369ead904e5cbc3e4bb0d44e4871b7ba687fe1dba027505363ed</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+
+iQEcBAABCAAGBQJYifVEAAoJENnE0m0OYESR810IAIMBkstSRrKo1iTCvYgtj92t
+eEc0zq2cBQWo0N8qBGgs1sVdhUWZw6+Hl8sWrYh5jMmqTJnrDjPAIw2RmPLQXp6V
+clR2LkAMe85NVqWDB1b+A118rLm3+eusultawzRTh/f+PAZeBFEcpNnEpE0mwx81
+0i/aUZ2WwYPbCNQD/tcQwYHv1k/kd38VMWdN+9HQwRPgZyFX+zIR4oD/5BiXDlY2
+hDAk0FM96VA/Vl9xs611wSZbpMFYQFRB7Z8wSbPYU/ibnvM0AKv+mfvHMPssHdku
+TxU7TuRb2/k52baoc8Np9JFLmQCWjZNPZ7zB7EnoTB2qokboO/b1/KXClA0zzRY=
+=Zmm0
+-----END PGP SIGNATURE-----]]></signature>
+      <size>5201626</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f423e9253ad8a8617fc9fb3562788a9fa066d46f</url>
+      <version>1.1.0d</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <path>v1.1.0e.meta4</path>
+      <version>2017-04-12T18:32:31-07:00</version>
+    </repository-reference>
+    <file name="openssl-1.1.0e.tar.gz">
+      <hash type="sha-256">57be8618979d80c910728cfc99369bf97b2a1abd8f366ab6ebdee8975ad3874c</hash>
+      <hash type="md5">51c42d152122e474754aea96f66928c6</hash>
+      <hash type="sha-1">8bbbaf36feffadd3cb9110912a8192e665ebca4b</hash>
+      <hash type="sha-256">57be8618979d80c910728cfc99369bf97b2a1abd8f366ab6ebdee8975ad3874c</hash>
+      <hash type="sha-512">4b75e925323703d4a31ade90ea687e027742b7bf4f0f6cb4476e7bb9e31dcaf60eb40d925bc768ff1c28ffa71b8f9639dd83662d49ad80100a388947e75647a0</hash>
+      <size>5202247</size>
+      <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/8bbbaf36feffadd3cb9110912a8192e665ebca4b</url>
+      <version>1.1.0e</version>
+    </file>
+  </metalink>
 </repository>

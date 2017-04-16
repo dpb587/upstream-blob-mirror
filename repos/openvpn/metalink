@@ -16,6 +16,9 @@ if [ -z "${version:-}" ]; then
   )
 fi
 
+url=https://swupdate.openvpn.org/community/releases/openvpn-${version}.tar.gz
+size=$( curl -sI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
+
 signature=$( wget -qO- "https://swupdate.openvpn.org/community/releases/openvpn-${version}.tar.gz.asc" )
 
 cat <<EOF
@@ -23,7 +26,8 @@ cat <<EOF
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="openvpn-${version}.tar.gz">
     <signature mediatype="application/pgp-signature">${signature}</signature>
-    <url priority="1000">https://swupdate.openvpn.org/community/releases/openvpn-${version}.tar.gz</url>
+    <size>${size}</size>
+    <url priority="1000">${url}</url>
     <version>${version}</version>
   </file>
 </metalink>

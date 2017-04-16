@@ -17,6 +17,9 @@ fi
 
 underversion=$( echo "$version" | tr . _ )
 
+url=http://download.icu-project.org/files/icu4c/${version}/icu4c-${underversion}-src.tgz
+size=$( curl -sI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
+
 md5=$(
   wget -qO- "https://ssl.icu-project.org/files/icu4c/${version}/icu4c-src-${underversion}.md5" \
     | grep "icu4c-${underversion}-src.tgz" \
@@ -28,7 +31,8 @@ cat <<EOF
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="icu4c-${underversion}-src.tgz">
     <hash type="md5">${md5}</hash>
-    <url priority="1000">https://downloads.sourceforge.net/project/icu/ICU4C/${version}/icu4c-${underversion}-src.tgz</url>
+    <size>${size}</size>
+    <url priority="1000">${url}</url>
     <version>${version}</version>
   </file>
 </metalink>

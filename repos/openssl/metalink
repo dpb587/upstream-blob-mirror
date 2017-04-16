@@ -16,6 +16,9 @@ if [ -z "${version:-}" ]; then
   )
 fi
 
+url=https://www.openssl.org/source/openssl-${version}.tar.gz
+size=$( curl -sI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
+
 sha1=$( wget -qO- "https://www.openssl.org/source/openssl-${version}.tar.gz.sha1" || true )
 sha256=$( wget -qO- "https://www.openssl.org/source/openssl-${version}.tar.gz.sha256" || true )
 signature=$( wget -qO- "https://www.openssl.org/source/openssl-${version}.tar.gz.asc" )
@@ -34,7 +37,8 @@ cat <<EOF
   <file name="openssl-${version}.tar.gz">
     <hash type="${hash_type}">${hash_value}</hash>
     <signature mediatype="application/pgp-signature">${signature}</signature>
-    <url priority="1000">https://www.openssl.org/source/openssl-${version}.tar.gz</url>
+    <size>${size}</size>
+    <url priority="1000">${url}</url>
     <version>${version}</version>
   </file>
 </metalink>
