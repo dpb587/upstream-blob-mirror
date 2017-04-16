@@ -15,7 +15,7 @@ cat <<EOF
 <?xml version="1.0" encoding="utf-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="${plugin}.${version}.zip">
-    <url>http://downloads.wordpress.org/plugin/${plugin}.${version}.zip</url>
+    <url priority="1000">http://downloads.wordpress.org/plugin/${plugin}.${version}.zip</url>
     <version>${version}</version>
   </file>
 </metalink>

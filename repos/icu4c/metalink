@@ -28,7 +28,7 @@ cat <<EOF
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="icu4c-${underversion}-src.tgz">
     <hash type="md5">${md5}</hash>
-    <url>https://downloads.sourceforge.net/project/icu/ICU4C/${version}/icu4c-${underversion}-src.tgz</url>
+    <url priority="1000">https://downloads.sourceforge.net/project/icu/ICU4C/${version}/icu4c-${underversion}-src.tgz</url>
     <version>${version}</version>
   </file>
 </metalink>

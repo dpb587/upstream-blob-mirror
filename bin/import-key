@@ -10,7 +10,8 @@ cat > /tmp/ubr-import-key
 keyid=$(
   gpg1 --dry-run --keyid-format 0xLONG --import /tmp/ubr-import-key 2>&1 \
     | grep key \
-    | awk '{ print $3 }'
+    | awk '{ print $3 }' \
+    | tr -d ':'
 )
 
 mkdir -p repos/$1/metalink.asc

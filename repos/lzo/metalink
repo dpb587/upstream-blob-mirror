@@ -24,7 +24,7 @@ cat <<EOF
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="lzo-${version}.tar.gz">
     <hash type="sha-1">${sha1}</hash>
-    <url>https://www.oberhumer.com/opensource/lzo/download/lzo-${version}.tar.gz</url>
+    <url priority="1000">https://www.oberhumer.com/opensource/lzo/download/lzo-${version}.tar.gz</url>
     <version>${version}</version>
   </file>
 </metalink>

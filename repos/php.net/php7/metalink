@@ -27,7 +27,7 @@ cat <<EOF
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="php-${version}.tar.gz">
     <hash type="${hash_type}">${hash_value}</hash>
-    <url>http://us1.php.net/distributions/php-${version}.tar.gz</url>
+    <url priority="1000">http://us1.php.net/distributions/php-${version}.tar.gz</url>
     <version>${version}</version>
   </file>
 </metalink>

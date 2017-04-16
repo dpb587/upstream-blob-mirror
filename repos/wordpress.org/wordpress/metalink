@@ -20,7 +20,7 @@ cat <<EOF
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="wordpress-${version}.tar.gz">
     <hash type="sha-1">${sha1}</hash>
-    <url>https://downloads.wordpress.org/release/wordpress-${version}.tar.gz</url>
+    <url priority="1000">https://downloads.wordpress.org/release/wordpress-${version}.tar.gz</url>
     <version>${version}</version>
   </file>
 </metalink>

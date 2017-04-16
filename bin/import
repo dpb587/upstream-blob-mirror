@@ -40,14 +40,14 @@ fi
 meta4 file-download --signature-trust-store=/tmp/ubr-import/trust.gpg $arg "$( meta4 files )"
 
 # remove the original url
-meta4 file-remove-url "$( meta4 file-urls )"
+# meta4 file-remove-url "$( meta4 file-urls )"
 
 # import more details
 meta4 import-file --merge "$filename"
 
 # upload
 sha1=$( meta4 file-hash sha-1 )
-meta4 file-upload "$filename" "$origin$sha1"
+meta4 file-upload --location=us --priority=100 "$filename" "$origin$sha1"
 
 cp metalink.meta4 "$repository_dir/$metalink"
 
