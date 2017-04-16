@@ -1,0 +1,209 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php7",
+        "path": "v7.1.4.meta4",
+        "version": "2017-04-13T22:09:24-07:00"
+      },
+      "file": [
+        {
+          "name": "php-7.1.4.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "ed0006c86de503684dde04c6dd811ea2354a3b6d10ebd9f0cb103dcd28f0e70f"
+            },
+            {
+              "type": "md5",
+              "hash": "47e7d116553a879ff957ef2684987c23"
+            },
+            {
+              "type": "sha-1",
+              "hash": "ff9ded1b6672ffd48e71f1ac53aa3d65ba3ded22"
+            },
+            {
+              "type": "sha-256",
+              "hash": "ed0006c86de503684dde04c6dd811ea2354a3b6d10ebd9f0cb103dcd28f0e70f"
+            },
+            {
+              "type": "sha-512",
+              "hash": "3fc16c08aaf46bc498fbb187255534ff4fd5d5c28902d99e1fe1af9ad3fb99b550186c7f1ab927c05f3ce7c6884959029fb1ffb158d4e3153703d9d145016046"
+            }
+          ],
+          "size": 20319716,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/ff9ded1b6672ffd48e71f1ac53aa3d65ba3ded22"
+            }
+          ],
+          "version": "7.1.4"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php7",
+        "path": "v7.1.3.meta4",
+        "version": "2017-04-12T18:34:00-07:00"
+      },
+      "file": [
+        {
+          "name": "php-7.1.3.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "4bfadd0012b966eced448497272150ffeede13136a961aacb9e71553b8e929ec"
+            },
+            {
+              "type": "md5",
+              "hash": "d3294c06b207ee23126210f8276032bb"
+            },
+            {
+              "type": "sha-1",
+              "hash": "55366f0d7fa257e3e9a6c72deb38cbeb622bb9f3"
+            },
+            {
+              "type": "sha-256",
+              "hash": "4bfadd0012b966eced448497272150ffeede13136a961aacb9e71553b8e929ec"
+            },
+            {
+              "type": "sha-512",
+              "hash": "dfcea693bd2f8a6dd2e88c7eb4ae91b7f4ef03c53bfe59b46b829c6c6cf9361c30a5c65c5b92a20b9b4b0ab88aa98590efb9c3c8cbbd07018b22fc58af638214"
+            }
+          ],
+          "size": 20312185,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/55366f0d7fa257e3e9a6c72deb38cbeb622bb9f3"
+            }
+          ],
+          "version": "7.1.3"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php7",
+        "path": "v7.1.2.meta4",
+        "version": "2017-04-15T09:42:09-07:00"
+      },
+      "file": [
+        {
+          "name": "php-7.1.2.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "e6773217c9c719ca22abb104ae3d437d53daceaf31faf2e5eeb1f9f5028005d8"
+            },
+            {
+              "type": "md5",
+              "hash": "2d1553f3f912b1cb7b9a5ee63230454d"
+            },
+            {
+              "type": "sha-1",
+              "hash": "62d73f3ad26eadd9b13a1372d17fb19856fe8cdf"
+            },
+            {
+              "type": "sha-256",
+              "hash": "e6773217c9c719ca22abb104ae3d437d53daceaf31faf2e5eeb1f9f5028005d8"
+            },
+            {
+              "type": "sha-512",
+              "hash": "c203ce6d8cfa272dee1f298286c01867c5f22577073dc363d450f5341bd4e1a4de3d58e396ac6314fbfd131196f9a074ce8ea78de844bdf0c8f74bf27a938da9"
+            }
+          ],
+          "size": 20301212,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/62d73f3ad26eadd9b13a1372d17fb19856fe8cdf"
+            }
+          ],
+          "version": "7.1.2"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php7",
+        "path": "v7.1.1.meta4",
+        "version": "2017-04-15T09:31:35-07:00"
+      },
+      "file": [
+        {
+          "name": "php-7.1.1.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "c136279d539c3c2c25176bf149c14913670e79bb27ee6b73e1cd69003985a70d"
+            },
+            {
+              "type": "md5",
+              "hash": "7c565ddf31d69dbc19027e51b6968b79"
+            },
+            {
+              "type": "sha-1",
+              "hash": "ecf6e183ce037d3fbbf92ac73af4e6a00db21b00"
+            },
+            {
+              "type": "sha-256",
+              "hash": "c136279d539c3c2c25176bf149c14913670e79bb27ee6b73e1cd69003985a70d"
+            },
+            {
+              "type": "sha-512",
+              "hash": "1d7ff13f71b55b4638b60a039f8281c3b7806800b042f4c04196ace1161354c73388814f2ad6981a8cd8f84dc16c302a5b60fdc24a4e3b55173cf5ad3498d9ca"
+            }
+          ],
+          "size": 20275110,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/ecf6e183ce037d3fbbf92ac73af4e6a00db21b00"
+            }
+          ],
+          "version": "7.1.1"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php7",
+        "path": "v7.1.0.meta4",
+        "version": "2017-04-15T09:22:45-07:00"
+      },
+      "file": [
+        {
+          "name": "php-7.1.0.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "9e84c5b13005c56374730edf534fe216f6a2e63792a9703d4b894e770bbccbae"
+            },
+            {
+              "type": "md5",
+              "hash": "ec2218f97b4edbc35a2d7919ff37a662"
+            },
+            {
+              "type": "sha-1",
+              "hash": "3de1f1998317becde6feb90fe811af7dc78bbde1"
+            },
+            {
+              "type": "sha-256",
+              "hash": "9e84c5b13005c56374730edf534fe216f6a2e63792a9703d4b894e770bbccbae"
+            },
+            {
+              "type": "sha-512",
+              "hash": "2a8ad9d8171e670516c9f9a196744fd8d739228bfe9fa5e395faf7de2640a9a1967130f346f6bdbda5a2104fc401c70fae8d3a8742d216941e8131b65cb4b9c4"
+            }
+          ],
+          "size": 20190703,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/3de1f1998317becde6feb90fe811af7dc78bbde1"
+            }
+          ],
+          "version": "7.1.0"
+        }
+      ]
+    }
+  ]
+}

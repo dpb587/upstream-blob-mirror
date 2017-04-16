@@ -29,3 +29,4 @@ if [ ! -e "$repository_dir/$metalink" ]; then
 fi
 
 meta4-repo filter "file://$repository_dir" > "$repository_dir/repository.xml"
+meta4-repo filter --format=json "file://$repository_dir" > "$repository_dir/repository.json"

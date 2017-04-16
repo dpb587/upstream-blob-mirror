@@ -1,0 +1,41 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/libxml2",
+        "path": "v2.9.4.meta4",
+        "version": "2017-04-12T18:32:04-07:00"
+      },
+      "file": [
+        {
+          "name": "libxml2-2.9.4.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "ae249165c173b1ff386ee8ad676815f5"
+            },
+            {
+              "type": "sha-1",
+              "hash": "958ae70baf186263a4bd801a81dd5d682aedd1db"
+            },
+            {
+              "type": "sha-256",
+              "hash": "ffb911191e509b966deb55de705387f14156e1a56b21824357cdf0053233633c"
+            },
+            {
+              "type": "sha-512",
+              "hash": "f5174ab1a3a0ec0037a47f47aa47def36674e02bfb42b57f609563f84c6247c585dbbb133c056953a5adb968d328f18cbc102eb0d00d48eb7c95478389e5daf9"
+            }
+          ],
+          "size": 5374830,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/958ae70baf186263a4bd801a81dd5d682aedd1db"
+            }
+          ],
+          "version": "2.9.4"
+        }
+      ]
+    }
+  ]
+}

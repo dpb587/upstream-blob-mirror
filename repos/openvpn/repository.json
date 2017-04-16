@@ -1,0 +1,338 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn",
+        "path": "v2.4.1.meta4",
+        "version": "2017-04-12T18:32:40-07:00"
+      },
+      "file": [
+        {
+          "name": "openvpn-2.4.1.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "01c2a737c464204c79b17c9ab33fe640"
+            },
+            {
+              "type": "sha-1",
+              "hash": "d51884adaf830e580bb9ebf864fed33fb7edb134"
+            },
+            {
+              "type": "sha-256",
+              "hash": "831a1a05268fe3b1646d367e2559cff94d347d213ca8995cc48a4eedc452097a"
+            },
+            {
+              "type": "sha-512",
+              "hash": "bfb6a3c4d17af0461763d8a8e15d83a6fde88382a9b92739dd78d1f8ef85bfa246db14ba1504249ad05479f316df692120cfc3ddfd13b070a21dc6956242acd3"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJY0pm0AAoJEClYTZ9AhkV4By8H/A9jlk6zlzAvPmS/A2uvHq5k\nhu8swKWKcOTCaR2T1rvGHTGtRZ3aJbeVB+FUvf3Mo93tLCaPGxizBEYFXzxMBK82\nfJXqqDlvqdHjkZc8ikBTNlk/Sn7luvB9DVOypD+5LlEE6LzxT3U2PQdoLW2TzjMC\n98HAvo86yzJySD1V5VfLvCz5srvSutMRJKf2NLunaIVSOEFIcEtCKdX/13cZzCbG\njzJeT6DKqKspvDNTd3EgSEll1j+EV9pcYAWz/FHcpMoF7QIZ0aV0HI9gRrjfhQv8\nt+V65CENp2mzWc4ek+BJjEB/nvZZdhAT64Q7l462Mq93dq64MooRwzc0AIB/KYs=\n=xCTN\n-----END PGP SIGNATURE-----"
+          },
+          "size": 1385789,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d51884adaf830e580bb9ebf864fed33fb7edb134"
+            }
+          ],
+          "version": "2.4.1"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn",
+        "path": "v2.3.14.meta4",
+        "version": "2017-04-16T11:28:43-07:00"
+      },
+      "file": [
+        {
+          "name": "openvpn-2.3.14.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "5797885e15c48fd9ef1c7fde7552aed5"
+            },
+            {
+              "type": "sha-1",
+              "hash": "742b5c5cea02e7a4474b75fb423a37163694dc2a"
+            },
+            {
+              "type": "sha-256",
+              "hash": "2b55b93424e489ab8b78d0ed75e8f992ab34052cd666bc4d6a41441919143b97"
+            },
+            {
+              "type": "sha-512",
+              "hash": "0ec9483be5b1b7ea6c670c724369c5bed799a9f81375c0c4b3f34fa1ebcd4bff60e37668bbbcab6f1d6d66a807da719e44ee11c2c12f2eb7a3277936549f7bd1"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlhH9kEACgkQwp2X7RmNIqMMrwCbBiV3yD6pF/jr5ruk3f36wEK7\nYigAoN/n5SK2vBIIjM5hl2CECqUpu4pW\n=V6Rj\n-----END PGP SIGNATURE-----"
+          },
+          "size": 1241145,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://swupdate.openvpn.org/community/releases/openvpn-2.3.14.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/742b5c5cea02e7a4474b75fb423a37163694dc2a"
+            }
+          ],
+          "version": "2.3.14"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn",
+        "path": "v2.3.13.meta4",
+        "version": "2017-04-14T19:36:18-07:00"
+      },
+      "file": [
+        {
+          "name": "openvpn-2.3.13.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "4051af7925a5e6dc34be7f76efa81621"
+            },
+            {
+              "type": "sha-1",
+              "hash": "53353a6e0f46530b2ea811e13157160cfd6ff569"
+            },
+            {
+              "type": "sha-256",
+              "hash": "0e017211bf2a0607b1dda5e8e3f710b4c54aa5a63e1f89a8b17054abee20fa86"
+            },
+            {
+              "type": "sha-512",
+              "hash": "72e979f2e3e10d2aec6cb8a8bda97bc15bbf3a4e392ae13a5ebc7d0553c174801d2d93ccd2087e16ac0cbd6527a93dd66a4823be658d5730a9391c7a8bce2294"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlgbEikACgkQwp2X7RmNIqOWkgCggc+Ls/MZFRyMh9iMYhTOdZZg\n+jcAnAlHGqw2AjRT0nOZWjCW3NnpQz7C\n=gS67\n-----END PGP SIGNATURE-----"
+          },
+          "size": 1237826,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/53353a6e0f46530b2ea811e13157160cfd6ff569"
+            }
+          ],
+          "version": "2.3.13"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn",
+        "path": "v2.3.12.meta4",
+        "version": "2017-04-14T19:37:00-07:00"
+      },
+      "file": [
+        {
+          "name": "openvpn-2.3.12.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "375560e3fadc4599ede7221b0cab8a0e"
+            },
+            {
+              "type": "sha-1",
+              "hash": "37d1ff2c92432b8b0a37fe72f938269c487a33d3"
+            },
+            {
+              "type": "sha-256",
+              "hash": "f5d39b8c55f75b0aab943059b20571452b494146d997b12d48ce9bd753c01cff"
+            },
+            {
+              "type": "sha-512",
+              "hash": "8de40e9177268cce64906915ddc0d23381b4040ed00e6eefe4784b04d48f50d5c5ce9e99886eb18fe45d22c5c047478b9aa942e4c4eeaf115cc443a1d3ebe631"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAle8XCsACgkQwp2X7RmNIqOnzACfWwSvfDQRoPNb5GyFlN4Zq+zE\nOOYAnAuEQKixVqs5bklXeTGtKdha6P71\n=bz/a\n-----END PGP SIGNATURE-----"
+          },
+          "size": 1235262,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/37d1ff2c92432b8b0a37fe72f938269c487a33d3"
+            }
+          ],
+          "version": "2.3.12"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn",
+        "path": "v2.3.11.meta4",
+        "version": "2017-04-14T19:38:32-07:00"
+      },
+      "file": [
+        {
+          "name": "openvpn-2.3.11.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "e075a11f9fd0a81dae1ed1760479e9d6"
+            },
+            {
+              "type": "sha-1",
+              "hash": "edfc49a83aff50ba2e3aeea3d615289308bce9dc"
+            },
+            {
+              "type": "sha-256",
+              "hash": "9117a4434fd35e61cf94f9ee7ef84b7aecbc6fa556f779ff599560f219756163"
+            },
+            {
+              "type": "sha-512",
+              "hash": "10273dc2c13a3db4b4d21bdac51c441bd028045d7ad710ce54b58d9713278e1c083f25b0e4842b8cc77ed8b804ce0fa50ed17eb5c05478d2f4e158b892d7c565"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlcxelAACgkQwp2X7RmNIqPPYACgrCPip7rgJSvpCtFFQwgBzjDt\nOY8An0PBjTG9p1pS7IIc/C9Y/sKedsKx\n=wdsy\n-----END PGP SIGNATURE-----"
+          },
+          "size": 1242816,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/edfc49a83aff50ba2e3aeea3d615289308bce9dc"
+            }
+          ],
+          "version": "2.3.11"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn",
+        "path": "v2.3.10.meta4",
+        "version": "2017-04-14T19:39:05-07:00"
+      },
+      "file": [
+        {
+          "name": "openvpn-2.3.10.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "275a640ccfc6a9f9a8faa4c84a74d294"
+            },
+            {
+              "type": "sha-1",
+              "hash": "1018c3e59eb39ee8e87197bffb3912d84857ff0c"
+            },
+            {
+              "type": "sha-256",
+              "hash": "f8b0b5b92e35bbca1db1a7e6b49e04639e45634e9accd460459b40b2c99ec8f6"
+            },
+            {
+              "type": "sha-512",
+              "hash": "13f7cfb8e5a7485f930d13830691a937da40b4cc881c403ab613132cb94aba0a30b1727debdfa1b8d7d761b447ccbcf0d1c2d56ca82f6a6ce7e2eec9642fd13f"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlaKY3oACgkQwp2X7RmNIqN7cACbB9fpKL84DyE2OPkjKz5CV5qD\nXzEAn2WfGAwaVUHPCUB7TPzsDjHEKMwR\n=5cgd\n-----END PGP SIGNATURE-----"
+          },
+          "size": 1225636,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/1018c3e59eb39ee8e87197bffb3912d84857ff0c"
+            }
+          ],
+          "version": "2.3.10"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn",
+        "path": "v2.3.9.meta4",
+        "version": "2017-04-14T19:41:01-07:00"
+      },
+      "file": [
+        {
+          "name": "openvpn-2.3.9.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "265755044ae88f9249d509f6d061f7e5"
+            },
+            {
+              "type": "sha-1",
+              "hash": "b1d4dafb7286cb6ab890e5d96c4c02a2fd685464"
+            },
+            {
+              "type": "sha-256",
+              "hash": "2c12fe9ea641ac1291e70322cc500641c84e5903dd4f40bf2eda7e9f209b2f9c"
+            },
+            {
+              "type": "sha-512",
+              "hash": "597ad93caf5e4489bfdc78413756af516cad88679460ebadbef91358c6ca505dd0d5c3bb508b463fd34008be80d37f464271db0beec8439619510d7cf3b3b000"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlZxZD4ACgkQwp2X7RmNIqOAGACbBMjAK+23VCb0OX5xn22OUIrM\n2toAoNnfu/8sbMpsADd41XoOoSAYPDFs\n=cRzV\n-----END PGP SIGNATURE-----"
+          },
+          "size": 1222797,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/b1d4dafb7286cb6ab890e5d96c4c02a2fd685464"
+            }
+          ],
+          "version": "2.3.9"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn",
+        "path": "v2.3.8.meta4",
+        "version": "2017-04-14T19:41:27-07:00"
+      },
+      "file": [
+        {
+          "name": "openvpn-2.3.8.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "51d996f1f1fc30f501ae251a254effeb"
+            },
+            {
+              "type": "sha-1",
+              "hash": "29698c4e10dfe0f73d39b5f65b96cd66340d828d"
+            },
+            {
+              "type": "sha-256",
+              "hash": "532435eff61c14b44a583f27b72f93e7864e96c95fe51134ec0ad4b1b1107c51"
+            },
+            {
+              "type": "sha-512",
+              "hash": "b619283d87eea2e47a2f0dfdbf0ffd1d10388fbdaadb33b43c7a2743748a4814f869fad6215d32fab156664d554ae94af456e7bf496890c68e6729b153d76db9"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niEYEABECAAYFAlXA9x0ACgkQwp2X7RmNIqOi7wCfTR3IkWcWiiqmnTXwLxc2R1wa\nl4UAnjxpKS6xiaTSBcTwkYNcbqfStIPg\n=S4Rx\n-----END PGP SIGNATURE-----"
+          },
+          "size": 1214843,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/29698c4e10dfe0f73d39b5f65b96cd66340d828d"
+            }
+          ],
+          "version": "2.3.8"
+        }
+      ]
+    }
+  ]
+}

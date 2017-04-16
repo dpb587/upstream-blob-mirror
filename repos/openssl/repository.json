@@ -1,0 +1,720 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.1.0e.meta4",
+        "version": "2017-04-12T18:32:31-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.1.0e.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "57be8618979d80c910728cfc99369bf97b2a1abd8f366ab6ebdee8975ad3874c"
+            },
+            {
+              "type": "md5",
+              "hash": "51c42d152122e474754aea96f66928c6"
+            },
+            {
+              "type": "sha-1",
+              "hash": "8bbbaf36feffadd3cb9110912a8192e665ebca4b"
+            },
+            {
+              "type": "sha-256",
+              "hash": "57be8618979d80c910728cfc99369bf97b2a1abd8f366ab6ebdee8975ad3874c"
+            },
+            {
+              "type": "sha-512",
+              "hash": "4b75e925323703d4a31ade90ea687e027742b7bf4f0f6cb4476e7bb9e31dcaf60eb40d925bc768ff1c28ffa71b8f9639dd83662d49ad80100a388947e75647a0"
+            }
+          ],
+          "size": 5202247,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/8bbbaf36feffadd3cb9110912a8192e665ebca4b"
+            }
+          ],
+          "version": "1.1.0e"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.1.0d.meta4",
+        "version": "2017-04-15T10:01:39-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.1.0d.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "7d5ebb9e89756545c156ff9c13cf2aa6214193b010a468a3bc789c3c28fe60df"
+            },
+            {
+              "type": "md5",
+              "hash": "711ce3cd5f53a99c0e12a7d5804f0f63"
+            },
+            {
+              "type": "sha-1",
+              "hash": "f423e9253ad8a8617fc9fb3562788a9fa066d46f"
+            },
+            {
+              "type": "sha-256",
+              "hash": "7d5ebb9e89756545c156ff9c13cf2aa6214193b010a468a3bc789c3c28fe60df"
+            },
+            {
+              "type": "sha-512",
+              "hash": "9f84b3a584df4058f70da6a6ee26a788cc321df218dcabc60ae82913b85af932ed6470e881cd369ead904e5cbc3e4bb0d44e4871b7ba687fe1dba027505363ed"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEcBAABCAAGBQJYifVEAAoJENnE0m0OYESR810IAIMBkstSRrKo1iTCvYgtj92t\neEc0zq2cBQWo0N8qBGgs1sVdhUWZw6+Hl8sWrYh5jMmqTJnrDjPAIw2RmPLQXp6V\nclR2LkAMe85NVqWDB1b+A118rLm3+eusultawzRTh/f+PAZeBFEcpNnEpE0mwx81\n0i/aUZ2WwYPbCNQD/tcQwYHv1k/kd38VMWdN+9HQwRPgZyFX+zIR4oD/5BiXDlY2\nhDAk0FM96VA/Vl9xs611wSZbpMFYQFRB7Z8wSbPYU/ibnvM0AKv+mfvHMPssHdku\nTxU7TuRb2/k52baoc8Np9JFLmQCWjZNPZ7zB7EnoTB2qokboO/b1/KXClA0zzRY=\n=Zmm0\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5201626,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f423e9253ad8a8617fc9fb3562788a9fa066d46f"
+            }
+          ],
+          "version": "1.1.0d"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.1.0c.meta4",
+        "version": "2017-04-15T09:58:53-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.1.0c.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "fc436441a2e05752d31b4e46115eb89709a28aef96d4fe786abe92409b2fd6f5"
+            },
+            {
+              "type": "md5",
+              "hash": "601e8191f72b18192a937ecf1a800f3f"
+            },
+            {
+              "type": "sha-1",
+              "hash": "920e6e7bdaccd94d7564af1097176f11900d20ca"
+            },
+            {
+              "type": "sha-256",
+              "hash": "fc436441a2e05752d31b4e46115eb89709a28aef96d4fe786abe92409b2fd6f5"
+            },
+            {
+              "type": "sha-512",
+              "hash": "e3cfba6c682e5edd6f678df7c1da9c9713880f7dca248e6d62f095185c22ce8fd7571d53a54a119fb5d4422578637746ad2809bb2ba324a5c54564f532307ad9"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEcBAABCAAGBQJYJH5FAAoJENnE0m0OYESRMI0IAKQwVl/DLAnuWG8+EcI3kfaJ\nEXaGJuTrloRrWFgwCkDbDSXAV5yU4vSC3Mu9RnSAMkX+XKIj9sj4/p14WIvF/2+t\n5GhBVxusd5nJY3lYMhZzlraPQamnjBMJK4yMU4ivOAr8eigXedxhRmezfXqtxfIg\niuslGDE7rLNHdrVLmxj1hiWIjvDlxNc/pPWQTXxFDk6mwS6k71OPE83lmAC9Pepu\nj8H3cpSMlO/0FSem2DLrZtRQQ6cbHpzNLZdji+vYaWfz2NBdX5GUOpuyllbVRKyk\nno+VkssaY7385gKKCq6cc5zNqkbXh0H/AjFiVTJf7NyCs11rwWOZMY9QQy8snqo=\n=MJ6h\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5179668,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/920e6e7bdaccd94d7564af1097176f11900d20ca"
+            }
+          ],
+          "version": "1.1.0c"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.1.0b.meta4",
+        "version": "2017-04-15T09:56:12-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.1.0b.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "a45de072bf9be4dea437230aaf036000f0e68c6a665931c57e76b5b036cef6f7"
+            },
+            {
+              "type": "md5",
+              "hash": "77895d5d0fbccf3172ae5b9897a0dedc"
+            },
+            {
+              "type": "sha-1",
+              "hash": "cbf391d0d68a9f144c24c5c3c5028c07fa00264c"
+            },
+            {
+              "type": "sha-256",
+              "hash": "a45de072bf9be4dea437230aaf036000f0e68c6a665931c57e76b5b036cef6f7"
+            },
+            {
+              "type": "sha-512",
+              "hash": "b6d66261427f1acc049bf5469a0dc668490e752c2ba4802481809e7e35367213eca17ac9fdc3f23ed5f7a53d303abca78b13a48b169f154043199f2680ccf1a4"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX6O5iAAoJENnE0m0OYESRzccIAIGlLentz7up1mMuT1CmPs7Z\nszXX0JGtUCVCEhCN0kN79BxNoEdOgobn2hM77q3A8XCXj9XT+lVQiCRX4SCD0c3F\nOKSQbb2bnRptEX8RSwWvbTwGcaopcHnn3T/wR4Ktr3gL6kTr4alJFa/+dQOEJeHv\nt88HekUSMWSMXahsaa7qMRiyEl10N1GwE600fJcHJB1h0Srb5L7MH5cyMZcn5zHe\nrW6+mqEtgk5wJoK4MMY9xLnWUsXPHwHZEFJ5ui9aRTJ2DiE0FF7/3dbkYDcHvtpH\n+i7NVXJtpMOxZO3WxNHPEDNoPYVtW03m1jj8la1sJBJwZWbiL4dYuqGWXXgEAXQ=\n=hFqE\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5162355,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/cbf391d0d68a9f144c24c5c3c5028c07fa00264c"
+            }
+          ],
+          "version": "1.1.0b"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.1.0a.meta4",
+        "version": "2017-04-15T09:52:17-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.1.0a.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "c2e696e34296cde2c9ec5dcdad9e4f042cd703932591d395c389de488302442b"
+            },
+            {
+              "type": "md5",
+              "hash": "38a0bf2883ab4951acb15b1886b7f5aa"
+            },
+            {
+              "type": "sha-1",
+              "hash": "335d7168b612efd3cf16f621b09d4cd5af4232a6"
+            },
+            {
+              "type": "sha-256",
+              "hash": "c2e696e34296cde2c9ec5dcdad9e4f042cd703932591d395c389de488302442b"
+            },
+            {
+              "type": "sha-512",
+              "hash": "80d6cf795decc923b0ea6a005805993d2a4133a1d41f0208982f4b147471e24782227c77611cc4c6d1e61849ce66c57987ea7a26ea66cd0b0adc66c200b96c21"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX468gAAoJENnE0m0OYESRPaoH/0A7YB1vJv2ApH3RqEJTqFFT\nJsFratChKb1OZ/+TXxmqHbkBkt10IAlYhRgIbSVUPDq9GjPSqIMLf6DwLmeUdtqo\nO6fAMGsq7mNfwxmF1EY3TeyDq6+WUSx+YrBDuwm17+Y4NBorYW+ynzFmmHDOxN78\nIxCyppVI8EXyCezTNorFXHnRvgPOK57DYKA1BT8YpQMtL2V9xw/PYgQb+wX55old\no3VOGHAfkZvHj5U8+KKTjM2rpcxHbPbe5k7w9ckSzxbJzIPqm0m6m4PQmbFmO4NL\nl6O9LxbG7RmeeYBKUvkamzoXZiTljOR/A0ggEl8pL/w/47GYGSY9IgpA2k9+tV4=\n=icmS\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5161414,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/335d7168b612efd3cf16f621b09d4cd5af4232a6"
+            }
+          ],
+          "version": "1.1.0a"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2k.meta4",
+        "version": "2017-04-15T10:40:32-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2k.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "6b3977c61f2aedf0f96367dcfb5c6e578cf37e7b8d913b4ecb6643c3cb88d8c0"
+            },
+            {
+              "type": "md5",
+              "hash": "f965fc0bf01bf882b31314b61391ae65"
+            },
+            {
+              "type": "sha-1",
+              "hash": "5f26a624479c51847ebd2f22bb9f84b3b44dcb44"
+            },
+            {
+              "type": "sha-256",
+              "hash": "6b3977c61f2aedf0f96367dcfb5c6e578cf37e7b8d913b4ecb6643c3cb88d8c0"
+            },
+            {
+              "type": "sha-512",
+              "hash": "0d314b42352f4b1df2c40ca1094abc7e9ad684c5c35ea997efdd58204c70f22a1abcb17291820f0fff3769620a4e06906034203d31eb1a4d540df3e0db294016"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEcBAABCAAGBQJYifggAAoJENnE0m0OYESRTAIH/RsiR+7jvmA8AZJppQZOpVgX\n8N5CZNBEaRTuKcRNmQX1oHk5Ms2g4MM4TmNDOFF7+ZtByoeyv2NWnLWJmBsSxuQU\nZEbeXFIgkBnvD5qOBdi84udw0/HOP5P3GcxAOC8QE1Av7pTwAdKToheqixuE5D8+\n9zzw4VgXCa5L18JDf3XdkTDUUUQitz1o2ck8BVIGyhxgIUDJXEF8t29yTGYWF/YV\nb45G1igbJlZtoR4IA1pSR3hrDjJaNQtCpkxK+DKoLTm+Z9RMTe40Q8W7dBn1iwUm\nN/m9CUovBoqIv1nrSJeFNXuIuuHYt/1gflJBiem7QC9fNtdZuGlKXBq5bcL1qV8=\n=uQ9m\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5309236,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/5f26a624479c51847ebd2f22bb9f84b3b44dcb44"
+            }
+          ],
+          "version": "1.0.2k"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2j.meta4",
+        "version": "2017-04-15T10:38:03-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2j.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "e7aff292be21c259c6af26469c7a9b3ba26e9abaaffd325e3dccc9785256c431"
+            },
+            {
+              "type": "md5",
+              "hash": "96322138f0b69e61b7212bc53d5e912b"
+            },
+            {
+              "type": "sha-1",
+              "hash": "bdfbdb416942f666865fa48fe13c2d0e588df54f"
+            },
+            {
+              "type": "sha-256",
+              "hash": "e7aff292be21c259c6af26469c7a9b3ba26e9abaaffd325e3dccc9785256c431"
+            },
+            {
+              "type": "sha-512",
+              "hash": "7d6ccae4aa3ccec3a5d128da29c68401cdb1210cba6d212d55235fc3bc63d7085e2f119e2bbee7ddff6b7b5eef07c6196156791724cd2caf313a4c2fef724edd"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX6O9BAAoJENnE0m0OYESRhC4H/0feEYv4JBbtk3cFyIt39ph6\nA700qbm8pnOukXOg5Q2HrYz6TxE1C/p7MO4+iYnttvtC7WMz9oK0fEQ/k2PEjoU7\nI65vM/LlrQjY6pJe+pORk+UL9uHamcDpeyYCa+Ro61o/l4Vd9iHQMN77LDfkKzDK\nqq8q/DMlHVhPv1U8+kDCT9r4nEOqb0tkvJEIns3wFlkw1Wp+VwnhAS5s3J1Xwetj\nMK6TFOtI1UOULXiYjSRs4Sy8nyxG5V6VVofAL+aQNOFqAzF45RE5R/6AjL5I8J9y\nyoyIzj1a/h8M/PJGzADgpxZAdE2cpZAlQAhZdQutst0GRma6i36HGzq4IUDwbCc=\n=puH/\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5307912,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/bdfbdb416942f666865fa48fe13c2d0e588df54f"
+            }
+          ],
+          "version": "1.0.2j"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2i.meta4",
+        "version": "2017-04-15T10:34:56-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2i.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "9287487d11c9545b6efb287cdb70535d4e9b284dd10d51441d9b9963d000de6f"
+            },
+            {
+              "type": "md5",
+              "hash": "678374e63f8df456a697d3e5e5a931fb"
+            },
+            {
+              "type": "sha-1",
+              "hash": "25a92574ebad029dcf2fa26c02e10400a0882111"
+            },
+            {
+              "type": "sha-256",
+              "hash": "9287487d11c9545b6efb287cdb70535d4e9b284dd10d51441d9b9963d000de6f"
+            },
+            {
+              "type": "sha-512",
+              "hash": "41764debd5d64e4e770945f30d682e2c887d9cefb39b358c5c7f9d2cdce34393ed28d49b24e95c4639db2df01c278cbcde71bed2b03f9aafafc76766b03850e3"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJX47F5AAoJENnE0m0OYESRw9EIAIrsnAEo5U5XcfpSWVkHLIF4\nHEPpuSsKhFl8Ccy3lSEaewb2eMngN/nuE4FBgXxJgthXwmpu+LCLyZN9JYHXMSjq\nqOn/cGROPOLREWY0vEXUtZYiigB8Hbi2SCrozpI9XSHkjDKeiR9PwGb1qbcnm8Sv\nYJ1r/nwAZcThI9kwPOsM6ZLuoqVH7uSNPmDAUSCngd3KFTEj1o6S+A7oqoKfundq\nISESk2xup2unCjZQYQM0vsxuEmC+7fia+iHLZuLsrXsxyUSYNETjgY5ZwuRysV+Q\nB9p33iY66PL90lRPcYnPT6nEGf+ZHhDnesbX2NE/Ug458/cvroRWWhbYEMUm5xo=\n=Ho4k\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5308232,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/25a92574ebad029dcf2fa26c02e10400a0882111"
+            }
+          ],
+          "version": "1.0.2i"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2h.meta4",
+        "version": "2017-04-15T10:33:00-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2h.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "1d4007e53aad94a5b2002fe045ee7bb0b3d98f1a47f8b2bc851dcd1c74332919"
+            },
+            {
+              "type": "md5",
+              "hash": "9392e65072ce4b614c1392eefc1f23d0"
+            },
+            {
+              "type": "sha-1",
+              "hash": "577585f5f5d299c44dd3c993d3c0ac7a219e4949"
+            },
+            {
+              "type": "sha-256",
+              "hash": "1d4007e53aad94a5b2002fe045ee7bb0b3d98f1a47f8b2bc851dcd1c74332919"
+            },
+            {
+              "type": "sha-512",
+              "hash": "780601f6f3f32f42b6d7bbc4c593db39a3575f9db80294a10a68b2b0bb79448d9bd529ca700b9977354cbdfc65887c76af0aa7b90d3ee421f74ab53e6f15c303"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJXKKvFAAoJENnE0m0OYESRGpAH/AyxYu871GheytE2YEgeEFou\n1e37k9PiBgS9BUmpr0ufRGMn9QufZzYCf1b2LXr3Fn31Ui5rCHrLntGeAdD4ngmh\n4fEOhEJRWpfHGlFVyXc8jHSeK6wfgvM928Up/ftSGyciDgWMDXmx5eCzJgREjJ+k\nDAQwtE34lCilzrYOcEn9xVd3NEScodAHQEhRXXM7p6jesHlQ8cSFljDn8QDvFu/R\ngRGAAWW9/ZjbwE6hbT8nPYq7UCUUvz2ne8U3kCwyGYwqLGt47qV0yD9mqG/oO0RB\nwFOcJhcGUqKSxlHqukAusxeZLuXMzw7UmucLCDxW9ETB644KlZ3/8E4CkOlLNIM=\n=a9Hy\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5274412,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/577585f5f5d299c44dd3c993d3c0ac7a219e4949"
+            }
+          ],
+          "version": "1.0.2h"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2g.meta4",
+        "version": "2017-04-15T10:30:04-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2g.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "b784b1b3907ce39abf4098702dade6365522a253ad1552e267a9a0e89594aa33"
+            },
+            {
+              "type": "md5",
+              "hash": "f3c710c045cdee5fd114feb69feba7aa"
+            },
+            {
+              "type": "sha-1",
+              "hash": "36af23887402a5ea4ebef91df8e61654906f58f2"
+            },
+            {
+              "type": "sha-256",
+              "hash": "b784b1b3907ce39abf4098702dade6365522a253ad1552e267a9a0e89594aa33"
+            },
+            {
+              "type": "sha-512",
+              "hash": "4d96b6c8a232203483d6e8bee81da01ba10977bfbac92f25304a36dec9ea584b7ef917bc45e097cc7dbe681d71a4570d649c22244c178393ae91fab48323f735"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJW1Zr6AAoJENnE0m0OYESRRpkH/0SkDJcp4rvICbxuaD9jyJCa\nUJLH3vSMfJ9QNMdIp8yemixGSvjr0mPhFOcZPysXRZo88IwuIV0+Q5I7hvCQ0PSt\nYH/HzBZO0eShhUyDxb397odbbhsAkZFJytT+EXdFqd0HJLtWuPxaBF0WPgkklOQC\n3R/sv+M8FAaZiIbdBwNv1FNgGG26T4up0RgV0ETpXXv9Da+AViGrefA5szKAj9aL\nSOCRuUnzQO7ohSh5AZvgHylh1m7CGpH4MIyoAtNFtyogukO3yS3CzZ1iFcjsdHDn\nsDIRZ18a5JOX/vWU0OmUXGhF7XXV93S1/1mKAAEXRJZOxzrneFuyv5b61t/xXCE=\n=/pDQ\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5266102,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/36af23887402a5ea4ebef91df8e61654906f58f2"
+            }
+          ],
+          "version": "1.0.2g"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2f.meta4",
+        "version": "2017-04-15T10:27:25-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2f.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "932b4ee4def2b434f85435d9e3e19ca8ba99ce9a065a61524b429a9d5e9b2e9c"
+            },
+            {
+              "type": "md5",
+              "hash": "b3bf73f507172be9292ea2a8c28b659d"
+            },
+            {
+              "type": "sha-1",
+              "hash": "2047c592a6e5a42bd37970bdb4a931428110a927"
+            },
+            {
+              "type": "sha-256",
+              "hash": "932b4ee4def2b434f85435d9e3e19ca8ba99ce9a065a61524b429a9d5e9b2e9c"
+            },
+            {
+              "type": "sha-512",
+              "hash": "50abf6dc94cafd06e7fd20770808bdc675c88daa369e4f752bd584ab17f72a57357c1ca1eca3c83e6745b5a3c9c73c99dce70adaa904d73f6df4c75bc7138351"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWqh5FAAoJENnE0m0OYESRpd0IAKvBXuOol3hdKjK48X+OnjQb\nCMJTgZSxJCzRedQYLLRYqdcYI26gnh2IoImoPhSIyf6duoE0STilbkF1+ldz/F3B\n+b/gss1afAVQ7LxdQ7lIrYkW/oRaSOAJ5V+qkz3n7niyBA8lhkG4yRhXTPRR5oKY\nl6Obz/FuQILMdNn68be9EDzWS3pdc6tboZTtTUuiGLZWZCTNyp0vjMHMogIHKmPJ\nbV4ffqqclawh1uk6+oqk0VZjao8o8pFdeiQzp0kS+rIKuRDw3FAIXr+Xv7iQM1wB\nOi1yVap1NlwfZeiNCwuVK5fWFfNlFACB3vzEEPnD3lVQhUFyDveyeP9AQsFc090=\n=aXi+\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5258384,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2047c592a6e5a42bd37970bdb4a931428110a927"
+            }
+          ],
+          "version": "1.0.2f"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2e.meta4",
+        "version": "2017-04-15T10:25:29-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2e.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "e23ccafdb75cfcde782da0151731aa2185195ac745eea3846133f2e05c0e0bff"
+            },
+            {
+              "type": "md5",
+              "hash": "5262bfa25b60ed9de9f28d5d52d77fc5"
+            },
+            {
+              "type": "sha-1",
+              "hash": "2c5691496761cb18f98476eefa4d35c835448fb6"
+            },
+            {
+              "type": "sha-256",
+              "hash": "e23ccafdb75cfcde782da0151731aa2185195ac745eea3846133f2e05c0e0bff"
+            },
+            {
+              "type": "sha-512",
+              "hash": "b73f114a117ccab284cf5891dac050e3016d28e0b1fc71639442cdb42accef676115af90a12deff4bcc1f599cc0cbdeb38142cbf4570bd7d03634786ad32c95f"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJWYIyiAAoJENnE0m0OYESRdSwIAIlfOOvtTaKbsY1gDhM8LaAM\ngC2HYR18ipcz0ZdZzNch/mGy8gpVNmBWDhWzTd5Yz0AHRFX0fpOX7QZXHozV/QaB\n2LmQ9N1QbztqSq0MW+2VCX31BR79wWYHVQF4A9QT7MOwCSA3RhGfEiZiIHNNloRa\nj55Dpe0CMVdpdQc2WxlUC1A8O837bwr6ruPxctneJAvHK/XyeS/ta7a4eI8UQxMS\nzkBNlsuiWQRzlAqMyiAkqu9NBkuLdBhP5Gkh2D8XP/yt1KwECFJiyAc0PFXTMILi\ncNG5KdPe3tN3xCgR38k4/DKRNi4F1IVoe5YE7sk7U2wmG4dc5Z/9zGCTx+2atc0=\n=PIJl\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5256555,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2c5691496761cb18f98476eefa4d35c835448fb6"
+            }
+          ],
+          "version": "1.0.2e"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2d.meta4",
+        "version": "2017-04-15T10:22:46-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2d.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "671c36487785628a703374c652ad2cebea45fa920ae5681515df25d9f2c9a8c8"
+            },
+            {
+              "type": "md5",
+              "hash": "38dd619b2e77cbac69b99f52a053d25a"
+            },
+            {
+              "type": "sha-1",
+              "hash": "d01d17b44663e8ffa6a33a5a30053779d9593c3d"
+            },
+            {
+              "type": "sha-256",
+              "hash": "671c36487785628a703374c652ad2cebea45fa920ae5681515df25d9f2c9a8c8"
+            },
+            {
+              "type": "sha-512",
+              "hash": "68a051e92aaed0e7a8b218c185427c534c32f30f50c45f5d2c1f5b7a26d1416e83863d2953c77486acde3b636a148f39faf48246d28a207607ec069f62b13d75"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJVnmMAAAoJENnE0m0OYESRFMAIALdJSJRX5Na77O4wTzrhE/O+\n0QU0MhqZikfEsngd5F47f5fwTGmXM3+oLJ3J94okqxuBeicAMq90MRxUe9cczUqr\nqZ3MH5dMJ12rwaKnnyUH2Xl5Zg41px4tL7oD9piGJc52dKmEbX+t7dUKj/N3WglZ\nuKYp7jxV0tdzZeQcuPIOxq74yGQuYTell+hHXKdlmYPrH8LL27ZUpVmGuCUrHBku\n6+VDZVvRZFvTPy2IrIoI5e0lN9qUobyhoGUUICXYEaKMt1xenTWCi9CFzTEmrhjq\n54Zp4CgVXj24PwNKJ42v3jgN4nVEsMSreD0SDyOh2d2kV0/51avX7KmHAjPYD6Y=\n=U3sw\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5295447,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d01d17b44663e8ffa6a33a5a30053779d9593c3d"
+            }
+          ],
+          "version": "1.0.2d"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2c.meta4",
+        "version": "2017-04-15T10:20:37-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2c.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "6e4a5e91159eb32383296c7c83ac0e59b83a0a44"
+            },
+            {
+              "type": "md5",
+              "hash": "8c8d81a9ae7005276e486702edbcd4b6"
+            },
+            {
+              "type": "sha-1",
+              "hash": "6e4a5e91159eb32383296c7c83ac0e59b83a0a44"
+            },
+            {
+              "type": "sha-256",
+              "hash": "0038ba37f35a6367c58f17a7a7f687953ef8ce4f9684bbdec63e62515ed36a83"
+            },
+            {
+              "type": "sha-512",
+              "hash": "2a68e8b017d0d3e34e4f9d33b77abd960b3d04e418f106e852684a2ff247dc8ea390b7d6a42d130fd84d821a15e84e77b68b3677433433ef5c10d156333b9dae"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJVevZ0AAoJENnE0m0OYESRvXIIAKpCfBHUd7YYf6wLKBAKYHOm\nxFKSyc9uW9GGST4rJG9T68FNzmsVKv2RZ7n4QV1BYimrIv9MZ++PmITHY9GbfsyU\nZZ88GmI81uhNQKV2KXvjb3rbXD8Ty8GMcWr7VyvVo/uLEUpW1VJe8rZaNlmpike/\nlg+4Z/9wRMEx7g1MRS3LDVTrUnSjJJs2vnAgXIktATc3EGY3PHZDbzC837JFJTwV\nqAZ2okW/QfyPsfpLEiS5PpPoTDjMKL6rooJh4frE/CgxTj851Ab5AhTqQwIqghCB\n+/gQNiIFqvF0+7153bgKh45LIwfU09cl4ppkOJWxUJX4jlOKCaI8IF0rev0tUqg=\n=I4uu\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5280670,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/6e4a5e91159eb32383296c7c83ac0e59b83a0a44"
+            }
+          ],
+          "version": "1.0.2c"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2b.meta4",
+        "version": "2017-04-15T10:17:50-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2b.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "9006e53ca56a14d041e3875320eedfa63d82aba7"
+            },
+            {
+              "type": "md5",
+              "hash": "7729b259e2dea7d60b32fc3934d6984b"
+            },
+            {
+              "type": "sha-1",
+              "hash": "9006e53ca56a14d041e3875320eedfa63d82aba7"
+            },
+            {
+              "type": "sha-256",
+              "hash": "d5d488cc9f0a07974195a7427094ea3cab9800a4e90178b989aa621fbc238e3f"
+            },
+            {
+              "type": "sha-512",
+              "hash": "563eb662113668bb9ccf17a6e36697ad6392321ac1a32aa2cada9d8f4047651c2fa4da61f508ee3e1834fea343dbba189e09c1d6cabe5d1de5e3e6d022c31f4f"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJVeZNdAAoJENnE0m0OYESR358H/jgvBDtiJ88spNFlWUwQTiBB\n/OYs27sFNvgboek5APgdz9beHgplAQsr1MnAtVLhSHwEKeddK/yxs7GGorB7LGCW\ntZn/zSqjuYD0M/IRVZdQI8o9tfDYxCfqzuzV9rtg2pVKEakFtY2NoBpHwQxUspfE\nRYlLgw3fIAXzQ74pn0cMS0scawbOhd8qD6Yc0Cu39h4yedqsR4zbIiKR5zTyB69m\nCMPHqheBUxtZMBNot8MY4iBEuNAimUdH5scvOlcotcs6AAf3PJ3rJl+MQQu6deyw\nSE2eudvw/zr8xBC0nGQ3GsBM7gmfmLAtIKwWBCZ6Lq4P+qd4PMaGIb4dNRZyxrI=\n=r0Zv\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5281009,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/9006e53ca56a14d041e3875320eedfa63d82aba7"
+            }
+          ],
+          "version": "1.0.2b"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "path": "v1.0.2a.meta4",
+        "version": "2017-04-15T10:15:18-07:00"
+      },
+      "file": [
+        {
+          "name": "openssl-1.0.2a.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "46ecd325b8e587fa491f6bb02ad4a9fb9f382f5f"
+            },
+            {
+              "type": "md5",
+              "hash": "a06c547dac9044161a477211049f60ef"
+            },
+            {
+              "type": "sha-1",
+              "hash": "46ecd325b8e587fa491f6bb02ad4a9fb9f382f5f"
+            },
+            {
+              "type": "sha-256",
+              "hash": "15b6393c20030aab02c8e2fe0243cb1d1d18062f6c095d67bca91871dc7f324a"
+            },
+            {
+              "type": "sha-512",
+              "hash": "02d228578824add52b73433d64697706e6503c2334933fe8dd6b477f59c430977012c3c34da207096229a425e1dcb6f3ae806043894b5ac98c27bbcddb794dd4"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJVCs+pAAoJENnE0m0OYESRFCAH+gLn6G4l1HY1R6agC3WYf8Xj\niTUFCJnwHN1jSgF9edLxASDS5DJ9kstEu1xyswdJT4jumFusxgnrDkqorN0K50Xe\nPlflZyRdr8Fkg9M3pYkRZ7hxvZszmdx53hnuYTZ5m4C/8EUd12icAHhho8M0ks+E\nrT1VfVKfX7iD9MIgLJ+9ZVGWUdUH/1RsQPPEWPWed5TCQUmilvm6Ygz2LsTKYQSQ\nTOvhCMCnWl6gVrc3o0AlrgHRL01dq6kMwNSnvC09Iby/C3N+b7VbOG3sZU/xTO/M\nYhqFJOjGYk5W1SFJ4PNpM504sPo2N6uJ8pCgSa3chcqfvzSjFgKzAqI9CHv8BD4=\n=mSK1\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5262089,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/46ecd325b8e587fa491f6bb02ad4a9fb9f382f5f"
+            }
+          ],
+          "version": "1.0.2a"
+        }
+      ]
+    }
+  ]
+}

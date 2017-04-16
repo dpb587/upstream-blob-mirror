@@ -1,0 +1,86 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/lzo",
+        "path": "v2.10.meta4",
+        "version": "2017-04-12T18:32:14-07:00"
+      },
+      "file": [
+        {
+          "name": "lzo-2.10.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "4924676a9bae5db58ef129dc1cebce3baa3c4b5d"
+            },
+            {
+              "type": "md5",
+              "hash": "39d3f3f9c55c87b1e5d6888e1420f4b5"
+            },
+            {
+              "type": "sha-1",
+              "hash": "4924676a9bae5db58ef129dc1cebce3baa3c4b5d"
+            },
+            {
+              "type": "sha-256",
+              "hash": "c0f892943208266f9b6543b3ae308fab6284c5c90e627931446fb49b4221a072"
+            },
+            {
+              "type": "sha-512",
+              "hash": "a3dae5e4a6b93b1f5bf7435e8ab114a9be57252e9efc5dd444947d7a2d031b0819f34bcaeb35f60b5629a01b1238d738735a64db8f672be9690d3c80094511a4"
+            }
+          ],
+          "size": 600622,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/4924676a9bae5db58ef129dc1cebce3baa3c4b5d"
+            }
+          ],
+          "version": "2.10"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/lzo",
+        "path": "v2.09.meta4",
+        "version": "2017-04-14T20:50:56-07:00"
+      },
+      "file": [
+        {
+          "name": "lzo-2.09.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "e2a60aca818836181e7e6f8c4f2c323aca6ac057"
+            },
+            {
+              "type": "md5",
+              "hash": "c7ffc9a103afe2d1bba0b015e7aa887f"
+            },
+            {
+              "type": "sha-1",
+              "hash": "e2a60aca818836181e7e6f8c4f2c323aca6ac057"
+            },
+            {
+              "type": "sha-256",
+              "hash": "f294a7ced313063c057c504257f437c8335c41bfeed23531ee4e6a2b87bcb34c"
+            },
+            {
+              "type": "sha-512",
+              "hash": "7c64e5e7d2050d75ac8c59d613f6f7230b74746b1d207666755b07450053c8b73980f12f8a1ec59d2af0bada02beec126aaacb675b8088b5fe65e97ff7e6bfc7"
+            }
+          ],
+          "size": 594855,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/e2a60aca818836181e7e6f8c4f2c323aca6ac057"
+            }
+          ],
+          "version": "2.09"
+        }
+      ]
+    }
+  ]
+}

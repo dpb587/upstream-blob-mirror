@@ -1,0 +1,41 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/plugins/yet-another-related-posts-plugin",
+        "path": "v4.4.meta4",
+        "version": "2017-04-12T18:35:06-07:00"
+      },
+      "file": [
+        {
+          "name": "yet-another-related-posts-plugin.4.4.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "85903c5d353662f47f131615bcbee2f3"
+            },
+            {
+              "type": "sha-1",
+              "hash": "61d764d71d921f07b7c69e525f9c882ae12b93ce"
+            },
+            {
+              "type": "sha-256",
+              "hash": "56560b8716153857b56782486362cf038e258a9404d4cf0d261149dcf9963388"
+            },
+            {
+              "type": "sha-512",
+              "hash": "dc1651308436fa25b02c7b786d77d605addbef102fc83b1956dfa8f21533429543fb2efec258ac97acc1d92c173e7350d6ffb5c447b77e6800edb555c16c8621"
+            }
+          ],
+          "size": 756360,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/61d764d71d921f07b7c69e525f9c882ae12b93ce"
+            }
+          ],
+          "version": "4.4"
+        }
+      ]
+    }
+  ]
+}

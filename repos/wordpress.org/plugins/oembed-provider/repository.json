@@ -1,0 +1,41 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/plugins/oembed-provider",
+        "path": "v2.1.0.meta4",
+        "version": "2017-04-12T18:34:30-07:00"
+      },
+      "file": [
+        {
+          "name": "oembed-provider.2.1.0.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "49e62ad2dfe02c7a46ca75728c437516"
+            },
+            {
+              "type": "sha-1",
+              "hash": "7d61441b4662465bf85a7a286948b306f8ab59b7"
+            },
+            {
+              "type": "sha-256",
+              "hash": "853bfac0ec85b58cdb26b6a64ed39a457adf0e0d82a88836d55a572aad764790"
+            },
+            {
+              "type": "sha-512",
+              "hash": "18d8d08aacdc2fc6c90b8a58d09ce034a982b717aa0836b114f6b14c23705db7f51dc42b1856f0e955adeccaab88d4ad45d0fed2792a2f3a22e1491b497bf2fd"
+            }
+          ],
+          "size": 2816,
+          "url": [
+            {
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7d61441b4662465bf85a7a286948b306f8ab59b7"
+            }
+          ],
+          "version": "2.1.0"
+        }
+      ]
+    }
+  ]
+}
