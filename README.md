@@ -1,4 +1,4 @@
-# upstream-blob-receipts
+# upstream-blob-mirror
 
 ## Notes
 
