@@ -9,5 +9,3 @@ find . -name metalink | xargs -n1 dirname | xargs -n1 ./bin/watch "$S3_BLOBS"
 
 git add .
 git commit -m 'bump'
-
-./bin/mirror-repos
