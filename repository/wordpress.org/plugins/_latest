@@ -12,7 +12,7 @@ if [ -z "${version:-}" ]; then
 fi
 
 url=http://downloads.wordpress.org/plugin/${plugin}.${version}.zip
-size=$( curl -sI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
+size=$( curl -sLI "$url" | grep Content-Length | tail -n1 | awk '{ print $2 }' | tr -cd '[:digit:]' )
 
 cat <<EOF
 <?xml version="1.0" encoding="utf-8"?>

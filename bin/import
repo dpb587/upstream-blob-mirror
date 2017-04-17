@@ -26,7 +26,7 @@ hashes=$( meta4 file-hashes )
 arg=""
 
 if ! grep -q '<hash ' /tmp/ubr-import/metalink.meta4 && ! grep -q '<signature ' /tmp/ubr-import/metalink.meta4 ; then
-  arg="--no-verify"
+  arg="--skip-hash-verification --skip-signature-verification"
 fi
 
 if [ -d "$repository_dir/metalink.asc" ]; then
@@ -58,6 +58,6 @@ git add "$repository_dir/$metalink"
 meta4-repo filter "file://$repository_dir" > "$repository_dir/index.xml"
 git add "$repository_dir/index.xml"
 
-git commit -m "$( echo "$repository" | cut -c7- ) ($version)" "$repository_dir/$metalink" "$repository_dir/index.xml"
+git commit -m "$( basename "$repository" ) ($version)" "$repository_dir/$metalink" "$repository_dir/index.xml"
 
 rm -fr /tmp/ubr-import

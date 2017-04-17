@@ -15,7 +15,7 @@ if [ -z "${version:-}" ]; then
 fi
 
 url=ftp://xmlsoft.org/libxml2/libxml2-${version}.tar.gz
-size=$( curl -sI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
+size=$( curl -sLI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
 
 cat <<EOF
 <?xml version="1.0" encoding="utf-8"?>

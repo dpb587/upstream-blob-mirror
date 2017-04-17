@@ -13,7 +13,7 @@ if [ -z "${version:-}" ]; then
 fi
 
 url=https://www.oberhumer.com/opensource/lzo/download/lzo-${version}.tar.gz
-size=$( curl -sI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
+size=$( curl -sLI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
 
 sha1=$(
   wget -qO- https://www.oberhumer.com/opensource/lzo/ \

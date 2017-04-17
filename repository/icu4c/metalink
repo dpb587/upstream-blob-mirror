@@ -18,7 +18,7 @@ fi
 underversion=$( echo "$version" | tr . _ )
 
 url=http://download.icu-project.org/files/icu4c/${version}/icu4c-${underversion}-src.tgz
-size=$( curl -sI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
+size=$( curl -sLI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
 
 md5=$(
   wget -qO- "https://ssl.icu-project.org/files/icu4c/${version}/icu4c-src-${underversion}.md5" \

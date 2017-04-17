@@ -9,7 +9,7 @@ if [ -z "${version:-}" ]; then
 fi
 
 url=http://us1.php.net/distributions/php-${version}.tar.gz
-size=$( curl -sI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
+size=$( curl -sLI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
 
 json=$( echo "$raw" | jq --arg version "$version" -r '.[$version].source | map(select(.filename | test("\\.tar\\.gz$") ))[0]' )
 
