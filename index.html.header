@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>upstream-blob-mirror</title>
+    <style type="text/css">
+      body {
+        background-color: #F9F9F9;
+        color: #333333;
+        font-family: monospace;
+      }
+
+      a {
+        color: #000099;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>upstream-blob-mirror</h1>
+
+    <blockquote>
+      Local mirror for artifacts used in other projects.
+    </blockquote>
+
+    <h2>repositories</h2>
+
+    <ul>

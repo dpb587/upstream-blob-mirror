@@ -5,7 +5,17 @@ set -eu -o pipefail
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/.."
 cd "$DIR"
 
-find . -name metalink | cut -c3- | xargs -n1 dirname | xargs -n1 ./bin/watch "$S3_BLOBS"
+# find . -name metalink | cut -c3- | xargs -n1 dirname | xargs -n1 ./bin/watch "$S3_BLOBS"
+
+cp index.html.header index.html
+
+for repo in $( find . -name metalink | cut -c3- | xargs -n1 dirname ); do
+  version=$( meta4-repo filter -n1 --format=version "file://./$repo" )
+
+  echo "      <li><a href=\"$repo/index.xml\">$repo</a> (<a href=\"$repo/v$version.meta4\">v$version</a>)</li>" >> index.html
+done
+
+cat index.html.footer >> index.html
 
 git add .
 git commit -m 'bump'
