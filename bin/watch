@@ -27,8 +27,10 @@ filename=$( meta4 files )
 metalink="v$version.meta4"
 
 if [ ! -e "$repository_dir/$metalink" ]; then
-  # cat metalink.meta4 | "$DIR/bin/import" "$origin" "$repository"
+  cat metalink.meta4 | "$DIR/bin/import" "$origin" "$repository"
 fi
+
+cd "$DIR"
 
 gitrepo=$( git remote -v | grep fetch | awk '{ print $2 }' )
 
