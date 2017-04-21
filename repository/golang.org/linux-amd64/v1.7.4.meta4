@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="go1.7.4.linux-amd64.tar.gz">
+    <hash type="sha-256">47fda42e46b4c3ec93fa5d4d4cc6a748aa3f9411a2a2b7e08e3a6d80d753ec8b</hash>
+    <hash type="md5">e3275d2a6d9814a01e12b3f0190af5bf</hash>
+    <hash type="sha-1">2e5baf03d1590e048c84d1d5b4b6f2540efaaea1</hash>
+    <hash type="sha-256">47fda42e46b4c3ec93fa5d4d4cc6a748aa3f9411a2a2b7e08e3a6d80d753ec8b</hash>
+    <hash type="sha-512">779ce3e6b59e2d80b0b7643c841c47541eb2490050099195000c5896bb0386f9b7a6df5d7e3ddd76c96918cfd29af75f62106d0c527339393a774191f0ca6275</hash>
+    <size>84021919</size>
+    <url priority="1000">https://storage.googleapis.com/golang/go1.7.4.linux-amd64.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2e5baf03d1590e048c84d1d5b4b6f2540efaaea1</url>
+    <version>1.7.4</version>
+  </file>
+</metalink>
