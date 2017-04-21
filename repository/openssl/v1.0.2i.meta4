@@ -18,7 +18,8 @@ B9p33iY66PL90lRPcYnPT6nEGf+ZHhDnesbX2NE/Ug458/cvroRWWhbYEMUm5xo=
 =Ho4k
 -----END PGP SIGNATURE-----]]></signature>
     <size>5308232</size>
-    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/25a92574ebad029dcf2fa26c02e10400a0882111</url>
+    <url priority="1000">https://www.openssl.org/source/openssl-1.0.2i.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/25a92574ebad029dcf2fa26c02e10400a0882111</url>
     <version>1.0.2i</version>
   </file>
 </metalink>

@@ -17,7 +17,8 @@ vMGS717ShcAX1BXh8aUeg9MYnBHtmB9NOgjkJW2LRjFwwrTgkD8xQoUrK7USs3g+
 =3/BP
 -----END PGP SIGNATURE-----]]></signature>
     <size>956517</size>
-    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/3658724f3c6d049cd1d24f02f1acb7f9be250886</url>
+    <url priority="1000">https://nginx.org/download/nginx-1.11.5.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/3658724f3c6d049cd1d24f02f1acb7f9be250886</url>
     <version>1.11.5</version>
   </file>
 </metalink>

@@ -7,7 +7,8 @@
     <hash type="sha-256">92acc6c067f5e015a6881b4119eafec10eca11722e810f2c2083f72e17119bcf</hash>
     <hash type="sha-512">d67500a9a998df13be9bc6da100a39a6ffe95fcf4d254cf60312a94b92ad0f77e45a6e050016dcf333050db1487266d37f51a68639e3a9da8e1a5ed592b70966</hash>
     <size>18316403</size>
-    <url>https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/59782e7b4378194d63a14662823a5f653b87becc</url>
+    <url priority="1000">http://us1.php.net/distributions/php-5.6.13.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/59782e7b4378194d63a14662823a5f653b87becc</url>
     <version>5.6.13</version>
   </file>
 </metalink>
