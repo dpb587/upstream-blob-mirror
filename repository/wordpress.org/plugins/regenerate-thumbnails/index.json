@@ -2,11 +2,11 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/plugins/regenerate-thumbnails",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/regenerate-thumbnails",
         "path": "v2.2.6.meta4",
         "version": "2017-04-12T18:34:37-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "regenerate-thumbnails.2.2.6.zip",
           "hashes": [

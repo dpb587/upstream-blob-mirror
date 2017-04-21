@@ -2,11 +2,11 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/lzo",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/lzo",
         "path": "v2.10.meta4",
         "version": "2017-04-12T18:32:14-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "lzo-2.10.tar.gz",
           "hashes": [
@@ -43,11 +43,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/lzo",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/lzo",
         "path": "v2.09.meta4",
         "version": "2017-04-14T20:50:56-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "lzo-2.09.tar.gz",
           "hashes": [

@@ -2,11 +2,11 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/plugins/google-apps-login",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-apps-login",
         "path": "v2.10.5.meta4",
         "version": "2017-04-12T18:34:25-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "google-apps-login.2.10.5.zip",
           "hashes": [

@@ -2,11 +2,11 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.12.0.meta4",
         "version": "2017-04-12T18:32:20-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.12.0.tar.gz",
           "hashes": [
@@ -39,11 +39,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.13.meta4",
         "version": "2017-04-15T13:55:40-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.13.tar.gz",
           "hashes": [
@@ -80,11 +80,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.12.meta4",
         "version": "2017-04-15T13:55:06-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.12.tar.gz",
           "hashes": [
@@ -121,11 +121,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.11.meta4",
         "version": "2017-04-15T13:54:45-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.11.tar.gz",
           "hashes": [
@@ -162,11 +162,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.10.meta4",
         "version": "2017-04-15T13:54:10-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.10.tar.gz",
           "hashes": [
@@ -203,11 +203,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.9.meta4",
         "version": "2017-04-15T13:53:36-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.9.tar.gz",
           "hashes": [
@@ -244,11 +244,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.8.meta4",
         "version": "2017-04-15T13:52:59-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.8.tar.gz",
           "hashes": [
@@ -285,11 +285,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.7.meta4",
         "version": "2017-04-15T13:52:20-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.7.tar.gz",
           "hashes": [
@@ -326,11 +326,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.6.meta4",
         "version": "2017-04-15T13:51:44-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.6.tar.gz",
           "hashes": [
@@ -367,11 +367,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.5.meta4",
         "version": "2017-04-15T13:51:06-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.5.tar.gz",
           "hashes": [
@@ -408,11 +408,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.4.meta4",
         "version": "2017-04-15T13:50:38-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.4.tar.gz",
           "hashes": [
@@ -449,11 +449,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.3.meta4",
         "version": "2017-04-15T13:50:07-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.3.tar.gz",
           "hashes": [
@@ -490,11 +490,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.2.meta4",
         "version": "2017-04-15T13:49:34-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.2.tar.gz",
           "hashes": [
@@ -531,11 +531,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.1.meta4",
         "version": "2017-04-15T13:49:04-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.1.tar.gz",
           "hashes": [
@@ -572,11 +572,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.11.0.meta4",
         "version": "2017-04-15T13:48:40-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.11.0.tar.gz",
           "hashes": [
@@ -613,11 +613,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.10.3.meta4",
         "version": "2017-04-15T14:05:36-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.10.3.tar.gz",
           "hashes": [
@@ -654,11 +654,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.10.2.meta4",
         "version": "2017-04-15T14:05:03-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.10.2.tar.gz",
           "hashes": [
@@ -695,11 +695,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.10.1.meta4",
         "version": "2017-04-15T14:04:35-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.10.1.tar.gz",
           "hashes": [
@@ -736,11 +736,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
         "path": "v1.10.0.meta4",
         "version": "2017-04-15T14:04:14-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "nginx-1.10.0.tar.gz",
           "hashes": [

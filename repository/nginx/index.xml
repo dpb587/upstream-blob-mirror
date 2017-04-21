@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.12.0.meta4</path>
       <version>2017-04-12T18:32:20-07:00</version>
     </repository-reference>
@@ -18,7 +18,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.13.meta4</path>
       <version>2017-04-15T13:55:40-07:00</version>
     </repository-reference>
@@ -45,7 +45,7 @@ BI+KN6U5QBFFHWNAzwty4zR71X6GPxYl+7GmxdHJ7jVsN6aZUzinSqw02fCCjt1Z
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.12.meta4</path>
       <version>2017-04-15T13:55:06-07:00</version>
     </repository-reference>
@@ -72,7 +72,7 @@ hmg/r2qW6xmNAQMfJ6EIE6LUPuTuvg==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.11.meta4</path>
       <version>2017-04-15T13:54:45-07:00</version>
     </repository-reference>
@@ -99,7 +99,7 @@ k2gd8iFdP4mSNiCZWV+D47tsicrZSg==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.10.meta4</path>
       <version>2017-04-15T13:54:10-07:00</version>
     </repository-reference>
@@ -126,7 +126,7 @@ qdp9Xhl2jdD2Hl+9cyr+GOpcL/qzPg==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.9.meta4</path>
       <version>2017-04-15T13:53:36-07:00</version>
     </repository-reference>
@@ -153,7 +153,7 @@ bPpdzuPx+0RgqXR1Rv9uomd3sCbMbg==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.8.meta4</path>
       <version>2017-04-15T13:52:59-07:00</version>
     </repository-reference>
@@ -179,7 +179,7 @@ pP6pcVWAjihHDoslMzPMEK/K7uxxN+PFfNtZ+xJMcYpDZwZfMn7I7pyuIeMeusA=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.7.meta4</path>
       <version>2017-04-15T13:52:20-07:00</version>
     </repository-reference>
@@ -205,7 +205,7 @@ LWs7C2zVN43lp2Cu+w9N22/NtKVIfmbur/EXLgLuQyg/nmCvhyO9cnxjeoBtNuY=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.6.meta4</path>
       <version>2017-04-15T13:51:44-07:00</version>
     </repository-reference>
@@ -231,7 +231,7 @@ ag/oHL8Cd2j6O0SQGCwHMyyiIKDwwWQQhA4NY28Eq/bq84+XHU2WSTKwONkyGxg=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.5.meta4</path>
       <version>2017-04-15T13:51:06-07:00</version>
     </repository-reference>
@@ -258,7 +258,7 @@ vMGS717ShcAX1BXh8aUeg9MYnBHtmB9NOgjkJW2LRjFwwrTgkD8xQoUrK7USs3g+
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.4.meta4</path>
       <version>2017-04-15T13:50:38-07:00</version>
     </repository-reference>
@@ -285,7 +285,7 @@ DmJGqiLUHjzeG8X5pmhI8tOXwJUP7qR4VZevu0FvziIOJtzJ0leK0XbrC/EjOZs=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.3.meta4</path>
       <version>2017-04-15T13:50:07-07:00</version>
     </repository-reference>
@@ -312,7 +312,7 @@ ZpCRCONaXnWxlmrimA/6nJGIp6zARe6IDClb8PWloxef2SR72bQXH4Q9uUPoZMc=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.2.meta4</path>
       <version>2017-04-15T13:49:34-07:00</version>
     </repository-reference>
@@ -339,7 +339,7 @@ KKMWmcV7dEjpXLEeI7MKi3OtThCzsFArTEDYVvFruAXjDbZiidCr0DZB4To2Lnc=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.1.meta4</path>
       <version>2017-04-15T13:49:04-07:00</version>
     </repository-reference>
@@ -366,7 +366,7 @@ Fqj5wd8DG3AYoIS38yuEldu0U9q7tKx+wbe/wjeXDlGYmSuwePmEeT4ZZ952XCQ=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.11.0.meta4</path>
       <version>2017-04-15T13:48:40-07:00</version>
     </repository-reference>
@@ -393,7 +393,7 @@ HVvsGXAsSw/nEXVlDczhFj4/7yWUzFT2yVxevdWkpF7paUM4dTg8tO6QzPgdnPx5
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.10.3.meta4</path>
       <version>2017-04-15T14:05:36-07:00</version>
     </repository-reference>
@@ -420,7 +420,7 @@ j5ATAEqueYge6s2wmx3lbIGNpY9wdA==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.10.2.meta4</path>
       <version>2017-04-15T14:05:03-07:00</version>
     </repository-reference>
@@ -447,7 +447,7 @@ S9fs2WNJLRMUyb1djRzU5CfwgYGmuAwJDjYuFp1cclpGKyxp8g0vPxnEQWAD8hI=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.10.1.meta4</path>
       <version>2017-04-15T14:04:35-07:00</version>
     </repository-reference>
@@ -474,7 +474,7 @@ qRGVPJHCJelnm6ttK/UO79kWcjkICedaiYvcXYD5Mt1ndxUrSoWYlhDHFaZ4QWu0
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/nginx</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx</repository>
       <path>v1.10.0.meta4</path>
       <version>2017-04-15T14:04:14-07:00</version>
     </repository-reference>

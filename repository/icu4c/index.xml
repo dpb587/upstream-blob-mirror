@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/icu4c</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/icu4c</repository>
       <path>v59.1.meta4</path>
       <version>2017-04-16T13:13:19-07:00</version>
     </repository-reference>
@@ -20,7 +20,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/icu4c</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/icu4c</repository>
       <path>v58.2.meta4</path>
       <version>2017-04-12T18:31:49-07:00</version>
     </repository-reference>

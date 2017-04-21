@@ -2,11 +2,11 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/wordpress",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/wordpress",
         "path": "v4.7.3.meta4",
         "version": "2017-04-12T18:35:48-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "wordpress-4.7.3.tar.gz",
           "hashes": [
@@ -43,11 +43,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/wordpress",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/wordpress",
         "path": "v4.7.2.meta4",
         "version": "2017-04-13T22:18:03-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "wordpress-4.7.2.tar.gz",
           "hashes": [
@@ -84,11 +84,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/wordpress",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/wordpress",
         "path": "v4.7.1.meta4",
         "version": "2017-04-13T22:22:12-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "wordpress-4.7.1.tar.gz",
           "hashes": [

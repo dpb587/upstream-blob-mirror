@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.1.0e.meta4</path>
       <version>2017-04-12T18:32:31-07:00</version>
     </repository-reference>
@@ -19,7 +19,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.1.0d.meta4</path>
       <version>2017-04-15T10:01:39-07:00</version>
     </repository-reference>
@@ -46,7 +46,7 @@ TxU7TuRb2/k52baoc8Np9JFLmQCWjZNPZ7zB7EnoTB2qokboO/b1/KXClA0zzRY=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.1.0c.meta4</path>
       <version>2017-04-15T09:58:53-07:00</version>
     </repository-reference>
@@ -73,7 +73,7 @@ no+VkssaY7385gKKCq6cc5zNqkbXh0H/AjFiVTJf7NyCs11rwWOZMY9QQy8snqo=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.1.0b.meta4</path>
       <version>2017-04-15T09:56:12-07:00</version>
     </repository-reference>
@@ -101,7 +101,7 @@ rW6+mqEtgk5wJoK4MMY9xLnWUsXPHwHZEFJ5ui9aRTJ2DiE0FF7/3dbkYDcHvtpH
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.1.0a.meta4</path>
       <version>2017-04-15T09:52:17-07:00</version>
     </repository-reference>
@@ -129,7 +129,7 @@ l6O9LxbG7RmeeYBKUvkamzoXZiTljOR/A0ggEl8pL/w/47GYGSY9IgpA2k9+tV4=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2k.meta4</path>
       <version>2017-04-15T10:40:32-07:00</version>
     </repository-reference>
@@ -156,7 +156,7 @@ N/m9CUovBoqIv1nrSJeFNXuIuuHYt/1gflJBiem7QC9fNtdZuGlKXBq5bcL1qV8=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2j.meta4</path>
       <version>2017-04-15T10:38:03-07:00</version>
     </repository-reference>
@@ -184,7 +184,7 @@ yoyIzj1a/h8M/PJGzADgpxZAdE2cpZAlQAhZdQutst0GRma6i36HGzq4IUDwbCc=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2i.meta4</path>
       <version>2017-04-15T10:34:56-07:00</version>
     </repository-reference>
@@ -212,7 +212,7 @@ B9p33iY66PL90lRPcYnPT6nEGf+ZHhDnesbX2NE/Ug458/cvroRWWhbYEMUm5xo=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2h.meta4</path>
       <version>2017-04-15T10:33:00-07:00</version>
     </repository-reference>
@@ -240,7 +240,7 @@ wFOcJhcGUqKSxlHqukAusxeZLuXMzw7UmucLCDxW9ETB644KlZ3/8E4CkOlLNIM=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2g.meta4</path>
       <version>2017-04-15T10:30:04-07:00</version>
     </repository-reference>
@@ -268,7 +268,7 @@ sDIRZ18a5JOX/vWU0OmUXGhF7XXV93S1/1mKAAEXRJZOxzrneFuyv5b61t/xXCE=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2f.meta4</path>
       <version>2017-04-15T10:27:25-07:00</version>
     </repository-reference>
@@ -296,7 +296,7 @@ Oi1yVap1NlwfZeiNCwuVK5fWFfNlFACB3vzEEPnD3lVQhUFyDveyeP9AQsFc090=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2e.meta4</path>
       <version>2017-04-15T10:25:29-07:00</version>
     </repository-reference>
@@ -324,7 +324,7 @@ cNG5KdPe3tN3xCgR38k4/DKRNi4F1IVoe5YE7sk7U2wmG4dc5Z/9zGCTx+2atc0=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2d.meta4</path>
       <version>2017-04-15T10:22:46-07:00</version>
     </repository-reference>
@@ -352,7 +352,7 @@ uKYp7jxV0tdzZeQcuPIOxq74yGQuYTell+hHXKdlmYPrH8LL27ZUpVmGuCUrHBku
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2c.meta4</path>
       <version>2017-04-15T10:20:37-07:00</version>
     </repository-reference>
@@ -380,7 +380,7 @@ qAZ2okW/QfyPsfpLEiS5PpPoTDjMKL6rooJh4frE/CgxTj851Ab5AhTqQwIqghCB
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2b.meta4</path>
       <version>2017-04-15T10:17:50-07:00</version>
     </repository-reference>
@@ -408,7 +408,7 @@ SE2eudvw/zr8xBC0nGQ3GsBM7gmfmLAtIKwWBCZ6Lq4P+qd4PMaGIb4dNRZyxrI=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl</repository>
       <path>v1.0.2a.meta4</path>
       <version>2017-04-15T10:15:18-07:00</version>
     </repository-reference>

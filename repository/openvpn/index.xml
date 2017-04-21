@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openvpn</repository>
       <path>v2.4.1.meta4</path>
       <version>2017-04-12T18:32:40-07:00</version>
     </repository-reference>
@@ -29,7 +29,7 @@ t+V65CENp2mzWc4ek+BJjEB/nvZZdhAT64Q7l462Mq93dq64MooRwzc0AIB/KYs=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openvpn</repository>
       <path>v2.3.14.meta4</path>
       <version>2017-04-16T11:28:43-07:00</version>
     </repository-reference>
@@ -53,7 +53,7 @@ YigAoN/n5SK2vBIIjM5hl2CECqUpu4pW
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openvpn</repository>
       <path>v2.3.13.meta4</path>
       <version>2017-04-14T19:36:18-07:00</version>
     </repository-reference>
@@ -76,7 +76,7 @@ iEYEABECAAYFAlgbEikACgkQwp2X7RmNIqOWkgCggc+Ls/MZFRyMh9iMYhTOdZZg
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openvpn</repository>
       <path>v2.3.12.meta4</path>
       <version>2017-04-14T19:37:00-07:00</version>
     </repository-reference>
@@ -99,7 +99,7 @@ OOYAnAuEQKixVqs5bklXeTGtKdha6P71
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openvpn</repository>
       <path>v2.3.11.meta4</path>
       <version>2017-04-14T19:38:32-07:00</version>
     </repository-reference>
@@ -122,7 +122,7 @@ OY8An0PBjTG9p1pS7IIc/C9Y/sKedsKx
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openvpn</repository>
       <path>v2.3.10.meta4</path>
       <version>2017-04-14T19:39:05-07:00</version>
     </repository-reference>
@@ -145,7 +145,7 @@ XzEAn2WfGAwaVUHPCUB7TPzsDjHEKMwR
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openvpn</repository>
       <path>v2.3.9.meta4</path>
       <version>2017-04-14T19:41:01-07:00</version>
     </repository-reference>
@@ -168,7 +168,7 @@ iEYEABECAAYFAlZxZD4ACgkQwp2X7RmNIqOAGACbBMjAK+23VCb0OX5xn22OUIrM
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openvpn</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openvpn</repository>
       <path>v2.3.8.meta4</path>
       <version>2017-04-14T19:41:27-07:00</version>
     </repository-reference>

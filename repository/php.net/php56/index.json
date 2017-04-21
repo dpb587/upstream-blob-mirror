@@ -2,11 +2,11 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.30.meta4",
         "version": "2017-04-12T18:33:30-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.30.tar.gz",
           "hashes": [
@@ -43,11 +43,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.29.meta4",
         "version": "2017-04-15T03:44:42-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.29.tar.gz",
           "hashes": [
@@ -84,11 +84,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.28.meta4",
         "version": "2017-04-15T03:35:29-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.28.tar.gz",
           "hashes": [
@@ -125,11 +125,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.27.meta4",
         "version": "2017-04-15T03:27:03-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.27.tar.gz",
           "hashes": [
@@ -166,11 +166,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.26.meta4",
         "version": "2017-04-15T03:18:06-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.26.tar.gz",
           "hashes": [
@@ -207,11 +207,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.25.meta4",
         "version": "2017-04-15T03:09:34-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.25.tar.gz",
           "hashes": [
@@ -248,11 +248,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.24.meta4",
         "version": "2017-04-15T03:00:42-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.24.tar.gz",
           "hashes": [
@@ -289,11 +289,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.23.meta4",
         "version": "2017-04-15T02:51:19-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.23.tar.gz",
           "hashes": [
@@ -330,11 +330,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.22.meta4",
         "version": "2017-04-15T02:42:45-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.22.tar.gz",
           "hashes": [
@@ -371,11 +371,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.21.meta4",
         "version": "2017-04-15T02:33:26-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.21.tar.gz",
           "hashes": [
@@ -412,11 +412,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.20.meta4",
         "version": "2017-04-15T02:23:58-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.20.tar.gz",
           "hashes": [
@@ -453,11 +453,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.19.meta4",
         "version": "2017-04-15T02:13:36-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.19.tar.gz",
           "hashes": [
@@ -494,11 +494,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.18.meta4",
         "version": "2017-04-15T02:03:00-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.18.tar.gz",
           "hashes": [
@@ -535,11 +535,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.17.meta4",
         "version": "2017-04-15T01:52:53-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.17.tar.gz",
           "hashes": [
@@ -576,11 +576,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.16.meta4",
         "version": "2017-04-15T01:40:23-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.16.tar.gz",
           "hashes": [
@@ -617,11 +617,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.15.meta4",
         "version": "2017-04-15T01:29:16-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.15.tar.gz",
           "hashes": [
@@ -658,11 +658,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.14.meta4",
         "version": "2017-04-15T01:19:52-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.14.tar.gz",
           "hashes": [
@@ -699,11 +699,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.13.meta4",
         "version": "2017-04-15T01:10:20-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.13.tar.gz",
           "hashes": [
@@ -740,11 +740,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.12.meta4",
         "version": "2017-04-14T21:59:29-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.12.tar.gz",
           "hashes": [
@@ -781,11 +781,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.11.meta4",
         "version": "2017-04-14T21:50:32-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.11.tar.gz",
           "hashes": [
@@ -822,11 +822,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.10.meta4",
         "version": "2017-04-14T21:41:02-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.10.tar.gz",
           "hashes": [
@@ -863,11 +863,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.9.meta4",
         "version": "2017-04-14T21:31:42-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.9.tar.gz",
           "hashes": [
@@ -904,11 +904,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.8.meta4",
         "version": "2017-04-14T21:23:27-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.8.tar.gz",
           "hashes": [
@@ -945,11 +945,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.7.meta4",
         "version": "2017-04-14T21:15:18-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.7.tar.gz",
           "hashes": [
@@ -986,11 +986,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.6.meta4",
         "version": "2017-04-14T21:07:04-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.6.tar.gz",
           "hashes": [
@@ -1027,11 +1027,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.5.meta4",
         "version": "2017-04-14T20:59:29-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.5.tar.gz",
           "hashes": [
@@ -1068,11 +1068,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.4.meta4",
         "version": "2017-04-14T20:33:30-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.4.tar.gz",
           "hashes": [
@@ -1109,11 +1109,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.3.meta4",
         "version": "2017-04-14T20:26:19-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.3.tar.gz",
           "hashes": [
@@ -1150,11 +1150,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.2.meta4",
         "version": "2017-04-14T20:19:33-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.2.tar.gz",
           "hashes": [
@@ -1191,11 +1191,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.1.meta4",
         "version": "2017-04-14T20:14:29-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.1.tar.gz",
           "hashes": [
@@ -1232,11 +1232,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/php.net/php56",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
         "path": "v5.6.0.meta4",
         "version": "2017-04-14T20:09:42-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "php-5.6.0.tar.gz",
           "hashes": [

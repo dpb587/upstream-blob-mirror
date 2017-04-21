@@ -2,11 +2,11 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.1.0e.meta4",
         "version": "2017-04-12T18:32:31-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.1.0e.tar.gz",
           "hashes": [
@@ -43,11 +43,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.1.0d.meta4",
         "version": "2017-04-15T10:01:39-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.1.0d.tar.gz",
           "hashes": [
@@ -88,11 +88,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.1.0c.meta4",
         "version": "2017-04-15T09:58:53-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.1.0c.tar.gz",
           "hashes": [
@@ -133,11 +133,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.1.0b.meta4",
         "version": "2017-04-15T09:56:12-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.1.0b.tar.gz",
           "hashes": [
@@ -178,11 +178,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.1.0a.meta4",
         "version": "2017-04-15T09:52:17-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.1.0a.tar.gz",
           "hashes": [
@@ -223,11 +223,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2k.meta4",
         "version": "2017-04-15T10:40:32-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2k.tar.gz",
           "hashes": [
@@ -268,11 +268,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2j.meta4",
         "version": "2017-04-15T10:38:03-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2j.tar.gz",
           "hashes": [
@@ -313,11 +313,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2i.meta4",
         "version": "2017-04-15T10:34:56-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2i.tar.gz",
           "hashes": [
@@ -358,11 +358,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2h.meta4",
         "version": "2017-04-15T10:33:00-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2h.tar.gz",
           "hashes": [
@@ -403,11 +403,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2g.meta4",
         "version": "2017-04-15T10:30:04-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2g.tar.gz",
           "hashes": [
@@ -448,11 +448,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2f.meta4",
         "version": "2017-04-15T10:27:25-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2f.tar.gz",
           "hashes": [
@@ -493,11 +493,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2e.meta4",
         "version": "2017-04-15T10:25:29-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2e.tar.gz",
           "hashes": [
@@ -538,11 +538,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2d.meta4",
         "version": "2017-04-15T10:22:46-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2d.tar.gz",
           "hashes": [
@@ -583,11 +583,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2c.meta4",
         "version": "2017-04-15T10:20:37-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2c.tar.gz",
           "hashes": [
@@ -628,11 +628,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2b.meta4",
         "version": "2017-04-15T10:17:50-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2b.tar.gz",
           "hashes": [
@@ -673,11 +673,11 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/openssl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
         "path": "v1.0.2a.meta4",
         "version": "2017-04-15T10:15:18-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "openssl-1.0.2a.tar.gz",
           "hashes": [

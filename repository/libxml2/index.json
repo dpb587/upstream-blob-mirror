@@ -2,11 +2,11 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/libxml2",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/libxml2",
         "path": "v2.9.4.meta4",
         "version": "2017-04-12T18:32:04-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "libxml2-2.9.4.tar.gz",
           "hashes": [

@@ -2,11 +2,11 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/wordpress.org/plugins/oembed-provider",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/oembed-provider",
         "path": "v2.1.0.meta4",
         "version": "2017-04-12T18:34:30-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "oembed-provider.2.1.0.zip",
           "hashes": [

@@ -2,11 +2,54 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repos/curl",
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/curl",
+        "path": "v7.54.0.meta4",
+        "version": "2017-04-19T20:55:55-07:00"
+      },
+      "files": [
+        {
+          "name": "curl-7.54.0.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "18091896d871982cc4c2b307885eacb3"
+            },
+            {
+              "type": "sha-1",
+              "hash": "be5b7f10fc34722e324e8c552fcdfe120e164836"
+            },
+            {
+              "type": "sha-256",
+              "hash": "a84b635941c74e26cce69dd817489bec687eb1f230e7d1897fc5b5f108b59adf"
+            },
+            {
+              "type": "sha-512",
+              "hash": "57f73a4ffece65f4e12e30b1d4be4f54f434693ba64d32eca0da036830389854b699a6e0ad6c3d9e847eab73981de6d8ebdb1820cc8a40a5d163aec37ab554aa"
+            }
+          ],
+          "size": 3498551,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://curl.askapache.com/download/curl-7.54.0.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/be5b7f10fc34722e324e8c552fcdfe120e164836"
+            }
+          ],
+          "version": "7.54.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/curl",
         "path": "v7.53.1.meta4",
         "version": "2017-04-12T18:31:28-07:00"
       },
-      "file": [
+      "files": [
         {
           "name": "curl-7.53.1.tar.gz",
           "hashes": [
