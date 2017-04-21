@@ -17,7 +17,7 @@
     <h1>upstream-blob-mirror</h1>
 
     <blockquote>
-      Local mirror for artifacts used in other projects.
+      Local mirror for artifacts in other projects using metalinks and a few assumptions.
     </blockquote>
 
     <h2>repositories</h2>
