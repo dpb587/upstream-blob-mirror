@@ -8,6 +8,8 @@ cd "$DIR"
 origin="$1"
 repository="$2"
 
+gitdir=$PWD
+
 cd "$repository"
 repository_dir="$PWD"
 
@@ -25,8 +27,15 @@ filename=$( meta4 files )
 metalink="v$version.meta4"
 
 if [ ! -e "$repository_dir/$metalink" ]; then
-  cat metalink.meta4 | "$DIR/bin/import" "$origin" "$repository"
+  # cat metalink.meta4 | "$DIR/bin/import" "$origin" "$repository"
 fi
 
-meta4-repo filter "file://$repository_dir" > "$repository_dir/index.xml"
-meta4-repo filter --format=json "file://$repository_dir" > "$repository_dir/index.json"
+gitrepo=$( git remote -v | grep fetch | awk '{ print $2 }' )
+
+meta4-repo filter "git+file://$gitdir//$repository" \
+  | sed "s#git+file://$gitdir//#$gitrepo//#" \
+  > "$repository_dir/index.xml"
+
+meta4-repo filter --format=json "git+file://$gitdir//$repository" \
+  | sed "s#git+file://$gitdir//#$gitrepo//#" \
+  > "$repository_dir/index.json"

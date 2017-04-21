@@ -2,9 +2,9 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.1.0e.meta4",
-        "version": "2017-04-12T18:32:31-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -34,6 +34,12 @@
           "size": 5202247,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.1.0e.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/8bbbaf36feffadd3cb9110912a8192e665ebca4b"
             }
           ],
@@ -43,9 +49,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.1.0d.meta4",
-        "version": "2017-04-15T10:01:39-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -79,6 +85,12 @@
           "size": 5201626,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.1.0d.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f423e9253ad8a8617fc9fb3562788a9fa066d46f"
             }
           ],
@@ -88,9 +100,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.1.0c.meta4",
-        "version": "2017-04-15T09:58:53-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -124,6 +136,12 @@
           "size": 5179668,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.1.0c.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/920e6e7bdaccd94d7564af1097176f11900d20ca"
             }
           ],
@@ -133,9 +151,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.1.0b.meta4",
-        "version": "2017-04-15T09:56:12-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -169,6 +187,12 @@
           "size": 5162355,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.1.0b.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/cbf391d0d68a9f144c24c5c3c5028c07fa00264c"
             }
           ],
@@ -178,9 +202,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.1.0a.meta4",
-        "version": "2017-04-15T09:52:17-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -214,6 +238,12 @@
           "size": 5161414,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.1.0a.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/335d7168b612efd3cf16f621b09d4cd5af4232a6"
             }
           ],
@@ -223,9 +253,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2k.meta4",
-        "version": "2017-04-15T10:40:32-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -259,6 +289,12 @@
           "size": 5309236,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2k.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/5f26a624479c51847ebd2f22bb9f84b3b44dcb44"
             }
           ],
@@ -268,9 +304,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2j.meta4",
-        "version": "2017-04-15T10:38:03-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -304,6 +340,12 @@
           "size": 5307912,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2j.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/bdfbdb416942f666865fa48fe13c2d0e588df54f"
             }
           ],
@@ -313,9 +355,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2i.meta4",
-        "version": "2017-04-15T10:34:56-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -349,6 +391,12 @@
           "size": 5308232,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2i.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/25a92574ebad029dcf2fa26c02e10400a0882111"
             }
           ],
@@ -358,9 +406,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2h.meta4",
-        "version": "2017-04-15T10:33:00-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -394,6 +442,12 @@
           "size": 5274412,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2h.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/577585f5f5d299c44dd3c993d3c0ac7a219e4949"
             }
           ],
@@ -403,9 +457,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2g.meta4",
-        "version": "2017-04-15T10:30:04-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -439,6 +493,12 @@
           "size": 5266102,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2g.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/36af23887402a5ea4ebef91df8e61654906f58f2"
             }
           ],
@@ -448,9 +508,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2f.meta4",
-        "version": "2017-04-15T10:27:25-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -484,6 +544,12 @@
           "size": 5258384,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2f.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2047c592a6e5a42bd37970bdb4a931428110a927"
             }
           ],
@@ -493,9 +559,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2e.meta4",
-        "version": "2017-04-15T10:25:29-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -529,6 +595,12 @@
           "size": 5256555,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2e.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2c5691496761cb18f98476eefa4d35c835448fb6"
             }
           ],
@@ -538,9 +610,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2d.meta4",
-        "version": "2017-04-15T10:22:46-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -574,6 +646,12 @@
           "size": 5295447,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2d.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d01d17b44663e8ffa6a33a5a30053779d9593c3d"
             }
           ],
@@ -583,9 +661,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2c.meta4",
-        "version": "2017-04-15T10:20:37-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -619,6 +697,12 @@
           "size": 5280670,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2c.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/6e4a5e91159eb32383296c7c83ac0e59b83a0a44"
             }
           ],
@@ -628,9 +712,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2b.meta4",
-        "version": "2017-04-15T10:17:50-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -664,6 +748,12 @@
           "size": 5281009,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2b.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/9006e53ca56a14d041e3875320eedfa63d82aba7"
             }
           ],
@@ -673,9 +763,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
         "path": "v1.0.2a.meta4",
-        "version": "2017-04-15T10:15:18-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -709,6 +799,12 @@
           "size": 5262089,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.0.2a.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/46ecd325b8e587fa491f6bb02ad4a9fb9f382f5f"
             }
           ],

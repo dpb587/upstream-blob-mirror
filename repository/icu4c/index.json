@@ -2,9 +2,9 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/icu4c",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/icu4c",
         "path": "v59.1.meta4",
-        "version": "2017-04-16T13:13:19-07:00"
+        "version": "1815117dc6f79a564cb3bcbad5960bd4e1bb194f"
       },
       "files": [
         {
@@ -49,9 +49,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/icu4c",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/icu4c",
         "path": "v58.2.meta4",
-        "version": "2017-04-12T18:31:49-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -81,6 +81,12 @@
           "size": 23369902,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://download.icu-project.org/files/icu4c/58.2/icu4c-58_2-src.tgz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/b67913c90a484c59fda011797c6f3959d84bdc7c"
             }
           ],

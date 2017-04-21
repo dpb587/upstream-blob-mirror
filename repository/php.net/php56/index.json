@@ -2,9 +2,9 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.30.meta4",
-        "version": "2017-04-12T18:33:30-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -34,6 +34,12 @@
           "size": 19274631,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.30.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/98c95bc9a48eefad5bbb4f05fb5cd51ff390fe48"
             }
           ],
@@ -43,9 +49,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.29.meta4",
-        "version": "2017-04-15T03:44:42-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -75,6 +81,12 @@
           "size": 19268105,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.29.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f5e45a16e4edb8e4acde9892923a85ba4fb20628"
             }
           ],
@@ -84,9 +96,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.28.meta4",
-        "version": "2017-04-15T03:35:29-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -116,6 +128,12 @@
           "size": 19264268,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.28.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/96b15bc468645563c2b056772354eba36a05c2f4"
             }
           ],
@@ -125,9 +143,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.27.meta4",
-        "version": "2017-04-15T03:27:03-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -157,6 +175,12 @@
           "size": 19258986,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.27.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/183852761e7f49825449899d14066b4299fec7f9"
             }
           ],
@@ -166,9 +190,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.26.meta4",
-        "version": "2017-04-15T03:18:06-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -198,6 +222,12 @@
           "size": 19225892,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.26.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/e019f790fd5bd431d2d4ba7c756f6f4c9bad9bc9"
             }
           ],
@@ -207,9 +237,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.25.meta4",
-        "version": "2017-04-15T03:09:34-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -239,6 +269,12 @@
           "size": 19206852,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.25.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/1108a11a2e280d69045ed5fab77339951464547d"
             }
           ],
@@ -248,9 +284,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.24.meta4",
-        "version": "2017-04-15T03:00:42-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -280,6 +316,12 @@
           "size": 19188810,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.24.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/526ee58fb29dd1b5192d4268fc427a9eeb23cfa3"
             }
           ],
@@ -289,9 +331,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.23.meta4",
-        "version": "2017-04-15T02:51:19-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -321,6 +363,12 @@
           "size": 18428932,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.23.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f730e5c78b939b4b920402633e417fcfd0111e7f"
             }
           ],
@@ -330,9 +378,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.22.meta4",
-        "version": "2017-04-15T02:42:45-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -362,6 +410,12 @@
           "size": 18417702,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.22.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/c6a8f51fb2dd7ff3c66cd4ebe4f1b41f9c690fb5"
             }
           ],
@@ -371,9 +425,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.21.meta4",
-        "version": "2017-04-15T02:33:26-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -403,6 +457,12 @@
           "size": 18415513,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.21.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2d58b68c5985df97adc8f80066dcc255392e009e"
             }
           ],
@@ -412,9 +472,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.20.meta4",
-        "version": "2017-04-15T02:23:58-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -444,6 +504,12 @@
           "size": 18405733,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.20.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/581be55ce0d915020434237d4a8e15420877a7ef"
             }
           ],
@@ -453,9 +519,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.19.meta4",
-        "version": "2017-04-15T02:13:36-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -485,6 +551,12 @@
           "size": 18355694,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.19.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/5c169411e489d6a02f2acb1bb71e586a9f2ebdee"
             }
           ],
@@ -494,9 +566,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.18.meta4",
-        "version": "2017-04-15T02:03:00-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -526,6 +598,12 @@
           "size": 18345360,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.18.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2b4a4759f7e5c16a2355ddd911c4b6b8a5e28035"
             }
           ],
@@ -535,9 +613,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.17.meta4",
-        "version": "2017-04-15T01:52:53-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -567,6 +645,12 @@
           "size": 18319446,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.17.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/86346be2ef7a3227046b1819d906e2547ae927c6"
             }
           ],
@@ -576,9 +660,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.16.meta4",
-        "version": "2017-04-15T01:40:23-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -608,6 +692,12 @@
           "size": 18319620,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.16.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/666ddf8b4d425b1f679138ac1262ad304e104add"
             }
           ],
@@ -617,9 +707,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.15.meta4",
-        "version": "2017-04-15T01:29:16-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -649,6 +739,12 @@
           "size": 18312905,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.15.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/0fa11c709b169da3797d65cab945f1f6fbfde9a2"
             }
           ],
@@ -658,9 +754,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.14.meta4",
-        "version": "2017-04-15T01:19:52-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -690,6 +786,12 @@
           "size": 18321346,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.14.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d1c2b160450ed3486bcbf009e43c9697f2203a23"
             }
           ],
@@ -699,9 +801,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.13.meta4",
-        "version": "2017-04-15T01:10:20-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -731,6 +833,12 @@
           "size": 18316403,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.13.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/59782e7b4378194d63a14662823a5f653b87becc"
             }
           ],
@@ -740,9 +848,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.12.meta4",
-        "version": "2017-04-14T21:59:29-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -772,6 +880,12 @@
           "size": 18331135,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.12.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/0912a4c7742752fdc1a8e77b9bf6c9202f0c3d2d"
             }
           ],
@@ -781,9 +895,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.11.meta4",
-        "version": "2017-04-14T21:50:32-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -813,6 +927,12 @@
           "size": 18319185,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.11.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/ed572049e6be08a7595d722986d29ff9a7f636e9"
             }
           ],
@@ -822,9 +942,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.10.meta4",
-        "version": "2017-04-14T21:41:02-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -854,6 +974,12 @@
           "size": 18306403,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.10.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/63c3fe2a52f3d423e08259feb221119e13b417d0"
             }
           ],
@@ -863,9 +989,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.9.meta4",
-        "version": "2017-04-14T21:31:42-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -895,6 +1021,12 @@
           "size": 18281659,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.9.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/126685c4b6447371d54635b36c09ab920e4f26d7"
             }
           ],
@@ -904,9 +1036,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.8.meta4",
-        "version": "2017-04-14T21:23:27-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -936,6 +1068,12 @@
           "size": 17795907,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.8.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/63f4a0ef50ed4036d8b0366bc20a6afaa540f666"
             }
           ],
@@ -945,9 +1083,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.7.meta4",
-        "version": "2017-04-14T21:15:18-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -977,6 +1115,12 @@
           "size": 17756830,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.7.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/e2225fe32290f1c80bf653ae8d52e2cd791318da"
             }
           ],
@@ -986,9 +1130,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.6.meta4",
-        "version": "2017-04-14T21:07:04-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -1018,6 +1162,12 @@
           "size": 17748266,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.6.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/72668d1eb8d962362ec83714f88094aaadf43d0b"
             }
           ],
@@ -1027,9 +1177,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.5.meta4",
-        "version": "2017-04-14T20:59:29-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -1059,6 +1209,12 @@
           "size": 17601599,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.5.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7adaa68b2fc2d6827e65f18d19471def708ecd9d"
             }
           ],
@@ -1068,9 +1224,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.4.meta4",
-        "version": "2017-04-14T20:33:30-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -1100,6 +1256,12 @@
           "size": 17535758,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.4.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/a41a21cb2502c5978fe3eb217f5335e4e5501e74"
             }
           ],
@@ -1109,9 +1271,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.3.meta4",
-        "version": "2017-04-14T20:26:19-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -1141,6 +1303,12 @@
           "size": 17514721,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.3.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d22818e06441b5de527953bb89a123797eae1931"
             }
           ],
@@ -1150,9 +1318,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.2.meta4",
-        "version": "2017-04-14T20:19:33-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -1182,6 +1350,12 @@
           "size": 17500319,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.2.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/4a1f11967bd0aa6a470914c030059a797719e09d"
             }
           ],
@@ -1191,9 +1365,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.1.meta4",
-        "version": "2017-04-14T20:14:29-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -1223,6 +1397,12 @@
           "size": 17500986,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.1.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/1517200ac494fc69018221e390d9c810e13708c0"
             }
           ],
@@ -1232,9 +1412,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/php.net/php56",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
         "path": "v5.6.0.meta4",
-        "version": "2017-04-14T20:09:42-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -1264,6 +1444,12 @@
           "size": 17482147,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.0.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/e5b564ddcb11af8989a0de7fc76bb887dc3f83f9"
             }
           ],

@@ -2,9 +2,9 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/yet-another-related-posts-plugin",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin",
         "path": "v4.4.meta4",
-        "version": "2017-04-12T18:35:06-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -30,6 +30,12 @@
           "size": 756360,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://downloads.wordpress.org/plugin/yet-another-related-posts-plugin.4.4.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/61d764d71d921f07b7c69e525f9c882ae12b93ce"
             }
           ],

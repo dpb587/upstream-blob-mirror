@@ -2,9 +2,9 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.12.0.meta4",
-        "version": "2017-04-12T18:32:20-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -30,6 +30,12 @@
           "size": 980831,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.12.0.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/40733c030d0096fe56513c0a4da65c682ca0a18b"
             }
           ],
@@ -39,9 +45,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.13.meta4",
-        "version": "2017-04-15T13:55:40-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -71,6 +77,12 @@
           "size": 980784,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.13.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/84f27729754796181dc39d47da761c7e85eb3ae2"
             }
           ],
@@ -80,9 +92,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.12.meta4",
-        "version": "2017-04-15T13:55:06-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -112,6 +124,12 @@
           "size": 979963,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.12.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/75a5cee8a468aec4b53082fbacd9a531b4a729fa"
             }
           ],
@@ -121,9 +139,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.11.meta4",
-        "version": "2017-04-15T13:54:45-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -153,6 +171,12 @@
           "size": 979864,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.11.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2ace229d7108c023201eb4de0556ae7f5cc60e38"
             }
           ],
@@ -162,9 +186,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.10.meta4",
-        "version": "2017-04-15T13:54:10-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -194,6 +218,12 @@
           "size": 967773,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.10.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d9c4e3361c0802eaa90aa924b8981c5d3ed771dc"
             }
           ],
@@ -203,9 +233,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.9.meta4",
-        "version": "2017-04-15T13:53:36-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -235,6 +265,12 @@
           "size": 965463,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.9.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d8f225e7bb9503ee9084c25f6056a3493dfd4db8"
             }
           ],
@@ -244,9 +280,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.8.meta4",
-        "version": "2017-04-15T13:52:59-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -276,6 +312,12 @@
           "size": 964918,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.8.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/6946c4304aba1e8eef375fc620f569cdd3e3f080"
             }
           ],
@@ -285,9 +327,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.7.meta4",
-        "version": "2017-04-15T13:52:20-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -317,6 +359,12 @@
           "size": 962302,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.7.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/6a0efd3ba54721620e775820c0505a95e99863cd"
             }
           ],
@@ -326,9 +374,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.6.meta4",
-        "version": "2017-04-15T13:51:44-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -358,6 +406,12 @@
           "size": 960331,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.6.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/51903b721a5ee721568fc59f0a243df5356a98de"
             }
           ],
@@ -367,9 +421,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.5.meta4",
-        "version": "2017-04-15T13:51:06-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -399,6 +453,12 @@
           "size": 956517,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.5.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/3658724f3c6d049cd1d24f02f1acb7f9be250886"
             }
           ],
@@ -408,9 +468,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.4.meta4",
-        "version": "2017-04-15T13:50:38-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -440,6 +500,12 @@
           "size": 949793,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.4.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/c7744e5dadaae090adfabca27e18aca67ce7be9a"
             }
           ],
@@ -449,9 +515,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.3.meta4",
-        "version": "2017-04-15T13:50:07-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -481,6 +547,12 @@
           "size": 938045,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.3.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/dbccb96ac381118ae8d527947f03b93d5ec51017"
             }
           ],
@@ -490,9 +562,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.2.meta4",
-        "version": "2017-04-15T13:49:34-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -522,6 +594,12 @@
           "size": 924979,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.2.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/3d6b4a0ea0f5b09bf83537111a8c80a3f26f81ae"
             }
           ],
@@ -531,9 +609,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.1.meta4",
-        "version": "2017-04-15T13:49:04-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -563,6 +641,12 @@
           "size": 913417,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.1.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/6b6172b26628b95c4ad0d6cb5b11eb4aa59c2a83"
             }
           ],
@@ -572,9 +656,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.11.0.meta4",
-        "version": "2017-04-15T13:48:40-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -604,6 +688,12 @@
           "size": 913282,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.11.0.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/48bd31f33e3017cc8f4c68b85363dae0c5c1f6ea"
             }
           ],
@@ -613,9 +703,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.10.3.meta4",
-        "version": "2017-04-15T14:05:36-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -645,6 +735,12 @@
           "size": 911509,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.10.3.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/95cf32c3e33efc53ac81338a5779fbaa425f02e2"
             }
           ],
@@ -654,9 +750,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.10.2.meta4",
-        "version": "2017-04-15T14:05:03-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -686,6 +782,12 @@
           "size": 910812,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.10.2.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/1bafb1557b8d5f992714c0dcbde77036bde98547"
             }
           ],
@@ -695,9 +797,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.10.1.meta4",
-        "version": "2017-04-15T14:04:35-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -727,6 +829,12 @@
           "size": 909077,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.10.1.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/9c5d4e06d309bbe2efa41f09dd53912e3c3d3a75"
             }
           ],
@@ -736,9 +844,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/nginx",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.10.0.meta4",
-        "version": "2017-04-15T14:04:14-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -768,6 +876,12 @@
           "size": 908954,
           "url": [
             {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.10.0.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7a452cfe37e4134481442dbfa3fbdac6f484c5bc"
             }
           ],

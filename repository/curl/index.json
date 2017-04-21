@@ -2,9 +2,9 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/curl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/curl",
         "path": "v7.54.0.meta4",
-        "version": "2017-04-19T20:55:55-07:00"
+        "version": "909d59e91465908d15c7f315a5869cce3449817e"
       },
       "files": [
         {
@@ -45,9 +45,9 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/curl",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/curl",
         "path": "v7.53.1.meta4",
-        "version": "2017-04-12T18:31:28-07:00"
+        "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
       "files": [
         {
@@ -73,6 +73,12 @@
           "size": 3516153,
           "url": [
             {
+              "priority": 1000,
+              "url": "http://curl.askapache.com/download/curl-7.53.1.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
               "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/6cdc776ef2bcf3271f4cfd1129c6b44b5a2366e7"
             }
           ],
