@@ -90,4 +90,22 @@
       <version>2.11.0</version>
     </file>
   </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/git</repository>
+      <path>v2.10.2.meta4</path>
+      <version>2017-04-21T19:02:30-07:00</version>
+    </repository-reference>
+    <file name="git-2.10.2.tar.gz">
+      <hash type="sha-256">3d7ef275d80b97aaa61f3b6be9d3dc516202e6f6f5d885f2c09b59eba592dcc4</hash>
+      <hash type="md5">45e8b30a9e7c1b734128cc0fc6663619</hash>
+      <hash type="sha-1">3f64596bd82b8d33d862da8ee15f352dd1a61d41</hash>
+      <hash type="sha-256">3d7ef275d80b97aaa61f3b6be9d3dc516202e6f6f5d885f2c09b59eba592dcc4</hash>
+      <hash type="sha-512">d8ee88732eed027f5cb822f003a17e4cf249c23927a6c6ff55cff49aa3b6951396375576d25f635bebe34ddbdfae5885cd69cee2c48d3848bed0ed9bebb60fb0</hash>
+      <size>6065116</size>
+      <url priority="1000">https://www.kernel.org/pub/software/scm/git/git-2.10.2.tar.gz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/3f64596bd82b8d33d862da8ee15f352dd1a61d41</url>
+      <version>2.10.2</version>
+    </file>
+  </metalink>
 </repository>
