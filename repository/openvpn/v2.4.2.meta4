@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="openvpn-2.4.2.tar.gz">
+    <hash type="md5">0714019e109a043e858278c9e2ca18e0</hash>
+    <hash type="sha-1">d3db7126774354a47c8b7e21ed1ce9fcb4691737</hash>
+    <hash type="sha-256">b24740c9d44a81eaf2befc4846d51445a520104321e32aaf0c135ed2e098a624</hash>
+    <hash type="sha-512">9be3cef25f398c426087581d8bb2589ae2a3a1b3b812c73f7e9a4d3c35098421eea3099b33fc90606162d0429dcd7d9ae3449af89602e060e47cd4c053720e72</hash>
+    <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAABAgAGBQJZFE4hAAoJEClYTZ9AhkV4zWIIALez++J6Jp4+fMpjEzEkwnJ4
+1dLzkvmHblU+aQMDuP9jpGwhXj5GNOOyTRzQQRsjZCmsk+Kb4G7yo58OiIhPU3Re
+zg4GPD38SdytodVY4UWls0q4c/kJm1Rnb9go2g11FsQcINwXzRw15JwZQdOFMcBy
+F0nOOrLS6LyPLUXcOqMr4FEWM7FzdB1hPYSK0S1FxylH0KLehjCJTsSxNoesJrB7
+MoQOwXtobBwlLdV6Ttb2C4PbTds1g8yszq+KaBV2+QowcQSn+nDvTXejOS8P5DD1
+ZguupcjZGlzOQEqf4e+18hG6/DxqSuQX2SsK2OeHVSVq13ueH+6ukW6ZKsMbbeQ=
+=6UzZ
+-----END PGP SIGNATURE-----]]></signature>
+    <size>1402516</size>
+    <url priority="1000">https://swupdate.openvpn.org/community/releases/openvpn-2.4.2.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d3db7126774354a47c8b7e21ed1ce9fcb4691737</url>
+    <version>2.4.2</version>
+  </file>
+</metalink>
