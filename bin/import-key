@@ -14,6 +14,6 @@ keyid=$(
     | tr -d ':'
 )
 
-mkdir -p repos/$1/metalink.asc
+mkdir -p repository/$1/metalink.asc
 
-mv /tmp/ubr-import-key repos/$1/metalink.asc/$keyid.asc
+mv /tmp/ubr-import-key repository/$1/metalink.asc/$keyid.asc
