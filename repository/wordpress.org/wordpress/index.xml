@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/wordpress</repository>
       <path>v4.7.5.meta4</path>
-      <version>2017-05-18T22:47:13-07:00</version>
+      <version>b1ad1f9b69ecb2d4e93400a9aa67cf56a8e737c6</version>
     </repository-reference>
     <file name="wordpress-4.7.5.tar.gz">
       <hash type="sha-1">fbe0ee1d9010265be200fe50b86f341587187302</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/wordpress</repository>
       <path>v4.7.4.meta4</path>
-      <version>2017-04-20T20:58:47-07:00</version>
+      <version>c88d9ca6bfa4ce286c1f5c8308c67b16b3b2a74f</version>
     </repository-reference>
     <file name="wordpress-4.7.4.tar.gz">
       <hash type="sha-1">153592ccbb838cafa1220de9174ec965df2e9e1a</hash>
@@ -37,9 +37,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/wordpress</repository>
       <path>v4.7.3.meta4</path>
-      <version>2017-04-20T20:54:09-07:00</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="wordpress-4.7.3.tar.gz">
       <hash type="sha-1">35adcd8162eae00d5bc37f35344fdc06b22ffc98</hash>
@@ -55,9 +55,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/wordpress</repository>
       <path>v4.7.2.meta4</path>
-      <version>2017-04-20T20:54:04-07:00</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="wordpress-4.7.2.tar.gz">
       <hash type="sha-1">7b687f1af589c337124e6247229af209ec1d52c3</hash>
@@ -73,9 +73,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/wordpress</repository>
       <path>v4.7.1.meta4</path>
-      <version>2017-04-20T20:53:57-07:00</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="wordpress-4.7.1.tar.gz">
       <hash type="sha-1">8e56ba56c10a3f245c616b13e46bd996f63793d6</hash>

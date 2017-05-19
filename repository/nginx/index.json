@@ -3,6 +3,53 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
+        "path": "v1.13.0.meta4",
+        "version": "a73cd663ed09555164bce224cdba5b1ea47e53fa"
+      },
+      "files": [
+        {
+          "name": "nginx-1.13.0.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "0ff7057465d5622c5b1279e91b273e96"
+            },
+            {
+              "type": "sha-1",
+              "hash": "50cbc635b72645aa0317e3b5aa256626d4b9e23a"
+            },
+            {
+              "type": "sha-256",
+              "hash": "79f52ab6550f854e14439369808105b5780079769d7b8db3856be03c683605d7"
+            },
+            {
+              "type": "sha-512",
+              "hash": "54745876db546cc4d42ef048159bf6f9584278989f03e7e3451597eacbaad7713f9bf9bf93fc540a1be13380281d499f4aa4f27dcdfd3e860bc1203c9cde314b"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEsPQlM3P49vUQ1CF4UgqZk6HAUvgFAlj/W7gACgkQUgqZk6HA\nUviv2QgAs6ihW6KVhIw0GrsOpQ4sXN6cQ+JKi1k3lfbh++H3Uq5IOnETqsngFPzw\nA6O87PIKcsrP0mARf/uSm0z6BCoMgQXp/q2JCFOypYl48GqXSK0r3eRsCG5m2UJJ\nOcci2INBLdBlFjLThglIP4MfcoBoyAN8L9AUrKyqREjsZueItavVcPROCMlHxOZV\nGB6SQPfpV/6tNBuJoPKfjLF57yO+JTIGRW9rhdoxu8oe1Rkr55F5DrrPydhOTxP6\no7XPqXDQQ9AhbUTEMH4f98aQWr8X7+Gv+nWidtAoBjouJahqA5JbqiAn8o6gxa4c\nij6D4zZa0o28bWW4nXjKcyKvTJ8T+Q==\n=NDwU\n-----END PGP SIGNATURE-----"
+          },
+          "size": 982592,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.13.0.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/50cbc635b72645aa0317e3b5aa256626d4b9e23a"
+            }
+          ],
+          "version": "1.13.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/nginx",
         "path": "v1.12.0.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },

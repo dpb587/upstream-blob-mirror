@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-apps-login</repository>
+      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-apps-login</repository>
       <path>v3.0.meta4</path>
-      <version>2017-05-18T22:39:07-07:00</version>
+      <version>b28364dd3d80ea75621eb8a983e44efca6764c92</version>
     </repository-reference>
     <file name="google-apps-login.3.0.zip">
       <hash type="md5">6675f360e510563a1ac67c01aea8a078</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-apps-login</repository>
+      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-apps-login</repository>
       <path>v2.10.5.meta4</path>
-      <version>2017-04-20T20:52:11-07:00</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="google-apps-login.2.10.5.zip">
       <hash type="md5">dbf3f0f04438e7aab7ba9bf74eed0f40</hash>
