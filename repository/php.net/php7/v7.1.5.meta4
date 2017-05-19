@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="php-7.1.5.tar.gz">
+    <hash type="sha-256">f7ff8039f5c3a7da4d62a3cce6378280224acfa27ab5a5bee25b7439bce01c17</hash>
+    <hash type="md5">b2ac302120d2eefd6cd9449790c45412</hash>
+    <hash type="sha-1">5ed37f15ccea7c18aef70e950b32573edf011a6c</hash>
+    <hash type="sha-512">cc693411263f726732de9956889d7d4e3d4412686b642caeb6e63da7ecb04af94d5627bb7af259cc7e22cd9809e20446506f728480cddcb6ab6feeef180e3b21</hash>
+    <size>20329939</size>
+    <url priority="1000">http://us1.php.net/distributions/php-7.1.5.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/5ed37f15ccea7c18aef70e950b32573edf011a6c</url>
+    <version>7.1.5</version>
+  </file>
+</metalink>
