@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <path>v6.1.10.meta4</path>
+      <version>2017-05-18T22:38:09-07:00</version>
+    </repository-reference>
+    <file name="google-analytics-for-wordpress.6.1.10.zip">
+      <hash type="md5">b3b3a8a551f3475f7b1cd0a03562f535</hash>
+      <hash type="sha-1">2193fd1d233b0f9de8cfbc16c97ae0bd90dd7547</hash>
+      <hash type="sha-256">4b9af0ff9e5de3054c91497e9936b9170288aa17c9c0780509266c93a67cfd6b</hash>
+      <hash type="sha-512">71d90939b967c819f058bbcad3892e8c707a7c1c32c1b54afb1ba58ffa06e80537772997e9498ed4a1d8a89a11da71ee4890df3f5c7e16e4af46455a2424fdab</hash>
+      <size>1787603</size>
+      <url priority="1000">http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.6.1.10.zip</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2193fd1d233b0f9de8cfbc16c97ae0bd90dd7547</url>
+      <version>6.1.10</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.7.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-04-20T20:51:54-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.7.zip">
       <hash type="md5">423fcc99601bddc15ed0b6841c049c6b</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.6.meta4</path>
-      <version>2ec5ec8f79bb81d07ddd7933fb0b6815efbfbd1f</version>
+      <version>2017-04-16T18:29:45-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.6.zip">
       <hash type="md5">f1cb584cabbf1725b31777c9c9c30bde</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.5.meta4</path>
-      <version>168826e233a06b8b9a2d3d96b2f5ad032f8ad52b</version>
+      <version>2017-04-16T18:28:39-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.5.zip">
       <hash type="md5">6aa5147ba1c66c0a7fcf2fbe986bf98c</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.4.meta4</path>
-      <version>42479540042ba54a9612e14ff94bfcc234cfaf39</version>
+      <version>2017-04-16T18:27:31-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.4.zip">
       <hash type="md5">a0d84e40cfb00fc18953895f02bf4378</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.3.meta4</path>
-      <version>5fd4d71c024f5069116eea875535dab298a16b5a</version>
+      <version>2017-04-16T18:26:35-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.3.zip">
       <hash type="md5">3ff26979e4459a96581e019925e34d9b</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.2.meta4</path>
-      <version>ad39871d12e1e3e7dc4a49a7fd5533edd8c55db5</version>
+      <version>2017-04-16T18:25:47-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.2.zip">
       <hash type="md5">2acf1b4dd8de04ccc342ef2e7ecc13b4</hash>
@@ -104,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.1.meta4</path>
-      <version>9c2bd9f1bce91c4e6925dd1ff059eb84d723d324</version>
+      <version>2017-04-16T18:24:43-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.1.zip">
       <hash type="md5">93f93404cf30da80234b75c9b97cbdc9</hash>
@@ -121,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.0.meta4</path>
-      <version>8652bb6c86047facb412fb8ef39d2b1226a672fd</version>
+      <version>2017-04-16T18:23:46-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.0.zip">
       <hash type="md5">465c8ed6d81771f1332836d484b170fc</hash>
@@ -138,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.16.meta4</path>
-      <version>2c29b8d5bcdbefcafc4fd743f8a908887d754010</version>
+      <version>2017-04-16T18:21:47-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.16.zip">
       <hash type="md5">db3013a1e662bf9d86e641ac2e06cbf0</hash>
@@ -155,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.15.meta4</path>
-      <version>27b7fc8b30dd6c0b530f2ac5e7f63f5fbc82950c</version>
+      <version>2017-04-16T18:19:43-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.15.zip">
       <hash type="md5">14f0cca2c4c1338c3a90c9c7040571a6</hash>
@@ -172,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.14.meta4</path>
-      <version>da1e07eebbd244a076ab913e6a0eec12ca8cf073</version>
+      <version>2017-04-16T18:18:01-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.14.zip">
       <hash type="md5">63bffa143c7e85cc684cd70718c39e86</hash>
@@ -189,9 +206,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.13.meta4</path>
-      <version>f630779d29862ccb23ec86f5055ca41bd1292453</version>
+      <version>2017-04-16T18:15:31-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.13.zip">
       <hash type="md5">a8bf37cbff927988da44e766106e657b</hash>
@@ -206,9 +223,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.12.meta4</path>
-      <version>0682968339b6cda31d5fbdefc84f0d57b535fc17</version>
+      <version>2017-04-16T18:13:00-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.12.zip">
       <hash type="md5">b7172d013e14c59fc574a23ee70333df</hash>
@@ -223,9 +240,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.11.meta4</path>
-      <version>65911582717d37e1e84696716b776cbc4991cd0c</version>
+      <version>2017-04-16T18:12:05-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.11.zip">
       <hash type="md5">ca55c238c8be67ee324166522f6cb4be</hash>
@@ -240,9 +257,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.4.meta4</path>
-      <version>1d1598a63ceca78c59b5e5312219ac1b1f6350b9</version>
+      <version>2017-04-16T18:10:38-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.4.zip">
       <hash type="md5">6c0407c74673f5f74fdde7612091fe90</hash>
@@ -257,9 +274,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.3.meta4</path>
-      <version>c5f4dda2a902087f5670fcc1e76e1a1bc4afda8b</version>
+      <version>2017-04-16T18:09:41-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.3.zip">
       <hash type="md5">877bae7ec4891b68a1039c4ed8484d3e</hash>
@@ -274,9 +291,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.2.meta4</path>
-      <version>efef9566ac873d39ca383dbcbfe322acf4f86e29</version>
+      <version>2017-04-16T18:08:38-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.2.zip">
       <hash type="md5">241eabc7fbd1ec6a6c5c6b9e939648ef</hash>
@@ -291,9 +308,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.1.meta4</path>
-      <version>c814bbad4606407bc1ba3dd067a9c9f7fa3bd6a7</version>
+      <version>2017-04-16T18:07:25-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.1.zip">
       <hash type="md5">d7854356c9f1a69dc94c32fd9c21723a</hash>
@@ -308,9 +325,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.0.meta4</path>
-      <version>b2d3e7683caa5ac10b6101264a1fbae1eaa1e13d</version>
+      <version>2017-04-16T18:06:29-07:00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.0.zip">
       <hash type="md5">a664f86a4daf5749fcbea263278b70f2</hash>
