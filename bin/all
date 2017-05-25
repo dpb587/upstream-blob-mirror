@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -eu -o pipefail
+set -eux -o pipefail
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/.."
 cd "$DIR"
@@ -18,4 +18,4 @@ done
 cat index.html.footer >> index.html
 
 git add .
-git commit -m 'bump'
+git commit -m 'bump' || true

@@ -14,6 +14,3 @@ git clone --quiet file://$PWD/repo repo-output
 cd repo-output
 
 ./bin/all
-
-git add .
-git commit -m "Update repositories" || true

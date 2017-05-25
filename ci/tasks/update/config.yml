@@ -15,5 +15,5 @@ params:
   AWS_SECRET_ACCESS_KEY: nil
   S3_BLOBS: nil
   S3_REPOS_BUCKET: nil
-  GIT_AUTHOR_EMAIL: nil
-  GIT_AUTHOR_NAME: nil
+  GIT_AUTHOR_EMAIL: Concourse
+  GIT_AUTHOR_NAME: concourse@localhost
