@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/e55deab7/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.7.0.meta4</path>
-      <version>2017-05-25T05:48:23Z</version>
+      <version>e186aa2d7af2265984dc9c8005e0c9df2f86a80c</version>
     </repository-reference>
     <file name="garden-runc-release-1.7.0.tgz">
       <hash type="sha-1">18366fade5189aa563b4787db3ef3b4376d4e76c</hash>

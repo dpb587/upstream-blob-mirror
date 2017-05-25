@@ -2,7 +2,50 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/wordpress-seo",
+        "repository": "file:///tmp/build/e55deab7/repo//repository/wordpress.org/plugins/wordpress-seo",
+        "path": "v4.8.meta4",
+        "version": "065ec8fb6c9e7ba021d923b07d03fe3eb7487430"
+      },
+      "files": [
+        {
+          "name": "wordpress-seo.4.8.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "f9fbf3ad2e6985d44ea4a2cc5012b31b"
+            },
+            {
+              "type": "sha-1",
+              "hash": "11a67cb27edf4e14d6d519bc0e387f408d057ce0"
+            },
+            {
+              "type": "sha-256",
+              "hash": "1769847cd44be0a557f6abbf01644b1d75984d9d5c5b9cb4c6f7c154091e8afe"
+            },
+            {
+              "type": "sha-512",
+              "hash": "239b00e4675dd7cbbb0137a3b2ab9f9e289e6a286932443c780379b8e34d1869cf186083a47c701c9df7fb3dde446ac2fa59496742d3fd61d49351844927a846"
+            }
+          ],
+          "size": 3324216,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://downloads.wordpress.org/plugin/wordpress-seo.4.8.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/11a67cb27edf4e14d6d519bc0e387f408d057ce0"
+            }
+          ],
+          "version": "4.8"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///tmp/build/e55deab7/repo//repository/wordpress.org/plugins/wordpress-seo",
         "path": "v4.7.1.meta4",
         "version": "6bc2959d6206e2e5a9d19b6a522a60157f5fa6f7"
       },
@@ -45,7 +88,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/wordpress-seo",
+        "repository": "file:///tmp/build/e55deab7/repo//repository/wordpress.org/plugins/wordpress-seo",
         "path": "v4.6.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -88,7 +131,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/wordpress-seo",
+        "repository": "file:///tmp/build/e55deab7/repo//repository/wordpress.org/plugins/wordpress-seo",
         "path": "v4.5.meta4",
         "version": "f2a1bd1b6e7145b37a55a57ed9128367e57dc3ed"
       },
@@ -131,7 +174,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/wordpress-seo",
+        "repository": "file:///tmp/build/e55deab7/repo//repository/wordpress.org/plugins/wordpress-seo",
         "path": "v4.4.meta4",
         "version": "33b4d4290fbee02276eee37ca11ef6a6626b6dde"
       },
@@ -174,7 +217,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/wordpress.org/plugins/wordpress-seo",
+        "repository": "file:///tmp/build/e55deab7/repo//repository/wordpress.org/plugins/wordpress-seo",
         "path": "v4.3.meta4",
         "version": "c5a7d92356af2fda098cea4a091ff4c2b74cc132"
       },

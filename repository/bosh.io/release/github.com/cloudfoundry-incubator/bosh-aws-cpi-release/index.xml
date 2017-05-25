@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/e55deab7/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v65.meta4</path>
-      <version>2017-05-25T05:47:36Z</version>
+      <version>f68491e495b2ccaea5743ca8eaa5fc29cce42ad7</version>
     </repository-reference>
     <file name="bosh-aws-cpi-release-65.tgz">
       <hash type="sha-1">26b3a5c43e6f82594a373309a495660d6db26254</hash>

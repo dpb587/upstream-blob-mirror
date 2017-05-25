@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/e55deab7/repo-output/repository/bosh.io/release/github.com/cloudfoundry/bosh</repository>
+      <repository>file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/cloudfoundry/bosh</repository>
       <path>v261.4.meta4</path>
-      <version>2017-05-25T05:48:14Z</version>
+      <version>12a18b0580eba1f9e949d6f2c1956b5284ef99e2</version>
     </repository-reference>
     <file name="bosh-261.4.tgz">
       <hash type="sha-1">4da9cedbcc8fbf11378ef439fb89de08300ad091</hash>

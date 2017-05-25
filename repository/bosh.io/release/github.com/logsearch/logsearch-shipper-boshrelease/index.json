@@ -1,0 +1,47 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/logsearch/logsearch-shipper-boshrelease",
+        "path": "v4.meta4",
+        "version": "f20fa8ccb37793f70ca02d7f83a15ad76fb2bd7b"
+      },
+      "files": [
+        {
+          "name": "logsearch-shipper-boshrelease-4.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "c92ce357c5e1e77a4fb7944d58a1971c7aee06b0"
+            },
+            {
+              "type": "md5",
+              "hash": "9f5105ae3f46ce83c1b6c217d7943f3c"
+            },
+            {
+              "type": "sha-256",
+              "hash": "b0db4d7f3fb4f3de2a40c731a427c5831693cd5b48f8122a1b4e7be81336f463"
+            },
+            {
+              "type": "sha-512",
+              "hash": "862f0566f9f6a67bad6b1bd4055656ee94d922e014ede4da574866ece5c41f6a3de9d30619d2c159ce830730ab98ec5a4d17351064947117383a67403defcb87"
+            }
+          ],
+          "size": 8908328,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/logsearch/logsearch-shipper-boshrelease?v=4"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/c92ce357c5e1e77a4fb7944d58a1971c7aee06b0"
+            }
+          ],
+          "version": "4"
+        }
+      ]
+    }
+  ]
+}

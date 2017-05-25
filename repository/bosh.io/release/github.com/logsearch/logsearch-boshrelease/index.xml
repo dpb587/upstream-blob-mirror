@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/e55deab7/repo-output/repository/bosh.io/release/github.com/logsearch/logsearch-boshrelease</repository>
+      <repository>file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/logsearch/logsearch-boshrelease</repository>
       <path>v204.0.0.meta4</path>
-      <version>2017-05-25T05:49:35Z</version>
+      <version>6b58dd5c4977ff8ac1a1202ec6e8ea2e7965675a</version>
     </repository-reference>
     <file name="logsearch-boshrelease-204.0.0.tgz">
       <hash type="sha-1">3ec26a3ff0bbcffcd2b25d006007fb8b99c217bb</hash>

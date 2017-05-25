@@ -1,0 +1,47 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/logsearch/logsearch-boshrelease",
+        "path": "v204.0.0.meta4",
+        "version": "6b58dd5c4977ff8ac1a1202ec6e8ea2e7965675a"
+      },
+      "files": [
+        {
+          "name": "logsearch-boshrelease-204.0.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "3ec26a3ff0bbcffcd2b25d006007fb8b99c217bb"
+            },
+            {
+              "type": "md5",
+              "hash": "f3b769e96f7a5a7517a9fadd2582045c"
+            },
+            {
+              "type": "sha-256",
+              "hash": "5c9f57322476ec1cc7e9af96a6d94239579047a5e16d06bd152e58276d0cc6b4"
+            },
+            {
+              "type": "sha-512",
+              "hash": "3962ad2b52035ef9e51f60751bb278302da4271568c913637eb9f750cfe4956cf0bb69701102f8cded567be0d1c628bc7af2e93bdf3a319a9eb2c2e34b100ef3"
+            }
+          ],
+          "size": 270289860,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/logsearch/logsearch-boshrelease?v=204.0.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/3ec26a3ff0bbcffcd2b25d006007fb8b99c217bb"
+            }
+          ],
+          "version": "204.0.0"
+        }
+      ]
+    }
+  ]
+}

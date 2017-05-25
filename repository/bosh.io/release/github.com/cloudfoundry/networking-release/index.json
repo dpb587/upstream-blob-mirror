@@ -1,0 +1,47 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/cloudfoundry/networking-release",
+        "path": "v9.meta4",
+        "version": "429e8c4936783900a45c222ec49ab9a1f6e0749e"
+      },
+      "files": [
+        {
+          "name": "networking-release-9.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "9b5f9d27917c3754e492470ac6c9af80d62963db"
+            },
+            {
+              "type": "md5",
+              "hash": "44201261f8fee794def47d6ce5d0c83b"
+            },
+            {
+              "type": "sha-256",
+              "hash": "d750fb2f12cbf6eaa5494c3b15d9a677cf6e592a6107e55bb2f6e5258a8807e7"
+            },
+            {
+              "type": "sha-512",
+              "hash": "ab52753f410d22527cb23b0ced608bdd62a35ac94b27c1ce443a4310a0cae7c9e9b27d77df1fb3e3f15b188e869ff7a518eff01197924477c7ea0ff1df49dcf2"
+            }
+          ],
+          "size": 11864,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/networking-release?v=9"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/9b5f9d27917c3754e492470ac6c9af80d62963db"
+            }
+          ],
+          "version": "9"
+        }
+      ]
+    }
+  ]
+}

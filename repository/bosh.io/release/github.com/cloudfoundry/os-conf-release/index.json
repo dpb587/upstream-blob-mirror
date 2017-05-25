@@ -1,0 +1,47 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release",
+        "path": "v12.meta4",
+        "version": "5ce0ca7fbe00106f0fb313bb2d69f4fc5c832208"
+      },
+      "files": [
+        {
+          "name": "os-conf-release-12.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "af5a2c9f228b9d7ec4bd051d71fef0e712fa1549"
+            },
+            {
+              "type": "md5",
+              "hash": "94d04910a3726002ba6772258c1e8580"
+            },
+            {
+              "type": "sha-256",
+              "hash": "83bdeff77ca6d39cd0db4d598a57e1b72d5944b3da4fe5e3c234a4a25e446b16"
+            },
+            {
+              "type": "sha-512",
+              "hash": "8cfe28d76ce6ba881d11749c7835713629e6d0d4a58056304c30db76b08285c29ccbe5adedd862f1cb98ac71be165def75563c687af0db90ecb85cd5d396d1b2"
+            }
+          ],
+          "size": 11401,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/os-conf-release?v=12"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/af5a2c9f228b9d7ec4bd051d71fef0e712fa1549"
+            }
+          ],
+          "version": "12"
+        }
+      ]
+    }
+  ]
+}

@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/e55deab7/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.meta4</path>
-      <version>2017-05-25T05:48:31Z</version>
+      <version>6d286be34dfd8d3d82c06c22fd30dd14144632b8</version>
     </repository-reference>
     <file name="syslog-release-11.tgz">
       <hash type="sha-1">332ac15609b220a3fdf5efad0e0aa069d8235788</hash>

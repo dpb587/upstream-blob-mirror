@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/e55deab7/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>file:///tmp/build/e55deab7/repo//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.meta4</path>
-      <version>2017-05-25T05:49:39Z</version>
+      <version>792294163d4e38ce33417161720e1cb557c48799</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421-google-kvm-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">f7e4af26a0758014c9ce0be3539e6c0c</hash>

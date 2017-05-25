@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/e55deab7/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
+      <repository>file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
       <path>v25.9.0.meta4</path>
-      <version>2017-05-25T05:48:01Z</version>
+      <version>0ce878cefabf51223e0a209dd1e87ceaa833735c</version>
     </repository-reference>
     <file name="bosh-google-cpi-release-25.9.0.tgz">
       <hash type="sha-1">3fbda22fde33878b54dec77f4182f8044be72687</hash>

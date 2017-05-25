@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/e55deab7/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v38.meta4</path>
-      <version>2017-05-25T05:48:43Z</version>
+      <version>d3cea68eb91cccbe45a0773672dce4dbfaa50719</version>
     </repository-reference>
     <file name="uaa-release-38.tgz">
       <hash type="sha-1">5061788680c2230b62caef7696615b8d11939ef8</hash>
