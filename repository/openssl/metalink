@@ -10,7 +10,7 @@ if [ -z "${version:-}" ]; then
       | grep -E '^refs/tags/OpenSSL_.+$' \
       | sed -E 's/^refs\/tags\/OpenSSL_(.+)$/\1/' \
       | tr '_' '.' \
-      | gsort -rV \
+      | sort -rV \
       | grep -E '^\d+\.\d+\.\d+\w?$' \
       | head -n1
   )

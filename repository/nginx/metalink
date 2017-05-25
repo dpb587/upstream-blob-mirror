@@ -8,7 +8,7 @@ if [ -z "${version:-}" ]; then
       | cut -f1 \
       | grep '^release-' \
       | sed -E 's/^release-(.+)$/\1/' \
-      | gsort -rV \
+      | sort -rV \
       | head -n1
   )
 fi

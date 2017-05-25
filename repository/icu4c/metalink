@@ -10,7 +10,7 @@ if [ -z "${version:-}" ]; then
       | sed -E 's/^release-(.+)$/\1/' \
       | tr '-' '.' \
       | grep -E '^\d+\.\d+(\.\d+)?$' \
-      | gsort -rV \
+      | sort -rV \
       | head -n1
   )
 fi

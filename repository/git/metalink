@@ -10,7 +10,7 @@ if [ -z "${version:-}" ]; then
       | grep -E '^refs/tags/v.+$' \
       | sed -E 's/^refs\/tags\/v(.+)$/\1/' \
       | grep -v -- - \
-      | gsort -rV \
+      | sort -rV \
       | head -n1
   )
 fi

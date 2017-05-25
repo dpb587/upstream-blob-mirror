@@ -11,7 +11,7 @@ if [ -z "${version:-}" ]; then
       | sed -E 's/^refs\/tags\/v(.+)$/\1/' \
       | tr '_' '.' \
       | grep -v '-' \
-      | gsort -rV \
+      | sort -rV \
       | head -n1
   )
 fi

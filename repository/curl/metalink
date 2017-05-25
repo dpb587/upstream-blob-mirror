@@ -11,7 +11,7 @@ if [ -z "${version:-}" ]; then
       | sed -E 's/^refs\/tags\/curl-(.+)$/\1/' \
       | tr '_' '.' \
       | grep -E '^\d+\.\d+\.\d+$' \
-      | gsort -rV \
+      | sort -rV \
       | head -n1
   )
 fi

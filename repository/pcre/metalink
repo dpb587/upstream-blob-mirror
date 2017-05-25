@@ -8,7 +8,7 @@ if [ -z "${version:-}" ]; then
       ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/ \
       | grep -E '^pcre-.+.tar.gz$' \
       | sed -E 's/^pcre-(.+)\.tar.gz$/\1/' \
-      | gsort -rV \
+      | sort -rV \
       | head -n1
   )
 fi

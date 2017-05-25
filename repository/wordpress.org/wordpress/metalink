@@ -8,7 +8,7 @@ if [ -z "${version:-}" ]; then
       | cut -f2 \
       | grep -E '^refs/tags/.+$' \
       | sed -E 's/^refs\/tags\/(.+)$/\1/' \
-      | gsort -rV \
+      | sort -rV \
       | head -n1 \
   )
 fi

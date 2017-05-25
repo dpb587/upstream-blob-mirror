@@ -9,7 +9,7 @@ if [ -z "${version:-}" ]; then
       | grep -E '^libxml2-.+.tar.gz$' \
       | sed -E 's/^libxml2-(.+)\.tar.gz$/\1/' \
       | grep -E '^\d+\.\d+\.\d+\w*$' \
-      | gsort -rV \
+      | sort -rV \
       | head -n1
   )
 fi
