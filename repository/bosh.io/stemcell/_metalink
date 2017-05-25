@@ -1,0 +1,40 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+stemcell=$( basename "$PWD" )
+stemcell=bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light
+
+weight=regular
+
+if [[ "$stemcell" =~ -light$ ]]; then
+  weight=light
+  stemcell=$( echo "$stemcell" | sed 's/-light$//' )
+fi
+
+raw=$( wget -qO- "https://bosh.io/api/v1/stemcells/$stemcell" )
+
+if [ -z "${version:-}" ]; then
+  version=$( echo "$raw" | jq -r 'map(select(.light))[0].version' )
+fi
+
+json=$( echo "$raw" | jq --arg version "$version" -r 'map(select(.version == $version))[0].light' )
+
+url=$( echo "$json" | jq -r .url )
+name=$( basename "$url" )
+size=$( echo "$json" | jq -r .size )
+md5=$( echo "$json" | jq -r .md5 )
+sha1=$( echo "$json" | jq -r .sha1 )
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="${name}">
+    <hash type="md5">${md5}</hash>
+    <hash type="sha-1">${sha1}</hash>
+    <size>${size}</size>
+    <url priority="1000">${url}</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF
