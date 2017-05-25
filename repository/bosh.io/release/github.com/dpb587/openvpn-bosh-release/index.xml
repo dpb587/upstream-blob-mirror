@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v3.1.4.meta4</path>
       <version>ba0e847383cc4edfb92644ebc8399bbd1951a030</version>
     </repository-reference>

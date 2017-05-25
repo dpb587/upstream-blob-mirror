@@ -32,7 +32,7 @@ fi
 
 cd "$DIR"
 
-gitrepo=$( git remote -v | grep fetch | awk '{ print $2 }' )
+gitrepo=$( git remote get-url origin )
 
 meta4-repo filter "git+file://$gitdir//$repository" \
   | sed "s#git+file://$gitdir//#$gitrepo//#" \

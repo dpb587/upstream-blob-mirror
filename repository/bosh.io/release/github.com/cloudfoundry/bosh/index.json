@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/cloudfoundry/bosh",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/bosh",
         "path": "v261.4.meta4",
         "version": "12a18b0580eba1f9e949d6f2c1956b5284ef99e2"
       },

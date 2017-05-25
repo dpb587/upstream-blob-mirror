@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/logsearch/logsearch-shipper-boshrelease</repository>
+      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/logsearch/logsearch-shipper-boshrelease</repository>
       <path>v4.meta4</path>
       <version>f20fa8ccb37793f70ca02d7f83a15ad76fb2bd7b</version>
     </repository-reference>

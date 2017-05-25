@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/e55deab7/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v38.meta4",
         "version": "d3cea68eb91cccbe45a0773672dce4dbfaa50719"
       },
