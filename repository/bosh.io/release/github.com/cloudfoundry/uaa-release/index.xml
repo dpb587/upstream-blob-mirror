@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/e55deab7/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <path>v38.meta4</path>
+      <version>2017-05-25T05:48:43Z</version>
+    </repository-reference>
+    <file name="uaa-release-38.tgz">
+      <hash type="sha-1">5061788680c2230b62caef7696615b8d11939ef8</hash>
+      <hash type="md5">a7bde94cd1b8e7ea5a08435f2ed136c2</hash>
+      <hash type="sha-256">3b3c114aed20399fc4b41c08362f9599aba45a39e785c595a3a75c84952424eb</hash>
+      <hash type="sha-512">bd6a53ba3acbf0b4f009a3f75ceced9edeea4baa7c3e5384961385e3606370a3bd647dbd06f594ec3accd29f8eae323e969f2b1378fbad0099cad7e253ee7897</hash>
+      <size>168710079</size>
+      <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/uaa-release?v=38</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/5061788680c2230b62caef7696615b8d11939ef8</url>
+      <version>38</version>
+    </file>
+  </metalink>
+</repository>
