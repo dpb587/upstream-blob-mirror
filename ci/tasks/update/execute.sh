@@ -4,8 +4,6 @@ set -eu -o pipefail
 
 cd "$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/../../../.."
 
-update-ca-certificates
-
 git clone --quiet file://$PWD/repo repo-output
 
 cd repo-output

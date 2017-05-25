@@ -2,7 +2,7 @@ platform: linux
 image_resource:
   type: docker-image
   source:
-    repository: dpb587/bosh-io-metalink-mirror
+    repository: dpb587/upstream-blob-receipts
 inputs:
   - name: repo
 outputs:
