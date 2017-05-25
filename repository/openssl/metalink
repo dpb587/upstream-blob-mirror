@@ -6,12 +6,12 @@ if [ -z "${version:-}" ]; then
   version=$(
     git ls-remote --tags https://github.com/openssl/openssl.git \
       | cut -f2 \
-      | grep -Ev '\^{}' \
-      | grep -E '^refs/tags/OpenSSL_.+$' \
-      | sed -E 's/^refs\/tags\/OpenSSL_(.+)$/\1/' \
+      | grep -v '\^{}' \
+      | grep '^refs/tags/OpenSSL_.+$' \
+      | sed 's/^refs\/tags\/OpenSSL_(.+)$/\1/' \
       | tr '_' '.' \
       | sort -rV \
-      | grep -E '^\d+\.\d+\.\d+\w?$' \
+      | grep '^\d+\.\d+\.\d+\w?$' \
       | head -n1
   )
 fi

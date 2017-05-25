@@ -6,7 +6,7 @@ if [ -z "${version:-}" ]; then
   version=$(
     git ls-remote --tags https://github.com/madler/zlib.git \
       | cut -f2 \
-      | grep -Ev '\^{}' \
+      | grep -v '\^{}' \
       | grep -E '^refs/tags/v.+$' \
       | sed -E 's/^refs\/tags\/v(.+)$/\1/' \
       | tr '_' '.' \

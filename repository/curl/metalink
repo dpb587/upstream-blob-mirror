@@ -6,7 +6,7 @@ if [ -z "${version:-}" ]; then
   version=$(
     git ls-remote --tags https://github.com/bagder/curl.git \
       | cut -f2 \
-      | grep -Ev '\^{}' \
+      | grep -v '\^{}' \
       | grep -E '^refs/tags/curl-.+$' \
       | sed -E 's/^refs\/tags\/curl-(.+)$/\1/' \
       | tr '_' '.' \
