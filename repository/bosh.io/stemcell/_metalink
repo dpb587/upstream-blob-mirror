@@ -3,7 +3,6 @@
 set -eu -o pipefail ; export SHELLOPTS
 
 stemcell=$( basename "$PWD" )
-stemcell=bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light
 
 weight=regular
 

@@ -1,0 +1,31 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+release=$( basename "$( dirname "$( dirname "$PWD" )" )" )/$( basename "$( dirname "$PWD" )" )/$( basename "$PWD" )
+
+raw=$( wget -qO- "https://bosh.io/api/v1/releases/$release" )
+
+if [ -z "${version:-}" ]; then
+  version=$( echo "$raw" | jq -r '.[0].version' )
+fi
+
+json=$( echo "$raw" | jq --arg version "$version" -r 'map(select(.version == $version))[0]' )
+
+url=$( echo "$json" | jq -r .url )
+name=$( basename "$release" )-$version.tgz
+sha1=$( echo "$json" | jq -r .sha1 )
+
+size=$( curl -sLI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="${name}">
+    <hash type="sha-1">${sha1}</hash>
+    <size>${size}</size>
+    <url priority="1000">${url}</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF
