@@ -1,0 +1,19 @@
+platform: linux
+image_resource:
+  type: docker-image
+  source:
+    repository: dpb587/bosh-io-metalink-mirror
+inputs:
+  - name: repo
+outputs:
+  - name: repo
+    path: repo-output
+run:
+  path: repo/ci/tasks/update/execute.sh
+params:
+  AWS_ACCESS_KEY_ID: nil
+  AWS_SECRET_ACCESS_KEY: nil
+  S3_BLOBS: nil
+  S3_REPOS_BUCKET: nil
+  GIT_AUTHOR_EMAIL: nil
+  GIT_AUTHOR_NAME: nil
