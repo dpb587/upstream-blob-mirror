@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
       <path>v12.meta4</path>
-      <version>5ce0ca7fbe00106f0fb313bb2d69f4fc5c832208</version>
+      <version>2017-05-25T05:50:47Z</version>
     </repository-reference>
     <file name="os-conf-release-12.tgz">
       <hash type="sha-1">af5a2c9f228b9d7ec4bd051d71fef0e712fa1549</hash>
@@ -15,6 +15,23 @@
       <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/os-conf-release?v=12</url>
       <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/af5a2c9f228b9d7ec4bd051d71fef0e712fa1549</url>
       <version>12</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
+      <path>v11.meta4</path>
+      <version>2017-05-25T21:51:07Z</version>
+    </repository-reference>
+    <file name="os-conf-release-11.tgz">
+      <hash type="sha-1">651f10a765a2900a7f69ea07705f3367bd8041eb</hash>
+      <hash type="md5">9ceabbfdd0d6aea844ddb76673743ef6</hash>
+      <hash type="sha-256">d739b25acfc5a5d3af0b60ccdc41abd6ff1c5089e053584958f129e91ff8a22f</hash>
+      <hash type="sha-512">91e4ae0db32b85ef0ebb20bdbec9a6608beae948caab30615fc1318e82553c0575e5c1f00723632737ab74b8a25165584b7529358fae0f8e88556c502ce33344</hash>
+      <size>10375</size>
+      <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/os-conf-release?v=11</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/651f10a765a2900a7f69ea07705f3367bd8041eb</url>
+      <version>11</version>
     </file>
   </metalink>
 </repository>

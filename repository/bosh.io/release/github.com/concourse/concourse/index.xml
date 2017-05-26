@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v3.0.1.meta4</path>
-      <version>d222f3067db2a5a79c91527c6e602084283e7856</version>
+      <version>2017-05-25T05:50:47Z</version>
     </repository-reference>
     <file name="concourse-3.0.1.tgz">
       <hash type="sha-1">ade4f7b6a939d3a47590006410aa89f69b4dbd1f</hash>
@@ -15,6 +15,142 @@
       <url priority="1000">https://bosh.io/d/github.com/concourse/concourse?v=3.0.1</url>
       <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/ade4f7b6a939d3a47590006410aa89f69b4dbd1f</url>
       <version>3.0.1</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <path>v3.0.0.meta4</path>
+      <version>2017-05-26T00:29:06Z</version>
+    </repository-reference>
+    <file name="concourse-3.0.0.tgz">
+      <hash type="sha-1">b75190f00ec2825adacad75a3ca078f4254eb19a</hash>
+      <hash type="md5">470b5c69e14cb7be6c072afc7a4b592d</hash>
+      <hash type="sha-256">293e1cfa728eefd4b65a1ba8ece7baf95da4142a8f65524fdad41df63f03e609</hash>
+      <hash type="sha-512">cb4928341d7cf89ca796d18a82c09289b062bc93dd8d8c46721a198b7cbf350ee374b5e49d3437425abed01f3e2344b99f922b3802f6536386b00a8f1b5b7e78</hash>
+      <size>349403995</size>
+      <url priority="1000">https://bosh.io/d/github.com/concourse/concourse?v=3.0.0</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/b75190f00ec2825adacad75a3ca078f4254eb19a</url>
+      <version>3.0.0</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <path>v2.7.6.meta4</path>
+      <version>2017-05-26T00:20:37Z</version>
+    </repository-reference>
+    <file name="concourse-2.7.6.tgz">
+      <hash type="sha-1">562c43bedc316c02fa3394349b7c61eb7d41d3be</hash>
+      <hash type="md5">5698855936bfa9b4af11676a63f195a1</hash>
+      <hash type="sha-256">e5250d0616799c2be2e62b6b029cd683bc550301148fb38c4899a37bb7af339a</hash>
+      <hash type="sha-512">2cce1d5b06539bfebae53c56ae10a839af91035fb85d6d3741a2684c842027500627468c048dec842259d54f80e0d2fe79ccab94751ab42fec4ca69bb19d1683</hash>
+      <size>346114677</size>
+      <url priority="1000">https://bosh.io/d/github.com/concourse/concourse?v=2.7.6</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/562c43bedc316c02fa3394349b7c61eb7d41d3be</url>
+      <version>2.7.6</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <path>v2.7.5.meta4</path>
+      <version>2017-05-26T00:11:14Z</version>
+    </repository-reference>
+    <file name="concourse-2.7.5.tgz">
+      <hash type="sha-1">d5645f440e7894eb6040679756bbe70148c5b413</hash>
+      <hash type="md5">c3a5d00f6c95ee6f9c9493d9c1bcbe89</hash>
+      <hash type="sha-256">7c6b82147ee3bcbf2f4336b2cd3595c947f800bc69e9b1f0374b05eede1bb173</hash>
+      <hash type="sha-512">9c53a5e056a3df67b5ad8fd83c5fc6105237fd6294f86ac9a47aeefe3ce778a78c3bb8cbd225328ad2fab208ec34d6cde8a8cc74f143111c71384f9c715208e6</hash>
+      <size>346115587</size>
+      <url priority="1000">https://bosh.io/d/github.com/concourse/concourse?v=2.7.5</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d5645f440e7894eb6040679756bbe70148c5b413</url>
+      <version>2.7.5</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <path>v2.7.4.meta4</path>
+      <version>2017-05-26T00:04:19Z</version>
+    </repository-reference>
+    <file name="concourse-2.7.4.tgz">
+      <hash type="sha-1">59f20ddea3ffd9bcab572abb3e2e1137aa3d6e7a</hash>
+      <hash type="md5">52386f2a702f1812173a4f6d3c81263e</hash>
+      <hash type="sha-256">0263955c48630ea06ce0bf2ca47648d799b36b2d9eea01f665441b8afeef7109</hash>
+      <hash type="sha-512">ec509ace59b28549e298fad4821592e346fa8e9dc16ecc7ac028b0749040f4937b704273a2093f9003fd9a711a702f4f511b9a726e30eac8c52496112139e6c0</hash>
+      <size>346087544</size>
+      <url priority="1000">https://bosh.io/d/github.com/concourse/concourse?v=2.7.4</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/59f20ddea3ffd9bcab572abb3e2e1137aa3d6e7a</url>
+      <version>2.7.4</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <path>v2.7.3.meta4</path>
+      <version>2017-05-25T23:54:52Z</version>
+    </repository-reference>
+    <file name="concourse-2.7.3.tgz">
+      <hash type="sha-1">ca38944353c893660a428cc6678941734b51b036</hash>
+      <hash type="md5">2b90b3f031eeebee2ad91b1111767e9c</hash>
+      <hash type="sha-256">a3e416d89229db7e174dbd5c662b9bada0b88b8049a16c134069ec4d1d65b7e7</hash>
+      <hash type="sha-512">5caacf858991075a55f2b69c6111dbc1b97f5cea13c815c47ffe2918a20e42ffa2de5f74f5807c8dc5a9caa7d472b6ae611f414541335df9bbb97be1b0e4e6fc</hash>
+      <size>346090438</size>
+      <url priority="1000">https://bosh.io/d/github.com/concourse/concourse?v=2.7.3</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/ca38944353c893660a428cc6678941734b51b036</url>
+      <version>2.7.3</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <path>v2.7.2.meta4</path>
+      <version>2017-05-25T23:45:21Z</version>
+    </repository-reference>
+    <file name="concourse-2.7.2.tgz">
+      <hash type="sha-1">1d3e3b00e18e39b02a2336baeee6e3dfca592e61</hash>
+      <hash type="md5">4801cf8a341924f2bc445c6791c54360</hash>
+      <hash type="sha-256">a04080f09abf9998e40ab371e1fef07d38048327a46f3ae415ca48756eaff703</hash>
+      <hash type="sha-512">451b0f5c61f3065e07d477c2c3719f13f931d10d4e1e72d282a180168638035f45d225b1af32a6fe53eb41957b1779bcac04681bb67b4e4967604c24046bfd96</hash>
+      <size>345994953</size>
+      <url priority="1000">https://bosh.io/d/github.com/concourse/concourse?v=2.7.2</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/1d3e3b00e18e39b02a2336baeee6e3dfca592e61</url>
+      <version>2.7.2</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <path>v2.7.1.meta4</path>
+      <version>2017-05-25T23:37:41Z</version>
+    </repository-reference>
+    <file name="concourse-2.7.1.tgz">
+      <hash type="sha-1">af9424c8f9d9ea14e961743e4d8d4fa187fc1e31</hash>
+      <hash type="md5">64e3a430584315d0680ac0e626b09772</hash>
+      <hash type="sha-256">e1bd40a6f24c5013274a5102f6b4eb260899cd03c6f24ece19db859835b84b62</hash>
+      <hash type="sha-512">e80bf0036cfa75926b09b409f1f677d58cc51492c95f3f2da78d5aefcf9fde1a185c9279ffd7a999c8588862b6b78cdd391902959958e1a747810f919614d359</hash>
+      <size>346069286</size>
+      <url priority="1000">https://bosh.io/d/github.com/concourse/concourse?v=2.7.1</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/af9424c8f9d9ea14e961743e4d8d4fa187fc1e31</url>
+      <version>2.7.1</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <path>v2.7.0.meta4</path>
+      <version>2017-05-25T23:17:24Z</version>
+    </repository-reference>
+    <file name="concourse-2.7.0.tgz">
+      <hash type="sha-1">826932f631d0941b3e4cc9cb19e0017c7f989b56</hash>
+      <hash type="md5">7eb05df5412a5bcc506829955dee7f9a</hash>
+      <hash type="sha-256">703c080c92965b66b8a756dd5000042724847e468f025145dfc773d8decf6fef</hash>
+      <hash type="sha-512">11cbe821725b9f8569e2871a40819a61b3ef766882d0bf7b52d086843b6769bbcc7cc2d496f4288591ce6990e3c9d0a7c319d7817a5a1510dd421ebc90d47248</hash>
+      <size>339909901</size>
+      <url priority="1000">https://bosh.io/d/github.com/concourse/concourse?v=2.7.0</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/826932f631d0941b3e4cc9cb19e0017c7f989b56</url>
+      <version>2.7.0</version>
     </file>
   </metalink>
 </repository>
