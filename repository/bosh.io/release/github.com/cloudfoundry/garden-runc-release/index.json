@@ -42,6 +42,178 @@
           "version": "1.7.0"
         }
       ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release",
+        "path": "v1.6.0.meta4",
+        "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
+      },
+      "files": [
+        {
+          "name": "garden-runc-release-1.6.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "58fbc64aff303e6d76899441241dd5dacef50cb7"
+            },
+            {
+              "type": "md5",
+              "hash": "110da421a0cc7e6f9a98aa052fed7bbd"
+            },
+            {
+              "type": "sha-256",
+              "hash": "bf8c14ac28480817743f7a63082d4d7411aa0383a0573742e99ec1f8359bca9f"
+            },
+            {
+              "type": "sha-512",
+              "hash": "25f3c54ba6f44090840cc07572c1d0d4ae25804b42efd2eb30bad3a69c1aa6d6fef96870b498602a74b8d9aa7a2bac9027dc7980d1de691b770f047cc7cabf5c"
+            }
+          ],
+          "size": 109932208,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/garden-runc-release?v=1.6.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/58fbc64aff303e6d76899441241dd5dacef50cb7"
+            }
+          ],
+          "version": "1.6.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release",
+        "path": "v1.5.0.meta4",
+        "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
+      },
+      "files": [
+        {
+          "name": "garden-runc-release-1.5.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "c86150d54162e80597cfa2959137014c41512bbf"
+            },
+            {
+              "type": "md5",
+              "hash": "6f794d0f04768d65ca8dd6bb075929d7"
+            },
+            {
+              "type": "sha-256",
+              "hash": "e0b6a7a5d20c1eeb3d226907774b53d82ec48e3cc61dc3198241e4f48c914135"
+            },
+            {
+              "type": "sha-512",
+              "hash": "554458d59fb6428962596cb690816b87def6dfb02156839db1677c63e29914fbb4eaf0f61f72a6ef1db3600d1b2b762f4555032c2300ac1f03fccdb0b165cdea"
+            }
+          ],
+          "size": 108487744,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/garden-runc-release?v=1.5.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/c86150d54162e80597cfa2959137014c41512bbf"
+            }
+          ],
+          "version": "1.5.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release",
+        "path": "v1.4.0.meta4",
+        "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
+      },
+      "files": [
+        {
+          "name": "garden-runc-release-1.4.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "1d6020e761806d7f355ceda06c889c582b47dc32"
+            },
+            {
+              "type": "md5",
+              "hash": "86d1874c79c8a6f1b9b2fe11e5523397"
+            },
+            {
+              "type": "sha-256",
+              "hash": "d133c9776bf78dfaa4ca6441ff5a7d92e7ae1006680ed880bd28210317ac3e95"
+            },
+            {
+              "type": "sha-512",
+              "hash": "57a0fde9b0c0405446a790fbcbab175d888b50578569b04650bf168b7156bf3a5e182e020805f45bf96f36af287940a4a0642c133f48302c53c7d35dccc3f2b2"
+            }
+          ],
+          "size": 107788512,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/garden-runc-release?v=1.4.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/1d6020e761806d7f355ceda06c889c582b47dc32"
+            }
+          ],
+          "version": "1.4.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release",
+        "path": "v1.3.0.meta4",
+        "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
+      },
+      "files": [
+        {
+          "name": "garden-runc-release-1.3.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "816044289381e3b7b66dd73fbcb20005594026a3"
+            },
+            {
+              "type": "md5",
+              "hash": "ef4aaaed3865dc5a68a94fdc0d5a2cbf"
+            },
+            {
+              "type": "sha-256",
+              "hash": "6742bfbc32d3ad878169609bbbb7a94d93fb6e4cec72dc0ed560babadeb53384"
+            },
+            {
+              "type": "sha-512",
+              "hash": "6df3ac582ec99e4804d2af32e0374d76601dafcce6a3dc813b9f7f05b2364e0aa9bcc352d5f98688fa5c20ad27ca10dd615554df3f6b1b9daf098c13fd3dbcb5"
+            }
+          ],
+          "size": 107751029,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/garden-runc-release?v=1.3.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/816044289381e3b7b66dd73fbcb20005594026a3"
+            }
+          ],
+          "version": "1.3.0"
+        }
+      ]
     }
   ]
 }
