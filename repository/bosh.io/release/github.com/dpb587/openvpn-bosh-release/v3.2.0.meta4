@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="openvpn-bosh-release-3.2.0.tgz">
+    <hash type="sha-1">39b4ae933230f82b0613829e1979abf7375136ee</hash>
+    <hash type="md5">7af44b1d44e38e2254d66f23b9743f6f</hash>
+    <hash type="sha-256">504de79eb01ee8b4dd2073ba12fdef92f232548cb95d8f60d9bb5f3e5756f4f7</hash>
+    <hash type="sha-512">3924c2cc938fb22b9e62aec7c9320f29a94a4372eb514c80f08716e79ed3d44ec26b404d2f5d7a791ebeb51dc1ed68ffedae4bec7e3dcf8ad877ad3e4f164070</hash>
+    <size>7204987</size>
+    <url priority="1000">https://bosh.io/d/github.com/dpb587/openvpn-bosh-release?v=3.2.0</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/39b4ae933230f82b0613829e1979abf7375136ee</url>
+    <version>3.2.0</version>
+  </file>
+</metalink>
