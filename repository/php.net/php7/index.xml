@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php7</repository>
+      <repository>file:///tmp/build/repository/php.net/php7</repository>
+      <path>v7.1.6.meta4</path>
+      <version>2017-06-10T20:35:46Z</version>
+    </repository-reference>
+    <file name="php-7.1.6.tar.gz">
+      <hash type="sha-256">7ff8c01af791c7e499ee77e1b82e4b1d56e379efe1f706b1203d48751481fd9f</hash>
+      <hash type="md5">5334434e5d72cbf64eea14246c344449</hash>
+      <hash type="sha-1">d87b9143375612f6b8a27d2ca20577b977651cae</hash>
+      <hash type="sha-512">3c6160d1e469b1fba0e954181d0521587305827625998d33c4ab4d431243ae370434b5b586050f54faeb20d6f532c7b2bbee2d353d418abda9c29e2d7581e642</hash>
+      <size>20337047</size>
+      <url priority="1000">http://us1.php.net/distributions/php-7.1.6.tar.gz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d87b9143375612f6b8a27d2ca20577b977651cae</url>
+      <version>7.1.6</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/repository/php.net/php7</repository>
       <path>v7.1.5.meta4</path>
-      <version>c9f8cd707b37ca1cb2dee609c381d73e7b89617f</version>
+      <version>2017-05-19T05:36:33Z</version>
     </repository-reference>
     <file name="php-7.1.5.tar.gz">
       <hash type="sha-256">f7ff8039f5c3a7da4d62a3cce6378280224acfa27ab5a5bee25b7439bce01c17</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php7</repository>
+      <repository>file:///tmp/build/repository/php.net/php7</repository>
       <path>v7.1.4.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-04-21T03:47:52Z</version>
     </repository-reference>
     <file name="php-7.1.4.tar.gz">
       <hash type="sha-256">ed0006c86de503684dde04c6dd811ea2354a3b6d10ebd9f0cb103dcd28f0e70f</hash>
@@ -37,9 +54,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php7</repository>
+      <repository>file:///tmp/build/repository/php.net/php7</repository>
       <path>v7.1.3.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-04-21T03:47:47Z</version>
     </repository-reference>
     <file name="php-7.1.3.tar.gz">
       <hash type="sha-256">4bfadd0012b966eced448497272150ffeede13136a961aacb9e71553b8e929ec</hash>
@@ -55,9 +72,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php7</repository>
+      <repository>file:///tmp/build/repository/php.net/php7</repository>
       <path>v7.1.2.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-04-21T03:47:43Z</version>
     </repository-reference>
     <file name="php-7.1.2.tar.gz">
       <hash type="sha-256">e6773217c9c719ca22abb104ae3d437d53daceaf31faf2e5eeb1f9f5028005d8</hash>
@@ -73,9 +90,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php7</repository>
+      <repository>file:///tmp/build/repository/php.net/php7</repository>
       <path>v7.1.1.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-04-21T03:47:38Z</version>
     </repository-reference>
     <file name="php-7.1.1.tar.gz">
       <hash type="sha-256">c136279d539c3c2c25176bf149c14913670e79bb27ee6b73e1cd69003985a70d</hash>
@@ -91,9 +108,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php7</repository>
+      <repository>file:///tmp/build/repository/php.net/php7</repository>
       <path>v7.1.0.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-04-21T03:47:33Z</version>
     </repository-reference>
     <file name="php-7.1.0.tar.gz">
       <hash type="sha-256">9e84c5b13005c56374730edf534fe216f6a2e63792a9703d4b894e770bbccbae</hash>
