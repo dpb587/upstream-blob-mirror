@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php7",
+        "path": "v7.1.6.meta4",
+        "version": "fedc1f320edea574b400352646075a7b77e46506"
+      },
+      "files": [
+        {
+          "name": "php-7.1.6.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "7ff8c01af791c7e499ee77e1b82e4b1d56e379efe1f706b1203d48751481fd9f"
+            },
+            {
+              "type": "md5",
+              "hash": "5334434e5d72cbf64eea14246c344449"
+            },
+            {
+              "type": "sha-1",
+              "hash": "d87b9143375612f6b8a27d2ca20577b977651cae"
+            },
+            {
+              "type": "sha-512",
+              "hash": "3c6160d1e469b1fba0e954181d0521587305827625998d33c4ab4d431243ae370434b5b586050f54faeb20d6f532c7b2bbee2d353d418abda9c29e2d7581e642"
+            }
+          ],
+          "size": 20337047,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-7.1.6.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d87b9143375612f6b8a27d2ca20577b977651cae"
+            }
+          ],
+          "version": "7.1.6"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php7",
         "path": "v7.1.5.meta4",
         "version": "c9f8cd707b37ca1cb2dee609c381d73e7b89617f"
       },
