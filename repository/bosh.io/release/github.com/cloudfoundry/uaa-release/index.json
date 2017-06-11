@@ -2,7 +2,50 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "path": "v41.meta4",
+        "version": "6ec04fcfb9f484fd22c3aaf9886268c2165e55ef"
+      },
+      "files": [
+        {
+          "name": "uaa-release-41.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "a1b1818fb4f5e722a6c3073d364ce4c400e5fb31"
+            },
+            {
+              "type": "md5",
+              "hash": "706b2743be451b257ee24453b73f418a"
+            },
+            {
+              "type": "sha-256",
+              "hash": "373eef72ee6be800546e65006a5e9baa017e660e3512c074e348e4a9c4d71655"
+            },
+            {
+              "type": "sha-512",
+              "hash": "977524cad930079b3baa199b44f7b337c9d2eb40aef29e15c0a1c511bfdc10bdd55275e3c7d1f3d06d0561858ed7ad2ceba6fa9dfac34d2aaccee03f4344850f"
+            }
+          ],
+          "size": 168676333,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/uaa-release?v=41"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/a1b1818fb4f5e722a6c3073d364ce4c400e5fb31"
+            }
+          ],
+          "version": "41"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v40.meta4",
         "version": "71233e0a57e6adcf59d35196da0d18c66ed4044c"
       },
@@ -45,7 +88,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v38.meta4",
         "version": "d3cea68eb91cccbe45a0773672dce4dbfaa50719"
       },
@@ -88,7 +131,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v37.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -131,7 +174,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v36.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -174,7 +217,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v35.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -217,7 +260,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v34.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -260,7 +303,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v33.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -303,7 +346,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v32.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -346,7 +389,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v31.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -389,7 +432,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v30.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -432,7 +475,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v29.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },

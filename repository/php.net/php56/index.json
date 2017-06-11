@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.30.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -49,7 +49,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.29.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -96,7 +96,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.28.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -143,7 +143,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.27.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -190,7 +190,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.26.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -237,7 +237,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.25.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -284,7 +284,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.24.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -331,7 +331,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.23.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -378,7 +378,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.22.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -425,7 +425,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.21.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -472,7 +472,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.20.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -519,7 +519,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.19.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -566,7 +566,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.18.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -613,7 +613,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.17.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -660,7 +660,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.16.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -707,7 +707,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.15.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -754,7 +754,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.14.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -801,7 +801,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.13.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -848,7 +848,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.12.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -895,7 +895,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.11.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -942,7 +942,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.10.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -989,7 +989,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.9.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -1036,7 +1036,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.8.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -1083,7 +1083,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.7.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -1130,7 +1130,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.6.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -1177,7 +1177,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.5.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -1224,7 +1224,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.4.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -1271,7 +1271,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.3.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -1318,7 +1318,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.2.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -1365,7 +1365,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.1.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -1412,7 +1412,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/php.net/php56",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/php.net/php56",
         "path": "v5.6.0.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
