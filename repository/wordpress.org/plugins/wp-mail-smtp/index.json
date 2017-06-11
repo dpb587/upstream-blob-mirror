@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wp-mail-smtp",
+        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wp-mail-smtp",
         "path": "v0.10.1.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },

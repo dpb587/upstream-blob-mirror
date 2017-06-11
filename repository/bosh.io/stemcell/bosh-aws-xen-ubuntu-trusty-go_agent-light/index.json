@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/stemcell/bosh-aws-xen-ubuntu-trusty-go_agent-light",
+        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/stemcell/bosh-aws-xen-ubuntu-trusty-go_agent-light",
         "path": "v3263.27.meta4",
         "version": "71233e0a57e6adcf59d35196da0d18c66ed4044c"
       },
@@ -45,7 +45,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/stemcell/bosh-aws-xen-ubuntu-trusty-go_agent-light",
+        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/stemcell/bosh-aws-xen-ubuntu-trusty-go_agent-light",
         "path": "v3263.26.meta4",
         "version": "9e66a38f07602d8a427762e8e533b11566bc6ed6"
       },

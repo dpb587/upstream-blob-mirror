@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v65.meta4</path>
       <version>f68491e495b2ccaea5743ca8eaa5fc29cce42ad7</version>
     </repository-reference>
@@ -19,7 +19,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v64.meta4</path>
       <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
@@ -36,7 +36,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v63.meta4</path>
       <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
@@ -53,7 +53,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v62.meta4</path>
       <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>

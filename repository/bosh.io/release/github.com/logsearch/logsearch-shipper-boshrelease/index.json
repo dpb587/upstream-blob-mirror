@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/logsearch/logsearch-shipper-boshrelease",
+        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/logsearch/logsearch-shipper-boshrelease",
         "path": "v4.meta4",
         "version": "f20fa8ccb37793f70ca02d7f83a15ad76fb2bd7b"
       },

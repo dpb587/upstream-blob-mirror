@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/libxml2",
+        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/libxml2",
         "path": "v2.9.4.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },

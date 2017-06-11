@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
+      <repository>git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
       <path>v0.6.meta4</path>
       <version>0052e1350ab2105fdc2fa53c5dabed343149b5f8</version>
     </repository-reference>
