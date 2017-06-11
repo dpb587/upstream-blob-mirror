@@ -32,12 +32,14 @@ fi
 
 cd "$DIR"
 
-gitrepo=$( git remote get-url origin )
+if [[ -z "${GIT_REMOTE_URI:-}" ]]; then
+  GIT_REMOTE_URI=$( git remote get-url origin )
+fi
 
 meta4-repo filter "git+file://$gitdir//$repository" \
-  | sed "s#git+file://$gitdir//#$gitrepo//#" \
+  | sed "s#git+file://$gitdir//#$GIT_REMOTE_URI//#" \
   > "$repository_dir/index.xml"
 
 meta4-repo filter --format=json "git+file://$gitdir//$repository" \
-  | sed "s#git+file://$gitdir//#$gitrepo//#" \
+  | sed "s#git+file://$gitdir//#$GIT_REMOTE_URI//#" \
   > "$repository_dir/index.json"
