@@ -35,9 +35,9 @@ cd "$DIR"
 gitrepo=$( git remote get-url origin )
 
 meta4-repo filter "git+file://$gitdir//$repository" \
-  | sed "s#git+file://$gitdir//#$gitrepo//#" \
+  | sed "s#file://$gitdir//#$gitrepo//#" \
   > "$repository_dir/index.xml"
 
 meta4-repo filter --format=json "git+file://$gitdir//$repository" \
-  | sed "s#git+file://$gitdir//#$gitrepo//#" \
+  | sed "s#file://$gitdir//#$gitrepo//#" \
   > "$repository_dir/index.json"
