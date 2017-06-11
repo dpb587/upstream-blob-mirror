@@ -34,4 +34,21 @@
       <version>3421.3</version>
     </file>
   </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///Users/dpb587/Projects/dpb587/upstream-blob-receipts/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <path>v3312.28.meta4</path>
+      <version>2017-06-11T16:02:13-07:00</version>
+    </repository-reference>
+    <file name="bosh-stemcell-3312.28-warden-boshlite-ubuntu-trusty-go_agent.tgz">
+      <hash type="sha-1">f9368e33f34b7e1d293c86b31bc1c43c003dadcd</hash>
+      <hash type="md5">655d8c16daf1bf809320c3750048b2e6</hash>
+      <hash type="sha-256">36dacff2590a8e55395eaf149ce817e5001abbc39b45a2dd3a68bf7d83cc7fda</hash>
+      <hash type="sha-512">98d3b10de8b6702e561382134db46767c30d069f4df9430012c194f535fe4abc34e2a2984da7d9ec9a9f2a4d7c0311599f5a7042f47e3e13c69047f6e8b1d520</hash>
+      <size>380811186</size>
+      <url priority="1000">https://s3.amazonaws.com/bosh-core-stemcells/warden/bosh-stemcell-3312.28-warden-boshlite-ubuntu-trusty-go_agent.tgz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f9368e33f34b7e1d293c86b31bc1c43c003dadcd</url>
+      <version>3312.28</version>
+    </file>
+  </metalink>
 </repository>
