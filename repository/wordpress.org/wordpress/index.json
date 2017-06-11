@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/wordpress.org/wordpress",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
         "path": "v4.8.meta4",
         "version": "fedc1f320edea574b400352646075a7b77e46506"
       },
@@ -45,7 +45,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/wordpress.org/wordpress",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
         "path": "v4.7.5.meta4",
         "version": "b1ad1f9b69ecb2d4e93400a9aa67cf56a8e737c6"
       },
@@ -88,7 +88,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/wordpress.org/wordpress",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
         "path": "v4.7.4.meta4",
         "version": "c88d9ca6bfa4ce286c1f5c8308c67b16b3b2a74f"
       },
@@ -135,7 +135,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/wordpress.org/wordpress",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
         "path": "v4.7.3.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -182,7 +182,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/wordpress.org/wordpress",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
         "path": "v4.7.2.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -229,7 +229,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/wordpress.org/wordpress",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
         "path": "v4.7.1.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },

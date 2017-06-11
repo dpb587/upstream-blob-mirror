@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v41.meta4",
         "version": "6ec04fcfb9f484fd22c3aaf9886268c2165e55ef"
       },
@@ -45,7 +45,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v40.meta4",
         "version": "71233e0a57e6adcf59d35196da0d18c66ed4044c"
       },
@@ -88,7 +88,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v38.meta4",
         "version": "d3cea68eb91cccbe45a0773672dce4dbfaa50719"
       },
@@ -131,7 +131,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v37.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -174,7 +174,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v36.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -217,7 +217,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v35.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -260,7 +260,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v34.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -303,7 +303,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v33.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -346,7 +346,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v32.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -389,7 +389,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v31.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -432,7 +432,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v30.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -475,7 +475,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v29.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },

@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light",
         "path": "v3421.4.meta4",
         "version": "3cc0285b5cddd22816c375ae8e203b69923add00"
       },
@@ -45,7 +45,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light",
         "path": "v3421.3.meta4",
         "version": "71233e0a57e6adcf59d35196da0d18c66ed4044c"
       },
@@ -88,7 +88,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light",
         "path": "v3421.meta4",
         "version": "792294163d4e38ce33417161720e1cb557c48799"
       },

@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cppforlife/turbulence-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cppforlife/turbulence-release",
         "path": "v0.6.meta4",
         "version": "0052e1350ab2105fdc2fa53c5dabed343149b5f8"
       },

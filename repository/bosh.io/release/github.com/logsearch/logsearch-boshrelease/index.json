@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/logsearch/logsearch-boshrelease",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/logsearch/logsearch-boshrelease",
         "path": "v204.0.0.meta4",
         "version": "6b58dd5c4977ff8ac1a1202ec6e8ea2e7965675a"
       },

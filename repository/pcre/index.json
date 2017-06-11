@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/pcre",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/pcre",
         "path": "v8.40.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },

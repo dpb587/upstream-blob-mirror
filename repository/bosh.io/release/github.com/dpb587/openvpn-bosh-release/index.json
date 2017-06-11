@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v3.2.0.meta4",
         "version": "ff2408d9fea1ea828659a0e3eae054c3d3e06ce9"
       },
@@ -45,7 +45,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v3.1.4.meta4",
         "version": "ba0e847383cc4edfb92644ebc8399bbd1951a030"
       },
@@ -88,7 +88,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v3.1.2.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -131,7 +131,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v3.1.1.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -174,7 +174,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v3.0.0.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -217,7 +217,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v2.1.3.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -260,7 +260,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v2.1.0.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -303,7 +303,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v2.0.1.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -346,7 +346,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v2.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
@@ -389,7 +389,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v1.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },

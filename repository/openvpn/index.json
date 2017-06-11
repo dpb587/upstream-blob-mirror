@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/openvpn",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
         "path": "v2.4.2.meta4",
         "version": "3636c8fb9f9286aaa39ec9282d6932ed77c47a9b"
       },
@@ -49,7 +49,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/openvpn",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
         "path": "v2.4.1.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -96,7 +96,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/openvpn",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
         "path": "v2.3.14.meta4",
         "version": "1815117dc6f79a564cb3bcbad5960bd4e1bb194f"
       },
@@ -143,7 +143,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/openvpn",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
         "path": "v2.3.13.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -190,7 +190,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/openvpn",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
         "path": "v2.3.12.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -237,7 +237,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/openvpn",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
         "path": "v2.3.11.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -284,7 +284,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/openvpn",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
         "path": "v2.3.10.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -331,7 +331,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/openvpn",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
         "path": "v2.3.9.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -378,7 +378,7 @@
     },
     {
       "repository_reference": {
-        "repository": "file:///tmp/build/0a25ba59/repo//repository/openvpn",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
         "path": "v2.3.8.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },

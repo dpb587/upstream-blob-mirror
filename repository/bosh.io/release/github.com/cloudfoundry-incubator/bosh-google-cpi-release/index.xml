@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
       <path>v25.9.0.meta4</path>
       <version>0ce878cefabf51223e0a209dd1e87ceaa833735c</version>
     </repository-reference>
@@ -19,7 +19,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
       <path>v25.8.0.meta4</path>
       <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
@@ -36,7 +36,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
       <path>v25.7.1.meta4</path>
       <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
