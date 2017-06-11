@@ -8,10 +8,10 @@ jobs:
   - task: update
     file: repo/tasks/update/config.yml
     params:
-      AWS_ACCESS_KEY_ID: ((aws_access_key_id))
-      AWS_SECRET_ACCESS_KEY: ((aws_secret_access_key))
-      S3_BLOBS: ((s3_blobs))
-      S3_REPOS_BUCKET: ((s3_repos_bucket))
+      AWS_ACCESS_KEY_ID: {{aws_access_key_id}}
+      AWS_SECRET_ACCESS_KEY: {{aws_secret_access_key}}
+      S3_BLOBS: {{s3_blobs}}
+      S3_REPOS_BUCKET: {{s3_repos_bucket}}
       GIT_AUTHOR_EMAIL: Concourse
       GIT_AUTHOR_NAME: concourse@localhost
   - put: repo
@@ -23,7 +23,7 @@ resources:
   source:
     uri: git@github.com:dpb587/upstream-blob-mirror.git
     branch: master
-    private_key: ((git_private_key))
+    private_key: {{git_private_key}}
 - name: trigger
   type: time
   source:
