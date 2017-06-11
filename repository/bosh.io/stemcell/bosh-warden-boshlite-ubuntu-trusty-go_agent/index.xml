@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.4.meta4</path>
-      <version>2017-06-11T22:31:10Z</version>
+      <version>f1e25d895283a77de76fadca498d9a10d5f3fe3e</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.4-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">e7c440fc20bb4bea302d4bfdc2369367d1a3666e</hash>
