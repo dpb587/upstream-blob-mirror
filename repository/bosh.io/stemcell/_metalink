@@ -14,10 +14,10 @@ fi
 raw=$( wget -qO- "https://bosh.io/api/v1/stemcells/$stemcell" )
 
 if [ -z "${version:-}" ]; then
-  version=$( echo "$raw" | jq -r 'map(select(.light))[0].version' )
+  version=$( echo "$raw" | jq -r --arg weight "$weight" 'map(select(.[$weight]))[0].version' )
 fi
 
-json=$( echo "$raw" | jq --arg version "$version" -r 'map(select(.version == $version))[0].light' )
+json=$( echo "$raw" | jq --arg version "$version" --arg weight "$weight" -r 'map(select(.version == $version))[0][$weight]' )
 
 url=$( echo "$json" | jq -r .url )
 name=$( basename "$url" )
