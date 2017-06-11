@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease",
         "path": "v22.0.1.meta4",
         "version": "81ae38ed3ba55d50070ff25513aaa44883776fa4"
       },
@@ -45,7 +45,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease",
         "path": "v22.0.0.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },

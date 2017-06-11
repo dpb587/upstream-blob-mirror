@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.9.meta4</path>
       <version>3cc0285b5cddd22816c375ae8e203b69923add00</version>
     </repository-reference>
@@ -19,7 +19,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.8.meta4</path>
       <version>065ec8fb6c9e7ba021d923b07d03fe3eb7487430</version>
     </repository-reference>
@@ -36,7 +36,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.7.1.meta4</path>
       <version>6bc2959d6206e2e5a9d19b6a522a60157f5fa6f7</version>
     </repository-reference>
@@ -53,7 +53,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.6.meta4</path>
       <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
@@ -70,7 +70,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.5.meta4</path>
       <version>f2a1bd1b6e7145b37a55a57ed9128367e57dc3ed</version>
     </repository-reference>
@@ -87,7 +87,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.4.meta4</path>
       <version>33b4d4290fbee02276eee37ca11ef6a6626b6dde</version>
     </repository-reference>
@@ -104,7 +104,7 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.3.meta4</path>
       <version>c5a7d92356af2fda098cea4a091ff4c2b74cc132</version>
     </repository-reference>

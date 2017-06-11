@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/syslog-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/syslog-release",
         "path": "v11.meta4",
         "version": "6d286be34dfd8d3d82c06c22fd30dd14144632b8"
       },

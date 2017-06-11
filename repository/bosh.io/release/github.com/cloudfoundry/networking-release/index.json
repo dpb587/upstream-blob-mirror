@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/networking-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/networking-release",
         "path": "v9.meta4",
         "version": "429e8c4936783900a45c222ec49ab9a1f6e0749e"
       },

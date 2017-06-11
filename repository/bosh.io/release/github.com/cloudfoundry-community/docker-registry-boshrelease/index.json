@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-community/docker-registry-boshrelease",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry-community/docker-registry-boshrelease",
         "path": "v3.2.1.meta4",
         "version": "1f2d6fb6eb00317557c66b1fb49d74d0ea0489f6"
       },

@@ -2,7 +2,7 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
       <path>v2.4.2.meta4</path>
       <version>3636c8fb9f9286aaa39ec9282d6932ed77c47a9b</version>
     </repository-reference>
@@ -30,7 +30,7 @@ ZguupcjZGlzOQEqf4e+18hG6/DxqSuQX2SsK2OeHVSVq13ueH+6ukW6ZKsMbbeQ=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
       <path>v2.4.1.meta4</path>
       <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
@@ -58,7 +58,7 @@ t+V65CENp2mzWc4ek+BJjEB/nvZZdhAT64Q7l462Mq93dq64MooRwzc0AIB/KYs=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
       <path>v2.3.14.meta4</path>
       <version>1815117dc6f79a564cb3bcbad5960bd4e1bb194f</version>
     </repository-reference>
@@ -82,7 +82,7 @@ YigAoN/n5SK2vBIIjM5hl2CECqUpu4pW
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
       <path>v2.3.13.meta4</path>
       <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
@@ -106,7 +106,7 @@ iEYEABECAAYFAlgbEikACgkQwp2X7RmNIqOWkgCggc+Ls/MZFRyMh9iMYhTOdZZg
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
       <path>v2.3.12.meta4</path>
       <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
@@ -130,7 +130,7 @@ OOYAnAuEQKixVqs5bklXeTGtKdha6P71
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
       <path>v2.3.11.meta4</path>
       <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
@@ -154,7 +154,7 @@ OY8An0PBjTG9p1pS7IIc/C9Y/sKedsKx
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
       <path>v2.3.10.meta4</path>
       <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
@@ -178,7 +178,7 @@ XzEAn2WfGAwaVUHPCUB7TPzsDjHEKMwR
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
       <path>v2.3.9.meta4</path>
       <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
@@ -202,7 +202,7 @@ iEYEABECAAYFAlZxZD4ACgkQwp2X7RmNIqOAGACbBMjAK+23VCb0OX5xn22OUIrM
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git+file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo//repository/openvpn</repository>
       <path>v2.3.8.meta4</path>
       <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>

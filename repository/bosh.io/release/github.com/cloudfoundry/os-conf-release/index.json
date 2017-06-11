@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release",
         "path": "v12.meta4",
         "version": "5ce0ca7fbe00106f0fb313bb2d69f4fc5c832208"
       },
@@ -45,7 +45,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git+file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release",
+        "repository": "file:///tmp/build/0a25ba59/repo//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release",
         "path": "v11.meta4",
         "version": "e500948a4bc47e0f7c479d0f687c73c1d122c993"
       },
