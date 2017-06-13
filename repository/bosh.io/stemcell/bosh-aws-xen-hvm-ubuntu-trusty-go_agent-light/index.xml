@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
+      <path>v3421.6.meta4</path>
+      <version>2017-06-13T02:34:20Z</version>
+    </repository-reference>
+    <file name="light-bosh-stemcell-3421.6-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
+      <hash type="sha-1">e0d4a0964f1e131d78be15e85158c4e12591f75f</hash>
+      <hash type="md5">c1ca4f347358aaf496f6fa83d3ee5c10</hash>
+      <hash type="sha-256">5e8e5879514dd75b6ca192035f5a1a5295e2e48f4f89917a0953f6337b39b0fc</hash>
+      <hash type="sha-512">4365192e89a0f5825171021af6a77b5cab26fa0c05ee688891c184319049ee597126a624b880705dec09ff97f5105a3645ce649638f9f50b8a129629e68b60dd</hash>
+      <size>18939</size>
+      <url priority="1000">https://s3.amazonaws.com/bosh-aws-light-stemcells/light-bosh-stemcell-3421.6-aws-xen-hvm-ubuntu-trusty-go_agent.tgz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/e0d4a0964f1e131d78be15e85158c4e12591f75f</url>
+      <version>3421.6</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.4.meta4</path>
-      <version>3cc0285b5cddd22816c375ae8e203b69923add00</version>
+      <version>2017-06-13T02:34:13Z</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421.4-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">764fbcb25b7a52740917dc7088b96312</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.3.meta4</path>
-      <version>71233e0a57e6adcf59d35196da0d18c66ed4044c</version>
+      <version>2017-06-13T02:34:13Z</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421.3-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">48557e9bc65210c6ea43206af3c23e6f</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.meta4</path>
-      <version>3dc38cb31577997de5e0a2f19152f0969d9f96f6</version>
+      <version>2017-06-13T02:34:13Z</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">1c3acc4b71ac98ac335ab8642e986a04</hash>
