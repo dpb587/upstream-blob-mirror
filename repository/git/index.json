@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.13.1.meta4",
         "version": "fedc1f320edea574b400352646075a7b77e46506"
       },
@@ -45,7 +45,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.13.0.meta4",
         "version": "8238cf1138508a7b41be2ff8414231e2f0672940"
       },
@@ -88,7 +88,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.12.2.meta4",
         "version": "a0731c5a88e274948e6cfa03dec06c57bdfab34e"
       },
@@ -135,7 +135,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.12.1.meta4",
         "version": "d7639b8affaa0662ff6f3b5a85d0b3d77154a54c"
       },
@@ -182,7 +182,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.12.0.meta4",
         "version": "efaf5f2cc2fb0cbf91806441fb384b81eaea603a"
       },
@@ -229,7 +229,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.11.1.meta4",
         "version": "89f3eddf28f34ade4882e5494898740bf4dee087"
       },
@@ -276,7 +276,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.11.0.meta4",
         "version": "b240af6c73a205fa3a6b00a81a44b226d7a36017"
       },
@@ -323,7 +323,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.10.2.meta4",
         "version": "3f120b1e04f9406741a744a47cb2b63c5baefe92"
       },
@@ -370,7 +370,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.10.1.meta4",
         "version": "43533d08edb5b5814fa9f4e71bbeced2566645de"
       },
@@ -417,7 +417,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.10.0.meta4",
         "version": "f2fc9306399b0b75e59f88a4df1431791fd368a9"
       },
@@ -464,7 +464,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/git",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.9.3.meta4",
         "version": "57126d2fb1158e405801c6d9d719dd68a5533903"
       },
