@@ -14,9 +14,10 @@ jobs:
       S3_REPOS_BUCKET: {{s3_repos_bucket}}
       GIT_AUTHOR_EMAIL: Concourse
       GIT_AUTHOR_NAME: concourse@localhost
-  - put: repo
-    params:
-      repository: repo
+    ensure:
+      put: repo
+      params:
+        repository: repo
 resources:
 - name: repo
   type: git
