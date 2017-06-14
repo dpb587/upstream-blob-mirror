@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/docker-registry-boshrelease</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-community/docker-registry-boshrelease</repository>
       <path>v3.2.2.meta4</path>
-      <version>2017-06-14T09:35:58Z</version>
+      <version>9e43b53b8ee0450bbd4c6db0e26c0c8a571ff3b2</version>
     </repository-reference>
     <file name="docker-registry-boshrelease-3.2.2.tgz">
       <hash type="sha-1">b4d2489b95eeb1934cf31dcae5a69ef6d7d939a8</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/docker-registry-boshrelease</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-community/docker-registry-boshrelease</repository>
       <path>v3.2.1.meta4</path>
-      <version>2017-06-14T09:35:48Z</version>
+      <version>1f2d6fb6eb00317557c66b1fb49d74d0ea0489f6</version>
     </repository-reference>
     <file name="docker-registry-boshrelease-3.2.1.tgz">
       <hash type="sha-1">f645c954bec30771ccbbfc08c1a401471aed1057</hash>
