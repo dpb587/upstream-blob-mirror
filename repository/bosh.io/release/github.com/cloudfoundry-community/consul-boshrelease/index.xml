@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
       <path>v22.0.3.meta4</path>
-      <version>2017-06-15T21:36:13Z</version>
+      <version>1a396f9abf8d573fb156d777633f82a49584ee64</version>
     </repository-reference>
     <file name="consul-boshrelease-22.0.3.tgz">
       <hash type="sha-1">0117d44df2a53b923ec3c9e5701040bf23ca1cc9</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
       <path>v22.0.2.meta4</path>
-      <version>2017-06-15T21:36:09Z</version>
+      <version>8b3e50b25577317fc9aebff0f6158f59acc1d858</version>
     </repository-reference>
     <file name="consul-boshrelease-22.0.2.tgz">
       <hash type="sha-1">9e7a78592104a5231bd37509a469a772edc428e4</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
       <path>v22.0.1.meta4</path>
-      <version>2017-06-15T21:36:09Z</version>
+      <version>81ae38ed3ba55d50070ff25513aaa44883776fa4</version>
     </repository-reference>
     <file name="consul-boshrelease-22.0.1.tgz">
       <hash type="sha-1">da8aaacb463b8cb681edf2a387019690b1f7907e</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
       <path>v22.0.0.meta4</path>
-      <version>2017-06-15T21:36:09Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="consul-boshrelease-22.0.0.tgz">
       <hash type="sha-1">1f8ed4e78213580933fe4ac39de0ff03cd609eb2</hash>
