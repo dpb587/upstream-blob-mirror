@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.9.meta4</path>
-      <version>2017-06-21T07:05:29Z</version>
+      <version>6b68ebcd44bee01097fd920b4ddd941cc388d79c</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421.9-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">316a699d44f49d69493b1545d4addd17b78b5840</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.6.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>ca201528a67d7e6aec447f369d4e40bfcabb59fd</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421.6-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">e0d4a0964f1e131d78be15e85158c4e12591f75f</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.4.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>3cc0285b5cddd22816c375ae8e203b69923add00</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421.4-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">764fbcb25b7a52740917dc7088b96312</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.3.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>71233e0a57e6adcf59d35196da0d18c66ed4044c</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421.3-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">48557e9bc65210c6ea43206af3c23e6f</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>3dc38cb31577997de5e0a2f19152f0969d9f96f6</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">1c3acc4b71ac98ac335ab8642e986a04</hash>

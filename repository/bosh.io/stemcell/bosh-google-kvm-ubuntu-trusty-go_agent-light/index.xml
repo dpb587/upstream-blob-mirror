@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.9.meta4</path>
-      <version>2017-06-21T07:05:31Z</version>
+      <version>dc4cba6daffd68920111b8f80a419c7aeb972dc0</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421.9-google-kvm-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">408f78a2091d108bb5418964026e73c822def32d</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.6.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>a191e48023b1891f0d156696d5479443a4288a7e</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421.6-google-kvm-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">83dc6a0281611225f8bce029577ef6a64020edc9</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.4.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>3cc0285b5cddd22816c375ae8e203b69923add00</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421.4-google-kvm-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">052d6d40e3e3070e0aa8d9197ea776ce</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.3.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>71233e0a57e6adcf59d35196da0d18c66ed4044c</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421.3-google-kvm-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">2a658d11e46552d45d8549540c19d66c</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>792294163d4e38ce33417161720e1cb557c48799</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3421-google-kvm-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">f7e4af26a0758014c9ce0be3539e6c0c</hash>

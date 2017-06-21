@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-ubuntu-trusty-go_agent-light</repository>
       <path>v3263.28.meta4</path>
-      <version>2017-06-21T07:05:30Z</version>
+      <version>6774565cfc8e3eacdccf33757177e967f9b2404f</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3263.28-aws-xen-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">0d8dd5437777438e91d2da2f1c7aa559baf7c5e0</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-ubuntu-trusty-go_agent-light</repository>
       <path>v3263.27.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>71233e0a57e6adcf59d35196da0d18c66ed4044c</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3263.27-aws-xen-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">7408d7ff660a3d1864eb067b0a916d34</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-ubuntu-trusty-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-ubuntu-trusty-go_agent-light</repository>
       <path>v3263.26.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>9e66a38f07602d8a427762e8e533b11566bc6ed6</version>
     </repository-reference>
     <file name="light-bosh-stemcell-3263.26-aws-xen-ubuntu-trusty-go_agent.tgz">
       <hash type="md5">3e893c39fdc7788536fc9bde325f277e</hash>

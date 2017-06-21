@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.9.meta4</path>
-      <version>2017-06-21T07:05:59Z</version>
+      <version>0a7dd864347f11a46b58b093bccd8455159895dc</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.9-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">1396d7877204e630b9e77ae680f492d26607461d</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.6.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>e9fa1cad7ab762b2a78e75c3264faf69a3cb42a0</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.6-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">54579945657c9be309523d6b93bc90d7c443956e</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.4.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>f1e25d895283a77de76fadca498d9a10d5f3fe3e</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.4-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">e7c440fc20bb4bea302d4bfdc2369367d1a3666e</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.3.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>f6642b172aedbeeb21055856645051e70e673acf</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.3-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">fb97ed66a13c5a2cbcf21bc52957fb31074c040d</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3312.28.meta4</path>
-      <version>2017-06-21T07:05:22Z</version>
+      <version>3a2a4ba162455794c1bf107e5f12f60a8b702c72</version>
     </repository-reference>
     <file name="bosh-stemcell-3312.28-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">f9368e33f34b7e1d293c86b31bc1c43c003dadcd</hash>
