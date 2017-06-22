@@ -30,8 +30,9 @@ if ! grep -q '<hash ' /tmp/ubr-import/metalink.meta4 && ! grep -q '<signature ' 
 fi
 
 if [ -d "$repository_dir/metalink.asc" ]; then
+  touch /tmp/ubr-import/trust.gpg # touch to avoid default keybox format
   find "$repository_dir/metalink.asc" -type f -name "*.asc" \
-    | xargs -n1 gpg1 --no-default-keyring --keyring /tmp/ubr-import/trust.gpg --import \
+    | xargs -n1 gpg --no-default-keyring --keyring /tmp/ubr-import/trust.gpg --import \
     2> /dev/null \
     || true
 fi
