@@ -3,6 +3,53 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
+        "path": "v2.4.3.meta4",
+        "version": "5f5fdee2ff1be02e3c0e034ac6633317a8019de1"
+      },
+      "files": [
+        {
+          "name": "openvpn-2.4.3.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "e1929f82aff40f3d105e5f72aacff9c1"
+            },
+            {
+              "type": "sha-1",
+              "hash": "0630f30858ff2199739246f1295871226e0a7705"
+            },
+            {
+              "type": "sha-256",
+              "hash": "cee3d3ca462960a50a67c0ebd186e01b6d13db70275205663695152c9aca8579"
+            },
+            {
+              "type": "sha-512",
+              "hash": "1d1f9afa6d0858fa32f73b2a51ed7652beac52ef974b104b51b521e6d8e872b8f5659c55ec1ef442fed3b6c6b058627b0af73e765a1261871b1cd96c8acd657e"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQIcBAABAgAGBQJZSkgnAAoJENcq80SMwrA0qGUP/0njOCqGADVTrK2gLz3owZpP\nrAQRs+eBcjR+XlwQ0ejeMRuJ0HS7nSw7Y1vKpddgZDO5POscSTtR86uBizqizGfU\ns7Y40oJgFvyVsaHKbGrR8XvwjjCfEcevUbhbz+2v1u4IHkB4wfk/a0keX/mDbeRf\nVYAI/jyahzAlnBS0YdidmA6TL/aL2kmmN4JooDUKolwbox7jw7VfhKpNMRRHfxQX\nCOsNOQ1Bv9/FpHuas7mEfAuYtn+tczjLeX7xMy1oq9MW5L5/VB6pOMujIA6qoJEX\nkmKmm2W+XZq8CV5WcqudwjbJqF0G6fWIaspmf21M+EXiUyAesql9ajMLT3IZ6tA4\n5Cu3RSIiFE2Izwb9hGiOS6NzLdlrzObMb4k1tN1L3WXJaLGj8OaUqfsR+khwK5e4\no5+PBXyOTQ444pywehM5l939OGVsnaIjQk6U0oqsTAOWLPH/B4wYV8+G2irOjFKD\nctyjgiH2unZilIXwIIHqGp55x2LAAS+CY/ZIAaqFBhbDdOrAhHjD4ubF5rqb9ClR\nvFDLcmQeasGADZzwv+SeI+cmRcMfYGXDpCIlZcAFsHrWRkWKiakhGOMBKwBWVx4L\nw+y/WDT3xtX8U0kfyrxfl+pUWOfmulBDGWGSj4TJ8Kot+3B/j0YMigAhfv9tDfws\nYi03PkitVylBQ07jI1jO\n=d52d\n-----END PGP SIGNATURE-----"
+          },
+          "size": 1422692,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://swupdate.openvpn.org/community/releases/openvpn-2.4.3.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/0630f30858ff2199739246f1295871226e0a7705"
+            }
+          ],
+          "version": "2.4.3"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn",
         "path": "v2.4.2.meta4",
         "version": "3636c8fb9f9286aaa39ec9282d6932ed77c47a9b"
       },
