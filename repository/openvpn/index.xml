@@ -2,9 +2,43 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openvpn</repository>
+      <path>v2.4.3.meta4</path>
+      <version>2017-06-22T03:15:19Z</version>
+    </repository-reference>
+    <file name="openvpn-2.4.3.tar.gz">
+      <hash type="md5">e1929f82aff40f3d105e5f72aacff9c1</hash>
+      <hash type="sha-1">0630f30858ff2199739246f1295871226e0a7705</hash>
+      <hash type="sha-256">cee3d3ca462960a50a67c0ebd186e01b6d13db70275205663695152c9aca8579</hash>
+      <hash type="sha-512">1d1f9afa6d0858fa32f73b2a51ed7652beac52ef974b104b51b521e6d8e872b8f5659c55ec1ef442fed3b6c6b058627b0af73e765a1261871b1cd96c8acd657e</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAABAgAGBQJZSkgnAAoJENcq80SMwrA0qGUP/0njOCqGADVTrK2gLz3owZpP
+rAQRs+eBcjR+XlwQ0ejeMRuJ0HS7nSw7Y1vKpddgZDO5POscSTtR86uBizqizGfU
+s7Y40oJgFvyVsaHKbGrR8XvwjjCfEcevUbhbz+2v1u4IHkB4wfk/a0keX/mDbeRf
+VYAI/jyahzAlnBS0YdidmA6TL/aL2kmmN4JooDUKolwbox7jw7VfhKpNMRRHfxQX
+COsNOQ1Bv9/FpHuas7mEfAuYtn+tczjLeX7xMy1oq9MW5L5/VB6pOMujIA6qoJEX
+kmKmm2W+XZq8CV5WcqudwjbJqF0G6fWIaspmf21M+EXiUyAesql9ajMLT3IZ6tA4
+5Cu3RSIiFE2Izwb9hGiOS6NzLdlrzObMb4k1tN1L3WXJaLGj8OaUqfsR+khwK5e4
+o5+PBXyOTQ444pywehM5l939OGVsnaIjQk6U0oqsTAOWLPH/B4wYV8+G2irOjFKD
+ctyjgiH2unZilIXwIIHqGp55x2LAAS+CY/ZIAaqFBhbDdOrAhHjD4ubF5rqb9ClR
+vFDLcmQeasGADZzwv+SeI+cmRcMfYGXDpCIlZcAFsHrWRkWKiakhGOMBKwBWVx4L
+w+y/WDT3xtX8U0kfyrxfl+pUWOfmulBDGWGSj4TJ8Kot+3B/j0YMigAhfv9tDfws
+Yi03PkitVylBQ07jI1jO
+=d52d
+-----END PGP SIGNATURE-----]]></signature>
+      <size>1422692</size>
+      <url priority="1000">https://swupdate.openvpn.org/community/releases/openvpn-2.4.3.tar.gz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/0630f30858ff2199739246f1295871226e0a7705</url>
+      <version>2.4.3</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openvpn</repository>
       <path>v2.4.2.meta4</path>
-      <version>3636c8fb9f9286aaa39ec9282d6932ed77c47a9b</version>
+      <version>2017-06-22T03:15:03Z</version>
     </repository-reference>
     <file name="openvpn-2.4.2.tar.gz">
       <hash type="md5">0714019e109a043e858278c9e2ca18e0</hash>
@@ -30,9 +64,9 @@ ZguupcjZGlzOQEqf4e+18hG6/DxqSuQX2SsK2OeHVSVq13ueH+6ukW6ZKsMbbeQ=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openvpn</repository>
       <path>v2.4.1.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-06-22T03:15:03Z</version>
     </repository-reference>
     <file name="openvpn-2.4.1.tar.gz">
       <hash type="md5">01c2a737c464204c79b17c9ab33fe640</hash>
@@ -58,9 +92,9 @@ t+V65CENp2mzWc4ek+BJjEB/nvZZdhAT64Q7l462Mq93dq64MooRwzc0AIB/KYs=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openvpn</repository>
       <path>v2.3.14.meta4</path>
-      <version>1815117dc6f79a564cb3bcbad5960bd4e1bb194f</version>
+      <version>2017-06-22T03:15:03Z</version>
     </repository-reference>
     <file name="openvpn-2.3.14.tar.gz">
       <hash type="md5">5797885e15c48fd9ef1c7fde7552aed5</hash>
@@ -82,9 +116,9 @@ YigAoN/n5SK2vBIIjM5hl2CECqUpu4pW
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openvpn</repository>
       <path>v2.3.13.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-06-22T03:15:03Z</version>
     </repository-reference>
     <file name="openvpn-2.3.13.tar.gz">
       <hash type="md5">4051af7925a5e6dc34be7f76efa81621</hash>
@@ -106,9 +140,9 @@ iEYEABECAAYFAlgbEikACgkQwp2X7RmNIqOWkgCggc+Ls/MZFRyMh9iMYhTOdZZg
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openvpn</repository>
       <path>v2.3.12.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-06-22T03:15:03Z</version>
     </repository-reference>
     <file name="openvpn-2.3.12.tar.gz">
       <hash type="md5">375560e3fadc4599ede7221b0cab8a0e</hash>
@@ -130,9 +164,9 @@ OOYAnAuEQKixVqs5bklXeTGtKdha6P71
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openvpn</repository>
       <path>v2.3.11.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-06-22T03:15:03Z</version>
     </repository-reference>
     <file name="openvpn-2.3.11.tar.gz">
       <hash type="md5">e075a11f9fd0a81dae1ed1760479e9d6</hash>
@@ -154,9 +188,9 @@ OY8An0PBjTG9p1pS7IIc/C9Y/sKedsKx
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openvpn</repository>
       <path>v2.3.10.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-06-22T03:15:03Z</version>
     </repository-reference>
     <file name="openvpn-2.3.10.tar.gz">
       <hash type="md5">275a640ccfc6a9f9a8faa4c84a74d294</hash>
@@ -178,9 +212,9 @@ XzEAn2WfGAwaVUHPCUB7TPzsDjHEKMwR
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openvpn</repository>
       <path>v2.3.9.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-06-22T03:15:03Z</version>
     </repository-reference>
     <file name="openvpn-2.3.9.tar.gz">
       <hash type="md5">265755044ae88f9249d509f6d061f7e5</hash>
@@ -202,9 +236,9 @@ iEYEABECAAYFAlZxZD4ACgkQwp2X7RmNIqOAGACbBMjAK+23VCb0OX5xn22OUIrM
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openvpn</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openvpn</repository>
       <path>v2.3.8.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-06-22T03:15:03Z</version>
     </repository-reference>
     <file name="openvpn-2.3.8.tar.gz">
       <hash type="md5">51d996f1f1fc30f501ae251a254effeb</hash>
