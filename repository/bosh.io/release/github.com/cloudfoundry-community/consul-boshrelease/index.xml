@@ -3,8 +3,25 @@
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
+      <path>v23.0.0.meta4</path>
+      <version>2017-06-27T00:11:46Z</version>
+    </repository-reference>
+    <file name="consul-boshrelease-23.0.0.tgz">
+      <hash type="sha-1">7ae648b284c92140b6aea44d0098b2e3ca3e5aa2</hash>
+      <hash type="md5">ff8e9cef6fb17ec26636cdb9dfdcee17</hash>
+      <hash type="sha-256">357d83a8ee8ca4fc7a2b230c3cd564b3fe1e6d19d0f3d573c29d3bece32f4615</hash>
+      <hash type="sha-512">b17f3be5a66ff5aed8288b9817dc323cb34a0a1f25859a238fa79c214d8be9fb2a90f971a4e6ac6b70deaa5495eeb8fca23591e9b4e56d17de390e3196285655</hash>
+      <size>37239121</size>
+      <url priority="1000">https://bosh.io/d/github.com/cloudfoundry-community/consul-boshrelease?v=23.0.0</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7ae648b284c92140b6aea44d0098b2e3ca3e5aa2</url>
+      <version>23.0.0</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
       <path>v22.1.0.meta4</path>
-      <version>2017-06-26T12:11:47Z</version>
+      <version>2017-06-27T00:11:42Z</version>
     </repository-reference>
     <file name="consul-boshrelease-22.1.0.tgz">
       <hash type="sha-1">80010f50b48eff61a7823b3db99a7eba3ced9908</hash>
@@ -21,7 +38,7 @@
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
       <path>v22.0.3.meta4</path>
-      <version>2017-06-26T12:11:43Z</version>
+      <version>2017-06-27T00:11:42Z</version>
     </repository-reference>
     <file name="consul-boshrelease-22.0.3.tgz">
       <hash type="sha-1">0117d44df2a53b923ec3c9e5701040bf23ca1cc9</hash>
@@ -38,7 +55,7 @@
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
       <path>v22.0.2.meta4</path>
-      <version>2017-06-26T12:11:43Z</version>
+      <version>2017-06-27T00:11:42Z</version>
     </repository-reference>
     <file name="consul-boshrelease-22.0.2.tgz">
       <hash type="sha-1">9e7a78592104a5231bd37509a469a772edc428e4</hash>
@@ -55,7 +72,7 @@
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
       <path>v22.0.1.meta4</path>
-      <version>2017-06-26T12:11:43Z</version>
+      <version>2017-06-27T00:11:42Z</version>
     </repository-reference>
     <file name="consul-boshrelease-22.0.1.tgz">
       <hash type="sha-1">da8aaacb463b8cb681edf2a387019690b1f7907e</hash>
@@ -72,7 +89,7 @@
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease</repository>
       <path>v22.0.0.meta4</path>
-      <version>2017-06-26T12:11:43Z</version>
+      <version>2017-06-27T00:11:42Z</version>
     </repository-reference>
     <file name="consul-boshrelease-22.0.0.tgz">
       <hash type="sha-1">1f8ed4e78213580933fe4ac39de0ff03cd609eb2</hash>
