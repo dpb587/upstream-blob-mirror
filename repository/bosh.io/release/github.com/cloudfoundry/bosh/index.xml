@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/bosh</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/bosh</repository>
       <path>v262.2.meta4</path>
-      <version>2017-06-29T00:12:22Z</version>
+      <version>b2d14bb95c16c6de6a87b939773769b5beb5db61</version>
     </repository-reference>
     <file name="bosh-262.2.tgz">
       <hash type="sha-1">592569921af54b131803ca403cb25f2510497f29</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/bosh</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/bosh</repository>
       <path>v262.1.meta4</path>
-      <version>2017-06-29T00:12:05Z</version>
+      <version>fedc1f320edea574b400352646075a7b77e46506</version>
     </repository-reference>
     <file name="bosh-262.1.tgz">
       <hash type="sha-1">c2aaffdb3a9b6ddf2a05d2a865e81e4186741675</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/bosh</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/bosh</repository>
       <path>v262.meta4</path>
-      <version>2017-06-29T00:12:05Z</version>
+      <version>71233e0a57e6adcf59d35196da0d18c66ed4044c</version>
     </repository-reference>
     <file name="bosh-262.tgz">
       <hash type="sha-1">f05c06bfc122d2dd6160b178dc8bfdadf4825e25</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/bosh</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/bosh</repository>
       <path>v261.4.meta4</path>
-      <version>2017-06-29T00:12:05Z</version>
+      <version>12a18b0580eba1f9e949d6f2c1956b5284ef99e2</version>
     </repository-reference>
     <file name="bosh-261.4.tgz">
       <hash type="sha-1">4da9cedbcc8fbf11378ef439fb89de08300ad091</hash>
