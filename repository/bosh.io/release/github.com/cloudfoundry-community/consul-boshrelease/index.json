@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease",
+        "path": "v23.0.1.meta4",
+        "version": "03173467666f668ad774f676c60529b56632a579"
+      },
+      "files": [
+        {
+          "name": "consul-boshrelease-23.0.1.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "04bbe700885bf1cfa774d6454058e4885fb142f3"
+            },
+            {
+              "type": "md5",
+              "hash": "8c5900b7dc732b1c20103e692340f778"
+            },
+            {
+              "type": "sha-256",
+              "hash": "e42d865f517ab27cbd17b38a77f7c5d7ce41a5b081920122ffef55dea0cf5a5f"
+            },
+            {
+              "type": "sha-512",
+              "hash": "4660459ba4c9ed461d15a02e838cae4642f84515c2ef281266c46e795ea4694ae5072739da7762b22570811ba2a72ac3a017c83b0d76eb769d37c8a4623e8726"
+            }
+          ],
+          "size": 37239170,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry-community/consul-boshrelease?v=23.0.1"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/04bbe700885bf1cfa774d6454058e4885fb142f3"
+            }
+          ],
+          "version": "23.0.1"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-community/consul-boshrelease",
         "path": "v23.0.0.meta4",
         "version": "ed854c8eb735e246fd99765b551fc5222ccab57d"
       },
