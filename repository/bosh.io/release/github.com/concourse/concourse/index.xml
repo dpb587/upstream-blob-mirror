@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v3.3.1.meta4</path>
-      <version>2017-07-04T03:23:12Z</version>
+      <version>bd5696174684fb0d292cfee5b5dd1b92c555b1d2</version>
     </repository-reference>
     <file name="concourse-3.3.1.tgz">
       <hash type="sha-1">60e6c5e1806eee48931091566a56bd0897090e28</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v3.3.0.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>2c01e4906d26e5424f0ae4bdb965ee068dd16819</version>
     </repository-reference>
     <file name="concourse-3.3.0.tgz">
       <hash type="sha-1">f0b5ab73ba26e9cc72c8989d20ae2e8d994f18c4</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v3.2.1.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>91c4376067a22ac959c1472c7dc6754ed56692e6</version>
     </repository-reference>
     <file name="concourse-3.2.1.tgz">
       <hash type="sha-1">5d4fa5907d3733445ea0e8f9852e4fd3296b1ec7</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v3.2.0.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>524d476af85bfb88efa500e75d072dd3174809d0</version>
     </repository-reference>
     <file name="concourse-3.2.0.tgz">
       <hash type="sha-1">35f9412701fe4f71c9d530d9bb4eba377772ab1e</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v3.1.1.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>71233e0a57e6adcf59d35196da0d18c66ed4044c</version>
     </repository-reference>
     <file name="concourse-3.1.1.tgz">
       <hash type="sha-1">d796ed9059dc6d97aec9dcbf13c2529c53149692</hash>
@@ -87,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v3.0.1.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>d222f3067db2a5a79c91527c6e602084283e7856</version>
     </repository-reference>
     <file name="concourse-3.0.1.tgz">
       <hash type="sha-1">ade4f7b6a939d3a47590006410aa89f69b4dbd1f</hash>
@@ -104,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v3.0.0.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="concourse-3.0.0.tgz">
       <hash type="sha-1">b75190f00ec2825adacad75a3ca078f4254eb19a</hash>
@@ -121,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v2.7.6.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="concourse-2.7.6.tgz">
       <hash type="sha-1">562c43bedc316c02fa3394349b7c61eb7d41d3be</hash>
@@ -138,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v2.7.5.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="concourse-2.7.5.tgz">
       <hash type="sha-1">d5645f440e7894eb6040679756bbe70148c5b413</hash>
@@ -155,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v2.7.4.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="concourse-2.7.4.tgz">
       <hash type="sha-1">59f20ddea3ffd9bcab572abb3e2e1137aa3d6e7a</hash>
@@ -172,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v2.7.3.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="concourse-2.7.3.tgz">
       <hash type="sha-1">ca38944353c893660a428cc6678941734b51b036</hash>
@@ -189,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v2.7.2.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="concourse-2.7.2.tgz">
       <hash type="sha-1">1d3e3b00e18e39b02a2336baeee6e3dfca592e61</hash>
@@ -206,9 +206,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v2.7.1.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="concourse-2.7.1.tgz">
       <hash type="sha-1">af9424c8f9d9ea14e961743e4d8d4fa187fc1e31</hash>
@@ -223,9 +223,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/concourse/concourse</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse</repository>
       <path>v2.7.0.meta4</path>
-      <version>2017-07-04T03:20:48Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="concourse-2.7.0.tgz">
       <hash type="sha-1">826932f631d0941b3e4cc9cb19e0017c7f989b56</hash>
