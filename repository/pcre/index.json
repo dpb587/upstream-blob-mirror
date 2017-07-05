@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/pcre",
+        "path": "v8.41.meta4",
+        "version": "f0baddd64f444852d76222938e8f3552389beaab"
+      },
+      "files": [
+        {
+          "name": "pcre-8.41.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "2e7896647ee25799cb454fe287ffcd08"
+            },
+            {
+              "type": "sha-1",
+              "hash": "dddf0995aefe04cc6267c1448ffef0e7b0560ec0"
+            },
+            {
+              "type": "sha-256",
+              "hash": "244838e1f1d14f7e2fa7681b857b3a8566b74215f28133f14a8f5e59241b682c"
+            },
+            {
+              "type": "sha-512",
+              "hash": "e348f10df6f1ef66880680d3b3188dd5baf736e2f42d83c42990c42f01d017a872c105aa8cbbb664096288568ed4817b1c3f01e64e305fd7d42b89528ed62599"
+            }
+          ],
+          "size": 2068775,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "ftp://ftp.csx.cam.ac.uk/pub/software/programming/pcre/pcre-8.41.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/dddf0995aefe04cc6267c1448ffef0e7b0560ec0"
+            }
+          ],
+          "version": "8.41"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/pcre",
         "path": "v8.40.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
