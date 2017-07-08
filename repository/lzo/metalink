@@ -17,7 +17,7 @@ url=https://www.oberhumer.com/opensource/lzo/download/lzo-${version}.tar.gz
 size=$( curl -sLI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
 
 sha1=$(
-  wget -qO- https://www.oberhumer.com/opensource/lzo/ \
+  wget -qO- http://www.oberhumer.com/opensource/lzo/ \
     | grep -E 'SHA1: ' \
     | sed -E 's/.+SHA1: +([a-f0-9]+).+/\1/' \
     | head -n1
