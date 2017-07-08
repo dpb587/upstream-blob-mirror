@@ -4,6 +4,7 @@ set -eu -o pipefail ; export SHELLOPTS
 
 if [ -z "${version:-}" ]; then
   version=$(
+    set +o pipefail # head SIGPIPE
     wget -qO- https://golang.org/dl/ \
       | grep '.linux-amd64.tar.gz' \
       | head -n1 \

@@ -1,11 +1,22 @@
 #!/bin/bash
 
-set -eu -o pipefail
+set -eu -o pipefail ; export SHELLOPTS
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )/.."
 cd "$DIR"
 
-find . -name metalink | cut -c3- | xargs -n1 dirname | sort | xargs -n1 ./bin/watch "$S3_BLOBS"
+exit=0
+
+for metalink in $( find . -name metalink | cut -c3- | xargs -n1 dirname | sort ); do
+  set +x
+  ./bin/watch "$S3_BLOBS" "$metalink"
+  watch=$?
+  set -x
+
+  if [[ "0" != "$?" ]]; then
+    exit=1
+  fi
+done
 
 cp index.html.header index.html
 
@@ -19,3 +30,5 @@ cat index.html.footer >> index.html
 
 git add .
 git commit -m 'bump' || true
+
+exit "$exit"
