@@ -2,7 +2,7 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/lzo",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/lzo",
         "path": "v2.10.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -49,7 +49,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/lzo",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/lzo",
         "path": "v2.09.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
