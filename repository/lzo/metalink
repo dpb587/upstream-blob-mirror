@@ -3,8 +3,9 @@
 set -eu -o pipefail ; export SHELLOPTS
 
 if [ -z "${version:-}" ]; then
+  # https does not seem to work from the concourse worker (403 Forbidden)
   version=$(
-    wget -qO- https://www.oberhumer.com/opensource/lzo/download/ \
+    wget -qO- http://www.oberhumer.com/opensource/lzo/download/ \
       | grep -E 'href="lzo-[^"]+.tar.gz"' \
       | sed -E 's/^.+href="lzo-([^"]+).tar.gz".+$/\1/' \
       | sort -rV \
