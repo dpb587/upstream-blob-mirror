@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="git-2.13.3.tar.gz">
+    <hash type="sha-256">1497001772f630d49809e981672edfe3e3ce1a1d18e905cd539c4d2f4dbcd75a</hash>
+    <hash type="md5">d2dc550f6693ba7e5b16212b2714f59f</hash>
+    <hash type="sha-1">e0b64bdcc9a13b6925d7eee6978da62af767e2f3</hash>
+    <hash type="sha-512">3b90ed425a4bd0b118495717fa79470c83d7cd41e9c47b27407690da6f2c23bf2d3f78e51ce50995074d62e1a2bc4ef5d27ca42db5b2cac48c32b8ad8f356670</hash>
+    <size>6920457</size>
+    <url priority="1000">https://www.kernel.org/pub/software/scm/git/git-2.13.3.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/e0b64bdcc9a13b6925d7eee6978da62af767e2f3</url>
+    <version>2.13.3</version>
+  </file>
+</metalink>
