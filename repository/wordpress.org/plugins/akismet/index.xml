@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
       <path>v3.3.3.meta4</path>
-      <version>2017-07-14T04:11:09Z</version>
+      <version>f011c7fe053f779df1d8fcbb356efe877846d4a9</version>
     </repository-reference>
     <file name="akismet.3.3.3.zip">
       <hash type="md5">31b559162adae31b79215106625998d2</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
       <path>v3.3.2.meta4</path>
-      <version>2017-07-14T04:09:52Z</version>
+      <version>67d08b40547092ef547e32932eeaa66507ccf6ff</version>
     </repository-reference>
     <file name="akismet.3.3.2.zip">
       <hash type="md5">12b26c8852ac5156ac70aaf879e52a94</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
       <path>v3.3.meta4</path>
-      <version>2017-07-14T04:09:52Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="akismet.3.3.zip">
       <hash type="md5">15ad14b7edadc287ba6761ad2ee341a4</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
       <path>v3.2.meta4</path>
-      <version>2017-07-14T04:09:52Z</version>
+      <version>80fbdb605f5d21647a5e823b1cb003d32e917070</version>
     </repository-reference>
     <file name="akismet.3.2.zip">
       <hash type="md5">dad30aa8c20c411a8a20b8d3aa0863f5</hash>
