@@ -7,6 +7,7 @@ cd "$DIR"
 
 origin="$1"
 repository="$2"
+execmeta="${3:-metalink}"
 
 gitdir=$PWD
 
@@ -18,7 +19,7 @@ echo "$repository"
 rm -fr /tmp/ubr-watch
 mkdir /tmp/ubr-watch
 
-./metalink > /tmp/ubr-watch/metalink.meta4
+./$execmeta > /tmp/ubr-watch/metalink.meta4
 
 cd /tmp/ubr-watch
 

@@ -7,9 +7,9 @@ cd "$DIR"
 
 exit=0
 
-for metalink in $( find . -name metalink | cut -c3- | xargs -n1 dirname | sort ); do
+for metalink in $( ( find . -name metalink ; find . -name 'metalink-*' ) | cut -c3- | sort ); do
   set +e
-  ./bin/watch "$S3_BLOBS" "$metalink"
+  ./bin/watch "$S3_BLOBS" "$( dirname "$metalink" )" "$( basename "$metalink" )"
   watch=$?
   set -e
 
