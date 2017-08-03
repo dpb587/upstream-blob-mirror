@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
+      <path>v2.13.4.meta4</path>
+      <version>2017-08-03T07:14:17Z</version>
+    </repository-reference>
+    <file name="git-2.13.4.tar.gz">
+      <hash type="sha-256">a7b3361ed4675ea36ad1cf34c18d4a687c9d7d9a7d2aee45ed6e3b259542184c</hash>
+      <hash type="md5">605ccb2097fc764c5e0351d38f691a97</hash>
+      <hash type="sha-1">c462945520ba38db48758aa88982bce291c2de4b</hash>
+      <hash type="sha-512">363f12ca9f2df1b7b83a8a5d55e39da0e120ac903842422958540a675761c71cdbd30caaad147bb99922b428c51e925e4aa04d96dba21354b0571d281e6bdab4</hash>
+      <size>6922089</size>
+      <url priority="1000">https://www.kernel.org/pub/software/scm/git/git-2.13.4.tar.gz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/c462945520ba38db48758aa88982bce291c2de4b</url>
+      <version>2.13.4</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.13.3.meta4</path>
-      <version>f8d169e2671407b40f8549fc3a84fe2aaf0c4556</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.13.3.tar.gz">
       <hash type="sha-256">1497001772f630d49809e981672edfe3e3ce1a1d18e905cd539c4d2f4dbcd75a</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.13.2.meta4</path>
-      <version>3e3c3aad232ae4973a4467d8093e73a3d6337eb1</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.13.2.tar.gz">
       <hash type="sha-256">e19d450648d6d100eb93abaa5d06ffbc778394fb502354b7026d73e9bcbc3160</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.13.1.meta4</path>
-      <version>fedc1f320edea574b400352646075a7b77e46506</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.13.1.tar.gz">
       <hash type="sha-256">549c5e62d1bde98c8d688c8ed88d2a9b6812e6a842a4eb0fe6c70b01b034c061</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.13.0.meta4</path>
-      <version>8238cf1138508a7b41be2ff8414231e2f0672940</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.13.0.tar.gz">
       <hash type="sha-256">9f2fa8040ebafc0c2caae4a9e2cb385c6f16c0525bcb0fbd84938bc796372e80</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.12.2.meta4</path>
-      <version>a0731c5a88e274948e6cfa03dec06c57bdfab34e</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.12.2.tar.gz">
       <hash type="sha-256">d9c6d787a24670d7e5100db2367c250ad9756ef8084fb153a46b82f1d186f8d8</hash>
@@ -88,9 +105,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.12.1.meta4</path>
-      <version>d7639b8affaa0662ff6f3b5a85d0b3d77154a54c</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.12.1.tar.gz">
       <hash type="sha-256">65d62d10caf317fc1daf2ca9975bdb09dbff874c92d24f9529d29a7784486b43</hash>
@@ -106,9 +123,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.12.0.meta4</path>
-      <version>efaf5f2cc2fb0cbf91806441fb384b81eaea603a</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.12.0.tar.gz">
       <hash type="sha-256">882f298daf582a07c597737eb4bbafb82c6208fe0e73c047defc12169c221a92</hash>
@@ -124,9 +141,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.11.1.meta4</path>
-      <version>89f3eddf28f34ade4882e5494898740bf4dee087</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.11.1.tar.gz">
       <hash type="sha-256">a1cdd7c820f92c44abb5003b36dc8cb7201ba38e8744802399f59c97285ca043</hash>
@@ -142,9 +159,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.11.0.meta4</path>
-      <version>b240af6c73a205fa3a6b00a81a44b226d7a36017</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.11.0.tar.gz">
       <hash type="sha-256">d3be9961c799562565f158ce5b836e2b90f38502d3992a115dfb653d7825fd7e</hash>
@@ -160,9 +177,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.10.2.meta4</path>
-      <version>3f120b1e04f9406741a744a47cb2b63c5baefe92</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.10.2.tar.gz">
       <hash type="sha-256">3d7ef275d80b97aaa61f3b6be9d3dc516202e6f6f5d885f2c09b59eba592dcc4</hash>
@@ -178,9 +195,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.10.1.meta4</path>
-      <version>43533d08edb5b5814fa9f4e71bbeced2566645de</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.10.1.tar.gz">
       <hash type="sha-256">78553f786f1a66cb68983c170be482558028a3376056c0f2ed366f331b1e35f2</hash>
@@ -196,9 +213,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.10.0.meta4</path>
-      <version>f2fc9306399b0b75e59f88a4df1431791fd368a9</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.10.0.tar.gz">
       <hash type="sha-256">207cfce8cc0a36497abb66236817ef449a45f6ff9141f586bbe2aafd7bc3d90b</hash>
@@ -214,9 +231,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/git</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/git</repository>
       <path>v2.9.3.meta4</path>
-      <version>57126d2fb1158e405801c6d9d719dd68a5533903</version>
+      <version>2017-08-03T07:13:29Z</version>
     </repository-reference>
     <file name="git-2.9.3.tar.gz">
       <hash type="sha-256">a252b6636b12d5ba57732c8469701544c26c2b1689933bd1b425e603cbb247c0</hash>
