@@ -13,6 +13,10 @@ fi
 
 raw=$( wget -qO- "https://bosh.io/api/v1/stemcells/$stemcell" )
 
+if [ -n "${version_series:-}" ]; then
+  raw="$( echo "$raw" | jq -r --arg series "$version_series" 'map(select(.version | split(".")[0] == $series))' )"
+fi
+
 if [ -z "${version:-}" ]; then
   version=$( echo "$raw" | jq -r --arg weight "$weight" 'map(select(.[$weight]))[0].version' )
 fi
