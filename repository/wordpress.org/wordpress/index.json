@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
+        "path": "v4.8.1.meta4",
+        "version": "04559705e60cb6400f724d29f608677ec5ff1f63"
+      },
+      "files": [
+        {
+          "name": "wordpress-4.8.1.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "5376cf41403ae26d51ca55c32666ef68b10e35a4"
+            },
+            {
+              "type": "md5",
+              "hash": "f3dd0e033519aa363eb07e13c6676e3c"
+            },
+            {
+              "type": "sha-256",
+              "hash": "785f4c715c87aaef9023b3cf796f62ff4aa25f82dfd5c6d895667da184b60843"
+            },
+            {
+              "type": "sha-512",
+              "hash": "dfc166a48cd3542e277a74c6b6f551af7043fee45ac62ca764077e1a73fb487da62e57f1a60f60348d8bfe6ee4199c3ce261c042e20cf652f1b0233bd97d6b5c"
+            }
+          ],
+          "size": 8178289,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://downloads.wordpress.org/release/wordpress-4.8.1.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/5376cf41403ae26d51ca55c32666ef68b10e35a4"
+            }
+          ],
+          "version": "4.8.1"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
         "path": "v4.8.meta4",
         "version": "fedc1f320edea574b400352646075a7b77e46506"
       },
