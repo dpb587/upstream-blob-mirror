@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <path>v3431.13.meta4</path>
+      <version>2017-08-05T07:34:24Z</version>
+    </repository-reference>
+    <file name="bosh-stemcell-3431.13-warden-boshlite-ubuntu-trusty-go_agent.tgz">
+      <hash type="sha-1">2ee54f7598dca5989fa5779706e5d5704344cbe8</hash>
+      <hash type="md5">0ebe504f9986779aa28787cbd3f198a3</hash>
+      <hash type="sha-256">84dd5c8c5d3f53f4686faf7eefaa2f94eb78b9c938e45f5432ade3dd939ea0a9</hash>
+      <hash type="sha-512">9831bc0f47fd561eb0e81bf0311f31acd671ebcf6f6d497be9e19150a1cabebdb237885ca6f5a34e4dca7976782236b106dc1cab431940f7b86a9425b56f76ec</hash>
+      <size>381428943</size>
+      <url priority="1000">https://s3.amazonaws.com/bosh-core-stemcells/warden/bosh-stemcell-3431.13-warden-boshlite-ubuntu-trusty-go_agent.tgz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2ee54f7598dca5989fa5779706e5d5704344cbe8</url>
+      <version>3431.13</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3431.11.meta4</path>
-      <version>256df259abcbff44c86e766dc455fd2b4be008c3</version>
+      <version>2017-08-05T07:32:52Z</version>
     </repository-reference>
     <file name="bosh-stemcell-3431.11-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">74d183d7fa4d75d761627f8ed285bad48a42afb6</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3431.10.meta4</path>
-      <version>47b480120812e501ebf1dd57a412f84f838bb753</version>
+      <version>2017-08-05T07:32:52Z</version>
     </repository-reference>
     <file name="bosh-stemcell-3431.10-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">bc41a90fd698c454268222f692326d60294faf5e</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.18.meta4</path>
-      <version>d3f804e82c4fdc7d34dd35892a4e657e82da16c3</version>
+      <version>2017-08-05T07:32:52Z</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.18-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">c636bfb27c36fd9a004d91c86da9ccd8d3e69229</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.15.meta4</path>
-      <version>166b5fbe36f85e9a51fa7f06eea9aaab8b6203e2</version>
+      <version>2017-08-05T07:32:52Z</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.15-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">e92b8e698ee23e839b88bd6e0a8b06fe9f8f455a</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.11.meta4</path>
-      <version>de3072d852591933e73398fc5aa51d27b2dde6a3</version>
+      <version>2017-08-05T07:32:52Z</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.11-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">238da7980c85265726ba1cf923fde2e371f9ea56</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.9.meta4</path>
-      <version>0a7dd864347f11a46b58b093bccd8455159895dc</version>
+      <version>2017-08-05T07:32:52Z</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.9-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">1396d7877204e630b9e77ae680f492d26607461d</hash>
@@ -104,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.6.meta4</path>
-      <version>e9fa1cad7ab762b2a78e75c3264faf69a3cb42a0</version>
+      <version>2017-08-05T07:32:52Z</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.6-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">54579945657c9be309523d6b93bc90d7c443956e</hash>
@@ -121,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.4.meta4</path>
-      <version>f1e25d895283a77de76fadca498d9a10d5f3fe3e</version>
+      <version>2017-08-05T07:32:52Z</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.4-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">e7c440fc20bb4bea302d4bfdc2369367d1a3666e</hash>
@@ -138,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3421.3.meta4</path>
-      <version>f6642b172aedbeeb21055856645051e70e673acf</version>
+      <version>2017-08-05T07:32:52Z</version>
     </repository-reference>
     <file name="bosh-stemcell-3421.3-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">fb97ed66a13c5a2cbcf21bc52957fb31074c040d</hash>
@@ -155,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent</repository>
       <path>v3312.28.meta4</path>
-      <version>3a2a4ba162455794c1bf107e5f12f60a8b702c72</version>
+      <version>2017-08-05T07:32:52Z</version>
     </repository-reference>
     <file name="bosh-stemcell-3312.28-warden-boshlite-ubuntu-trusty-go_agent.tgz">
       <hash type="sha-1">f9368e33f34b7e1d293c86b31bc1c43c003dadcd</hash>
