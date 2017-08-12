@@ -71,6 +71,23 @@
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
+      <path>v3421.19.meta4</path>
+      <version>2017-08-12T08:33:22Z</version>
+    </repository-reference>
+    <file name="light-bosh-stemcell-3421.19-aws-xen-hvm-ubuntu-trusty-go_agent.tgz">
+      <hash type="sha-1">725022a09e3f92ab56182236fa0be3c02214f376</hash>
+      <hash type="md5">02f67ebd3aaaa4e3825665926e3afbf8</hash>
+      <hash type="sha-256">1ae1870d8fc12cb3ec03add42ed0b00e59d1770336d77b917369a5ecb8e7825c</hash>
+      <hash type="sha-512">a9e6429fb214edfbebea6b13049af6f3050673f49369a66e4a69b31e199ad9adf5fe26951c08654165085d8812ac6fad9fdfe6460acdb8f41cf1f7ee20c90479</hash>
+      <size>18920</size>
+      <url priority="1000">https://s3.amazonaws.com/bosh-aws-light-stemcells/light-bosh-stemcell-3421.19-aws-xen-hvm-ubuntu-trusty-go_agent.tgz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/725022a09e3f92ab56182236fa0be3c02214f376</url>
+      <version>3421.19</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.18.meta4</path>
       <version>2017-08-12T08:32:39Z</version>
     </repository-reference>
