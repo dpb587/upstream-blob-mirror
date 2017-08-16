@@ -2,7 +2,54 @@
   "metalink": [
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
+        "path": "v1.1.0f.meta4",
+        "version": "b77ee471e91772e05a0e4b1210456a0bc215b4da"
+      },
+      "files": [
+        {
+          "name": "openssl-1.1.0f.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "12f746f3f2493b2f39da7ecf63d7ee19c6ac9ec6a4fcd8c229da8a522cb12765"
+            },
+            {
+              "type": "md5",
+              "hash": "7b521dea79ab159e8ec879d2333369fa"
+            },
+            {
+              "type": "sha-1",
+              "hash": "9e3e02bc8b4965477a7a1d33be1249299a9deb15"
+            },
+            {
+              "type": "sha-512",
+              "hash": "340ab3f38c90dea346e543b58bc0eff0adede15be212ad20b7cf38718a7f94fab51996da414855c180540f7488b8bd31d8b9a0d04bb19159f735c46d8f6df22c"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEcBAABCAAGBQJZJtIfAAoJENnE0m0OYESRAZ8IAKmK/kFqlhialLU27YMoF6oT\nj9mYmQfpFhianoTARg3bqQqknbSjC84O0WJ6Mnmg4DYxzXK/JgyrjE7voPYKS2FX\nBR6kfmbg7qXoauGhXRNh3k56CM1fFXRVvpRJF9ZOO47HVimLd9EsynvoN7iYZGJ2\nD1n+ZCOmnH3d4gY3cF6VAw/gzAULa3av+xhyRtBvs8qt96bZKeSqh73Ma/fkQRSL\njdG6N1bgxkC/F3fFxa6R+xcPjJJDBzPfG3HAUNIV9n/4muRPEsBF/YRUmXy5MAlz\n8ncL1k9i7K9RSqtEe7P4mK2X+i7HC5hiq4IxNP8G8tJzxoh3DcqZGNUxiWBku6g=\n=Hv2y\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5278176,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.1.0f.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/9e3e02bc8b4965477a7a1d33be1249299a9deb15"
+            }
+          ],
+          "version": "1.1.0f"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.1.0e.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -49,7 +96,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.1.0d.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -100,7 +147,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.1.0c.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -151,7 +198,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.1.0b.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -202,7 +249,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.1.0a.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -253,7 +300,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2k.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -304,7 +351,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2j.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -355,7 +402,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2i.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -406,7 +453,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2h.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -457,7 +504,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2g.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -508,7 +555,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2f.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -559,7 +606,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2e.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -610,7 +657,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2d.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -661,7 +708,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2c.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -712,7 +759,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2b.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
@@ -763,7 +810,7 @@
     },
     {
       "repository_reference": {
-        "repository": "git@github.com:dpb587/upstream-blob-receipts.git//repository/openssl",
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.0.2a.meta4",
         "version": "055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f"
       },
