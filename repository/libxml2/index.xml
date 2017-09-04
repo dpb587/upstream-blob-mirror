@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/libxml2</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/libxml2</repository>
       <path>v2.9.5.meta4</path>
-      <version>2017-09-04T13:05:37Z</version>
+      <version>549d3d4af76f3efa4936268f8e0b9ee1a248ec02</version>
     </repository-reference>
     <file name="libxml2-2.9.5.tar.gz">
       <hash type="md5">5ce0da9bdaa267b40c4ca36d35363b8b</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/libxml2</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/libxml2</repository>
       <path>v2.9.4.meta4</path>
-      <version>2017-09-04T13:03:19Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="libxml2-2.9.4.tar.gz">
       <hash type="md5">ae249165c173b1ff386ee8ad676815f5</hash>
