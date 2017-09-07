@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cppforlife/turbulence-release",
+        "path": "v0.10.0.meta4",
+        "version": "1730b197b388ac80434b3811e186610dae807368"
+      },
+      "files": [
+        {
+          "name": "turbulence-release-0.10.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "259344312796e23500b2836a15140f8f09ad99ee"
+            },
+            {
+              "type": "md5",
+              "hash": "43c4f87a93ab0ba4d39a304cba2901bc"
+            },
+            {
+              "type": "sha-256",
+              "hash": "56160d25f54c89286c1760a9cfe2f3d231574ff092bb92d967245ac16bfac6e3"
+            },
+            {
+              "type": "sha-512",
+              "hash": "fd3c27c50749c1bd8040288d63d97e9f072566aa547b9074b0e3cd2632d2ebb5209711e459a5474e40ae7a1a79a83dc9551eb895b43633bac7572810b9e872e9"
+            }
+          ],
+          "size": 95136273,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cppforlife/turbulence-release?v=0.10.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/259344312796e23500b2836a15140f8f09ad99ee"
+            }
+          ],
+          "version": "0.10.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cppforlife/turbulence-release",
         "path": "v0.9.meta4",
         "version": "2fdaef070277cee54ea052495a7d827cf8e2f3a6"
       },

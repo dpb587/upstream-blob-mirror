@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
       <path>v0.10.0.meta4</path>
-      <version>2017-09-07T01:09:42Z</version>
+      <version>1730b197b388ac80434b3811e186610dae807368</version>
     </repository-reference>
     <file name="turbulence-release-0.10.0.tgz">
       <hash type="sha-1">259344312796e23500b2836a15140f8f09ad99ee</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
       <path>v0.9.meta4</path>
-      <version>2017-09-07T01:07:22Z</version>
+      <version>2fdaef070277cee54ea052495a7d827cf8e2f3a6</version>
     </repository-reference>
     <file name="turbulence-release-0.9.tgz">
       <hash type="sha-1">c9b0e88aca1ed2f705800437c7d86d00936809d1</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
       <path>v0.8.meta4</path>
-      <version>2017-09-07T01:07:22Z</version>
+      <version>9c50d11912db07c80f285dcb17d63d8f864dc7da</version>
     </repository-reference>
     <file name="turbulence-release-0.8.tgz">
       <hash type="sha-1">f9e20d7cc421bf5e71c74e397a690b1e660e15c5</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
       <path>v0.7.meta4</path>
-      <version>2017-09-07T01:07:22Z</version>
+      <version>2d230c84330326f1a5de48f1c11d75cf90f1e4e7</version>
     </repository-reference>
     <file name="turbulence-release-0.7.tgz">
       <hash type="sha-1">6e9d33e7372925b55a929be6852c10758c0173cb</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cppforlife/turbulence-release</repository>
       <path>v0.6.meta4</path>
-      <version>2017-09-07T01:07:22Z</version>
+      <version>0052e1350ab2105fdc2fa53c5dabed343149b5f8</version>
     </repository-reference>
     <file name="turbulence-release-0.6.tgz">
       <hash type="sha-1">5222108e2aa500bb60205d7a0e6f654dde391f36</hash>
