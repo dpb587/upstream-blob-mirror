@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/regenerate-thumbnails</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/regenerate-thumbnails</repository>
+      <path>v2.3.0.meta4</path>
+      <version>2017-09-17T13:46:36Z</version>
+    </repository-reference>
+    <file name="regenerate-thumbnails.2.3.0.zip">
+      <hash type="md5">3d7e5e7262bac8f6e09df6263dfed32c</hash>
+      <hash type="sha-1">06bca7d83bc4805c37aa466b4e14ee77327244e9</hash>
+      <hash type="sha-256">3d29a391c644d2e65d788403924b0529f02a14220a898359de02694f4f2b4607</hash>
+      <hash type="sha-512">10553bb9a33130fb00b18c7afb44472b3193c89cf10554af9b5cda6b5648ba10c21a5872f2293c5daf94903549376978cbdd63e9dfd8198ec1e87bd0a2f4a236</hash>
+      <size>180563</size>
+      <url priority="1000">http://downloads.wordpress.org/plugin/regenerate-thumbnails.2.3.0.zip</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/06bca7d83bc4805c37aa466b4e14ee77327244e9</url>
+      <version>2.3.0</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/regenerate-thumbnails</repository>
       <path>v2.2.6.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-09-17T13:44:55Z</version>
     </repository-reference>
     <file name="regenerate-thumbnails.2.2.6.zip">
       <hash type="md5">8ad4be9e924dcd28e51db835634b7314</hash>
