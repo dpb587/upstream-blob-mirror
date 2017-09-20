@@ -105,6 +105,23 @@
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
       <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
+      <path>v3421.26.meta4</path>
+      <version>2017-09-20T01:59:29Z</version>
+    </repository-reference>
+    <file name="light-bosh-stemcell-3421.26-google-kvm-ubuntu-trusty-go_agent.tgz">
+      <hash type="sha-1">bc4df3a78575bfcd710ad4d34f86409d18ef92e6</hash>
+      <hash type="md5">250d80e3d49762ec42c69a65c0634f93</hash>
+      <hash type="sha-256">6b11ee6dcc59fba486c0bb624b3c2431eb94c7b293d1af7fb98040b4a22aab33</hash>
+      <hash type="sha-512">56ad8379e618b3ff85377c27dff0ac2dc2d16a817fe300b800e23f2605752f1d9956b4851da6b3855d4756c9a4afe85045a4e96b5dbeea5a28031e9c5a78149a</hash>
+      <size>19305</size>
+      <url priority="1000">https://s3.amazonaws.com/bosh-gce-light-stemcells/light-bosh-stemcell-3421.26-google-kvm-ubuntu-trusty-go_agent.tgz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/bc4df3a78575bfcd710ad4d34f86409d18ef92e6</url>
+      <version>3421.26</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-trusty-go_agent-light</repository>
       <path>v3421.24.meta4</path>
       <version>2017-09-20T01:58:46Z</version>
     </repository-reference>
