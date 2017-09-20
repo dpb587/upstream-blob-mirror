@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/regenerate-thumbnails",
+        "path": "v2.3.1.meta4",
+        "version": "5e027d3e7b8195616eaf927a42cb21874d571905"
+      },
+      "files": [
+        {
+          "name": "regenerate-thumbnails.2.3.1.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "0efcc7ca03681ffdaa805f03100df24d"
+            },
+            {
+              "type": "sha-1",
+              "hash": "7c3ac74ff66a939e5ebd3aff98ed8485a79c316e"
+            },
+            {
+              "type": "sha-256",
+              "hash": "b47b691bed8c7948a5da682b9c4900b0568bd554dab1bd24ade263b13b7c3c70"
+            },
+            {
+              "type": "sha-512",
+              "hash": "41d9c23ba247cd4315fb3c311ee1605c3a308bcb3b39d22ba3e2625e650b5c0d9ba67045c4942f51b6816a058c7161b4035129e4b949d58ffbfa55271b5dbf8c"
+            }
+          ],
+          "size": 180588,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://downloads.wordpress.org/plugin/regenerate-thumbnails.2.3.1.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7c3ac74ff66a939e5ebd3aff98ed8485a79c316e"
+            }
+          ],
+          "version": "2.3.1"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/regenerate-thumbnails",
         "path": "v2.3.0.meta4",
         "version": "422d506e15fd01084c74fc6ddfcda38d50e9e807"
       },
