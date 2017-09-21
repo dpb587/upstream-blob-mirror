@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo",
+        "path": "v5.4.2.meta4",
+        "version": "f77d4454165eeeba410f060f43f36e2b23ab846c"
+      },
+      "files": [
+        {
+          "name": "wordpress-seo.5.4.2.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "dd20c7fff7c635af5e8b1ce890b6441f"
+            },
+            {
+              "type": "sha-1",
+              "hash": "1e0b114d4edc17070383f610be39545557ad05c9"
+            },
+            {
+              "type": "sha-256",
+              "hash": "151baf29eef85f29a51f804618e4468c3328019bfeee7206a71398b5f9007754"
+            },
+            {
+              "type": "sha-512",
+              "hash": "108eda2066a1e2743b4d3520280d6b7ed190d44ba4e997908c4dea1310798c2c66f1119ff31c9b42b84c77d3ccf6857f5ff937ce12b43485531fcd4dacf80539"
+            }
+          ],
+          "size": 2886934,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://downloads.wordpress.org/plugin/wordpress-seo.5.4.2.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/1e0b114d4edc17070383f610be39545557ad05c9"
+            }
+          ],
+          "version": "5.4.2"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo",
         "path": "v5.4.1.meta4",
         "version": "aa905af6f6340dad8ee6560b8bd558bbc788d4dc"
       },

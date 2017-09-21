@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse",
+        "path": "v3.5.0.meta4",
+        "version": "9201fc42fa29734a36b62a3da7145fb7e04efc74"
+      },
+      "files": [
+        {
+          "name": "concourse-3.5.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "65a974b3831bb9908661a5ffffbe456e10185149"
+            },
+            {
+              "type": "md5",
+              "hash": "ddb21e27c45940f26eaa85e985d5df15"
+            },
+            {
+              "type": "sha-256",
+              "hash": "32743846149501011bd3d80d27e724bf9653fac56e65be103b10ec3d86dff768"
+            },
+            {
+              "type": "sha-512",
+              "hash": "0b6a19b942009aec7390c8a280193a881be768ba65494ec081765b2c90d37721fedb98a381c8ff2e0e7fb7701f4e8726369e6249d0c1680b258969c42ab9afac"
+            }
+          ],
+          "size": 381594737,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/concourse/concourse?v=3.5.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/65a974b3831bb9908661a5ffffbe456e10185149"
+            }
+          ],
+          "version": "3.5.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/concourse/concourse",
         "path": "v3.4.1.meta4",
         "version": "c85dbc963d67917cfc2471a63ba3b00a7ac5dbb0"
       },
