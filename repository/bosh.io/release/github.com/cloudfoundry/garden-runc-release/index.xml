@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.9.4.meta4</path>
-      <version>2017-09-28T15:26:48Z</version>
+      <version>aa5782f9359a9e83eb835f8f2e47c1713ddcbd9e</version>
     </repository-reference>
     <file name="garden-runc-release-1.9.4.tgz">
       <hash type="sha-1">9cccd7685ac075ad6956cba3ab5881e3435cd7e3</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.9.3.meta4</path>
-      <version>2017-09-28T15:25:31Z</version>
+      <version>65c12662a1fbe16724dfe965ae4ac3837a5dadb8</version>
     </repository-reference>
     <file name="garden-runc-release-1.9.3.tgz">
       <hash type="sha-1">a153fd2b9d85d01772e9c6907b8c9e5005059c9e</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.9.2.meta4</path>
-      <version>2017-09-28T15:25:31Z</version>
+      <version>8c5199b7cce405d72335d985ff18d3e56ad91150</version>
     </repository-reference>
     <file name="garden-runc-release-1.9.2.tgz">
       <hash type="sha-1">de976393aa5f2e26913dec02770076cb4cd966d2</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.9.0.meta4</path>
-      <version>2017-09-28T15:25:31Z</version>
+      <version>8d9284451f12857f9e03c5e2d9c922903bfe7d6d</version>
     </repository-reference>
     <file name="garden-runc-release-1.9.0.tgz">
       <hash type="sha-1">77bfe8bdb2c3daec5b40f5116a6216badabd196c</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.8.0.meta4</path>
-      <version>2017-09-28T15:25:31Z</version>
+      <version>3cc0285b5cddd22816c375ae8e203b69923add00</version>
     </repository-reference>
     <file name="garden-runc-release-1.8.0.tgz">
       <hash type="sha-1">0c112d0bdcb52e61db7251e99b2a116982201c99</hash>
@@ -87,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.7.0.meta4</path>
-      <version>2017-09-28T15:25:31Z</version>
+      <version>e186aa2d7af2265984dc9c8005e0c9df2f86a80c</version>
     </repository-reference>
     <file name="garden-runc-release-1.7.0.tgz">
       <hash type="sha-1">18366fade5189aa563b4787db3ef3b4376d4e76c</hash>
@@ -104,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.6.0.meta4</path>
-      <version>2017-09-28T15:25:31Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="garden-runc-release-1.6.0.tgz">
       <hash type="sha-1">58fbc64aff303e6d76899441241dd5dacef50cb7</hash>
@@ -121,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.5.0.meta4</path>
-      <version>2017-09-28T15:25:31Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="garden-runc-release-1.5.0.tgz">
       <hash type="sha-1">c86150d54162e80597cfa2959137014c41512bbf</hash>
@@ -138,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.4.0.meta4</path>
-      <version>2017-09-28T15:25:31Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="garden-runc-release-1.4.0.tgz">
       <hash type="sha-1">1d6020e761806d7f355ceda06c889c582b47dc32</hash>
@@ -155,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release</repository>
       <path>v1.3.0.meta4</path>
-      <version>2017-09-28T15:25:31Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="garden-runc-release-1.3.0.tgz">
       <hash type="sha-1">816044289381e3b7b66dd73fbcb20005594026a3</hash>
