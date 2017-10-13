@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
+      <path>v5.6.1.meta4</path>
+      <version>2017-10-13T17:01:55Z</version>
+    </repository-reference>
+    <file name="wordpress-seo.5.6.1.zip">
+      <hash type="md5">db9c8a344439de6b3e99de281941d646</hash>
+      <hash type="sha-1">d081762195098b38cb0b7c5f6f01eda94266e996</hash>
+      <hash type="sha-256">38a4f9db06ff85221b1ab34ae63f8cb8d87c4f433967bab00e55712f87540354</hash>
+      <hash type="sha-512">637e00830e53491b667ee19333c6ca86cee1e67c3e6b56c5458a66f934fb4f6000f629fc6e3bd7b88a576091c55e5ce2081d72068a88d8d1ae9845a90c1a1282</hash>
+      <size>3003948</size>
+      <url priority="1000">http://downloads.wordpress.org/plugin/wordpress-seo.5.6.1.zip</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d081762195098b38cb0b7c5f6f01eda94266e996</url>
+      <version>5.6.1</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.6.meta4</path>
-      <version>50e79cf707d806d119394bddd794f863f44be17a</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.6.zip">
       <hash type="md5">7e8bf90ead4e0c61b857b6dde53d8ddb</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.5.1.meta4</path>
-      <version>47e843944a9ac80d24bab6f3cdf0b4c3e9628cb4</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.5.1.zip">
       <hash type="md5">a6c02d3df405f491dec5785869109db8</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.5.meta4</path>
-      <version>bbc7b598e752a22e15cc9cf8f0413a5185a42f4e</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.5.zip">
       <hash type="md5">797860131c9a921125d7409ce0d2ef20</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.4.2.meta4</path>
-      <version>f77d4454165eeeba410f060f43f36e2b23ab846c</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.4.2.zip">
       <hash type="md5">dd20c7fff7c635af5e8b1ce890b6441f</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.4.1.meta4</path>
-      <version>aa905af6f6340dad8ee6560b8bd558bbc788d4dc</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.4.1.zip">
       <hash type="md5">f036846ccdcaaa6e57d7758aabbf8587</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.4.meta4</path>
-      <version>37bec5f33163868bb8d8406ac0743a26c3e77a8e</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.4.zip">
       <hash type="md5">6fd62ff4be0b2e911d2f7fe63d47f4e5</hash>
@@ -104,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.3.3.meta4</path>
-      <version>7c58baa68a1b043d1adc3cf6b0c66a32b45c107d</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.3.3.zip">
       <hash type="md5">ff0617f3c0b1c4aacb8259c38ad36b93</hash>
@@ -121,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.3.2.meta4</path>
-      <version>247ce94acf8fb0a7b718f5a03b53108a8258ce14</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.3.2.zip">
       <hash type="md5">24d1852dbd93673d493c4951321c9aa1</hash>
@@ -138,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.3.1.meta4</path>
-      <version>ad1883603b604d20c3a0b11ae0ed0f5d0b6e7b1c</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.3.1.zip">
       <hash type="md5">b5db8596989bde01d0ff2de98db48df7</hash>
@@ -155,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.2.meta4</path>
-      <version>3949fd81966058e3a84ae5aff1743521b0ae46bd</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.2.zip">
       <hash type="md5">419f8938a87e8eab0f29ce7bca98c909</hash>
@@ -172,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.1.meta4</path>
-      <version>a31c8f05425748fb1306a628527fcfdbbcec0a75</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.1.zip">
       <hash type="md5">dfa109b8aa7c1cf13001b30f4fb9821c</hash>
@@ -189,9 +206,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.0.2.meta4</path>
-      <version>d26b5f005563517bcf5001489271ae1e8279bed3</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.0.2.zip">
       <hash type="md5">05a8652a773bbb1e508af6bc6b39f27e</hash>
@@ -206,9 +223,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v5.0.1.meta4</path>
-      <version>f55632548cfa8750a24ecabc1f3a21faffbc18bc</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.5.0.1.zip">
       <hash type="md5">5657c12fa72e888fce0e590abd67083a</hash>
@@ -223,9 +240,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.9.meta4</path>
-      <version>3cc0285b5cddd22816c375ae8e203b69923add00</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.4.9.zip">
       <hash type="md5">089cc996a1ebd71d7ac82039babff306</hash>
@@ -240,9 +257,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.8.meta4</path>
-      <version>065ec8fb6c9e7ba021d923b07d03fe3eb7487430</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.4.8.zip">
       <hash type="md5">f9fbf3ad2e6985d44ea4a2cc5012b31b</hash>
@@ -257,9 +274,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.7.1.meta4</path>
-      <version>6bc2959d6206e2e5a9d19b6a522a60157f5fa6f7</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.4.7.1.zip">
       <hash type="md5">db2e457d366fa08d5fae1eec3d699b51</hash>
@@ -274,9 +291,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.6.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.4.6.zip">
       <hash type="md5">c95a7babf10ef2af0ddb02f930468ad1</hash>
@@ -291,9 +308,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.5.meta4</path>
-      <version>f2a1bd1b6e7145b37a55a57ed9128367e57dc3ed</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.4.5.zip">
       <hash type="md5">0b0f237f267d987aa128469fa3c02549</hash>
@@ -308,9 +325,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.4.meta4</path>
-      <version>33b4d4290fbee02276eee37ca11ef6a6626b6dde</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.4.4.zip">
       <hash type="md5">0b33a8a7f87904fdc7169730c3598f69</hash>
@@ -325,9 +342,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wordpress-seo</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wordpress-seo</repository>
       <path>v4.3.meta4</path>
-      <version>c5a7d92356af2fda098cea4a091ff4c2b74cc132</version>
+      <version>2017-10-13T17:01:16Z</version>
     </repository-reference>
     <file name="wordpress-seo.4.3.zip">
       <hash type="md5">df7dc87a6b60b5bfa920b319a892aa7f</hash>
