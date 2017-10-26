@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64",
+        "path": "v1.9.2.meta4",
+        "version": "333ac12d7d38649a9d16aa275252519e6e267a9c"
+      },
+      "files": [
+        {
+          "name": "go1.9.2.linux-amd64.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "de874549d9a8d8d8062be05808509c09a88a248e77ec14eb77453530829ac02b"
+            },
+            {
+              "type": "md5",
+              "hash": "9889923de1bc996b74bd4929ac0b6c8e"
+            },
+            {
+              "type": "sha-1",
+              "hash": "94c889e039e3d2e94ed95e8f8cb747c5bc1c2b58"
+            },
+            {
+              "type": "sha-512",
+              "hash": "1f390d7e24fa4e61f5c82283153f7aee7c96d5b9ef4026bfff3b6f6fcba336e87877cc0d6136b48eb4e6931168343f7b5b491a5415a1c0d872fb3c7941e8d642"
+            }
+          ],
+          "size": 104247844,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://storage.googleapis.com/golang/go1.9.2.linux-amd64.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/94c889e039e3d2e94ed95e8f8cb747c5bc1c2b58"
+            }
+          ],
+          "version": "1.9.2"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64",
         "path": "v1.9.1.meta4",
         "version": "3252717fa91ef587838e243d1ad91acb12fa21d2"
       },
