@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="go1.9.2.linux-amd64.tar.gz">
+    <hash type="sha-256">de874549d9a8d8d8062be05808509c09a88a248e77ec14eb77453530829ac02b</hash>
+    <hash type="md5">9889923de1bc996b74bd4929ac0b6c8e</hash>
+    <hash type="sha-1">94c889e039e3d2e94ed95e8f8cb747c5bc1c2b58</hash>
+    <hash type="sha-512">1f390d7e24fa4e61f5c82283153f7aee7c96d5b9ef4026bfff3b6f6fcba336e87877cc0d6136b48eb4e6931168343f7b5b491a5415a1c0d872fb3c7941e8d642</hash>
+    <size>104247844</size>
+    <url priority="1000">https://storage.googleapis.com/golang/go1.9.2.linux-amd64.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/94c889e039e3d2e94ed95e8f8cb747c5bc1c2b58</url>
+    <version>1.9.2</version>
+  </file>
+</metalink>
