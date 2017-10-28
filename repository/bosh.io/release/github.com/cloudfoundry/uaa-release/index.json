@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
+        "path": "v52.2.meta4",
+        "version": "fd7bc96305677655f453660624e20c14d6f2891e"
+      },
+      "files": [
+        {
+          "name": "uaa-release-52.2.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "a10ad45747edd6dcc4d891d3b349223d0d2f8439"
+            },
+            {
+              "type": "md5",
+              "hash": "aaa7e1fa6c02ee73ed85a778f3638a1d"
+            },
+            {
+              "type": "sha-256",
+              "hash": "cc08f895fcf89fac2845b1a0af50e89ac919096b8e56fb0504e512ecc8ff73db"
+            },
+            {
+              "type": "sha-512",
+              "hash": "793ccb65a93ae66bbba614503535343acf7228300b30ed733e8affe2cc23851727c9f98098e51c3877def3e4584940a1a4f93e3cda28c02a4c9bc0537dc915f7"
+            }
+          ],
+          "size": 180116698,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/uaa-release?v=52.2"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/a10ad45747edd6dcc4d891d3b349223d0d2f8439"
+            }
+          ],
+          "version": "52.2"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release",
         "path": "v52.1.meta4",
         "version": "7c41e589c510a057b1e59007f53456d997c6811e"
       },
