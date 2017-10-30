@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-apps-login",
+        "path": "v3.2.meta4",
+        "version": "8bc157bc5745abf8423b028c695f43ee423c5968"
+      },
+      "files": [
+        {
+          "name": "google-apps-login.3.2.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "c12cadc4d8da8d70a8aadad11e2a66a1"
+            },
+            {
+              "type": "sha-1",
+              "hash": "f05e212068088825ac35247dd1cb48d4de6a69df"
+            },
+            {
+              "type": "sha-256",
+              "hash": "2b62e93dc35349469fb5d5bc91cd8f8e92d4dd145f1f6252d89df63a379a2345"
+            },
+            {
+              "type": "sha-512",
+              "hash": "da46809f5e49a73ef3142ea348cf5cd184eb4686c06b0c87dfa660b0552a7f576ad479f8fb5f8fed71ee880ac0c2cdfd3591f638f2aa625eaadf8bef3c803a34"
+            }
+          ],
+          "size": 976750,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://downloads.wordpress.org/plugin/google-apps-login.3.2.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f05e212068088825ac35247dd1cb48d4de6a69df"
+            }
+          ],
+          "version": "3.2"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-apps-login",
         "path": "v3.0.meta4",
         "version": "b28364dd3d80ea75621eb8a983e44efca6764c92"
       },

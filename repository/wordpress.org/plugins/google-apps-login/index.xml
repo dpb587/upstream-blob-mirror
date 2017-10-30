@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-apps-login</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-apps-login</repository>
       <path>v3.2.meta4</path>
-      <version>2017-10-30T17:25:40Z</version>
+      <version>8bc157bc5745abf8423b028c695f43ee423c5968</version>
     </repository-reference>
     <file name="google-apps-login.3.2.zip">
       <hash type="md5">c12cadc4d8da8d70a8aadad11e2a66a1</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-apps-login</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-apps-login</repository>
       <path>v3.0.meta4</path>
-      <version>2017-10-30T17:24:44Z</version>
+      <version>b28364dd3d80ea75621eb8a983e44efca6764c92</version>
     </repository-reference>
     <file name="google-apps-login.3.0.zip">
       <hash type="md5">6675f360e510563a1ac67c01aea8a078</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-apps-login</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-apps-login</repository>
       <path>v2.10.5.meta4</path>
-      <version>2017-10-30T17:24:44Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="google-apps-login.2.10.5.zip">
       <hash type="md5">dbf3f0f04438e7aab7ba9bf74eed0f40</hash>
