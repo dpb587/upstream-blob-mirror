@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
+      <path>v18.meta4</path>
+      <version>2017-11-02T17:27:34Z</version>
+    </repository-reference>
+    <file name="os-conf-release-18.tgz">
+      <hash type="sha-1">78d79f08ff5001cc2a24f572837c7a9c59a0e796</hash>
+      <hash type="md5">71cde84f1c6d89dc05ac48a13a753101</hash>
+      <hash type="sha-256">b990d4880d23a3d06c4947b07d09cadd6e8ac634b6fa95e88414752cb109fc8a</hash>
+      <hash type="sha-512">0fcdf3308a1d42a2376f39e7ebc8154889320f671792e03024d7abfb3baec910ff2738b1e1b837acf8b4455b45347a19fbcc7ffde815263a0734fcc3bb2f3b86</hash>
+      <size>19015</size>
+      <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/os-conf-release?v=18</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/78d79f08ff5001cc2a24f572837c7a9c59a0e796</url>
+      <version>18</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
       <path>v17.meta4</path>
-      <version>185bb42d7e8228b3b6eea1423bc3aaef298f57be</version>
+      <version>2017-11-02T17:27:26Z</version>
     </repository-reference>
     <file name="os-conf-release-17.tgz">
       <hash type="sha-1">36bce1030fda4acc102315344d4110994fa1fa43</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
       <path>v16.meta4</path>
-      <version>e0a63473b19365e58b813b8612434845cb2b2105</version>
+      <version>2017-11-02T17:27:26Z</version>
     </repository-reference>
     <file name="os-conf-release-16.tgz">
       <hash type="sha-1">8eeb72421ec94f2f9aedc50554b899d383e1d9a2</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
       <path>v15.meta4</path>
-      <version>1b5883173895f9214e6fd4deecd1d85024c33863</version>
+      <version>2017-11-02T17:27:26Z</version>
     </repository-reference>
     <file name="os-conf-release-15.tgz">
       <hash type="sha-1">cae1879064dfe7f3c4539f57d46aac451a0fe14a</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
       <path>v13.meta4</path>
-      <version>d7ac7b13099b0ba453507b01850284b2c5bcc75b</version>
+      <version>2017-11-02T17:27:26Z</version>
     </repository-reference>
     <file name="os-conf-release-13.tgz">
       <hash type="sha-1">338732af10f00aa0a49327a3f7cbb4c90f93c09c</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
       <path>v12.meta4</path>
-      <version>5ce0ca7fbe00106f0fb313bb2d69f4fc5c832208</version>
+      <version>2017-11-02T17:27:26Z</version>
     </repository-reference>
     <file name="os-conf-release-12.tgz">
       <hash type="sha-1">af5a2c9f228b9d7ec4bd051d71fef0e712fa1549</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/os-conf-release</repository>
       <path>v11.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2017-11-02T17:27:26Z</version>
     </repository-reference>
     <file name="os-conf-release-11.tgz">
       <hash type="sha-1">651f10a765a2900a7f69ea07705f3367bd8041eb</hash>
