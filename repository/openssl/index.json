@@ -3,6 +3,53 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
+        "path": "v1.1.0g.meta4",
+        "version": "8ae8ffe7d509c0254448664643d35f3967bedffb"
+      },
+      "files": [
+        {
+          "name": "openssl-1.1.0g.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "de4d501267da39310905cb6dc8c6121f7a2cad45a7707f76df828fe1b85073af"
+            },
+            {
+              "type": "md5",
+              "hash": "ba5f1b8b835b88cadbce9b35ed9531a6"
+            },
+            {
+              "type": "sha-1",
+              "hash": "e8240a8be304d4317a750753321b073c664bfdd4"
+            },
+            {
+              "type": "sha-512",
+              "hash": "6c76f698fc2a4540f3977d97c889e139acf7d3f9eb85f349974175e8a7707b19743ef91c5ce32839310b6ea06ca88a03d9709ee011687b4634c5c50b5814f42a"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEcBAABCAAGBQJZ+yu1AAoJENnE0m0OYESRZaAH/RYgVpfSwQA/GzxR7BBTU/kT\nnhAwrDzCZyZe6UhWJHIvZhWira3+NEMmJRWgxfLRmoO5+8Jo07Ayz6iI9K6j32Hf\nNshzdUNerBy1xsvb8Z+mFPu8EPbmOrILJx1TQez4oLbFNDYDDaBXL/z+3H8ffKab\nwfdVeJ3Qj3XKUi8v+FncSYn5jlzIlMVhOLLEJjgWbA+YP7WXbWveRf2oBEwVJ/ej\nzcgrgJ6iyCXO7xP5t4Y2OzWpJKopflFz9uR7TwA5tanKibnG6GIoHCGf+mtBtU7t\nzVMQh8+QnJyGy1qe9QnYrFksP9Fcb0qjMZMB6/DLqJ07t27TkXTB9fIAgElcmK8=\n=i4gh\n-----END PGP SIGNATURE-----"
+          },
+          "size": 5404748,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://www.openssl.org/source/openssl-1.1.0g.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/e8240a8be304d4317a750753321b073c664bfdd4"
+            }
+          ],
+          "version": "1.1.0g"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl",
         "path": "v1.1.0f.meta4",
         "version": "b77ee471e91772e05a0e4b1210456a0bc215b4da"
       },

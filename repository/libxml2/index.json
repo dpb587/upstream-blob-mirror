@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/libxml2",
+        "path": "v2.9.7.meta4",
+        "version": "6ab622be16e7bee650fdedef2110b85ef726c11e"
+      },
+      "files": [
+        {
+          "name": "libxml2-2.9.7.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "896608641a08b465098a40ddf51cefba"
+            },
+            {
+              "type": "sha-1",
+              "hash": "ab3325e6cdda50ab2382fdfe0bdb6f7d1b9224a6"
+            },
+            {
+              "type": "sha-256",
+              "hash": "f63c5e7d30362ed28b38bfa1ac6313f9a80230720b7fb6c80575eeab3ff5900c"
+            },
+            {
+              "type": "sha-512",
+              "hash": "da06cb7c5032ef4b7c8e902fabb9d2c74634c42c161be07a7c66a00d53a68029f89b0d4de32a6b9d4ff338c2d1d9c4e53aefb9cf50cb1c2d6c6b06b442ef42d5"
+            }
+          ],
+          "size": 5467389,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "ftp://xmlsoft.org/libxml2/libxml2-2.9.7.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/ab3325e6cdda50ab2382fdfe0bdb6f7d1b9224a6"
+            }
+          ],
+          "version": "2.9.7"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/libxml2",
         "path": "v2.9.6.meta4",
         "version": "4f61f5512956afe80b42ca8b6b2d73a7924df02d"
       },
