@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/bosh",
+        "path": "v264.3.0.meta4",
+        "version": "e7f73aaceafa7a123d5c30d1ea4699b5d97b96fc"
+      },
+      "files": [
+        {
+          "name": "bosh-264.3.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "dc0accf852839e16f17c4a88a8dc1213c79564b9"
+            },
+            {
+              "type": "md5",
+              "hash": "f5306e4650769644c0ee7553d20042e4"
+            },
+            {
+              "type": "sha-256",
+              "hash": "b461b4eab7315d0ba0879e4a0b14f60c3be05b028d97e2fae5cece1ee7ebca9a"
+            },
+            {
+              "type": "sha-512",
+              "hash": "6f49b60d04a43f8ad0b389a9d130adffd26f4b7b1592d4009263d84a2358b467bed3413d6acb57defa1c2f1507119c80169654947667cbe3de157f26cac9a363"
+            }
+          ],
+          "size": 140124003,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/bosh?v=264.3.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/dc0accf852839e16f17c4a88a8dc1213c79564b9"
+            }
+          ],
+          "version": "264.3.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/bosh",
         "path": "v264.2.0.meta4",
         "version": "fde703ab135ca3e2513f538259db2dc02c347f0c"
       },
