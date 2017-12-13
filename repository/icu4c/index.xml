@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/icu4c</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/icu4c</repository>
       <path>v60.2.meta4</path>
-      <version>2017-12-13T21:07:45Z</version>
+      <version>dff9b5f8f0d4892cbfaa1100ff9cc8b94e23ab5c</version>
     </repository-reference>
     <file name="icu4c-60_2-src.tgz">
       <hash type="md5">43861b127744b3c0b9d7f386f4b9fa40</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/icu4c</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/icu4c</repository>
       <path>v59.1.meta4</path>
-      <version>2017-12-13T21:07:00Z</version>
+      <version>1815117dc6f79a564cb3bcbad5960bd4e1bb194f</version>
     </repository-reference>
     <file name="icu4c-59_1-src.tgz">
       <hash type="md5">54923fa9fab5b2b83f235fb72523de37</hash>
@@ -37,9 +37,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/icu4c</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/icu4c</repository>
       <path>v58.2.meta4</path>
-      <version>2017-12-13T21:07:00Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="icu4c-58_2-src.tgz">
       <hash type="md5">fac212b32b7ec7ab007a12dff1f3aea1</hash>

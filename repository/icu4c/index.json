@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/icu4c",
+        "path": "v60.2.meta4",
+        "version": "dff9b5f8f0d4892cbfaa1100ff9cc8b94e23ab5c"
+      },
+      "files": [
+        {
+          "name": "icu4c-60_2-src.tgz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "43861b127744b3c0b9d7f386f4b9fa40"
+            },
+            {
+              "type": "sha-1",
+              "hash": "7a099523fcb708b427e94f9b3c372fec3ebd1563"
+            },
+            {
+              "type": "sha-256",
+              "hash": "f073ea8f35b926d70bb33e6577508aa642a8b316a803f11be20af384811db418"
+            },
+            {
+              "type": "sha-512",
+              "hash": "8e718e66c13e7f25714404c46b91ed6305efff1df70c328be2ec743023a7719016dae72a5fa0a05d6f5599983590a2044ff72d3453a048d987ab546d0416d694"
+            }
+          ],
+          "size": 23317835,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://download.icu-project.org/files/icu4c/60.2/icu4c-60_2-src.tgz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7a099523fcb708b427e94f9b3c372fec3ebd1563"
+            }
+          ],
+          "version": "60.2"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/icu4c",
         "path": "v59.1.meta4",
         "version": "1815117dc6f79a564cb3bcbad5960bd4e1bb194f"
       },
