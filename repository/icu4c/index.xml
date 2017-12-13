@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/icu4c</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/icu4c</repository>
+      <path>v60.2.meta4</path>
+      <version>2017-12-13T21:07:45Z</version>
+    </repository-reference>
+    <file name="icu4c-60_2-src.tgz">
+      <hash type="md5">43861b127744b3c0b9d7f386f4b9fa40</hash>
+      <hash type="sha-1">7a099523fcb708b427e94f9b3c372fec3ebd1563</hash>
+      <hash type="sha-256">f073ea8f35b926d70bb33e6577508aa642a8b316a803f11be20af384811db418</hash>
+      <hash type="sha-512">8e718e66c13e7f25714404c46b91ed6305efff1df70c328be2ec743023a7719016dae72a5fa0a05d6f5599983590a2044ff72d3453a048d987ab546d0416d694</hash>
+      <size>23317835</size>
+      <url priority="1000">http://download.icu-project.org/files/icu4c/60.2/icu4c-60_2-src.tgz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7a099523fcb708b427e94f9b3c372fec3ebd1563</url>
+      <version>60.2</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/icu4c</repository>
       <path>v59.1.meta4</path>
-      <version>1815117dc6f79a564cb3bcbad5960bd4e1bb194f</version>
+      <version>2017-12-13T21:07:00Z</version>
     </repository-reference>
     <file name="icu4c-59_1-src.tgz">
       <hash type="md5">54923fa9fab5b2b83f235fb72523de37</hash>
@@ -20,9 +37,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/icu4c</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/icu4c</repository>
       <path>v58.2.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2017-12-13T21:07:00Z</version>
     </repository-reference>
     <file name="icu4c-58_2-src.tgz">
       <hash type="md5">fac212b32b7ec7ab007a12dff1f3aea1</hash>
