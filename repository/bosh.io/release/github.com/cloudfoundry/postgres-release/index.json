@@ -1,0 +1,47 @@
+{
+  "metalink": [
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/postgres-release",
+        "path": "v23.meta4",
+        "version": "2d3152b0f3a582baa508fdef13ab268c41de39eb"
+      },
+      "files": [
+        {
+          "name": "postgres-release-23.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "4b5265bfd5f92cf14335a75658658a0db0bca927"
+            },
+            {
+              "type": "md5",
+              "hash": "f6a2e340686ba0c4cbcaa2586121a2a2"
+            },
+            {
+              "type": "sha-256",
+              "hash": "3941ebae90a77b5c5bb9a6e6c517b02e5a5e9491bd326d13e6434e136e4a31aa"
+            },
+            {
+              "type": "sha-512",
+              "hash": "f3a33cd97f8354e2b3db78e0c16b075a015680f8e309cde53a0c179c3d63f0173ec423c25589b577505cc3eaa868e7b1ba2ef4915699d3659a4f1081270d8f83"
+            }
+          ],
+          "size": 114246087,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/postgres-release?v=23"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/4b5265bfd5f92cf14335a75658658a0db0bca927"
+            }
+          ],
+          "version": "23"
+        }
+      ]
+    }
+  ]
+}
