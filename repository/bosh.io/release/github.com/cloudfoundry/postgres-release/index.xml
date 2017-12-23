@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
+      <path>v23.meta4</path>
+      <version>2017-12-23T20:01:46Z</version>
+    </repository-reference>
+    <file name="postgres-release-23.tgz">
+      <hash type="sha-1">4b5265bfd5f92cf14335a75658658a0db0bca927</hash>
+      <hash type="md5">f6a2e340686ba0c4cbcaa2586121a2a2</hash>
+      <hash type="sha-256">3941ebae90a77b5c5bb9a6e6c517b02e5a5e9491bd326d13e6434e136e4a31aa</hash>
+      <hash type="sha-512">f3a33cd97f8354e2b3db78e0c16b075a015680f8e309cde53a0c179c3d63f0173ec423c25589b577505cc3eaa868e7b1ba2ef4915699d3659a4f1081270d8f83</hash>
+      <size>114246087</size>
+      <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/postgres-release?v=23</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/4b5265bfd5f92cf14335a75658658a0db0bca927</url>
+      <version>23</version>
+    </file>
+  </metalink>
+</repository>
