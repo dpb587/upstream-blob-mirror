@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/postgres-release",
+        "path": "v24.meta4",
+        "version": "5eb52243db2c16eafe8a0ccc5a82a57e04eb1f6a"
+      },
+      "files": [
+        {
+          "name": "postgres-release-24.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "f02e70dac756ebcf8baec01271a12ea23c41a0b9"
+            },
+            {
+              "type": "md5",
+              "hash": "441ce4ec0881bac25057cc90edab2aa4"
+            },
+            {
+              "type": "sha-256",
+              "hash": "f93bb3d0fc80db19f7d079fb456b5103943ef787b44f5aeba80e641e24390d53"
+            },
+            {
+              "type": "sha-512",
+              "hash": "1b751770eba9a6f659e136e4f803d8dfa5384600f8116de63d812a9835b106eb7f2eb2cc5cf175bb8599ed5adac9a9fe6dce72a3654418ea2f2c3acc7ba46006"
+            }
+          ],
+          "size": 114260574,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/postgres-release?v=24"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f02e70dac756ebcf8baec01271a12ea23c41a0b9"
+            }
+          ],
+          "version": "24"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/postgres-release",
         "path": "v23.meta4",
         "version": "2d3152b0f3a582baa508fdef13ab268c41de39eb"
       },
