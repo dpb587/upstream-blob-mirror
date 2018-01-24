@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
       <path>v26.0.0.meta4</path>
-      <version>2018-01-24T01:48:12Z</version>
+      <version>e26795e2b1a5b68a6a32303775f15f531300f955</version>
     </repository-reference>
     <file name="bosh-google-cpi-release-26.0.0.tgz">
       <hash type="sha-1">96a59530bba6dd4d3f6f04d12c37b99c4377064c</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
       <path>v25.10.0.meta4</path>
-      <version>2018-01-24T01:47:50Z</version>
+      <version>9c676278c54af212ac41aa2b7430122b84e2bc75</version>
     </repository-reference>
     <file name="bosh-google-cpi-release-25.10.0.tgz">
       <hash type="sha-1">3a551822bff0fd040d73fd385ab34fbc17b476f5</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
       <path>v25.9.0.meta4</path>
-      <version>2018-01-24T01:47:50Z</version>
+      <version>0ce878cefabf51223e0a209dd1e87ceaa833735c</version>
     </repository-reference>
     <file name="bosh-google-cpi-release-25.9.0.tgz">
       <hash type="sha-1">3fbda22fde33878b54dec77f4182f8044be72687</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
       <path>v25.8.0.meta4</path>
-      <version>2018-01-24T01:47:50Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="bosh-google-cpi-release-25.8.0.tgz">
       <hash type="sha-1">bb943b492c025903b6c4a833e2f836e5c1479bbc</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release</repository>
       <path>v25.7.1.meta4</path>
-      <version>2018-01-24T01:47:50Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="bosh-google-cpi-release-25.7.1.tgz">
       <hash type="sha-1">1412d974845b28afc0fadadceabd3ee12bd83b69</hash>

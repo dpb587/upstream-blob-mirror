@@ -777,6 +777,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent",
+        "path": "v3421.38.meta4",
+        "version": "e6023885281891d751d7f81d6a47bafe76aab2cb"
+      },
+      "files": [
+        {
+          "name": "bosh-stemcell-3421.38-warden-boshlite-ubuntu-trusty-go_agent.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "0968c5ebdb39422051e0e738ceacb55f25bd63c2"
+            },
+            {
+              "type": "md5",
+              "hash": "d72570f434f90a1666764a9a2cb93da6"
+            },
+            {
+              "type": "sha-256",
+              "hash": "6952c650b2e9682d82b8d7c405a47dfba032369787c0a745b25534feaf40bfc9"
+            },
+            {
+              "type": "sha-512",
+              "hash": "8bc3bf95e23dd23da3e0fa4caaa0f28c83b0b4a27be6689afaafa28deaf9d5a9cf781a41a2549f48ba068a94e002870af3a2bc92778295a66060ed291c8f6b09"
+            }
+          ],
+          "size": 383859496,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://s3.amazonaws.com/bosh-core-stemcells/warden/bosh-stemcell-3421.38-warden-boshlite-ubuntu-trusty-go_agent.tgz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/0968c5ebdb39422051e0e738ceacb55f25bd63c2"
+            }
+          ],
+          "version": "3421.38"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-warden-boshlite-ubuntu-trusty-go_agent",
         "path": "v3421.37.meta4",
         "version": "deb153be3d43d907c0f0a96d5ca26e0fbeeed098"
       },
