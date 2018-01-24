@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="curl-7.58.0.tar.gz">
+    <hash type="md5">7e9e9d5405c61148d53035426f162b0a</hash>
+    <hash type="sha-1">089f17884d672aca7a661a65d847135f2f0ccbbf</hash>
+    <hash type="sha-256">cc245bf9a1a42a45df491501d97d5593392a03f7b4f07b952793518d97666115</hash>
+    <hash type="sha-512">7b12b79107558bb266672d6e128615fe5a8149c37f4ae540197e3298f5d312beb2d78fbb23e3ea84ea7afc41549898a1e5cd38509f0388b11707b48d5efb8ca3</hash>
+    <size>3879728</size>
+    <url priority="1000">http://curl.askapache.com/download/curl-7.58.0.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/089f17884d672aca7a661a65d847135f2f0ccbbf</url>
+    <version>7.58.0</version>
+  </file>
+</metalink>
