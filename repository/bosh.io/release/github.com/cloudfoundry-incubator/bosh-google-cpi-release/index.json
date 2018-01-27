@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release",
+        "path": "v27.0.0.meta4",
+        "version": "e88fba46c878f9ccd9a1ed7aeb66a46ebc75ef10"
+      },
+      "files": [
+        {
+          "name": "bosh-google-cpi-release-27.0.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "cbbf73c102b1f27d3db15d95bc971b2b4995c78e"
+            },
+            {
+              "type": "md5",
+              "hash": "bf94368b748b836756c296edee18ea35"
+            },
+            {
+              "type": "sha-256",
+              "hash": "3a73a3d7119ecc0c6aff7159ba7219e4dee9c6e5d17fb49743a479d538041a76"
+            },
+            {
+              "type": "sha-512",
+              "hash": "ebba541cf92bad988694ba2734bfa9de273138c928163879ba20791b774bf881a0addc8487d5ae8141d1160a7fcac90ced23795032162632e29043a70a51c43b"
+            }
+          ],
+          "size": 188460817,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry-incubator/bosh-google-cpi-release?v=27.0.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/cbbf73c102b1f27d3db15d95bc971b2b4995c78e"
+            }
+          ],
+          "version": "27.0.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-google-cpi-release",
         "path": "v26.0.0.meta4",
         "version": "e26795e2b1a5b68a6a32303775f15f531300f955"
       },
