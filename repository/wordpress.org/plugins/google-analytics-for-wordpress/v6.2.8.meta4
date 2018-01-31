@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="google-analytics-for-wordpress.6.2.8.zip">
+    <hash type="md5">554fd06004a26bf2b71d8599f99f108e</hash>
+    <hash type="sha-1">f8f501149df4fdff85d7078f15df9416c41411c0</hash>
+    <hash type="sha-256">a63e561f5432e100afe88b1a35e1d40aaf861c2ef908572ad2669498d849cf9a</hash>
+    <hash type="sha-512">6ab1a4ec336dcc76749b15d5bbac94563de19dd5344524c6cd77c95cdcfe8b16bbb863877f5e9004e4288c22cad3a8a3edc74fc290a690af1e322820f1b3e5e9</hash>
+    <size>1241615</size>
+    <url priority="1000">http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.6.2.8.zip</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f8f501149df4fdff85d7078f15df9416c41411c0</url>
+    <version>6.2.8</version>
+  </file>
+</metalink>
