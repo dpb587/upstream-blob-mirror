@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress",
+        "path": "v6.2.8.meta4",
+        "version": "994b27fe20a020e73c44e4bd7da84cd0ad9b30ef"
+      },
+      "files": [
+        {
+          "name": "google-analytics-for-wordpress.6.2.8.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "554fd06004a26bf2b71d8599f99f108e"
+            },
+            {
+              "type": "sha-1",
+              "hash": "f8f501149df4fdff85d7078f15df9416c41411c0"
+            },
+            {
+              "type": "sha-256",
+              "hash": "a63e561f5432e100afe88b1a35e1d40aaf861c2ef908572ad2669498d849cf9a"
+            },
+            {
+              "type": "sha-512",
+              "hash": "6ab1a4ec336dcc76749b15d5bbac94563de19dd5344524c6cd77c95cdcfe8b16bbb863877f5e9004e4288c22cad3a8a3edc74fc290a690af1e322820f1b3e5e9"
+            }
+          ],
+          "size": 1241615,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.6.2.8.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f8f501149df4fdff85d7078f15df9416c41411c0"
+            }
+          ],
+          "version": "6.2.8"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress",
         "path": "v6.2.7.meta4",
         "version": "136453183a14d7e5054520be377f4fd33475a143"
       },
