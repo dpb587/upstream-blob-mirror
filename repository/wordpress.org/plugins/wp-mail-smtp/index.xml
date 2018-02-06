@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wp-mail-smtp</repository>
+      <path>v1.2.5.meta4</path>
+      <version>2018-02-06T02:04:13Z</version>
+    </repository-reference>
+    <file name="wp-mail-smtp.1.2.5.zip">
+      <hash type="md5">1e949189c7ac1f6f6f7894aff0bae777</hash>
+      <hash type="sha-1">7c6e0c5fa1284ba6e271a2e93055aa49754ba5e4</hash>
+      <hash type="sha-256">3a72495f4059fba5d75e32a36b302d6b730e74b8935453287d4dba97dcd7ee85</hash>
+      <hash type="sha-512">c144f68ecc43d1a450fbc1d29c8891795cc35dae0ee0c2bf7bd3a887a761c0c75165d4304878fe640ed38264706c8af05e4e833334419a47a72db5cc8f98a5f0</hash>
+      <size>614214</size>
+      <url priority="1000">http://downloads.wordpress.org/plugin/wp-mail-smtp.1.2.5.zip</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7c6e0c5fa1284ba6e271a2e93055aa49754ba5e4</url>
+      <version>1.2.5</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wp-mail-smtp</repository>
       <path>v1.2.4.meta4</path>
-      <version>d729a52796c33ce41119dfad9cfb60070798da08</version>
+      <version>2018-02-06T02:02:59Z</version>
     </repository-reference>
     <file name="wp-mail-smtp.1.2.4.zip">
       <hash type="md5">6a4d01e8ee683d912173c569e433f8a8</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wp-mail-smtp</repository>
       <path>v1.2.3.meta4</path>
-      <version>58ecb0555392a55a8bbcc65a21f4b2c1333a3e44</version>
+      <version>2018-02-06T02:02:59Z</version>
     </repository-reference>
     <file name="wp-mail-smtp.1.2.3.zip">
       <hash type="md5">2ce2f0ef53b3377b09169cd0ffd41c82</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wp-mail-smtp</repository>
       <path>v1.2.2.meta4</path>
-      <version>39e8e107f3826862c3968ed61a9566d9ceb1e094</version>
+      <version>2018-02-06T02:02:59Z</version>
     </repository-reference>
     <file name="wp-mail-smtp.1.2.2.zip">
       <hash type="md5">074f7db39a11223868c767ce627fca14</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wp-mail-smtp</repository>
       <path>v1.2.1.meta4</path>
-      <version>186370c3b0eee7703121d0bdd4419c35e70d8ae9</version>
+      <version>2018-02-06T02:02:59Z</version>
     </repository-reference>
     <file name="wp-mail-smtp.1.2.1.zip">
       <hash type="md5">cdbfba9d4bb1c6f17457bfb595e5c632</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wp-mail-smtp</repository>
       <path>v1.1.0.meta4</path>
-      <version>360b8da0dd703df4d142c6176e060c363577904f</version>
+      <version>2018-02-06T02:02:59Z</version>
     </repository-reference>
     <file name="wp-mail-smtp.1.1.0.zip">
       <hash type="md5">ee184f1fd366512af9a48b4c6e7e7ac3</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wp-mail-smtp</repository>
       <path>v1.0.2.meta4</path>
-      <version>d6c2e7bed4d046b7371f10ebffdb7a14649438c0</version>
+      <version>2018-02-06T02:02:59Z</version>
     </repository-reference>
     <file name="wp-mail-smtp.1.0.2.zip">
       <hash type="md5">c56db14828d974e44a75de5e9468564b</hash>
@@ -104,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wp-mail-smtp</repository>
       <path>v0.11.2.meta4</path>
-      <version>99200cfa7156b26851e2da132eb4339c9170bb3d</version>
+      <version>2018-02-06T02:02:59Z</version>
     </repository-reference>
     <file name="wp-mail-smtp.0.11.2.zip">
       <hash type="md5">791bad324a414f0d1256c731d1009452</hash>
@@ -121,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wp-mail-smtp</repository>
       <path>v0.11.1.meta4</path>
-      <version>363aa6d01d6995136f20ab93ef7a2509551f0e6d</version>
+      <version>2018-02-06T02:02:59Z</version>
     </repository-reference>
     <file name="wp-mail-smtp.0.11.1.zip">
       <hash type="md5">ea0661e353b00aefe0a0105ae52a68ce</hash>
@@ -138,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/wp-mail-smtp</repository>
       <path>v0.10.1.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2018-02-06T02:02:59Z</version>
     </repository-reference>
     <file name="wp-mail-smtp.0.10.1.zip">
       <hash type="md5">dc704a8c9ce8752539af62a4b863c703</hash>
