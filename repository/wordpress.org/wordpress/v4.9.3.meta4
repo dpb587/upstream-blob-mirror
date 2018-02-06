@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="wordpress-4.9.3.tar.gz">
+    <hash type="sha-1">c2e28e56f6cfa71100d79f1369fc5edc0f87f34d</hash>
+    <hash type="md5">be602a64e3e406ba7fecdade6cc9d9cf</hash>
+    <hash type="sha-256">0da7cfe0d6a85a0fb317ee0bc3df720c911b060d12193b45f320fdeef95c0aff</hash>
+    <hash type="sha-512">87ddb753252e1d16f577ed8135c06f31838e01a1efbe4895a91e9dd170c4d380cb0e9df0c7bfa375718e973e9f10ebb85d0253ebe67a04de6a59304d41b20f5e</hash>
+    <size>8565571</size>
+    <url priority="1000">https://downloads.wordpress.org/release/wordpress-4.9.3.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/c2e28e56f6cfa71100d79f1369fc5edc0f87f34d</url>
+    <version>4.9.3</version>
+  </file>
+</metalink>
