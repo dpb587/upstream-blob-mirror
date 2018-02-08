@@ -1,0 +1,36 @@
+#!/bin/bash
+
+set -eu -o pipefail ; export SHELLOPTS
+
+if [ -z "${version:-}" ]; then
+  version=$(
+    set +o pipefail # head SIGPIPE
+    wget -qO- https://golang.org/dl/ \
+      | grep '.darwin-amd64.tar.gz' \
+      | head -n1 \
+      | sed -E 's/.+go([0-9]+\.[0-9]+\.[0-9]+).+/\1/'
+  )
+fi
+
+url=https://storage.googleapis.com/golang/go${version}.darwin-amd64.tar.gz
+size=$( curl -sLI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
+sha256=$(
+  wget -qO- https://golang.org/dl/ \
+    | grep -A5 "go$version.darwin-amd64.tar.gz" \
+    | grep '<tt>' \
+    | head -n1 \
+    | sed -E 's#<td><tt>(.+)</tt></td>#\1#' \
+    | tr -Cd '[0-9a-f]'
+)
+
+cat <<EOF
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="go${version}.darwin-amd64.tar.gz">
+    <hash type="sha-256">${sha256}</hash>
+    <size>${size}</size>
+    <url priority="1000">${url}</url>
+    <version>${version}</version>
+  </file>
+</metalink>
+EOF
