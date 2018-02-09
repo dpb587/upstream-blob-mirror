@@ -6,17 +6,17 @@ if [ -z "${version:-}" ]; then
   version=$(
     set +o pipefail # head SIGPIPE
     wget -qO- https://golang.org/dl/ \
-      | grep '.windows-amd64.tar.gz' \
+      | grep '.windows-amd64.zip' \
       | head -n1 \
       | sed -E 's/.+go([0-9]+\.[0-9]+\.[0-9]+).+/\1/'
   )
 fi
 
-url=https://storage.googleapis.com/golang/go${version}.windows-amd64.tar.gz
+url=https://storage.googleapis.com/golang/go${version}.windows-amd64.zip
 size=$( curl -sLI "$url" | grep Content-Length | awk '{ print $2 }' | tr -cd '[:digit:]' )
 sha256=$(
   wget -qO- https://golang.org/dl/ \
-    | grep -A5 "go$version.windows-amd64.tar.gz" \
+    | grep -A5 "go$version.windows-amd64.zip" \
     | grep '<tt>' \
     | head -n1 \
     | sed -E 's#<td><tt>(.+)</tt></td>#\1#' \
@@ -26,7 +26,7 @@ sha256=$(
 cat <<EOF
 <?xml version="1.0" encoding="utf-8"?>
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
-  <file name="go${version}.windows-amd64.tar.gz">
+  <file name="go${version}.windows-amd64.zip">
     <hash type="sha-256">${sha256}</hash>
     <size>${size}</size>
     <url priority="1000">${url}</url>
