@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/windows-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/windows-amd64</repository>
       <path>v1.9.4.meta4</path>
-      <version>2018-02-09T04:06:54Z</version>
+      <version>616262f195a2653a29f937aa5cfffeb4699c0aa4</version>
     </repository-reference>
     <file name="go1.9.4.windows-amd64.zip">
       <hash type="sha-256">880e011ac6f4a509308a62ec6d963dd9d561d0cdc705e93d81c750d7f1c696f4</hash>
