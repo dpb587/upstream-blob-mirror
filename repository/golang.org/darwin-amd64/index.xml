@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/darwin-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/darwin-amd64</repository>
       <path>v1.9.4.meta4</path>
-      <version>2018-02-09T02:55:34Z</version>
+      <version>78b4600d5517d68e7112eb0b10d53754a365073b</version>
     </repository-reference>
     <file name="go1.9.4.darwin-amd64.tar.gz">
       <hash type="sha-256">0e694bfa289453ecb056cc70456e42fa331408cfa6cc985a14edb01d8b4fec51</hash>
