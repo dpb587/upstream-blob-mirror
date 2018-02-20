@@ -3,6 +3,53 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx",
+        "path": "v1.13.9.meta4",
+        "version": "00e898420013691c66cb267e94ef5d896875bbc8"
+      },
+      "files": [
+        {
+          "name": "nginx-1.13.9.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "dcd482dd98d2022659212f183e8fe81b"
+            },
+            {
+              "type": "sha-1",
+              "hash": "9b06b6d649a80f819eff750c9087ef43d2995e6e"
+            },
+            {
+              "type": "sha-256",
+              "hash": "5faea18857516fe68d30be39c3032bd22ed9cf85e1a6fdf32e3721d96ff7fa42"
+            },
+            {
+              "type": "sha-512",
+              "hash": "92c34c182b59e0597a6b0af996770673b08b075f47285e2fbb9d8df59bb9c38fcca8e77bc6e3ca8e019500d041f96437b6b4f80d5dfd914a6f843ca919dac07b"
+            }
+          ],
+          "signature": {
+            "mediatype": "application/pgp-signature",
+            "signature": "-----BEGIN PGP SIGNATURE-----\n\niQEcBAABAgAGBQJajCw/AAoJEFIKmZOhwFL44XoH/jRx2DtVS1DQUWqhke0ntVUD\nKC13k63u4OGcf32qk/T7BeUb+09nuQ/K3Z43yN4qxprPby2RimEnOxrzh3bBaPNn\n9m3jLEN84ARq0oWws95L0ITMxWI3KCDjZ16KrRD6HzZ3pNA+/+uwqilkl0+si7iK\nsXbE8FNL+4w+fMz0NBG+l/x1wGdL8vbodbKji3BNYxleSn5t2AwTpYv6xEUEl8aT\n2EnzUC0JAwpiJIgC7ExNX7sN5mG/hha2qfXIVIynEf2bmHN6GT3K4ywSZaQohbJr\nQOp7LrGTDFIGi3SduqgNUMsWb6KXdY0niIrMlL9cE1BHO17fAIsbIWFUVDRVoEE=\n=coXe\n-----END PGP SIGNATURE-----"
+          },
+          "size": 994802,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://nginx.org/download/nginx-1.13.9.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/9b06b6d649a80f819eff750c9087ef43d2995e6e"
+            }
+          ],
+          "version": "1.13.9"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx",
         "path": "v1.13.8.meta4",
         "version": "6477dce22c5036faa0c133f1c8f73af8afe04f74"
       },
