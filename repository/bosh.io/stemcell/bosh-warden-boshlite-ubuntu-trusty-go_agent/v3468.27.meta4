@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-stemcell-3468.27-warden-boshlite-ubuntu-trusty-go_agent.tgz">
+    <hash type="sha-1">d46c920eac3d559b0337d95f376e408ac3ec0b41</hash>
+    <size>388461562</size>
+    <url priority="1000">https://s3.amazonaws.com/bosh-core-stemcells/warden/bosh-stemcell-3468.27-warden-boshlite-ubuntu-trusty-go_agent.tgz</url>
+    <version>3468.27</version>
+  </file>
+</metalink>
