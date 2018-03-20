@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/pcre</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/pcre</repository>
       <path>v8.42.meta4</path>
-      <version>2018-03-20T12:26:44Z</version>
+      <version>db3d1697e13f078342fde498e8468ab1b2a8acf6</version>
     </repository-reference>
     <file name="pcre-8.42.tar.gz">
       <hash type="md5">fc18afa0f14a25475cf097ee102a3e4f</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/pcre</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/pcre</repository>
       <path>v8.41.meta4</path>
-      <version>2018-03-20T12:25:43Z</version>
+      <version>f0baddd64f444852d76222938e8f3552389beaab</version>
     </repository-reference>
     <file name="pcre-8.41.tar.gz">
       <hash type="md5">2e7896647ee25799cb454fe287ffcd08</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/pcre</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/pcre</repository>
       <path>v8.40.meta4</path>
-      <version>2018-03-20T12:25:43Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="pcre-8.40.tar.gz">
       <hash type="md5">890c808122bd90f398e6bc40ec862102</hash>
