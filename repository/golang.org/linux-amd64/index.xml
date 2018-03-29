@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
+      <path>v1.10.1.meta4</path>
+      <version>2018-03-29T15:40:14Z</version>
+    </repository-reference>
+    <file name="go1.10.1.linux-amd64.tar.gz">
+      <hash type="sha-256">72d820dec546752e5a8303b33b009079c15c2390ce76d67cf514991646c6127b</hash>
+      <hash type="md5">ad5d557f69f8cb6a6a7773eb374a24c9</hash>
+      <hash type="sha-1">0b5b278a1d785812e864158ca0bf84056cb9303c</hash>
+      <hash type="sha-512">f00d4037162a10f4ea764dba5c77748fda662254f8ad089f69edb9948939213b349137a9b80477eaec4bb1399745f256477b8f155679c4ff59bab02d834a44fa</hash>
+      <size>119914627</size>
+      <url priority="1000">https://storage.googleapis.com/golang/go1.10.1.linux-amd64.tar.gz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/0b5b278a1d785812e864158ca0bf84056cb9303c</url>
+      <version>1.10.1</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
       <path>v1.9.4.meta4</path>
-      <version>ef30f35f83bdfe11aec2c8069520402480b034d6</version>
+      <version>2018-03-29T15:39:24Z</version>
     </repository-reference>
     <file name="go1.9.4.linux-amd64.tar.gz">
       <hash type="sha-256">15b0937615809f87321a457bb1265f946f9f6e736c563d6c5e0bd2c22e44f779</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
       <path>v1.9.3.meta4</path>
-      <version>71c9c62475891cdfc0c12b85c6b71c62cd00cfec</version>
+      <version>2018-03-29T15:39:24Z</version>
     </repository-reference>
     <file name="go1.9.3.linux-amd64.tar.gz">
       <hash type="sha-256">a4da5f4c07dfda8194c4621611aeb7ceaab98af0b38bfb29e1be2ebb04c3556c</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
       <path>v1.9.2.meta4</path>
-      <version>333ac12d7d38649a9d16aa275252519e6e267a9c</version>
+      <version>2018-03-29T15:39:24Z</version>
     </repository-reference>
     <file name="go1.9.2.linux-amd64.tar.gz">
       <hash type="sha-256">de874549d9a8d8d8062be05808509c09a88a248e77ec14eb77453530829ac02b</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
       <path>v1.9.1.meta4</path>
-      <version>3252717fa91ef587838e243d1ad91acb12fa21d2</version>
+      <version>2018-03-29T15:39:24Z</version>
     </repository-reference>
     <file name="go1.9.1.linux-amd64.tar.gz">
       <hash type="sha-256">07d81c6b6b4c2dcf1b5ef7c27aaebd3691cdb40548500941f92b221147c5d9c7</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
       <path>v1.8.3.meta4</path>
-      <version>654b97af64c1bae01d1269b9d672aa93d763082f</version>
+      <version>2018-03-29T15:39:24Z</version>
     </repository-reference>
     <file name="go1.8.3.linux-amd64.tar.gz">
       <hash type="sha-256">1862f4c3d3907e59b04a757cfda0ea7aa9ef39274af99a784f5be843c80c6772</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
       <path>v1.8.1.meta4</path>
-      <version>76921ffaf437b0e195896395c912a2f390ade036</version>
+      <version>2018-03-29T15:39:24Z</version>
     </repository-reference>
     <file name="go1.8.1.linux-amd64.tar.gz">
       <hash type="sha-256">a579ab19d5237e263254f1eac5352efcf1d70b9dacadb6d6bb12b0911ede8994</hash>
@@ -105,9 +122,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
       <path>v1.7.5.meta4</path>
-      <version>b7a97d1f417d509c97c0232cac1d40165ea0cd14</version>
+      <version>2018-03-29T15:39:24Z</version>
     </repository-reference>
     <file name="go1.7.5.linux-amd64.tar.gz">
       <hash type="sha-256">2e4dd6c44f0693bef4e7b46cc701513d74c3cc44f2419bf519d7868b12931ac3</hash>
@@ -123,9 +140,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
       <path>v1.7.4.meta4</path>
-      <version>34d9ee3436d41d1c10ccab9db92ac4d484ab9801</version>
+      <version>2018-03-29T15:39:24Z</version>
     </repository-reference>
     <file name="go1.7.4.linux-amd64.tar.gz">
       <hash type="sha-256">47fda42e46b4c3ec93fa5d4d4cc6a748aa3f9411a2a2b7e08e3a6d80d753ec8b</hash>
@@ -141,9 +158,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
       <path>v1.7.3.meta4</path>
-      <version>98d7652c59dabad2499602a13c34a56f9fe1932d</version>
+      <version>2018-03-29T15:39:24Z</version>
     </repository-reference>
     <file name="go1.7.3.linux-amd64.tar.gz">
       <hash type="sha-256">508028aac0654e993564b6e2014bf2d4a9751e3b286661b0b0040046cf18028e</hash>
@@ -159,9 +176,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/linux-amd64</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/linux-amd64</repository>
       <path>v1.7.1.meta4</path>
-      <version>bc3a519bdeeb68f71421138567f23ac4a555bc91</version>
+      <version>2018-03-29T15:39:24Z</version>
     </repository-reference>
     <file name="go1.7.1.linux-amd64.tar.gz">
       <hash type="sha-256">43ad621c9b014cde8db17393dc108378d37bc853aa351a6c74bf6432c1bbd182</hash>
