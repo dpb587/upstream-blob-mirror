@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.2.4.meta4</path>
-      <version>2018-03-29T15:40:55Z</version>
+      <version>9cca1e86ee4e5d082e52d0f2e70bf3eb9a599bd8</version>
     </repository-reference>
     <file name="php-7.2.4.tar.gz">
       <hash type="sha-256">58e28e978baea0fe9009432bcb436934eaacccfdcb5f5409c7526431a595857b</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.2.3.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>1f13b5dd7f7fbb163573176a47473dead7512905</version>
     </repository-reference>
     <file name="php-7.2.3.tar.gz">
       <hash type="sha-256">5dc98f2266db40c5e4d9b5edf5e29e2449e819fff8321a07eb3830cf0b104bbb</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.2.2.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>27baa11118fd2cbf6068954fa9b4d3d4f33128a6</version>
     </repository-reference>
     <file name="php-7.2.2.tar.gz">
       <hash type="sha-256">5963df05fec21927c03fe9f7bf379be2d1eacde6c0f9dcde6143c7133e55abd4</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.2.1.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>aab147ab7c18a898eaca0e2375218c74f3b3ac08</version>
     </repository-reference>
     <file name="php-7.2.1.tar.gz">
       <hash type="sha-256">8ecb2950571054a00687ccbd023874a4a075ccd1e2ec3dc00fc25ef589a77dba</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.11.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>9d0675d2e20b18cbc0e25dbd80a202786a2898c5</version>
     </repository-reference>
     <file name="php-7.1.11.tar.gz">
       <hash type="sha-256">de41b2c166bc5ec8ea96a337d4dd675c794f7b115a8a47bb04595c03dbbdf425</hash>
@@ -87,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.10.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>d1f413158f9ae31bda971f474fa84628443684e7</version>
     </repository-reference>
     <file name="php-7.1.10.tar.gz">
       <hash type="sha-256">edc6a7c3fe89419525ce51969c5f48610e53613235bbef255c3a4db33b458083</hash>
@@ -104,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.9.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>3bd830b6c6061a8e9cebf90cbb6b5142001d1a25</version>
     </repository-reference>
     <file name="php-7.1.9.tar.gz">
       <hash type="sha-256">499c31ad19b2ff553ae686ebf53749aa2351af7d955ee9f1986f144089561a4b</hash>
@@ -121,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.8.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>bcedf50c0886038485c726275220738846df871e</version>
     </repository-reference>
     <file name="php-7.1.8.tar.gz">
       <hash type="sha-256">63517b3264f7cb17fb58e1ce60a6cd8903160239b7cf568d52024e9cf4d6cb04</hash>
@@ -138,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.7.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>9d6c7ff5d6006502dbf3cf890477dcba325f0517</version>
     </repository-reference>
     <file name="php-7.1.7.tar.gz">
       <hash type="sha-256">e0dbab8da601ee5119368d6f93dc1a86ad53b799d2f8c1209d6b827a2b259f92</hash>
@@ -155,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.6.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>fedc1f320edea574b400352646075a7b77e46506</version>
     </repository-reference>
     <file name="php-7.1.6.tar.gz">
       <hash type="sha-256">7ff8c01af791c7e499ee77e1b82e4b1d56e379efe1f706b1203d48751481fd9f</hash>
@@ -172,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.5.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>c9f8cd707b37ca1cb2dee609c381d73e7b89617f</version>
     </repository-reference>
     <file name="php-7.1.5.tar.gz">
       <hash type="sha-256">f7ff8039f5c3a7da4d62a3cce6378280224acfa27ab5a5bee25b7439bce01c17</hash>
@@ -189,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.4.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-7.1.4.tar.gz">
       <hash type="sha-256">ed0006c86de503684dde04c6dd811ea2354a3b6d10ebd9f0cb103dcd28f0e70f</hash>
@@ -207,9 +207,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.3.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-7.1.3.tar.gz">
       <hash type="sha-256">4bfadd0012b966eced448497272150ffeede13136a961aacb9e71553b8e929ec</hash>
@@ -225,9 +225,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.2.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-7.1.2.tar.gz">
       <hash type="sha-256">e6773217c9c719ca22abb104ae3d437d53daceaf31faf2e5eeb1f9f5028005d8</hash>
@@ -243,9 +243,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.1.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-7.1.1.tar.gz">
       <hash type="sha-256">c136279d539c3c2c25176bf149c14913670e79bb27ee6b73e1cd69003985a70d</hash>
@@ -261,9 +261,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php7</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7</repository>
       <path>v7.1.0.meta4</path>
-      <version>2018-03-29T15:39:24Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-7.1.0.tar.gz">
       <hash type="sha-256">9e84c5b13005c56374730edf534fe216f6a2e63792a9703d4b894e770bbccbae</hash>
