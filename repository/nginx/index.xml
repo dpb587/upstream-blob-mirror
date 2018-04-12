@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.12.meta4</path>
-      <version>2018-04-12T15:50:52Z</version>
+      <version>b822d18936cf75c5827eb30455c4cc0d90de9fde</version>
     </repository-reference>
     <file name="nginx-1.13.12.tar.gz">
       <hash type="md5">20871b2cf21a16dbfb83078b4dc2dde0</hash>
@@ -29,9 +29,9 @@ orxow0q/wHJN+Nze1M+iDK6kEDw/RYQcBfNBR27fra4lW7jXTIoHS1vRK0l2Trg=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.11.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>2fd1722f2826d06a49095c130b67c667eb2bd900</version>
     </repository-reference>
     <file name="nginx-1.13.11.tar.gz">
       <hash type="md5">82edffd97b83afad8dbfc2068c0feafa</hash>
@@ -56,9 +56,9 @@ B/E7pkWnJ7CBz8lyqU4B1xVRjXdjOJ97j24LLEt0LTr8EABGeCfgJdAbKaAsZFE=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.10.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>40ea6a850a4c42e50591245772c7c800a8fa1a44</version>
     </repository-reference>
     <file name="nginx-1.13.10.tar.gz">
       <hash type="md5">cf1f69bd5193b0a1945baecaa91f2709</hash>
@@ -83,9 +83,9 @@ qLJdUUgRzzJDLxUIxufmRtphEbH1zMwSTdwvkxirxgAeqIwGtbsOjizU6RaNCLg=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.9.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>00e898420013691c66cb267e94ef5d896875bbc8</version>
     </repository-reference>
     <file name="nginx-1.13.9.tar.gz">
       <hash type="md5">dcd482dd98d2022659212f183e8fe81b</hash>
@@ -110,9 +110,9 @@ QOp7LrGTDFIGi3SduqgNUMsWb6KXdY0niIrMlL9cE1BHO17fAIsbIWFUVDRVoEE=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.8.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>6477dce22c5036faa0c133f1c8f73af8afe04f74</version>
     </repository-reference>
     <file name="nginx-1.13.8.tar.gz">
       <hash type="md5">df4be9294365782dc1349ca33ce8c4ac</hash>
@@ -137,9 +137,9 @@ R7hxu6tHYWaTJmMbExa1nB++34VqhYV5WFmZ2wIgIAIYXJM04h3BRirudtyBV40C
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.7.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>281b88beaad08881463c69adb5c99dd1d145c1a1</version>
     </repository-reference>
     <file name="nginx-1.13.7.tar.gz">
       <hash type="md5">5fcd056b40cb5c47b053fb14a2a89e7d</hash>
@@ -164,9 +164,9 @@ t3ZXETLnIzdQ9Yky0MXxJoIQM97J2QDQG4YtROkDn8f2A5aakZweL+1NCa+UVuA=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.6.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>9ba5ac43e8c7bf8090106f041256c88041f0f508</version>
     </repository-reference>
     <file name="nginx-1.13.6.tar.gz">
       <hash type="md5">f84d3f782c168bfdfb734700e51a929f</hash>
@@ -191,9 +191,9 @@ SWPCe0JMQoE4t/pqgJ+Mop53M3izLDu/L91iaZpLoLcY75OL+8KDc1w36ngd8bE=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.5.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>d8fbed60b93bb894d111c9eb93f9dc6fe0bf3410</version>
     </repository-reference>
     <file name="nginx-1.13.5.tar.gz">
       <hash type="md5">f193722159adfb1eb8117c0491fd17ec</hash>
@@ -218,9 +218,9 @@ K08jLbgTUTwZQIBfteqE5JrZos/KJBxsalE5jW5la+I6iK6+Wsb3prKp1l79ayIf
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.4.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>0457fda607e1aba909364d9800411e5519d54da4</version>
     </repository-reference>
     <file name="nginx-1.13.4.tar.gz">
       <hash type="md5">42a3ca70cd292a149ba4f60862599245</hash>
@@ -246,9 +246,9 @@ G0MAWVCbQ+04hQHxtvOJnPjcznlk5w==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.3.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>b56945ab845171d74d591d6c4a6490e483356849</version>
     </repository-reference>
     <file name="nginx-1.13.3.tar.gz">
       <hash type="md5">1f8529568f825dfa4da4e99ba483678e</hash>
@@ -274,9 +274,9 @@ kocH8hBynM1H1A44kR9NsDnteKY+VA==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.2.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>3e58b0c1d8cdf02d14b7580e0c3247c48eed4f03</version>
     </repository-reference>
     <file name="nginx-1.13.2.tar.gz">
       <hash type="md5">a2dd56ca33f4887f3cdaf232796de147</hash>
@@ -302,9 +302,9 @@ lsIEri8kHTDGJxTWzr+sUjzyEASFNw==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.1.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>6c0257e4ce641f38d221db64de4a595fa86c31eb</version>
     </repository-reference>
     <file name="nginx-1.13.1.tar.gz">
       <hash type="md5">5c2fe93447140b8b1a815a13bc89355b</hash>
@@ -330,9 +330,9 @@ OrcvaEednn4ppoGeHLi4YPItppGNaw==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.13.0.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>a73cd663ed09555164bce224cdba5b1ea47e53fa</version>
     </repository-reference>
     <file name="nginx-1.13.0.tar.gz">
       <hash type="md5">0ff7057465d5622c5b1279e91b273e96</hash>
@@ -358,9 +358,9 @@ ij6D4zZa0o28bWW4nXjKcyKvTJ8T+Q==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.12.0.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.12.0.tar.gz">
       <hash type="md5">995eb0a140455cf0cfc497e5bd7f94b3</hash>
@@ -375,9 +375,9 @@ ij6D4zZa0o28bWW4nXjKcyKvTJ8T+Q==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.13.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.13.tar.gz">
       <hash type="md5">1d8310d4d9f6eb3ed97463cc659178a4</hash>
@@ -403,9 +403,9 @@ BI+KN6U5QBFFHWNAzwty4zR71X6GPxYl+7GmxdHJ7jVsN6aZUzinSqw02fCCjt1Z
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.12.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.12.tar.gz">
       <hash type="md5">c5ffbd7107c34bff4ac9446b59468e6a</hash>
@@ -431,9 +431,9 @@ hmg/r2qW6xmNAQMfJ6EIE6LUPuTuvg==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.11.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.11.tar.gz">
       <hash type="md5">138ccc5fc687135dae2fe9fac3ff03cc</hash>
@@ -459,9 +459,9 @@ k2gd8iFdP4mSNiCZWV+D47tsicrZSg==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.10.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.10.tar.gz">
       <hash type="md5">6fb10f579055d27a2240d51c7d85c190</hash>
@@ -487,9 +487,9 @@ qdp9Xhl2jdD2Hl+9cyr+GOpcL/qzPg==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.9.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.9.tar.gz">
       <hash type="md5">7aeca793819c2b8df134c0b1cfe98361</hash>
@@ -515,9 +515,9 @@ bPpdzuPx+0RgqXR1Rv9uomd3sCbMbg==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.8.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.8.tar.gz">
       <hash type="md5">8f68f49b6db510e567bba9e0c271a3ac</hash>
@@ -542,9 +542,9 @@ pP6pcVWAjihHDoslMzPMEK/K7uxxN+PFfNtZ+xJMcYpDZwZfMn7I7pyuIeMeusA=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.7.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.7.tar.gz">
       <hash type="md5">2b4a4874b8fedbd5ba7829579d1f5973</hash>
@@ -569,9 +569,9 @@ LWs7C2zVN43lp2Cu+w9N22/NtKVIfmbur/EXLgLuQyg/nmCvhyO9cnxjeoBtNuY=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.6.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.6.tar.gz">
       <hash type="md5">4e29a07a7c74376fa032e5af0d1c5369</hash>
@@ -596,9 +596,9 @@ ag/oHL8Cd2j6O0SQGCwHMyyiIKDwwWQQhA4NY28Eq/bq84+XHU2WSTKwONkyGxg=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.5.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.5.tar.gz">
       <hash type="md5">db43f2b19746f6f47401c3afc3924dc6</hash>
@@ -624,9 +624,9 @@ vMGS717ShcAX1BXh8aUeg9MYnBHtmB9NOgjkJW2LRjFwwrTgkD8xQoUrK7USs3g+
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.4.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.4.tar.gz">
       <hash type="md5">92666d60410f429ddbdb10060369a480</hash>
@@ -652,9 +652,9 @@ DmJGqiLUHjzeG8X5pmhI8tOXwJUP7qR4VZevu0FvziIOJtzJ0leK0XbrC/EjOZs=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.3.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.3.tar.gz">
       <hash type="md5">18275c1daa39c5fac12e56c34907d45b</hash>
@@ -680,9 +680,9 @@ ZpCRCONaXnWxlmrimA/6nJGIp6zARe6IDClb8PWloxef2SR72bQXH4Q9uUPoZMc=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.2.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.2.tar.gz">
       <hash type="md5">9db11337a924a665ff68c1785bcf314e</hash>
@@ -708,9 +708,9 @@ KKMWmcV7dEjpXLEeI7MKi3OtThCzsFArTEDYVvFruAXjDbZiidCr0DZB4To2Lnc=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.1.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.1.tar.gz">
       <hash type="md5">0f3900165b11c417854535f3538913cb</hash>
@@ -736,9 +736,9 @@ Fqj5wd8DG3AYoIS38yuEldu0U9q7tKx+wbe/wjeXDlGYmSuwePmEeT4ZZ952XCQ=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.11.0.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.11.0.tar.gz">
       <hash type="md5">a9dd047f277710b34e59407117e13bc6</hash>
@@ -764,9 +764,9 @@ HVvsGXAsSw/nEXVlDczhFj4/7yWUzFT2yVxevdWkpF7paUM4dTg8tO6QzPgdnPx5
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.10.3.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.10.3.tar.gz">
       <hash type="md5">204a20cb4f0b0c9db746c630d89ff4ea</hash>
@@ -792,9 +792,9 @@ j5ATAEqueYge6s2wmx3lbIGNpY9wdA==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.10.2.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.10.2.tar.gz">
       <hash type="md5">e8f5f4beed041e63eb97f9f4f55f3085</hash>
@@ -820,9 +820,9 @@ S9fs2WNJLRMUyb1djRzU5CfwgYGmuAwJDjYuFp1cclpGKyxp8g0vPxnEQWAD8hI=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.10.1.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.10.1.tar.gz">
       <hash type="md5">088292d9caf6059ef328aa7dda332e44</hash>
@@ -848,9 +848,9 @@ qRGVPJHCJelnm6ttK/UO79kWcjkICedaiYvcXYD5Mt1ndxUrSoWYlhDHFaZ4QWu0
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/nginx</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/nginx</repository>
       <path>v1.10.0.meta4</path>
-      <version>2018-04-12T15:50:12Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="nginx-1.10.0.tar.gz">
       <hash type="md5">c184c873d2798c5ba92be95ed1209c02</hash>
