@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="nginx-1.14.0.tar.gz">
+    <hash type="md5">2d856aca3dfe1d32e3c9f8c4cac0cc95</hash>
+    <hash type="sha-1">016ab1a12c9a0c9444f9073e4300223ffd6fadbe</hash>
+    <hash type="sha-256">5d15becbf69aba1fe33f8d416d97edd95ea8919ea9ac519eff9bafebb6022cb5</hash>
+    <hash type="sha-512">40f086c9f741727e6f55802b6c3a66f081f7c49c38646dc1491aa3e3c35bae12b65ea6594386609fc849bcd99a60d7cd8ecb3f8d519e0e9ab8db01d653e930e9</hash>
+    <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+
+iQEcBAABAgAGBQJa1hOgAAoJEFIKmZOhwFL4ueEH/2Mwww7RrIrqGN4Mn1qPwCoH
+5NXmOJIbXso5NupHHVYJPJf328aQQwOOJ0nQFd6ZOSQT4JT6vgbCn07aOkHPcZ+R
+jzfFBVl6G4bUfx8I3aPsF6Y9e6iKBlgMkAJbTy29vrFXvA0J8B1n1XPSGiXeRMQX
+hfPg415eP+p1UgX68pUNGg/r+ZzeF45b7+D1lfOzCkCe+nUV0WNNIhJwR1L5oVig
+njHHsyVwN7WhI1KNdJi42dIb9YThhRicUeHSo9urrEkWfe57HZaS7L4PL0v39Q3P
+SX1hOWDKWSULa0D4wQiqyQb0e3eh6JDkZqaJpmkZd1Xh/ryCYl+W/yeg2qZ2bBk=
+=DCZq
+-----END PGP SIGNATURE-----]]></signature>
+    <size>1016272</size>
+    <url priority="1000">https://nginx.org/download/nginx-1.14.0.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/016ab1a12c9a0c9444f9073e4300223ffd6fadbe</url>
+    <version>1.14.0</version>
+  </file>
+</metalink>
