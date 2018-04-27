@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="php-5.6.36.tar.gz">
+    <hash type="sha-256">06086a8b6a9964ef8009c4d9176b4eeb0c564ea39c1213f015e24f3466d2d69f</hash>
+    <hash type="md5">57b3b6f44f0d43b25538c85f9b3a32d0</hash>
+    <hash type="sha-1">326f5f18fe98c7b15d07f324177db98f9c5f03c6</hash>
+    <hash type="sha-512">5e349ed9943f837822a16c14d7ad05555c0f9b0b69bd159b4933ee80708817722764689bb668c7a501fa5214f1f8aa574d7ca3240ddfcfc0e87a73f27a9e7631</hash>
+    <size>19300905</size>
+    <url priority="1000">http://us1.php.net/distributions/php-5.6.36.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/326f5f18fe98c7b15d07f324177db98f9c5f03c6</url>
+    <version>5.6.36</version>
+  </file>
+</metalink>
