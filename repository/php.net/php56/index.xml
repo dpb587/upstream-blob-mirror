@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.36.meta4</path>
-      <version>2018-04-27T04:00:10Z</version>
+      <version>54513f0773021eb6ddc585fae3fbba0fe05b8efe</version>
     </repository-reference>
     <file name="php-5.6.36.tar.gz">
       <hash type="sha-256">06086a8b6a9964ef8009c4d9176b4eeb0c564ea39c1213f015e24f3466d2d69f</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.35.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>0cba26cfd0b5b1a62d35cec3653ded45b36a7343</version>
     </repository-reference>
     <file name="php-5.6.35.tar.gz">
       <hash type="sha-256">dd0242304f510d48a5216dd2f5796bcf59e8e18366658259aaf205e1d63abf71</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.34.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>a16e43c7d4c707beb005cbc20bf9e8b062e48b44</version>
     </repository-reference>
     <file name="php-5.6.34.tar.gz">
       <hash type="sha-256">de28251ef6d7eb945eb7b770ff668b9f978d9adad52a8c763f6ee409a96732ea</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.33.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>f2b3823e89fd2d9048062603b48d85e23505029f</version>
     </repository-reference>
     <file name="php-5.6.33.tar.gz">
       <hash type="sha-256">bedfac81cfaa25961812a1aec458c4109411a14991b43a416343ffb830b8da6a</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.32.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>487a0ef699a190bf6edbf246decfb959646f8185</version>
     </repository-reference>
     <file name="php-5.6.32.tar.gz">
       <hash type="sha-256">7bef1ae8cd633df5b9c5964262d276d2dc21acbfcd94022d1e2084d199315df4</hash>
@@ -87,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.31.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>7686107f7ed29088787da74639ab3f88dd5744bc</version>
     </repository-reference>
     <file name="php-5.6.31.tar.gz">
       <hash type="sha-256">6687ed2f09150b2ad6b3780ff89715891f83a9c331e69c90241ef699dec4c43f</hash>
@@ -104,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.30.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.30.tar.gz">
       <hash type="sha-256">8bc7d93e4c840df11e3d9855dcad15c1b7134e8acf0cf3b90b932baea2d0bde2</hash>
@@ -122,9 +122,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.29.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.29.tar.gz">
       <hash type="md5">826ae90570ad480ee4541d6a320b406a</hash>
@@ -140,9 +140,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.28.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.28.tar.gz">
       <hash type="md5">db41e97006dd9660208c0f3d32ce192e</hash>
@@ -158,9 +158,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.27.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.27.tar.gz">
       <hash type="md5">a1ca69f4d44fe83d3bb6f7c459ce512f</hash>
@@ -176,9 +176,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.26.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.26.tar.gz">
       <hash type="md5">6aa387761ee6afa1e3be7ee94a1e8c03</hash>
@@ -194,9 +194,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.25.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.25.tar.gz">
       <hash type="md5">75f90f5bd7d0076a0dcc5f3205ce260e</hash>
@@ -212,9 +212,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.24.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.24.tar.gz">
       <hash type="md5">dfa2e90085516cc817a8a9568e2a374e</hash>
@@ -230,9 +230,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.23.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.23.tar.gz">
       <hash type="md5">5120140b7b3117e50807836a1869e250</hash>
@@ -248,9 +248,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.22.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.22.tar.gz">
       <hash type="md5">e2aa4768b3eae84fefe914272eae8ecb</hash>
@@ -266,9 +266,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.21.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.21.tar.gz">
       <hash type="md5">89047bc5219b95dcb47c045774893c4f</hash>
@@ -284,9 +284,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.20.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.20.tar.gz">
       <hash type="md5">bdb3cb4dd2306ed247bd8ad7002ef179</hash>
@@ -302,9 +302,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.19.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.19.tar.gz">
       <hash type="md5">0b723125d28ec4b52206c506430302d1</hash>
@@ -320,9 +320,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.18.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.18.tar.gz">
       <hash type="md5">9ce52b13aefd652d221f100341497d74</hash>
@@ -338,9 +338,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.17.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.17.tar.gz">
       <hash type="md5">9cbf226d0b5d852e66a0b7272368ecea</hash>
@@ -356,9 +356,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.16.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.16.tar.gz">
       <hash type="md5">dc3c848000a80b805c1393abe39341fa</hash>
@@ -374,9 +374,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.15.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.15.tar.gz">
       <hash type="md5">4ec2fe201e24c6f65bf7bd4bac1bc880</hash>
@@ -392,9 +392,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.14.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.14.tar.gz">
       <hash type="md5">ae625e0cfcfdacea3e7a70a075e47155</hash>
@@ -410,9 +410,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.13.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.13.tar.gz">
       <hash type="md5">349f183c0f8e2567772e2eb3dee84504</hash>
@@ -428,9 +428,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.12.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.12.tar.gz">
       <hash type="md5">0bd6e2ff625ab8c20b5ed8dae1e88594</hash>
@@ -446,9 +446,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.11.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.11.tar.gz">
       <hash type="md5">c4d55105e07c9f75dcbacef8000f7992</hash>
@@ -464,9 +464,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.10.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.10.tar.gz">
       <hash type="md5">5afb2f6467f525ae38a9ce6f1acf5c6a</hash>
@@ -482,9 +482,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.9.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.9.tar.gz">
       <hash type="md5">b83de326a3bdb3802266d304ca5ac5e4</hash>
@@ -500,9 +500,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.8.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.8.tar.gz">
       <hash type="md5">0167d60fd45891f131f0ccdb51c13cb5</hash>
@@ -518,9 +518,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.7.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.7.tar.gz">
       <hash type="md5">92a7d40a5d42a24506f1cea2709f3633</hash>
@@ -536,9 +536,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.6.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.6.tar.gz">
       <hash type="md5">2baddcf979a0d4eb65434c4da3bd9cd3</hash>
@@ -554,9 +554,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.5.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.5.tar.gz">
       <hash type="md5">636b73f378000de933081319cad586d6</hash>
@@ -572,9 +572,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.4.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.4.tar.gz">
       <hash type="md5">78d872c25ecaa041277c7545fe3ab359</hash>
@@ -590,9 +590,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.3.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.3.tar.gz">
       <hash type="md5">b6278e4fb74bae260a2ef2d8a430c8fc</hash>
@@ -608,9 +608,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.2.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.2.tar.gz">
       <hash type="md5">f0b54371fae6d4b6b99fb3d360f086ac</hash>
@@ -626,9 +626,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.1.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.1.tar.gz">
       <hash type="md5">854d8433b49b4456d9fe5ddf818af884</hash>
@@ -644,9 +644,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/php.net/php56</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56</repository>
       <path>v5.6.0.meta4</path>
-      <version>2018-04-27T03:59:14Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="php-5.6.0.tar.gz">
       <hash type="md5">7e39f839eee4ffbf011cdcd21b5f1c4f</hash>
