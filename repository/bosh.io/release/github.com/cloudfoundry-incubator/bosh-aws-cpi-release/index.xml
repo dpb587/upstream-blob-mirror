@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v70.meta4</path>
-      <version>2018-04-28T03:59:59Z</version>
+      <version>e0212cbed17027cc0a38016308d2870727225951</version>
     </repository-reference>
     <file name="bosh-aws-cpi-release-70.tgz">
       <hash type="sha-1">6ac0abef1fc6598238c0c6ef1033d89861999014</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v69.meta4</path>
-      <version>2018-04-28T03:59:54Z</version>
+      <version>4adf284c263370549389dd56f1db5fac32fdeb0f</version>
     </repository-reference>
     <file name="bosh-aws-cpi-release-69.tgz">
       <hash type="sha-1">8abe70219244896ea6f7208fc01f2eac56179170</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v68.meta4</path>
-      <version>2018-04-28T03:59:54Z</version>
+      <version>a4e336713fdff76e154be681a0c9d8117158b9b4</version>
     </repository-reference>
     <file name="bosh-aws-cpi-release-68.tgz">
       <hash type="sha-1">a8384b7a4916147b3d39b936e7552b65ab83c3a3</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v67.meta4</path>
-      <version>2018-04-28T03:59:54Z</version>
+      <version>057ca844717947aeb09ce4aea8887c81610e3aa1</version>
     </repository-reference>
     <file name="bosh-aws-cpi-release-67.tgz">
       <hash type="sha-1">cfcbc98affa9cad674087ab6b8bd4b1188b18439</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v66.meta4</path>
-      <version>2018-04-28T03:59:54Z</version>
+      <version>dd193484049a281598d9240f4f9918270f110701</version>
     </repository-reference>
     <file name="bosh-aws-cpi-release-66.tgz">
       <hash type="sha-1">117d5518f1b1de8937c163244de8db45ad8ce1a9</hash>
@@ -87,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v65.meta4</path>
-      <version>2018-04-28T03:59:54Z</version>
+      <version>f68491e495b2ccaea5743ca8eaa5fc29cce42ad7</version>
     </repository-reference>
     <file name="bosh-aws-cpi-release-65.tgz">
       <hash type="sha-1">26b3a5c43e6f82594a373309a495660d6db26254</hash>
@@ -104,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v64.meta4</path>
-      <version>2018-04-28T03:59:54Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="bosh-aws-cpi-release-64.tgz">
       <hash type="sha-1">7fc8ac0f06999b73e426d8baa0345eacaad1d4c7</hash>
@@ -121,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v63.meta4</path>
-      <version>2018-04-28T03:59:54Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="bosh-aws-cpi-release-63.tgz">
       <hash type="sha-1">239fc7797d280f140fc03009fb39060107ff0ee1</hash>
@@ -138,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release</repository>
       <path>v62.meta4</path>
-      <version>2018-04-28T03:59:54Z</version>
+      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
     </repository-reference>
     <file name="bosh-aws-cpi-release-62.tgz">
       <hash type="sha-1">f36967927ceae09e5663a41fdda199edfe649dc6</hash>
