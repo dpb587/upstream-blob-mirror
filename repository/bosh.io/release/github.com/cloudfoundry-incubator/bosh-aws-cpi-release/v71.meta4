@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-aws-cpi-release-71.tgz">
+    <hash type="sha-1">1007fde7a40090cdd76ea526466559f5e35c34d8</hash>
+    <hash type="md5">c2201c89c8fde0455c468c64941b6abe</hash>
+    <hash type="sha-256">5aa1762a56f5cd28abe15e83dea408931ff25cbee1b95827a4ce8341936a153b</hash>
+    <hash type="sha-512">197f12638b54e8d203cf79ae8434157c926181f94cdf209f9a2f70b35303fb1bec44f90980c92cbc3879a4ea98e55a76e3c7ef4f380374b8db0d071f25ccaf22</hash>
+    <size>16874081</size>
+    <url priority="1000">https://bosh.io/d/github.com/cloudfoundry-incubator/bosh-aws-cpi-release?v=71</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/1007fde7a40090cdd76ea526466559f5e35c34d8</url>
+    <version>71</version>
+  </file>
+</metalink>
