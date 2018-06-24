@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="git-2.18.0.tar.gz">
+    <hash type="sha-256">94faf2c0b02a7920b0b46f4961d8e9cad08e81418614102898a55f980fa3e7e4</hash>
+    <hash type="md5">3f210b2dd1613d90ded3b8732b052025</hash>
+    <hash type="sha-1">a7687c34d308b0e3d566a7d083edaca5fa92f834</hash>
+    <hash type="sha-512">ccbcb0e165044698aa0308e579745bb68701ac11335b795cc733d857d642f8dbd6f998253f6edb6f1cb93bd32d41c68d964cda138cd44c0b7bcbbdbb5117264f</hash>
+    <size>7498807</size>
+    <url priority="1000">https://www.kernel.org/pub/software/scm/git/git-2.18.0.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/a7687c34d308b0e3d566a7d083edaca5fa92f834</url>
+    <version>2.18.0</version>
+  </file>
+</metalink>
