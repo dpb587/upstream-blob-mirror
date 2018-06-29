@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="wp-mail-smtp.1.3.1.zip">
+    <hash type="md5">b36f43db2e50903d268cab8e5e2eae12</hash>
+    <hash type="sha-1">eb1c63acca4eeccfe6b02e47d8b0a5e05fb520ee</hash>
+    <hash type="sha-256">e5288c12c48e3dc8d9e66cf896c1026b2e0ee29893b49696f7bc7c3771e13007</hash>
+    <hash type="sha-512">313c9b4526d856b2f8e82caca317f0546c0a9f7cebf0f2828d3aa316b24822676b3d1a6125b620acbc124953744b2fc72b884a1c555ef36c623d5304212f1b9a</hash>
+    <size>660975</size>
+    <url priority="1000">http://downloads.wordpress.org/plugin/wp-mail-smtp.1.3.1.zip</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/eb1c63acca4eeccfe6b02e47d8b0a5e05fb520ee</url>
+    <version>1.3.1</version>
+  </file>
+</metalink>
