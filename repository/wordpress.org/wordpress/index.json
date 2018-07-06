@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
+        "path": "v4.9.7.meta4",
+        "version": "7b768fef2ff92eb05d49e112ec09dcbdb6743278"
+      },
+      "files": [
+        {
+          "name": "wordpress-4.9.7.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "7bf349133750618e388e7a447bc9cdc405967b7d"
+            },
+            {
+              "type": "md5",
+              "hash": "50efc5822bf550e9a526b9b9f4469b0d"
+            },
+            {
+              "type": "sha-256",
+              "hash": "8514274c5d5b27f8d7c5fb39947d8afc947396940a8a4daffd4fb56c8bbf3b69"
+            },
+            {
+              "type": "sha-512",
+              "hash": "0a9a132d48081ef253122bd207dbf859babfd021ef3db90d486c92cde03727a74c5170a9faf80d46e8899472a703cfe91b24c04c1ea21f261dbd156bd691ad12"
+            }
+          ],
+          "size": 8742203,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://downloads.wordpress.org/release/wordpress-4.9.7.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7bf349133750618e388e7a447bc9cdc405967b7d"
+            }
+          ],
+          "version": "4.9.7"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
         "path": "v4.9.6.meta4",
         "version": "e83f02344253ebd0493e3e16d2f1a06d39e16e09"
       },
