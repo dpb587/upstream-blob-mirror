@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <path>v60.2.meta4</path>
+      <version>2018-07-12T02:52:21Z</version>
+    </repository-reference>
+    <file name="uaa-release-60.2.tgz">
+      <hash type="sha-1">667af417997467681fddf13c78e5a11c6f4a9d15</hash>
+      <hash type="md5">8c093adce6ae13d4ac957da3366e1730</hash>
+      <hash type="sha-256">868cc7faf82458830f02449e6e30bb3b5eabb4f6a2fddab64190b5f388b3ce59</hash>
+      <hash type="sha-512">28b64448676529664d78829ab83d15ea0335dec2c51cdfc0d098f7ae924b806b68248d97b23b7d47dcba8294c5d933dd5e5f02649b0d189a052ecea6b5dac630</hash>
+      <size>309558024</size>
+      <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/uaa-release?v=60.2</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/667af417997467681fddf13c78e5a11c6f4a9d15</url>
+      <version>60.2</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v60.meta4</path>
-      <version>d1c6c30e2da50f76dd77ad2bf5d30526b7a538d7</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-60.tgz">
       <hash type="sha-1">a7c14357ae484e89e547f4f207fb8de36d2b0966</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v59.meta4</path>
-      <version>5156f5531f480f4e7bdab3ec362f971b2283af21</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-59.tgz">
       <hash type="sha-1">6aa5cd78892f4ea09070c0cf5155aa7a12c17d13</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v58.1.meta4</path>
-      <version>2c737f379252a2664c80322f3f9714d208bf88b2</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-58.1.tgz">
       <hash type="sha-1">8153dc927d6af2a839f7c6f128c9e8aea315dad6</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v58.meta4</path>
-      <version>2c088d955c5bbeb69f91b018fd320c351ba652ec</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-58.tgz">
       <hash type="sha-1">65f2f01c34298a57b2e654098b190adee7effdd5</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v57.1.meta4</path>
-      <version>0ea7fee76043f5b71cb053a2161b3c2b8a6609ca</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-57.1.tgz">
       <hash type="sha-1">b96e5965e890d9cdd6ad96890cdaad719c368c31</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v57.meta4</path>
-      <version>a96bed550180e756cf55a095abb9cf013d8e0ed9</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-57.tgz">
       <hash type="sha-1">e5dd646db603dbde5568ae25ccd0ec28d2853dc4</hash>
@@ -104,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v56.meta4</path>
-      <version>877fcfbc0f073e92ecb7628a38058d9788bab3cb</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-56.tgz">
       <hash type="sha-1">462383bd04d75ba5a0fd5e205853719b5b78423d</hash>
@@ -121,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v55.meta4</path>
-      <version>6134c1bcdcfdbe36ff72cc09305f84965a201ccd</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-55.tgz">
       <hash type="sha-1">393d844138f7b32017d7706684c36bf499e8cc79</hash>
@@ -138,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v54.meta4</path>
-      <version>c52731c319056f710c170e888421237c6a6c90e2</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-54.tgz">
       <hash type="sha-1">aa61f0013aa4c42d84cec2fcdac6cf548950011e</hash>
@@ -155,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v53.3.meta4</path>
-      <version>828a3046d3710399513277572c11180e1c8be9d3</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-53.3.tgz">
       <hash type="sha-1">ce435cbb190611db2685f135edc49f9eab6bab89</hash>
@@ -172,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v53.1.meta4</path>
-      <version>48bbef3ef0e9adde1dffdb92fc7cbdc4f70c0a36</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-53.1.tgz">
       <hash type="sha-1">b49b0caaf46d8f94d67979f9e46d9c22907bd451</hash>
@@ -189,9 +206,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v53.meta4</path>
-      <version>b9a9518dfc78ed1ee0f7ff6889a4a36847421ad8</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-53.tgz">
       <hash type="sha-1">05d5005050f286939dc92baa89b5a7381c6a280e</hash>
@@ -206,9 +223,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v52.4.meta4</path>
-      <version>a27233a95e4031711ec2cdf8c41ce8dbcb2dec41</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-52.4.tgz">
       <hash type="sha-1">cf0cecad0e46c23d0889e28a948b2ca842a4477e</hash>
@@ -223,9 +240,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v52.2.meta4</path>
-      <version>fd7bc96305677655f453660624e20c14d6f2891e</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-52.2.tgz">
       <hash type="sha-1">a10ad45747edd6dcc4d891d3b349223d0d2f8439</hash>
@@ -240,9 +257,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v52.1.meta4</path>
-      <version>7c41e589c510a057b1e59007f53456d997c6811e</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-52.1.tgz">
       <hash type="sha-1">6135cb68188e1fd69893395c739532a5028bd4c2</hash>
@@ -257,9 +274,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v52.meta4</path>
-      <version>10210fc446e5a63a143e5ae1686cab48aed8288a</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-52.tgz">
       <hash type="sha-1">e7a1b9f368d30cc5e597be134844280b9887873e</hash>
@@ -274,9 +291,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v51.meta4</path>
-      <version>4b8c45d90fb013e30c9ad0b8583959d0c910b388</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-51.tgz">
       <hash type="sha-1">869b8e6bf58f5431b3579f730f142814aae39d71</hash>
@@ -291,9 +308,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v50.meta4</path>
-      <version>06c27ff9b79122fbc9c13c6aae91a303f5d72af6</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-50.tgz">
       <hash type="sha-1">f0fdb16065e41044718ab6c972baff8728ae913b</hash>
@@ -308,9 +325,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v45.meta4</path>
-      <version>65faf13ca98cedf1c5ead0276778ca8ec4f61345</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-45.tgz">
       <hash type="sha-1">4d4fba13b724b75206f5eb3abae8efa94dcf7db8</hash>
@@ -325,9 +342,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v44.meta4</path>
-      <version>cdb11c28ee2b7b2afb919686904c5cb21d277c74</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-44.tgz">
       <hash type="sha-1">89c4b7525323aba891da0330320dce4201697491</hash>
@@ -342,9 +359,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v43.meta4</path>
-      <version>a59d29455cfc69f32e7d75c5f65d9bca54b78b91</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-43.tgz">
       <hash type="sha-1">25d858cde37705c9f525e2cad4ab3b9cf21d6de5</hash>
@@ -359,9 +376,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v41.meta4</path>
-      <version>6ec04fcfb9f484fd22c3aaf9886268c2165e55ef</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-41.tgz">
       <hash type="sha-1">a1b1818fb4f5e722a6c3073d364ce4c400e5fb31</hash>
@@ -376,9 +393,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v40.meta4</path>
-      <version>71233e0a57e6adcf59d35196da0d18c66ed4044c</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-40.tgz">
       <hash type="sha-1">e400f126aaa46d35abb8f1557784e85b4fb391c4</hash>
@@ -393,9 +410,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v38.meta4</path>
-      <version>d3cea68eb91cccbe45a0773672dce4dbfaa50719</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-38.tgz">
       <hash type="sha-1">5061788680c2230b62caef7696615b8d11939ef8</hash>
@@ -410,9 +427,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v37.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-37.tgz">
       <hash type="sha-1">139bc119db540e5d881b43a7d5de10cff184f5f7</hash>
@@ -427,9 +444,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v36.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-36.tgz">
       <hash type="sha-1">bfa38fff664c4bbe1b5809d3635e40f1555dd89f</hash>
@@ -444,9 +461,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v35.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-35.tgz">
       <hash type="sha-1">acee89ed1332177929f5c08939f2dd64c7b0af77</hash>
@@ -461,9 +478,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v34.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-34.tgz">
       <hash type="sha-1">dcb2a2911c1592b2c582237e801fb5d0c7639674</hash>
@@ -478,9 +495,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v33.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-33.tgz">
       <hash type="sha-1">ea2f5a788800af37c72ee9adf454e4019414070b</hash>
@@ -495,9 +512,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v32.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-32.tgz">
       <hash type="sha-1">2478af4bc0ea5114e61b043d619f82beb9b1f7a7</hash>
@@ -512,9 +529,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v31.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-31.tgz">
       <hash type="sha-1">71d7dff54f2dc09c25b0e860819736753bcbbb2b</hash>
@@ -529,9 +546,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v30.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-30.tgz">
       <hash type="sha-1">90b034c0d9a8282a47d0409e561ffb1b9abf626b</hash>
@@ -546,9 +563,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/uaa-release</repository>
       <path>v29.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2018-07-12T02:51:38Z</version>
     </repository-reference>
     <file name="uaa-release-29.tgz">
       <hash type="sha-1">6d97f83aaf5d2ec26c7592aafc111625b4bb37ed</hash>
