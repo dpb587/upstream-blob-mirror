@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="os-conf-release-20.0.0.tgz">
+    <hash type="sha-1">a60187f038d45e2886db9df82b72a9ab5fdcc49d</hash>
+    <hash type="md5">cf842f5543be6efdca6440751e061634</hash>
+    <hash type="sha-256">2d20a9845071cbb50c050a9debd9f8f0177155cff961b17605b96f503577e12f</hash>
+    <hash type="sha-512">82df2a4b0e77b90282407fc40d60dda50e0b83ad5d1d50ab7a2c7163c76429fbd69a9de869e4d5713fc9bbefe3606ab2ed1395fbfef0e225eb88ca1eab55210b</hash>
+    <size>19408</size>
+    <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/os-conf-release?v=20.0.0</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/a60187f038d45e2886db9df82b72a9ab5fdcc49d</url>
+    <version>20.0.0</version>
+  </file>
+</metalink>
