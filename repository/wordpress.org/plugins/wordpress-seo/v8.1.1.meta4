@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="wordpress-seo.8.1.1.zip">
+    <hash type="md5">a7463af10c73a811efe1a038f2933d88</hash>
+    <hash type="sha-1">4b9751e8e238a00af175b79f154feb7844f27819</hash>
+    <hash type="sha-256">cdf1190420449b3961245d50f80e1ea7be9a66121fc77a9be72c1332e9a46107</hash>
+    <hash type="sha-512">27d99fbb9806d48942eef70e9b9851adb2dea4a636c54d66bbdaf495e2c56982ed28a47bfae24af802e8977d2d273ff5296d09ddd6702c013cb9707675451037</hash>
+    <size>3197635</size>
+    <url priority="1000">http://downloads.wordpress.org/plugin/wordpress-seo.8.1.1.zip</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/4b9751e8e238a00af175b79f154feb7844f27819</url>
+    <version>8.1.1</version>
+  </file>
+</metalink>
