@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
+      <path>v30.meta4</path>
+      <version>2018-09-05T00:38:40Z</version>
+    </repository-reference>
+    <file name="postgres-release-30.tgz">
+      <hash type="sha-1">a798999d29b9f5aa12035cff907b26674b491200</hash>
+      <hash type="md5">38e68eb4ab65b0d26bd52fa6c939d45a</hash>
+      <hash type="sha-256">7d9beb1a20dd14c64c93772eaa48871a3420a79cf9bfb76f4ec8efea00707c87</hash>
+      <hash type="sha-512">e5ce1d8dca01165069a64d90a430125df392c2ee7142209578a5ebce547af39c6e8bc4b5f046a08a78a5d9e2c44592e2ec298bb39dd6d1e966d8d329a40aa14f</hash>
+      <size>25760983</size>
+      <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/postgres-release?v=30</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/a798999d29b9f5aa12035cff907b26674b491200</url>
+      <version>30</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
       <path>v29.meta4</path>
-      <version>5215d87fcf477e14997ee403fd3debdb8439b4d4</version>
+      <version>2018-09-05T00:38:23Z</version>
     </repository-reference>
     <file name="postgres-release-29.tgz">
       <hash type="sha-1">24d2e2887a45258b71bc40577c0f406180e47701</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
       <path>v28.meta4</path>
-      <version>973154da07e9198dc5927e2dd1adff980e0c641b</version>
+      <version>2018-09-05T00:38:23Z</version>
     </repository-reference>
     <file name="postgres-release-28.tgz">
       <hash type="sha-1">c1fcec62cb9d2e95e3b191e3c91d238e2b9d23fa</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
       <path>v27.meta4</path>
-      <version>0021ba2e0cd36397e4b710c0cd755786713da548</version>
+      <version>2018-09-05T00:38:23Z</version>
     </repository-reference>
     <file name="postgres-release-27.tgz">
       <hash type="sha-1">6d636cb51e713b17d58fafaafc9562073a07a2c4</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
       <path>v26.meta4</path>
-      <version>4c5b843644eb2487feeeced407184b47aa8dfef9</version>
+      <version>2018-09-05T00:38:23Z</version>
     </repository-reference>
     <file name="postgres-release-26.tgz">
       <hash type="sha-1">a436047dae4d4156a1debe9f88bedf59bf40362b</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
       <path>v25.meta4</path>
-      <version>346233e9df6ad70e7916810d6c1510b1a74cb54e</version>
+      <version>2018-09-05T00:38:23Z</version>
     </repository-reference>
     <file name="postgres-release-25.tgz">
       <hash type="sha-1">20929ee4b0c64fd97072a266311a6d00714124a7</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
       <path>v24.meta4</path>
-      <version>5eb52243db2c16eafe8a0ccc5a82a57e04eb1f6a</version>
+      <version>2018-09-05T00:38:23Z</version>
     </repository-reference>
     <file name="postgres-release-24.tgz">
       <hash type="sha-1">f02e70dac756ebcf8baec01271a12ea23c41a0b9</hash>
@@ -104,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/postgres-release</repository>
       <path>v23.meta4</path>
-      <version>2d3152b0f3a582baa508fdef13ab268c41de39eb</version>
+      <version>2018-09-05T00:38:23Z</version>
     </repository-reference>
     <file name="postgres-release-23.tgz">
       <hash type="sha-1">4b5265bfd5f92cf14335a75658658a0db0bca927</hash>
