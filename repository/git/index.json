@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
+        "path": "v2.19.0.meta4",
+        "version": "376e910c6c672160dd872409cd8a183ff1f286bd"
+      },
+      "files": [
+        {
+          "name": "git-2.19.0.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "e0e185b19d6e6caa58dde05a1a332149775d68a9946f274f41a1bd7db972cf55"
+            },
+            {
+              "type": "md5",
+              "hash": "ec98a0bb4e6675834f9b3432cab4c19f"
+            },
+            {
+              "type": "sha-1",
+              "hash": "0c1c554966e2434a830bac564cddbcf8c7d70e20"
+            },
+            {
+              "type": "sha-512",
+              "hash": "0f963fb9111ca96064d1b7d54441594663806cc785c360ae560e5fb4ff1374688843a758ed2624153188d6029a54e22608e5878c14349e8418ba593ef98fd971"
+            }
+          ],
+          "size": 7708477,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://www.kernel.org/pub/software/scm/git/git-2.19.0.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/0c1c554966e2434a830bac564cddbcf8c7d70e20"
+            }
+          ],
+          "version": "2.19.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/git",
         "path": "v2.18.0.meta4",
         "version": "ac4c25d2389b4519d0b7c1b66bc77f43275f7874"
       },
