@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56",
+        "path": "v5.6.38.meta4",
+        "version": "793c17b57ab50ad2bd7d489a9162fe451aa831b9"
+      },
+      "files": [
+        {
+          "name": "php-5.6.38.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "3b74d46cd79a45cce90c8059e09d8bd0beeb5de562cbb0cb42f96ff8fa665fd4"
+            },
+            {
+              "type": "md5",
+              "hash": "ba298a4a8400c125f863f75d595e4fc3"
+            },
+            {
+              "type": "sha-1",
+              "hash": "9495958f8d12bbf3cfba8b468e97c84e0e5addbd"
+            },
+            {
+              "type": "sha-512",
+              "hash": "d454d9cf707dec28d2345139b26084d00963f39b3e34058e0179291f9fb040842c13515f9bace7741d21aa54a8fe0dcc61ce0d885d08dc3400a247f5daf5e427"
+            }
+          ],
+          "size": 19301157,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-5.6.38.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/9495958f8d12bbf3cfba8b468e97c84e0e5addbd"
+            }
+          ],
+          "version": "5.6.38"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php56",
         "path": "v5.6.37.meta4",
         "version": "9cd00bf62113b9ee3941dc5579bedb4bff62e7a7"
       },
