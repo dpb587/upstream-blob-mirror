@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release",
+        "path": "v1.16.4.meta4",
+        "version": "61f6df98a512f442ff54951acf0eb241c6c5df7e"
+      },
+      "files": [
+        {
+          "name": "garden-runc-release-1.16.4.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "dd02cad84283fdc282005b78624864e5976de209"
+            },
+            {
+              "type": "md5",
+              "hash": "3cc91453e22ab738640ea79f78e5e639"
+            },
+            {
+              "type": "sha-256",
+              "hash": "43d3fb4d3948f8815de7a8dd9b2c220521b5f2f8301dc9b9f021c10a32e0425c"
+            },
+            {
+              "type": "sha-512",
+              "hash": "78ba63e93e134cd37d018d12b6eebd76749ae39bf18d7aae8b1c5fe50d13e141e13757057648607b5aa50a7783f9735d18b7817d030d2fae12899d0cd09c3767"
+            }
+          ],
+          "size": 343487581,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/garden-runc-release?v=1.16.4"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/dd02cad84283fdc282005b78624864e5976de209"
+            }
+          ],
+          "version": "1.16.4"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/garden-runc-release",
         "path": "v1.16.3.meta4",
         "version": "809fcd9343904044dc0f0d7e6391abbee8644e95"
       },
