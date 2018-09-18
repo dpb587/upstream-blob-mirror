@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="concourse-4.2.1.tgz">
+    <hash type="sha-1">470a6fdd7cb82fc723d7d78930c7d261ca4a6cb4</hash>
+    <hash type="md5">a04bb690adecc9a6e92cdb5d1afbd17b</hash>
+    <hash type="sha-256">f008c85479b922624ebcc3d30b6c3eb7500f1514d4cb2d3c8ef57b858198d38e</hash>
+    <hash type="sha-512">64dba8833d0d619f95965c08b820e2e737096fb8c825c314f17b16c5b69a81852fd9a270dbed3b02288f28d75c876f8aaa0a7fdc8b84e217a5f663ce13ca4b9c</hash>
+    <size>606738591</size>
+    <url priority="1000">https://bosh.io/d/github.com/concourse/concourse?v=4.2.1</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/470a6fdd7cb82fc723d7d78930c7d261ca4a6cb4</url>
+    <version>4.2.1</version>
+  </file>
+</metalink>
