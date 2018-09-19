@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-google-cpi-release-28.0.0.tgz">
+    <hash type="sha-1">2dd64cb888448dadeb0d6297877e0e5d1312d67c</hash>
+    <hash type="md5">1ac447da5ad666a212c9746fb63d8d36</hash>
+    <hash type="sha-256">342d277725e52d71fd2dd6776590816be10da854652db9db54363c3d25298e16</hash>
+    <hash type="sha-512">8a67f73eb6cb739106a4a5642288059d670f0e32e4da61c376920362260426511f15ce3551a8a17601266992019802428e2600a2e095325756fd15442b7ecfb6</hash>
+    <size>208729721</size>
+    <url priority="1000">https://bosh.io/d/github.com/cloudfoundry-incubator/bosh-google-cpi-release?v=28.0.0</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2dd64cb888448dadeb0d6297877e0e5d1312d67c</url>
+    <version>28.0.0</version>
+  </file>
+</metalink>
