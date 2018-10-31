@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release",
+        "path": "v73.meta4",
+        "version": "75235561ed36eda011d00f63bba278c073aa99ec"
+      },
+      "files": [
+        {
+          "name": "bosh-aws-cpi-release-73.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "350aa469deb281911b64d0be99faacfd26acdfaf"
+            },
+            {
+              "type": "md5",
+              "hash": "c93eab05475a6b2f1edd09e1228b77c2"
+            },
+            {
+              "type": "sha-256",
+              "hash": "6d0ef5a74c5f700a526819754207b010eccb19c0b03f59ee05a7d2699b1800ea"
+            },
+            {
+              "type": "sha-512",
+              "hash": "401bf70d2d39c4b5508ba3694b87f4192e0fbcac36295526f009663df7378e73b9bd061482eecac368cf6cc499dc0002c856c22f364a0753d87f5f11e5443717"
+            }
+          ],
+          "size": 16592148,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry-incubator/bosh-aws-cpi-release?v=73"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/350aa469deb281911b64d0be99faacfd26acdfaf"
+            }
+          ],
+          "version": "73"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-incubator/bosh-aws-cpi-release",
         "path": "v72.meta4",
         "version": "f0d4776222206855a78d26ee9ecdc4d8eb8d5233"
       },
