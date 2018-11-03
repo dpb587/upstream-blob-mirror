@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/darwin-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/darwin-amd64</repository>
       <path>v1.11.2.meta4</path>
-      <version>2018-11-03T07:50:37Z</version>
+      <version>3fd19094183296532cee93ea899ee4d3c07238ba</version>
     </repository-reference>
     <file name="go1.11.2.darwin-amd64.tar.gz">
       <hash type="sha-256">be2a9382ef85792280951a78e789e8891ddb1df4ac718cd241ea9d977c85c683</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/darwin-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/darwin-amd64</repository>
       <path>v1.11.1.meta4</path>
-      <version>2018-11-03T07:49:42Z</version>
+      <version>9ca8df9adc53e279593184199fed8b7e7300d060</version>
     </repository-reference>
     <file name="go1.11.1.darwin-amd64.tar.gz">
       <hash type="sha-256">1f2b29c8b08a140f06c88d055ad68104ccea9ca75fd28fbc95fe1eeb61a29bef</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/darwin-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/darwin-amd64</repository>
       <path>v1.10.3.meta4</path>
-      <version>2018-11-03T07:49:42Z</version>
+      <version>9ccbd33dd941a830803beac2014dcdf099df21b1</version>
     </repository-reference>
     <file name="go1.10.3.darwin-amd64.tar.gz">
       <hash type="sha-256">131fd430350a3134d352ee75c5ca456cdf4443e492d0527a9651c7c04e2b458d</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/darwin-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/darwin-amd64</repository>
       <path>v1.10.2.meta4</path>
-      <version>2018-11-03T07:49:42Z</version>
+      <version>5ac5345c42ba1f55cbd87b4e061652fe4706280e</version>
     </repository-reference>
     <file name="go1.10.2.darwin-amd64.tar.gz">
       <hash type="sha-256">360ad908840217ee1b2a0b4654666b9abb3a12c8593405ba88ab9bba6e64eeda</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/darwin-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/darwin-amd64</repository>
       <path>v1.10.1.meta4</path>
-      <version>2018-11-03T07:49:42Z</version>
+      <version>ea88b67e76e3308a4e0932200c3636342680a9c5</version>
     </repository-reference>
     <file name="go1.10.1.darwin-amd64.tar.gz">
       <hash type="sha-256">0a5bbcbbb0d150338ba346151d2864fd326873beaedf964e2057008c8a4dc557</hash>
@@ -87,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/darwin-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/darwin-amd64</repository>
       <path>v1.9.4.meta4</path>
-      <version>2018-11-03T07:49:42Z</version>
+      <version>78b4600d5517d68e7112eb0b10d53754a365073b</version>
     </repository-reference>
     <file name="go1.9.4.darwin-amd64.tar.gz">
       <hash type="sha-256">0e694bfa289453ecb056cc70456e42fa331408cfa6cc985a14edb01d8b4fec51</hash>
