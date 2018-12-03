@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp",
+        "path": "v1.4.1.meta4",
+        "version": "f03c4f06cc7ff34bbaf2b7e83568b88af55aee63"
+      },
+      "files": [
+        {
+          "name": "wp-mail-smtp.1.4.1.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "1a504002704d90a2fff906d185914847"
+            },
+            {
+              "type": "sha-1",
+              "hash": "adb0826c2aee4a06b37878257604c718fd4c453f"
+            },
+            {
+              "type": "sha-256",
+              "hash": "987116ba0d386e67e1acd8d0aef6577934586f97d2e8eda5b5812c3c22b17348"
+            },
+            {
+              "type": "sha-512",
+              "hash": "5b3ce708067cd63761d902a117bf515db6b4d4eb0791bf4e15f847f1da117f5ebe9b9bd9f89a359b901c6775ca8c8cb0cc59208f8b0dfa9ae39323ed0ac4a880"
+            }
+          ],
+          "size": 708314,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://downloads.wordpress.org/plugin/wp-mail-smtp.1.4.1.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/adb0826c2aee4a06b37878257604c718fd4c453f"
+            }
+          ],
+          "version": "1.4.1"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/wp-mail-smtp",
         "path": "v1.4.0.meta4",
         "version": "a34cd22dec23b85d0bf4ae19f467df3bbe182140"
       },
