@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/windows-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/windows-amd64</repository>
       <path>v1.11.3.meta4</path>
-      <version>2018-12-13T22:58:58Z</version>
+      <version>c8b37237100e0c32b7dde615b346cc03e0d9533d</version>
     </repository-reference>
     <file name="go1.11.3.windows-amd64.zip">
       <hash type="sha-256">bc168207115eb0686e226ed3708337b161946c1acb0437603e1221e94f2e1f0f</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/windows-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/windows-amd64</repository>
       <path>v1.11.2.meta4</path>
-      <version>2018-12-13T22:57:21Z</version>
+      <version>42548cdfd957d738ce4705b6148b00ba171edd92</version>
     </repository-reference>
     <file name="go1.11.2.windows-amd64.zip">
       <hash type="sha-256">086c59df0dce54d88f30edd50160393deceb27e73b8d6b46b9ee3f88b0c02e28</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/windows-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/windows-amd64</repository>
       <path>v1.11.1.meta4</path>
-      <version>2018-12-13T22:57:21Z</version>
+      <version>7f3be660e5c909d42cf981761700992ddbd16302</version>
     </repository-reference>
     <file name="go1.11.1.windows-amd64.zip">
       <hash type="sha-256">230a08d4260ded9d769f072512a49bffe8bfaff8323e839c2db7cf7c9c788130</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/windows-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/windows-amd64</repository>
       <path>v1.10.3.meta4</path>
-      <version>2018-12-13T22:57:21Z</version>
+      <version>f6b9758014a3e903cb02b59796c8942bb8e55ccf</version>
     </repository-reference>
     <file name="go1.10.3.windows-amd64.zip">
       <hash type="sha-256">a3f19d4fc0f4b45836b349503e347e64e31ab830dedac2fc9c390836d4418edb</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/windows-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/windows-amd64</repository>
       <path>v1.10.2.meta4</path>
-      <version>2018-12-13T22:57:21Z</version>
+      <version>7e97df8d329f05bb6321cd5881f6fcb36ee01493</version>
     </repository-reference>
     <file name="go1.10.2.windows-amd64.zip">
       <hash type="sha-256">0fb4a893796e8151c0b8d0a3da4ed8cbb22bf6d98a3c29c915be4d7083f146ee</hash>
@@ -87,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/windows-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/windows-amd64</repository>
       <path>v1.10.1.meta4</path>
-      <version>2018-12-13T22:57:21Z</version>
+      <version>34486380a7344e82bba662593dbd97332997e4ad</version>
     </repository-reference>
     <file name="go1.10.1.windows-amd64.zip">
       <hash type="sha-256">17f7664131202b469f4264161ff3cd0796e8398249d2b646bbe4990301afc678</hash>
@@ -104,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/golang.org/windows-amd64</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/windows-amd64</repository>
       <path>v1.9.4.meta4</path>
-      <version>2018-12-13T22:57:21Z</version>
+      <version>616262f195a2653a29f937aa5cfffeb4699c0aa4</version>
     </repository-reference>
     <file name="go1.9.4.windows-amd64.zip">
       <hash type="sha-256">880e011ac6f4a509308a62ec6d963dd9d561d0cdc705e93d81c750d7f1c696f4</hash>
