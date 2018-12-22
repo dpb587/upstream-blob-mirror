@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
+        "path": "v5.2.0.meta4",
+        "version": "ce3c8423f74310f4f1e4fad8d17aa3f3e8e29d15"
+      },
+      "files": [
+        {
+          "name": "openvpn-bosh-release-5.2.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "928b67370d64c1620f506264f9bfd5b8473a2acb"
+            },
+            {
+              "type": "md5",
+              "hash": "8a0a8a328cfd995f875f6f5d61e0bda9"
+            },
+            {
+              "type": "sha-256",
+              "hash": "90fbb60a62867cb3dcdc53991ce7bb8445a09987a5fb41b8d6915b233d6dc654"
+            },
+            {
+              "type": "sha-512",
+              "hash": "c678a2878abf22c7439ba6cc069e5a3f00f71b00efb9b5eb74f406fabb0e4e947cbe06b176a3a49541530fe196e243e2d684bfe1ac5077a9e1e3e58b21ffb3ec"
+            }
+          ],
+          "size": 10384069,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/dpb587/openvpn-bosh-release?v=5.2.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/928b67370d64c1620f506264f9bfd5b8473a2acb"
+            }
+          ],
+          "version": "5.2.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release",
         "path": "v5.1.0.meta4",
         "version": "c2bd27f77dcb7ba713abe6cab9aa873f8d2474de"
       },
