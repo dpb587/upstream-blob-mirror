@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
+        "path": "v5.0.3.meta4",
+        "version": "d12d45531e13a17b2891e9e410cd3c599ce2f3ff"
+      },
+      "files": [
+        {
+          "name": "wordpress-5.0.3.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "f9a4b482288b5be7a71e9f3dc9b5b0c1f881102b"
+            },
+            {
+              "type": "md5",
+              "hash": "83bec78836aabac08f769d50f1bffe5d"
+            },
+            {
+              "type": "sha-256",
+              "hash": "9aa4d1bc9acc39279f15e914415be87af01a886287b1b92b3a80426a4edbd78a"
+            },
+            {
+              "type": "sha-512",
+              "hash": "562986b5d6ade5a1680a27b1d856b7a64d50c18ea10370e7ed5d5cb8abd09fbe451c5124b254a46422a957003626ef5a999266da1080f0ac9d1e1f9625bcd76d"
+            }
+          ],
+          "size": 10515429,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://downloads.wordpress.org/release/wordpress-5.0.3.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f9a4b482288b5be7a71e9f3dc9b5b0c1f881102b"
+            }
+          ],
+          "version": "5.0.3"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress",
         "path": "v5.0.2.meta4",
         "version": "866988b8ae0408ea68ba739dce2ac21ae2a9e1ee"
       },
