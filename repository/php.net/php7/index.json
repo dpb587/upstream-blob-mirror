@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7",
+        "path": "v7.3.1.meta4",
+        "version": "0820ebb1030200a6b3b163c3a339a114e9d86861"
+      },
+      "files": [
+        {
+          "name": "php-7.3.1.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "8006211f7a041dde22fffedc416d142e0ebf22066014077ca936d7e6f655ead5"
+            },
+            {
+              "type": "md5",
+              "hash": "cd0c03925ea74cc1fbb74ab0ecb2578b"
+            },
+            {
+              "type": "sha-1",
+              "hash": "a701cba60073ad6afa4c66fa46f2fb62691cb648"
+            },
+            {
+              "type": "sha-512",
+              "hash": "a3f66e801582085dbe4ec55bdfc3fb98cb04f7d839bac2f7065068181ee31657dd796d356b662313a56374112dafd16c934483d7d85f020394e67d267358aebd"
+            }
+          ],
+          "size": 19378703,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://us1.php.net/distributions/php-7.3.1.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/a701cba60073ad6afa4c66fa46f2fb62691cb648"
+            }
+          ],
+          "version": "7.3.1"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/php.net/php7",
         "path": "v7.3.0.meta4",
         "version": "d594d5dc8e5d48b62df30f7767f73e691848df4c"
       },
