@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="go1.11.5.darwin-amd64.tar.gz">
+    <hash type="sha-256">b970d8fdd5245193073395ce7b7775dd9deea980d4ce5e68b3b80ee9edcf2afc</hash>
+    <hash type="md5">d6a21ec8a8ca10a8570a8d61a089fbd1</hash>
+    <hash type="sha-1">76c8cfd4036e80391ba06f98361a743852bbe8d6</hash>
+    <hash type="sha-512">86026ebc6dbddeb677f0e8c57d249685ea28d590ec6e99c1a3c4064a615961315b5e701fc9abca80164697777c4d5c48f9f1377ffee352fa461e362650ef5c09</hash>
+    <size>120402712</size>
+    <url priority="1000">https://storage.googleapis.com/golang/go1.11.5.darwin-amd64.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/76c8cfd4036e80391ba06f98361a743852bbe8d6</url>
+    <version>1.11.5</version>
+  </file>
+</metalink>
