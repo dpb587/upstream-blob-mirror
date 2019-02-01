@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
+      <path>v4.1.1.meta4</path>
+      <version>2019-02-01T00:48:48Z</version>
+    </repository-reference>
+    <file name="akismet.4.1.1.zip">
+      <hash type="md5">7f3a87c277aa662a6537f26d0f36d870</hash>
+      <hash type="sha-1">bfafd9779490f7590ee864ada595244e9c8df533</hash>
+      <hash type="sha-256">0e19f8d2b18446662a79d7ac3bd47757aca27e8686be8127549bc6ed6126e683</hash>
+      <hash type="sha-512">775cb390bf0fa5b1b4f3d4168020f316e09a2758336ebb81cbdcbf71f250690310a1f587574cfd362e9956ace8832e520a52e2ecefaba7624e0ea6b027cbf0e1</hash>
+      <size>70243</size>
+      <url priority="1000">http://downloads.wordpress.org/plugin/akismet.4.1.1.zip</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/bfafd9779490f7590ee864ada595244e9c8df533</url>
+      <version>4.1.1</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v4.1.meta4</path>
-      <version>a90eda734a50d2f0de4a8e2f010929e9ac708aa6</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.4.1.zip">
       <hash type="md5">c27ea9fa92b378b5e927377ec3e9d0d3</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v4.0.8.meta4</path>
-      <version>6c16bffd9e84190ebc864618f08a39c22deb7a56</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.4.0.8.zip">
       <hash type="md5">f78ac9c27391893817a15c5b5e186d48</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v4.0.7.meta4</path>
-      <version>6f2beb0499ed04bcd97d18917f6d90be2797db00</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.4.0.7.zip">
       <hash type="md5">815e38947c8fc930a708187db1d521df</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v4.0.6.meta4</path>
-      <version>582b34afab2881a5f7f539bb5faea08a4b1fb94a</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.4.0.6.zip">
       <hash type="md5">c23e1a7b6bb6d7f4983417733a4afb15</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v4.0.3.meta4</path>
-      <version>5cd72d5b52a1ddd2a06c7caf928166e3f683e14f</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.4.0.3.zip">
       <hash type="md5">fef8c4708364c6740cd4689bd749631d</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v4.0.2.meta4</path>
-      <version>6de1028efcd3d7032c470b0ad97512bcf39ff69e</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.4.0.2.zip">
       <hash type="md5">c8d3e6c2ef5b7d512387c2fcef00f6ab</hash>
@@ -104,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v4.0.1.meta4</path>
-      <version>41df543f38f1ce6b2716df7974731e88a7b684a6</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.4.0.1.zip">
       <hash type="md5">7ec7d514d2cab4bf0177f4329a4ce026</hash>
@@ -121,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v4.0.meta4</path>
-      <version>0fd150c0909d4b1ba1257792d8eb7d8678cb397a</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.4.0.zip">
       <hash type="md5">d9a32cdeb78e66e6660d5082d5ea82e8</hash>
@@ -138,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v3.3.4.meta4</path>
-      <version>925472169e8d8bccb10b559ad0c7bbc44232d217</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.3.3.4.zip">
       <hash type="md5">6316307649ef76b0713f1d5082f2a122</hash>
@@ -155,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v3.3.3.meta4</path>
-      <version>f011c7fe053f779df1d8fcbb356efe877846d4a9</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.3.3.3.zip">
       <hash type="md5">31b559162adae31b79215106625998d2</hash>
@@ -172,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v3.3.2.meta4</path>
-      <version>67d08b40547092ef547e32932eeaa66507ccf6ff</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.3.3.2.zip">
       <hash type="md5">12b26c8852ac5156ac70aaf879e52a94</hash>
@@ -189,9 +206,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v3.3.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.3.3.zip">
       <hash type="md5">15ad14b7edadc287ba6761ad2ee341a4</hash>
@@ -206,9 +223,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/akismet</repository>
       <path>v3.2.meta4</path>
-      <version>80fbdb605f5d21647a5e823b1cb003d32e917070</version>
+      <version>2019-02-01T00:47:50Z</version>
     </repository-reference>
     <file name="akismet.3.2.zip">
       <hash type="md5">dad30aa8c20c411a8a20b8d3aa0863f5</hash>
