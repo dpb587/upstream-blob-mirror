@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="go1.12.1.windows-amd64.zip">
+    <hash type="sha-256">2f4849b512fffb2cf2028608aa066cc1b79e730fd146c7b89015797162f08ec5</hash>
+    <hash type="md5">3e28ccc788bf78de3da71e6fe77ceb27</hash>
+    <hash type="sha-1">f7148c1d2ecdbfe645cf0a824bfa1811d0950319</hash>
+    <hash type="sha-512">dcfd832089d75940074ade8f82d2bcc2772f803e5d20a7e1862e576ae2c4aafeac78faa6018956c32d2bb030274bf60cc17a0acf2c48f8847eb562bdc5b26ebb</hash>
+    <size>141212127</size>
+    <url priority="1000">https://storage.googleapis.com/golang/go1.12.1.windows-amd64.zip</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/f7148c1d2ecdbfe645cf0a824bfa1811d0950319</url>
+    <version>1.12.1</version>
+  </file>
+</metalink>
