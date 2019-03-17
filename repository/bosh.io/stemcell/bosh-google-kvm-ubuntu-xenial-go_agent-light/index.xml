@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v250.21.meta4</path>
-      <version>2019-03-17T02:15:17Z</version>
+      <version>05ee86acac97bbff141598a47ea7df035e55ac1c</version>
     </repository-reference>
     <file name="light-bosh-stemcell-250.21-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">32178f9ebcf52cbb0b8c384f5084af05f22506bd</hash>
