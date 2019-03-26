@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-xenial-go_agent-light</repository>
       <path>v250.25.meta4</path>
-      <version>2019-03-26T17:08:45Z</version>
+      <version>b3ab88ae652b3a3ae4ef5428972c1e14b0b5eba9</version>
     </repository-reference>
     <file name="light-bosh-stemcell-250.25-aws-xen-hvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">98232652c917060ccbded3912da0e8578a64266b</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-xenial-go_agent-light</repository>
       <path>v250.23.meta4</path>
-      <version>2019-03-26T17:08:08Z</version>
+      <version>334ccc2eb8af7af7b6566d08e450675323790dc0</version>
     </repository-reference>
     <file name="light-bosh-stemcell-250.23-aws-xen-hvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">7dcfa68c7922ed08521214d92aac21b12a753530</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-xenial-go_agent-light</repository>
       <path>v250.21.meta4</path>
-      <version>2019-03-26T17:08:08Z</version>
+      <version>6f71cb209a37d77b7c51d2b75623ce1db2c860b0</version>
     </repository-reference>
     <file name="light-bosh-stemcell-250.21-aws-xen-hvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">b4eb5c8cc2c634db1a999a7549431756f9546825</hash>
