@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/windows-amd64",
+        "path": "v1.12.3.meta4",
+        "version": "3d46c4a9a7e5495e5cbc7c3b50cc17adee1f1239"
+      },
+      "files": [
+        {
+          "name": "go1.12.3.windows-amd64.zip",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "1806e089e85b84f192d782a7f70f90a32e0eccfd181405857e612f806ec04059"
+            },
+            {
+              "type": "md5",
+              "hash": "63c3213fa3fcc96b704029ca4d3d444e"
+            },
+            {
+              "type": "sha-1",
+              "hash": "ab86a1408f7104033f1d77210e281bbcc5c1d566"
+            },
+            {
+              "type": "sha-512",
+              "hash": "53e3c77580e836bcb30c8a8923fbc48d1154b3254190c3d8557218698d93a9ef79b3d294b53038b750ca1221836e6fd4e60c5945a31f87336b0e6ce8bbd6b3c8"
+            }
+          ],
+          "size": 141292472,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://storage.googleapis.com/golang/go1.12.3.windows-amd64.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/ab86a1408f7104033f1d77210e281bbcc5c1d566"
+            }
+          ],
+          "version": "1.12.3"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/windows-amd64",
         "path": "v1.12.2.meta4",
         "version": "312426def281be48c4f4eeca13430dec837baf2e"
       },
