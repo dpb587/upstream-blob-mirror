@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.5.1.meta4</path>
-      <version>2019-04-10T05:29:00Z</version>
+      <version>925d793f0c32c79ee316219c33441b232c4ebd3b</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.5.1.zip">
       <hash type="md5">58835b279484caf73ab78ef1a2018196</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.5.0.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>e6fdcb957195011e7dc7dfd85fb39f23a20fd97e</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.5.0.zip">
       <hash type="md5">55b5d524a2086e63ae01df9c805e34b4</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.4.2.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>99c4ca2b73cd3ccf5da182fffd1b440085b5e97d</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.4.2.zip">
       <hash type="md5">b154f037959b11defc520bdc66d2a417</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.4.1.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>e3f2f3f46c83035e3b9a0cf181141cc6a9cbbb91</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.4.1.zip">
       <hash type="md5">a158f95046036d51333aea2b33dce59a</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.4.0.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>ea835f89d4c97c823c4aabfc8dba3d8c7ec3710e</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.4.0.zip">
       <hash type="md5">3e0d79e8d64c3b98c7a64688353fe2aa</hash>
@@ -87,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.3.3.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>eeaef2c7f7085b30a288ff39980327c71a35fb66</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.3.3.zip">
       <hash type="md5">cfdd846e89d89371bc2f374951eabdd0</hash>
@@ -104,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.3.2.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>64459a8037c1768cc395f95aa8245424c68c3380</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.3.2.zip">
       <hash type="md5">e1b1d9d9ded4732edaf229460fe819ce</hash>
@@ -121,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.3.0.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>01a6024dacd95c3a8db86dd50ed778a695ddf7fe</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.3.0.zip">
       <hash type="md5">6d60c7b454961fbc68f5c2d957020d4c</hash>
@@ -138,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.2.0.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>aecef50566170df92327a3fcf4da9d052cf1b9e5</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.2.0.zip">
       <hash type="md5">009927726a8f6b26a8add1a7bcb5caf9</hash>
@@ -155,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.1.0.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>983d7db2a0e5a9ff0fc91f5aea4ad18149739dc2</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.1.0.zip">
       <hash type="md5">b56fa2b363fdcbb02369088dd9194688</hash>
@@ -172,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.0.9.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>1830cc5bb3c150b1da392626126e51ef382e3704</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.0.9.zip">
       <hash type="md5">e91b8ea30d52f4703081f3f9480ab495</hash>
@@ -189,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.0.8.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>339366d91c3202bd9c60131f94446b07dc33509e</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.0.8.zip">
       <hash type="md5">2011ad7ceebb22dd25c0a0af41d0d7c0</hash>
@@ -206,9 +206,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.0.6.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>fd5a83e987caf124e5da29d9a0cfe62633e5c614</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.0.6.zip">
       <hash type="md5">30eae6c54897598d45dd489a7e5648c2</hash>
@@ -223,9 +223,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.0.5.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>5c4285494db50f253f8fdae7a8010f96f8fbe6a9</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.0.5.zip">
       <hash type="md5">5c873a11cacd70781d4de65385035f5c</hash>
@@ -240,9 +240,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.0.4.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>0f9a7a990af2884d909883375346b293e446f70b</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.0.4.zip">
       <hash type="md5">18202dce4f27a04426b46f557b1365f9</hash>
@@ -257,9 +257,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.0.3.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>e3fba57cd3c9f10c1637d1bff23d6e9f04feb3cc</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.0.3.zip">
       <hash type="md5">7a518b962b376f71297a80e4301f4f80</hash>
@@ -274,9 +274,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v7.0.0.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>63f9f7a969c52c09c8c4fad634406665cd7aee0c</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.7.0.0.zip">
       <hash type="md5">07d2a862b08d405f4c09deb96e17eb64</hash>
@@ -291,9 +291,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.2.8.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>994b27fe20a020e73c44e4bd7da84cd0ad9b30ef</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.2.8.zip">
       <hash type="md5">554fd06004a26bf2b71d8599f99f108e</hash>
@@ -308,9 +308,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.2.7.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>136453183a14d7e5054520be377f4fd33475a143</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.2.7.zip">
       <hash type="md5">94fb4049753f16cd7386d5b84d4dce44</hash>
@@ -325,9 +325,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.2.6.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>fae6b4db9d48178966ee675b30c2132dc98548a9</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.2.6.zip">
       <hash type="md5">8c613e2ca94d4fe49720a5c23fb6fc8a</hash>
@@ -342,9 +342,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.2.4.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>400610f86668d4bf0daf505c1962837b395346d7</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.2.4.zip">
       <hash type="md5">0efdb2aefc3ccd8f8acc5003744a5f3a</hash>
@@ -359,9 +359,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.2.3.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>afe5a6fa01f299a464f5c8f1e61379a6d56a9c6f</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.2.3.zip">
       <hash type="md5">c174c2667cbd4ca73d8a040889671674</hash>
@@ -376,9 +376,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.2.2.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>3f2294c27635f85a99cc89e86dd6c39f1287d3a9</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.2.2.zip">
       <hash type="md5">443ec6122369ff161dfd6d0ed3763fc2</hash>
@@ -393,9 +393,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.2.1.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>712958d147a785c854e14fa227ae0e8256664849</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.2.1.zip">
       <hash type="md5">f8e85a0106e7cb3255261d2023179c47</hash>
@@ -410,9 +410,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.2.0.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>3cc0285b5cddd22816c375ae8e203b69923add00</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.2.0.zip">
       <hash type="md5">e7f673b3f85c4889f7297d12aa9781e4</hash>
@@ -427,9 +427,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.11.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>71233e0a57e6adcf59d35196da0d18c66ed4044c</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.11.zip">
       <hash type="md5">eec83f7cf6f5a6b5f1cfb10c9596af8a</hash>
@@ -444,9 +444,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.10.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>f0d785a4b2607bd4d09fa88ad97f93724c078d66</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.10.zip">
       <hash type="md5">b3b3a8a551f3475f7b1cd0a03562f535</hash>
@@ -461,9 +461,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.7.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.7.zip">
       <hash type="md5">423fcc99601bddc15ed0b6841c049c6b</hash>
@@ -478,9 +478,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.6.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>2ec5ec8f79bb81d07ddd7933fb0b6815efbfbd1f</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.6.zip">
       <hash type="md5">f1cb584cabbf1725b31777c9c9c30bde</hash>
@@ -495,9 +495,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.5.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>168826e233a06b8b9a2d3d96b2f5ad032f8ad52b</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.5.zip">
       <hash type="md5">6aa5147ba1c66c0a7fcf2fbe986bf98c</hash>
@@ -512,9 +512,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.4.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>42479540042ba54a9612e14ff94bfcc234cfaf39</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.4.zip">
       <hash type="md5">a0d84e40cfb00fc18953895f02bf4378</hash>
@@ -529,9 +529,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.3.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>5fd4d71c024f5069116eea875535dab298a16b5a</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.3.zip">
       <hash type="md5">3ff26979e4459a96581e019925e34d9b</hash>
@@ -546,9 +546,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.2.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>ad39871d12e1e3e7dc4a49a7fd5533edd8c55db5</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.2.zip">
       <hash type="md5">2acf1b4dd8de04ccc342ef2e7ecc13b4</hash>
@@ -563,9 +563,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.1.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>9c2bd9f1bce91c4e6925dd1ff059eb84d723d324</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.1.zip">
       <hash type="md5">93f93404cf30da80234b75c9b97cbdc9</hash>
@@ -580,9 +580,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.1.0.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>8652bb6c86047facb412fb8ef39d2b1226a672fd</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.1.0.zip">
       <hash type="md5">465c8ed6d81771f1332836d484b170fc</hash>
@@ -597,9 +597,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.16.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>2c29b8d5bcdbefcafc4fd743f8a908887d754010</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.16.zip">
       <hash type="md5">db3013a1e662bf9d86e641ac2e06cbf0</hash>
@@ -614,9 +614,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.15.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>27b7fc8b30dd6c0b530f2ac5e7f63f5fbc82950c</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.15.zip">
       <hash type="md5">14f0cca2c4c1338c3a90c9c7040571a6</hash>
@@ -631,9 +631,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.14.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>da1e07eebbd244a076ab913e6a0eec12ca8cf073</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.14.zip">
       <hash type="md5">63bffa143c7e85cc684cd70718c39e86</hash>
@@ -648,9 +648,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.13.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>f630779d29862ccb23ec86f5055ca41bd1292453</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.13.zip">
       <hash type="md5">a8bf37cbff927988da44e766106e657b</hash>
@@ -665,9 +665,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.12.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>0682968339b6cda31d5fbdefc84f0d57b535fc17</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.12.zip">
       <hash type="md5">b7172d013e14c59fc574a23ee70333df</hash>
@@ -682,9 +682,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.11.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>65911582717d37e1e84696716b776cbc4991cd0c</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.11.zip">
       <hash type="md5">ca55c238c8be67ee324166522f6cb4be</hash>
@@ -699,9 +699,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.4.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>1d1598a63ceca78c59b5e5312219ac1b1f6350b9</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.4.zip">
       <hash type="md5">6c0407c74673f5f74fdde7612091fe90</hash>
@@ -716,9 +716,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.3.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>c5f4dda2a902087f5670fcc1e76e1a1bc4afda8b</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.3.zip">
       <hash type="md5">877bae7ec4891b68a1039c4ed8484d3e</hash>
@@ -733,9 +733,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.2.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>efef9566ac873d39ca383dbcbfe322acf4f86e29</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.2.zip">
       <hash type="md5">241eabc7fbd1ec6a6c5c6b9e939648ef</hash>
@@ -750,9 +750,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.1.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>c814bbad4606407bc1ba3dd067a9c9f7fa3bd6a7</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.1.zip">
       <hash type="md5">d7854356c9f1a69dc94c32fd9c21723a</hash>
@@ -767,9 +767,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress</repository>
       <path>v6.0.0.meta4</path>
-      <version>2019-04-10T05:26:55Z</version>
+      <version>b2d3e7683caa5ac10b6101264a1fbae1eaa1e13d</version>
     </repository-reference>
     <file name="google-analytics-for-wordpress.6.0.0.zip">
       <hash type="md5">a664f86a4daf5749fcbea263278b70f2</hash>

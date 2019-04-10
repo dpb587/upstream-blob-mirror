@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light",
+        "path": "v3586.96.meta4",
+        "version": "e8990bf8a7ee3ae51df59a1fa1ba663f6af107c7"
+      },
+      "files": [
+        {
+          "name": "light-bosh-stemcell-3586.96-aws-xen-hvm-ubuntu-trusty-go_agent.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "71179b22781ea4782f5e1792328bdca6d1013296"
+            },
+            {
+              "type": "md5",
+              "hash": "d85d2d80fa61b712026821fc6e8150bb"
+            },
+            {
+              "type": "sha-256",
+              "hash": "4fb02c12d93cb9bfc3e7f7a0b62b934e35f3c66a6f3d97191390e02beea49d6b"
+            },
+            {
+              "type": "sha-512",
+              "hash": "e9f6a351ec519e5c67ae82db2943c71a41ee617e2cdd07968d3d7d396b169bafb45843a17abc1f1873f172ee1c005b73adadbe79583a3f7de54efb4c0e75343e"
+            }
+          ],
+          "size": 19454,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://s3.amazonaws.com/bosh-aws-light-stemcells/3586.96/light-bosh-stemcell-3586.96-aws-xen-hvm-ubuntu-trusty-go_agent.tgz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/71179b22781ea4782f5e1792328bdca6d1013296"
+            }
+          ],
+          "version": "3586.96"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-aws-xen-hvm-ubuntu-trusty-go_agent-light",
         "path": "v3586.93.meta4",
         "version": "a9f4814e7c179d76df99599ad549f6766a12eb53"
       },
