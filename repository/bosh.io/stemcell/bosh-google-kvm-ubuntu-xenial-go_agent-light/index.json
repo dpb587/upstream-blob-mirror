@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light",
+        "path": "v315.13.meta4",
+        "version": "f905202e08e7d833c52db3af4ea7b9b7a127c0fb"
+      },
+      "files": [
+        {
+          "name": "light-bosh-stemcell-315.13-google-kvm-ubuntu-xenial-go_agent.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "d468303a9bec54deaf8d2e0c6480a3db02f16bb9"
+            },
+            {
+              "type": "md5",
+              "hash": "3a9ff2242d8763e42e425083cb811bf5"
+            },
+            {
+              "type": "sha-256",
+              "hash": "0174e55c8b88cf3b99f0d707f0ffce214c99244f3b152102118f5a2106f84ef2"
+            },
+            {
+              "type": "sha-512",
+              "hash": "03696b2329f70b981ccec19ecbdc7b364c0d6696ce5d758c8b2b8dce96bc724c4946fb9c927fa9a38aecd0bfea4a3c326bae83afd251292ffc31e2d137f299d7"
+            }
+          ],
+          "size": 20349,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://s3.amazonaws.com/bosh-gce-light-stemcells/315.13/light-bosh-stemcell-315.13-google-kvm-ubuntu-xenial-go_agent.tgz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d468303a9bec54deaf8d2e0c6480a3db02f16bb9"
+            }
+          ],
+          "version": "315.13"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light",
         "path": "v315.11.meta4",
         "version": "fd25edc93484ca4f705d58e1b1f044a5ee16fe08"
       },
