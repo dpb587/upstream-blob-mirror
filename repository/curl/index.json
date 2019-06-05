@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/curl",
+        "path": "v7.65.1.meta4",
+        "version": "fe85e53ccaf4c0bcf1a006edaea923bb81cc0525"
+      },
+      "files": [
+        {
+          "name": "curl-7.65.1.tar.gz",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "6f31ec164741cc6aaac461d4b38ffdbe"
+            },
+            {
+              "type": "sha-1",
+              "hash": "9564c29955966976e63475e02c888b9e23d1df55"
+            },
+            {
+              "type": "sha-256",
+              "hash": "821aeb78421375f70e55381c9ad2474bf279fc454b791b7e95fc83562951c690"
+            },
+            {
+              "type": "sha-512",
+              "hash": "0a4b81d115f579df8301859f7d06d00bd9820cbf2fb6b63c6a49418aa174ab32bcbc8942f032f2ea924d208f147de8a30f02f6b922f627d3d9d4afc60df8a39f"
+            }
+          ],
+          "size": 4019584,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://curl.askapache.com/download/curl-7.65.1.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/9564c29955966976e63475e02c888b9e23d1df55"
+            }
+          ],
+          "version": "7.65.1"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/curl",
         "path": "v7.65.0.meta4",
         "version": "83ded1163f48398b9466d8483df97c1424743d83"
       },
