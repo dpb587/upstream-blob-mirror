@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v5.2.1.meta4</path>
-      <version>2019-06-07T07:48:09Z</version>
+      <version>6047fdc4f7fc12b156ecd8d66cc3737f8147956a</version>
     </repository-reference>
     <file name="wordpress-5.2.1.tar.gz">
       <hash type="sha-1">65913a39b2e8990ece54efbfa8966fc175085794</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v5.2.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>d87b5a6ef1ac8947b6c82844dc90add0af31fd9d</version>
     </repository-reference>
     <file name="wordpress-5.2.tar.gz">
       <hash type="sha-1">36459a4621b9e1909c606a98d08625b9e0e25bbc</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v5.1.1.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>7f55edf3cb7f974c646573cacea0a2b401979ea6</version>
     </repository-reference>
     <file name="wordpress-5.1.1.tar.gz">
       <hash type="sha-1">f1bff89cc360bf5ef7086594e8a9b68b4cbf2192</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v5.1.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>06dd20f2c056f5fa5a3eea1a105cf2462852e327</version>
     </repository-reference>
     <file name="wordpress-5.1.tar.gz">
       <hash type="sha-1">830eadf0afa15928d7f6856b1b85bf57b8e1f585</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v5.0.3.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>d12d45531e13a17b2891e9e410cd3c599ce2f3ff</version>
     </repository-reference>
     <file name="wordpress-5.0.3.tar.gz">
       <hash type="sha-1">f9a4b482288b5be7a71e9f3dc9b5b0c1f881102b</hash>
@@ -87,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v5.0.2.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>866988b8ae0408ea68ba739dce2ac21ae2a9e1ee</version>
     </repository-reference>
     <file name="wordpress-5.0.2.tar.gz">
       <hash type="sha-1">4a6971d35eb92e2fc30034141b1c865e8c156add</hash>
@@ -104,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v5.0.1.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>31825969c0ac89432a1914486939b0ec5ccb3048</version>
     </repository-reference>
     <file name="wordpress-5.0.1.tar.gz">
       <hash type="sha-1">298bd17feb7b4948e7eb8fa0cde17438a67db19a</hash>
@@ -121,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v5.0.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>82b6e2bcd77efdbd9e5399d5bc560fbd651de0b1</version>
     </repository-reference>
     <file name="wordpress-5.0.tar.gz">
       <hash type="sha-1">67758958f14c1dcefe37ce6558d470a4e142893b</hash>
@@ -138,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.9.8.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>fef7bb1483aab34952068d26b146f0f759030d78</version>
     </repository-reference>
     <file name="wordpress-4.9.8.tar.gz">
       <hash type="sha-1">0945bab959cba127531dceb2c4fed81770812b4f</hash>
@@ -155,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.9.7.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>7b768fef2ff92eb05d49e112ec09dcbdb6743278</version>
     </repository-reference>
     <file name="wordpress-4.9.7.tar.gz">
       <hash type="sha-1">7bf349133750618e388e7a447bc9cdc405967b7d</hash>
@@ -172,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.9.6.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>e83f02344253ebd0493e3e16d2f1a06d39e16e09</version>
     </repository-reference>
     <file name="wordpress-4.9.6.tar.gz">
       <hash type="sha-1">40616b40d120c97205e5852c03096115c2fca537</hash>
@@ -189,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.9.5.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>e44f1e54a0fd4c842f879e47ce67770db41e5fc0</version>
     </repository-reference>
     <file name="wordpress-4.9.5.tar.gz">
       <hash type="sha-1">6992f19163e21720b5693bed71ffe1ab17a4533a</hash>
@@ -206,9 +206,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.9.4.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>6be2fe3e08173661173ec817772c33b736427008</version>
     </repository-reference>
     <file name="wordpress-4.9.4.tar.gz">
       <hash type="sha-1">0e630bf940fd586b10e099cd9195b3e825fb194c</hash>
@@ -223,9 +223,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.9.3.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>50e9f01eff55b05f82094f6ad64bdef2aee1ea94</version>
     </repository-reference>
     <file name="wordpress-4.9.3.tar.gz">
       <hash type="sha-1">c2e28e56f6cfa71100d79f1369fc5edc0f87f34d</hash>
@@ -240,9 +240,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.9.2.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>cfb940a793d4005dce7c49a3a548cad32094fbd8</version>
     </repository-reference>
     <file name="wordpress-4.9.2.tar.gz">
       <hash type="sha-1">96e0b38028b0b2d00209290ebac20cb9f4a6d085</hash>
@@ -257,9 +257,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.9.1.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>57a8e0b70b57338b9bd0dcc7aa3ec84b736ed7f0</version>
     </repository-reference>
     <file name="wordpress-4.9.1.tar.gz">
       <hash type="sha-1">892d2c23b9d458ec3d44de59b753adb41012e903</hash>
@@ -274,9 +274,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.9.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>95e5bf3d6d87ccf1b4e158f7275fa33957fedd19</version>
     </repository-reference>
     <file name="wordpress-4.9.tar.gz">
       <hash type="sha-1">6127bd2aed7b7c0a2c1789c8f17a2222a9081d6c</hash>
@@ -291,9 +291,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.8.3.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>1870e8050bf870e25c31093b6f383f11613fc5d4</version>
     </repository-reference>
     <file name="wordpress-4.8.3.tar.gz">
       <hash type="sha-1">8efc0b9f6146e143ed419b5419d7bb8400a696fc</hash>
@@ -308,9 +308,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.8.2.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>a4316664c4c1fc8244a6d37876e6133a6551d6c7</version>
     </repository-reference>
     <file name="wordpress-4.8.2.tar.gz">
       <hash type="sha-1">a99115b3b6d6d7a1eb6c5617d4e8e704ed50f450</hash>
@@ -325,9 +325,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.8.1.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>04559705e60cb6400f724d29f608677ec5ff1f63</version>
     </repository-reference>
     <file name="wordpress-4.8.1.tar.gz">
       <hash type="sha-1">5376cf41403ae26d51ca55c32666ef68b10e35a4</hash>
@@ -342,9 +342,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.8.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>fedc1f320edea574b400352646075a7b77e46506</version>
     </repository-reference>
     <file name="wordpress-4.8.tar.gz">
       <hash type="sha-1">3738189a1f37a03fb9cb087160b457d7a641ccb4</hash>
@@ -359,9 +359,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.7.5.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>b1ad1f9b69ecb2d4e93400a9aa67cf56a8e737c6</version>
     </repository-reference>
     <file name="wordpress-4.7.5.tar.gz">
       <hash type="sha-1">fbe0ee1d9010265be200fe50b86f341587187302</hash>
@@ -376,9 +376,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.7.4.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>c88d9ca6bfa4ce286c1f5c8308c67b16b3b2a74f</version>
     </repository-reference>
     <file name="wordpress-4.7.4.tar.gz">
       <hash type="sha-1">153592ccbb838cafa1220de9174ec965df2e9e1a</hash>
@@ -394,9 +394,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.7.3.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="wordpress-4.7.3.tar.gz">
       <hash type="sha-1">35adcd8162eae00d5bc37f35344fdc06b22ffc98</hash>
@@ -412,9 +412,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.7.2.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="wordpress-4.7.2.tar.gz">
       <hash type="sha-1">7b687f1af589c337124e6247229af209ec1d52c3</hash>
@@ -430,9 +430,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/wordpress</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/wordpress</repository>
       <path>v4.7.1.meta4</path>
-      <version>2019-06-07T07:46:35Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="wordpress-4.7.1.tar.gz">
       <hash type="sha-1">8e56ba56c10a3f245c616b13e46bd996f63793d6</hash>
