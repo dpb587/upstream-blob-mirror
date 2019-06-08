@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release",
+        "path": "v21.0.0.meta4",
+        "version": "9c945d2853f54578b6e695a3269555a4d42c359a"
+      },
+      "files": [
+        {
+          "name": "os-conf-release-21.0.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "7579a96515b265c6d828924bf4f5fae115798199"
+            },
+            {
+              "type": "md5",
+              "hash": "387f6cfc5558609863fc5e509d284ef9"
+            },
+            {
+              "type": "sha-256",
+              "hash": "b070a993c02b9fcd1a4168988a59316acdf1cb7cc801c90a57876b6988f74710"
+            },
+            {
+              "type": "sha-512",
+              "hash": "832c88223effba66abb835511073bf215f92ceb2053e72d0d2ad96a93e0c597e4be778fe9eefd7366d450ac4f30536393d4d739af0c373bb704dbf915256d105"
+            }
+          ],
+          "size": 20420,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/os-conf-release?v=21.0.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7579a96515b265c6d828924bf4f5fae115798199"
+            }
+          ],
+          "version": "21.0.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/os-conf-release",
         "path": "v20.meta4",
         "version": "a6f6ffc637d2c18cf1a145fda42ed1e89a323f22"
       },
