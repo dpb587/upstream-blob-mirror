@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <path>v5.4.0.meta4</path>
+      <version>2019-06-11T10:50:52Z</version>
+    </repository-reference>
+    <file name="openvpn-bosh-release-5.4.0.tgz">
+      <hash type="sha-1">0bbc9dd8c9964e421145c841258e56dac6aaa1aa</hash>
+      <hash type="md5">b75acfe7a33352dfed9917e3e540f51c</hash>
+      <hash type="sha-256">4461613d7c7c39532ff16d36e9fbdb645eebd52073aeda0866b577256f8120ee</hash>
+      <hash type="sha-512">be237bd2dcee015e40742b107dee234a622000dcd3645325f2e692733e0177948311a95a89586fa2d726edda64a4c340b28c9f3ac6d38e938985c838a5281753</hash>
+      <size>10922736</size>
+      <url priority="1000">https://bosh.io/d/github.com/dpb587/openvpn-bosh-release?v=5.4.0</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/0bbc9dd8c9964e421145c841258e56dac6aaa1aa</url>
+      <version>5.4.0</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v5.3.0.meta4</path>
-      <version>f615e3ab5edee93230cf90418b8a99bda87d9544</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-5.3.0.tgz">
       <hash type="sha-1">91ce6cba681dcc25f070a3ee0c546efbcaa15d6d</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v5.2.0.meta4</path>
-      <version>ce3c8423f74310f4f1e4fad8d17aa3f3e8e29d15</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-5.2.0.tgz">
       <hash type="sha-1">928b67370d64c1620f506264f9bfd5b8473a2acb</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v5.1.0.meta4</path>
-      <version>c2bd27f77dcb7ba713abe6cab9aa873f8d2474de</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-5.1.0.tgz">
       <hash type="sha-1">343692c1716a70e4abd7476a09bae4e2706e2895</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v5.0.0.meta4</path>
-      <version>73af94ae731bd893a13eba8446082121d79d5ee9</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-5.0.0.tgz">
       <hash type="sha-1">0b08f569dc18b042845897a0490d541f96f96951</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v4.2.1.meta4</path>
-      <version>f9fcee007ef2daeb0345ed624875c4714238aa04</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-4.2.1.tgz">
       <hash type="sha-1">80ac03f2ba2e142e2e0cbe1b23f340ec88d91c39</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v4.2.0.meta4</path>
-      <version>aa8555b9b5c5acd5e4262f1335300599c5a454a8</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-4.2.0.tgz">
       <hash type="sha-1">8e8ca38d82acfe51714128ca61e7b2894db798de</hash>
@@ -104,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v4.1.0.meta4</path>
-      <version>7ce4bf9f7bab9bd1df3b1062c49367d8ea243b9d</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-4.1.0.tgz">
       <hash type="sha-1">23109345a4f2f5a5bd30733d251d8af81fa89036</hash>
@@ -121,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v4.0.0.meta4</path>
-      <version>d592f92b5e9d816fbeb5c60055b08b0e020a966a</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-4.0.0.tgz">
       <hash type="sha-1">dfec894806972de17ff8bd072d136f13f73acd09</hash>
@@ -138,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v3.2.2.meta4</path>
-      <version>b3b30599f178602ab6deb78fa599a57d5e8eabaa</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-3.2.2.tgz">
       <hash type="sha-1">785224fc256ef7d10fa96786378c0bfd0992f14a</hash>
@@ -155,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v3.2.1.meta4</path>
-      <version>af2dab461dd789c6f5abc191bc0a367931890e74</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-3.2.1.tgz">
       <hash type="sha-1">53c33f136c4a3a948eed15da15c77bbb80f83c24</hash>
@@ -172,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v3.2.0.meta4</path>
-      <version>ff2408d9fea1ea828659a0e3eae054c3d3e06ce9</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-3.2.0.tgz">
       <hash type="sha-1">39b4ae933230f82b0613829e1979abf7375136ee</hash>
@@ -189,9 +206,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v3.1.4.meta4</path>
-      <version>ba0e847383cc4edfb92644ebc8399bbd1951a030</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-3.1.4.tgz">
       <hash type="sha-1">0ed1ece844beaa5c4371c3e5b9d0512aaae2074e</hash>
@@ -206,9 +223,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v3.1.2.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-3.1.2.tgz">
       <hash type="sha-1">f03f4ea48796299700645778d46358879bc74033</hash>
@@ -223,9 +240,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v3.1.1.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-3.1.1.tgz">
       <hash type="sha-1">7451aef3cdbbab4c8789dfb3deaf56b07188e81d</hash>
@@ -240,9 +257,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v3.0.0.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-3.0.0.tgz">
       <hash type="sha-1">9e6b057934bb991a919f29a86f49cb07f2e92b2f</hash>
@@ -257,9 +274,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v2.1.3.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-2.1.3.tgz">
       <hash type="sha-1">0cbf54837f26996118e4dce8937ed70bf7f1d00b</hash>
@@ -274,9 +291,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v2.1.0.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-2.1.0.tgz">
       <hash type="sha-1">df8fc1c05f4c3d9ffe81be97a2db8be1e25be3a0</hash>
@@ -291,9 +308,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v2.0.1.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-2.0.1.tgz">
       <hash type="sha-1">da8b68b11e969d6a167a733ee26cf91a9a46cfeb</hash>
@@ -308,9 +325,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v2.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-2.tgz">
       <hash type="sha-1">eab23e27cb019dd992c7397a87b35ee8bae531b2</hash>
@@ -325,9 +342,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/dpb587/openvpn-bosh-release</repository>
       <path>v1.meta4</path>
-      <version>e500948a4bc47e0f7c479d0f687c73c1d122c993</version>
+      <version>2019-06-11T10:50:29Z</version>
     </repository-reference>
     <file name="openvpn-bosh-release-1.tgz">
       <hash type="sha-1">6c7854f2ba4aa12c26cd87ff0054b8f15f55d2ab</hash>
