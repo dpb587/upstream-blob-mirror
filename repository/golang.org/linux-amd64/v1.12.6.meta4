@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="go1.12.6.linux-amd64.tar.gz">
+    <hash type="sha-256">dbcf71a3c1ea53b8d54ef1b48c85a39a6c9a935d01fc8291ff2b92028e59913c</hash>
+    <hash type="md5">f6d106580a5fb851b86389da36d1c229</hash>
+    <hash type="sha-1">d74b94494c0859ef0b46a46735825b2329f3409b</hash>
+    <hash type="sha-512">aefebe41fd129e0879d66748f31ed64a0814d5865f75b3147f016b5288d9e97df105ef5f3a2aa1c8c45bf90d97a5bac494eb04dce4450130f11a4e2dd4200d80</hash>
+    <size>127957980</size>
+    <url priority="1000">https://storage.googleapis.com/golang/go1.12.6.linux-amd64.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/d74b94494c0859ef0b46a46735825b2329f3409b</url>
+    <version>1.12.6</version>
+  </file>
+</metalink>
