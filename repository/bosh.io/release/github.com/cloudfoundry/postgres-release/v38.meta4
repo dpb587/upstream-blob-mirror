@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="postgres-release-38.tgz">
+    <hash type="sha-1">23620deb20c34cefadff74c0e5bfdffaaea1a807</hash>
+    <hash type="md5">f3ba5dac76216adbd16960b530aa065c</hash>
+    <hash type="sha-256">9298b4a11d615d03245c706c6b67827b85396d2b2101894816831ad4f6dc8d45</hash>
+    <hash type="sha-512">37e3f0dea6b6e7cd392056667c1cc7cf530359f32f66e54347700d3159e3913333be406d46e318033af19ea198c4a9e49e654057305cca610db947794830a786</hash>
+    <size>51427881</size>
+    <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/postgres-release?v=38</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/23620deb20c34cefadff74c0e5bfdffaaea1a807</url>
+    <version>38</version>
+  </file>
+</metalink>
