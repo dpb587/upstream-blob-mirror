@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
       <path>v5.0.0.meta4</path>
-      <version>2019-07-01T23:36:15Z</version>
+      <version>8f84887c9a0512b5d29b89af785b3d5a0ba96cdd</version>
     </repository-reference>
     <file name="yet-another-related-posts-plugin.5.0.0.zip">
       <hash type="md5">5923f746e1922c6d1066fd782a955393</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
       <path>v4.5.meta4</path>
-      <version>2019-07-01T23:34:46Z</version>
+      <version>7852303384850991e40b0dcfeca92e1dbf2d19c0</version>
     </repository-reference>
     <file name="yet-another-related-posts-plugin.4.5.zip">
       <hash type="md5">2ccac7f64df575ce27493ba513fa4ea4</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
       <path>v4.4.meta4</path>
-      <version>2019-07-01T23:34:46Z</version>
+      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
     </repository-reference>
     <file name="yet-another-related-posts-plugin.4.4.zip">
       <hash type="md5">85903c5d353662f47f131615bcbee2f3</hash>
