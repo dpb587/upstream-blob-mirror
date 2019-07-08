@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin",
+        "path": "v5.0.1.meta4",
+        "version": "6c55fe5fa23100a92fe3171c540db651ad646edd"
+      },
+      "files": [
+        {
+          "name": "yet-another-related-posts-plugin.5.0.1.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "bc10e3055508bf2c4e587d7e9cdc8558"
+            },
+            {
+              "type": "sha-1",
+              "hash": "31142f9383dee0e2403975c3ce5cf0fa48448202"
+            },
+            {
+              "type": "sha-256",
+              "hash": "de245d32718243d9d79123f688e2f0c7246ab070f1a8f65148230383e809cbda"
+            },
+            {
+              "type": "sha-512",
+              "hash": "aac720b37a3be59f9e134e90dccd630b58d6bcfe1f45955105268632d591ae4d18978b6800c8062d8010ebc9c4114943308cb2cb2fea8f04b8fb2176f2edaec7"
+            }
+          ],
+          "size": 756021,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://downloads.wordpress.org/plugin/yet-another-related-posts-plugin.5.0.1.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/31142f9383dee0e2403975c3ce5cf0fa48448202"
+            }
+          ],
+          "version": "5.0.1"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin",
         "path": "v5.0.0.meta4",
         "version": "8f84887c9a0512b5d29b89af785b3d5a0ba96cdd"
       },
