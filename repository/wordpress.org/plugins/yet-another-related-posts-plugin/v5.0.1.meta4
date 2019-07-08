@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="yet-another-related-posts-plugin.5.0.1.zip">
+    <hash type="md5">bc10e3055508bf2c4e587d7e9cdc8558</hash>
+    <hash type="sha-1">31142f9383dee0e2403975c3ce5cf0fa48448202</hash>
+    <hash type="sha-256">de245d32718243d9d79123f688e2f0c7246ab070f1a8f65148230383e809cbda</hash>
+    <hash type="sha-512">aac720b37a3be59f9e134e90dccd630b58d6bcfe1f45955105268632d591ae4d18978b6800c8062d8010ebc9c4114943308cb2cb2fea8f04b8fb2176f2edaec7</hash>
+    <size>756021</size>
+    <url priority="1000">http://downloads.wordpress.org/plugin/yet-another-related-posts-plugin.5.0.1.zip</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/31142f9383dee0e2403975c3ce5cf0fa48448202</url>
+    <version>5.0.1</version>
+  </file>
+</metalink>
