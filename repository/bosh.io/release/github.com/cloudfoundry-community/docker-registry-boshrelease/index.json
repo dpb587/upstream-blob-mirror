@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-community/docker-registry-boshrelease",
+        "path": "v3.5.0.meta4",
+        "version": "2037f152b52f56071eece010fbd0046d0a74f59c"
+      },
+      "files": [
+        {
+          "name": "docker-registry-boshrelease-3.5.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "ad81f300e596d98e20eceb44f3e4a175604a8398"
+            },
+            {
+              "type": "md5",
+              "hash": "c4810693e8c2afeafbb37ae701932017"
+            },
+            {
+              "type": "sha-256",
+              "hash": "626bfb92e127eb96fea6e0b0f64f3ef940d5900a44db04e3766cf05383f599a0"
+            },
+            {
+              "type": "sha-512",
+              "hash": "ea4c9dfca6a28976eb5dc2973b9a3e5783aa8aae67948a6943e4b233c083e06f95deda0dd175550935c080718319d94c0ed3dedcc1acaad41b37af3085c2db73"
+            }
+          ],
+          "size": 162485627,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry-community/docker-registry-boshrelease?v=3.5.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/ad81f300e596d98e20eceb44f3e4a175604a8398"
+            }
+          ],
+          "version": "3.5.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry-community/docker-registry-boshrelease",
         "path": "v3.4.0.meta4",
         "version": "c3ffe3ba461eef44ffed1e9897ebc1295a5717d6"
       },
