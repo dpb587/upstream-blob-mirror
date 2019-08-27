@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-270.5.0.tgz">
+    <hash type="sha-1">8977698652aa828b30bf48227b33eceb04c0a4c3</hash>
+    <hash type="md5">b74e8d27d6dceafefd8b8f635d406a62</hash>
+    <hash type="sha-256">98a8f9494213f2272a32a8b87d2ed2f3053cd522f1dd4c69287e575e577f737f</hash>
+    <hash type="sha-512">1b6b2813b17c7989061ee3a2e5952b978ccf8d12d4ecfdbe4e4760c03b97b088ac28a194a1de59affd6e6fbd61efe5ddf0e66847a49572902dc62448b679168a</hash>
+    <size>202773063</size>
+    <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/bosh?v=270.5.0</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/8977698652aa828b30bf48227b33eceb04c0a4c3</url>
+    <version>270.5.0</version>
+  </file>
+</metalink>
