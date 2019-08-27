@@ -2,9 +2,9 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v456.12.meta4</path>
-      <version>2019-08-27T04:05:24Z</version>
+      <version>2d9bfbaa7b51a54bf3f3de874b73723b510f10f9</version>
     </repository-reference>
     <file name="light-bosh-stemcell-456.12-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">80c47b77233af2d8ef3a4968ae0d338b668376c2</hash>
@@ -19,9 +19,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v456.3.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>7a18c387603f0c5c5b91d0c6609b64dbab7bbc78</version>
     </repository-reference>
     <file name="light-bosh-stemcell-456.3-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">712632e687388f335578956fceff27f0836646ae</hash>
@@ -36,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v456.1.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>857a7e841c506ad8d45426092cbb8e9314e2cca3</version>
     </repository-reference>
     <file name="light-bosh-stemcell-456.1-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">b067c93087eb9d9ac6d8e197a3557e655a40c4c6</hash>
@@ -53,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.70.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>600b7a74df8e64c4b70ae92d1b228c3f2dc1dfd9</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.70-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">a98a5660bae327069dc45936e995d98920daa2b5</hash>
@@ -70,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.64.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>9171d260d1b7ba7f0122c7934165332f64be45ed</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.64-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">4623028f7f7e7cb0b6ea04c9bddbe2aa837b6d73</hash>
@@ -87,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.60.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>72ee582f2c9891798da9f933a2aa5206eea83f1e</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.60-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">92cd9d678b101ac0d7b32f122b4562227e8c5adf</hash>
@@ -104,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.45.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>35c626c03b516439a205ee267e2470bd9021e417</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.45-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">e7ba7f4e7027ee61d7e02dd106cdb67a0f6d1e0e</hash>
@@ -121,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.41.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>1194b525c2e6327fbe5a4a3b7e7642544473a38f</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.41-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">93ab3987e18a517eebb5c9c0976d7899a9facfb3</hash>
@@ -138,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.36.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>b09e55213d225e6d11f3970d44e5992faf813cb8</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.36-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">20a3261722d9971bcf8f07ee389b1ee7c7013068</hash>
@@ -155,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.34.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>17f61df3b49df440c962fb025367153aa16914c6</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.34-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">0f9c6d3f41750cad7cca8addd5ac1ab18d18d0eb</hash>
@@ -172,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.26.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>855b5beb4d05e232918fe478537d60175aef4441</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.26-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">077cd53b43d21f5b0005b673087b6c8941a6bea7</hash>
@@ -189,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.22.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>49ac666b59c761cba8cd8168ca73ea78337a1a3a</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.22-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">087b0a4871c4b25f05b49215eefb13a4087b087a</hash>
@@ -206,9 +206,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.13.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>f905202e08e7d833c52db3af4ea7b9b7a127c0fb</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.13-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">d468303a9bec54deaf8d2e0c6480a3db02f16bb9</hash>
@@ -223,9 +223,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.11.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>fd25edc93484ca4f705d58e1b1f044a5ee16fe08</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.11-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">2ae840142e544c618b987b9e831bd3ea7b50374a</hash>
@@ -240,9 +240,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.10.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>35e3ea30716f42fc26f83a3e9c1999d75d546365</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.10-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">9dc839b48c0a5f2ec2560829de9e57f16104cd1c</hash>
@@ -257,9 +257,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v315.6.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>6cd9316aa24020815e7a94447cf8b7eaa64c2b97</version>
     </repository-reference>
     <file name="light-bosh-stemcell-315.6-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">cb51e2045daefbf3610ec0a365d916a0e47de9c2</hash>
@@ -274,9 +274,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v250.29.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>20b4fce3ecdadc689a63a386a741c77aeda90787</version>
     </repository-reference>
     <file name="light-bosh-stemcell-250.29-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">2038000205150e52d9b63725f08008c82ec79010</hash>
@@ -291,9 +291,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v250.25.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>b6b9aec09250351e9b2cf88333e402f7e690d1a2</version>
     </repository-reference>
     <file name="light-bosh-stemcell-250.25-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">3a89c932a1d5d9727ebb7da51cba94b635b34d46</hash>
@@ -308,9 +308,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v250.23.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>9124f518d47280027fbb0b5c6550a4af78c7108f</version>
     </repository-reference>
     <file name="light-bosh-stemcell-250.23-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">3148f41b46af04e23695d9c0a48e8d66b1c1c34e</hash>
@@ -325,9 +325,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
+      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/stemcell/bosh-google-kvm-ubuntu-xenial-go_agent-light</repository>
       <path>v250.21.meta4</path>
-      <version>2019-08-27T04:04:16Z</version>
+      <version>05ee86acac97bbff141598a47ea7df035e55ac1c</version>
     </repository-reference>
     <file name="light-bosh-stemcell-250.21-google-kvm-ubuntu-xenial-go_agent.tgz">
       <hash type="sha-1">32178f9ebcf52cbb0b8c384f5084af05f22506bd</hash>
