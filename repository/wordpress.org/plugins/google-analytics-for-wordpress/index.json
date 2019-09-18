@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress",
+        "path": "v7.8.1.meta4",
+        "version": "d88290c45be5263dc2f185a5c5c4effcf3f43a60"
+      },
+      "files": [
+        {
+          "name": "google-analytics-for-wordpress.7.8.1.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "7832aac83ed137e852280a7c0e151e7f"
+            },
+            {
+              "type": "sha-1",
+              "hash": "7994f1c1f4f3ca614db555a617fff98f24ab3c70"
+            },
+            {
+              "type": "sha-256",
+              "hash": "dc981752be6b6846f2150c1dedce37cc003fb6b81132296a28eab04683488eab"
+            },
+            {
+              "type": "sha-512",
+              "hash": "4675cb15184f047302ae3eccd879ec3426bd059393a228b97b5a07c9899d0379ad22e2c3942dab6ed2d27a36abbba6d7e64f36ed35e077627a600663ab08b27d"
+            }
+          ],
+          "size": 2139948,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.7.8.1.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7994f1c1f4f3ca614db555a617fff98f24ab3c70"
+            }
+          ],
+          "version": "7.8.1"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/google-analytics-for-wordpress",
         "path": "v7.8.0.meta4",
         "version": "3b02604e88dcc5cf0caf3426288a26387d5f544b"
       },
