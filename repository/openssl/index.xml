@@ -2,9 +2,37 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
+      <path>v1.1.1d.meta4</path>
+      <version>2019-09-22T06:04:33Z</version>
+    </repository-reference>
+    <file name="openssl-1.1.1d.tar.gz">
+      <hash type="sha-256">1e3a91bc1f9dfce01af26026f856e064eab4c8ee0a8f457b5ae30b40b8b711f2</hash>
+      <hash type="md5">3be209000dbc7e1b95bcdf47980a3baa</hash>
+      <hash type="sha-1">056057782325134b76d1931c48f2c7e6595d7ef4</hash>
+      <hash type="sha-512">2bc9f528c27fe644308eb7603c992bac8740e9f0c3601a130af30c9ffebbf7e0f5c28b76a00bbb478bad40fbe89b4223a58d604001e1713da71ff4b7fe6a08a7</hash>
+      <signature mediatype="application/pgp-signature"><![CDATA[-----BEGIN PGP SIGNATURE-----
+
+iQEzBAABCgAdFiEEhlersmDwVrHlGQg52cTSbQ5gRJEFAl13oWoACgkQ2cTSbQ5g
+RJH0Agf+IekQXtSPsrn/5RMgXFGSyK+S1BpFhyoJRvDocVZAxwgvd4F1fcYkFVXH
+5+Q6o6s6tIDb+VkuIajcDxTQvrFoXKWMbsFsu3NBAan5R0OlYINRYtXULg0ZqQv4
+zxclCSLQTpuMyptuGGbg0/8+9IAhGFk2XSA5EEI+SC6lswRQiT7p6dbULj4CvH3m
+7mqovojAAaEJpgfG8b+L+QBJ4XId99uC6tiLM1tTMCsn1ErLsTd366fzEpC1w12a
+V/gWQ1mVs+bmSRySPx8mO4CpHfhAI+sZrSsWG+UXP9Guf9YKHFLJDiSrX7EmvszR
+B+/LvZqce4iCnwCUoIuYhxM6EybDdQ==
+=v5CI
+-----END PGP SIGNATURE-----]]></signature>
+      <size>8845861</size>
+      <url priority="1000">https://www.openssl.org/source/openssl-1.1.1d.tar.gz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/056057782325134b76d1931c48f2c7e6595d7ef4</url>
+      <version>1.1.1d</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.1c.meta4</path>
-      <version>dce18885f0246ae55d0f9aba13cc5869a8063938</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.1c.tar.gz">
       <hash type="sha-256">f6fb3079ad15076154eda9413fed42877d668e7069d9b87396d0804fdb3f4c90</hash>
@@ -35,9 +63,9 @@ bPjVbZWzjvRe3st8+GXdv2/i0SuVZW0mTE+6+pPd1/6VlRGOqmI=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.1b.meta4</path>
-      <version>d320a22fa35f65ef707bfb0d4f485e772ad49934</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.1b.tar.gz">
       <hash type="sha-256">5c557b023230413dfb0756f3137a13e6d726838ccd1430888ad15bfb2b43ea4b</hash>
@@ -63,9 +91,9 @@ J7zi+PLY+9MUMuwEDVjnK6fCawMLr459c/VPzVcN0v6B5iAZQMVfuFu1INYAqxMC
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.1a.meta4</path>
-      <version>b9c6eafca8874c4f242b62063dca95da04e61864</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.1a.tar.gz">
       <hash type="sha-256">fc20130f8b7cbd2fb918b2f14e2f429e109c31ddd0fb38fc5d71d9ffed3f9f41</hash>
@@ -91,9 +119,9 @@ JaGyZMVaoiKelQpmlGRk8X2kLcdAe/c/L6WRvv89thxvlq2zJnjSH0UfqS9LOlP0
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.0i.meta4</path>
-      <version>86a3c5ce4f3478da6893ad9e7ae2cfa432f756c1</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.0i.tar.gz">
       <hash type="sha-256">ebbfc844a8c8cc0ea5dc10b86c9ce97f401837f3fa08c17b2cdadc118253cf99</hash>
@@ -119,9 +147,9 @@ W9nqIlbNZiZvhIPqGM7O9cPZeWg96g==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.0h.meta4</path>
-      <version>da0b71ba9428edfbf54ed33f351cbe78d163b573</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.0h.tar.gz">
       <hash type="sha-256">5835626cde9e99656585fc7aaa2302a73a7e1340bf8c14fd635a62c66802a517</hash>
@@ -146,9 +174,9 @@ Ti1AQ4Ld+NNxbhZeeYMeXTAog3w3DudsSQoOmIN2TiAR6WK44XlS/lu9lK/mFpo=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.0g.meta4</path>
-      <version>8ae8ffe7d509c0254448664643d35f3967bedffb</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.0g.tar.gz">
       <hash type="sha-256">de4d501267da39310905cb6dc8c6121f7a2cad45a7707f76df828fe1b85073af</hash>
@@ -173,9 +201,9 @@ zVMQh8+QnJyGy1qe9QnYrFksP9Fcb0qjMZMB6/DLqJ07t27TkXTB9fIAgElcmK8=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.0f.meta4</path>
-      <version>b77ee471e91772e05a0e4b1210456a0bc215b4da</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.0f.tar.gz">
       <hash type="sha-256">12f746f3f2493b2f39da7ecf63d7ee19c6ac9ec6a4fcd8c229da8a522cb12765</hash>
@@ -200,9 +228,9 @@ jdG6N1bgxkC/F3fFxa6R+xcPjJJDBzPfG3HAUNIV9n/4muRPEsBF/YRUmXy5MAlz
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.0e.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.0e.tar.gz">
       <hash type="sha-256">57be8618979d80c910728cfc99369bf97b2a1abd8f366ab6ebdee8975ad3874c</hash>
@@ -218,9 +246,9 @@ jdG6N1bgxkC/F3fFxa6R+xcPjJJDBzPfG3HAUNIV9n/4muRPEsBF/YRUmXy5MAlz
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.0d.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.0d.tar.gz">
       <hash type="sha-256">7d5ebb9e89756545c156ff9c13cf2aa6214193b010a468a3bc789c3c28fe60df</hash>
@@ -246,9 +274,9 @@ TxU7TuRb2/k52baoc8Np9JFLmQCWjZNPZ7zB7EnoTB2qokboO/b1/KXClA0zzRY=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.0c.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.0c.tar.gz">
       <hash type="sha-256">fc436441a2e05752d31b4e46115eb89709a28aef96d4fe786abe92409b2fd6f5</hash>
@@ -274,9 +302,9 @@ no+VkssaY7385gKKCq6cc5zNqkbXh0H/AjFiVTJf7NyCs11rwWOZMY9QQy8snqo=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.0b.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.0b.tar.gz">
       <hash type="sha-256">a45de072bf9be4dea437230aaf036000f0e68c6a665931c57e76b5b036cef6f7</hash>
@@ -303,9 +331,9 @@ rW6+mqEtgk5wJoK4MMY9xLnWUsXPHwHZEFJ5ui9aRTJ2DiE0FF7/3dbkYDcHvtpH
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.1.meta4</path>
-      <version>659acb171372d22a57e1e7559fc964a20b47cfee</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.1.tar.gz">
       <hash type="sha-256">2836875a0f89c03d0fdf483941512613a50cfb421d6fd94b9f41d7279d586a3d</hash>
@@ -331,9 +359,9 @@ S0ulq/7KguoluU1IJxnF5XsK+yQKWw==
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.1.0a.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.1.0a.tar.gz">
       <hash type="sha-256">c2e696e34296cde2c9ec5dcdad9e4f042cd703932591d395c389de488302442b</hash>
@@ -360,9 +388,9 @@ l6O9LxbG7RmeeYBKUvkamzoXZiTljOR/A0ggEl8pL/w/47GYGSY9IgpA2k9+tV4=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2k.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2k.tar.gz">
       <hash type="sha-256">6b3977c61f2aedf0f96367dcfb5c6e578cf37e7b8d913b4ecb6643c3cb88d8c0</hash>
@@ -388,9 +416,9 @@ N/m9CUovBoqIv1nrSJeFNXuIuuHYt/1gflJBiem7QC9fNtdZuGlKXBq5bcL1qV8=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2j.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2j.tar.gz">
       <hash type="sha-256">e7aff292be21c259c6af26469c7a9b3ba26e9abaaffd325e3dccc9785256c431</hash>
@@ -417,9 +445,9 @@ yoyIzj1a/h8M/PJGzADgpxZAdE2cpZAlQAhZdQutst0GRma6i36HGzq4IUDwbCc=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2i.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2i.tar.gz">
       <hash type="sha-256">9287487d11c9545b6efb287cdb70535d4e9b284dd10d51441d9b9963d000de6f</hash>
@@ -446,9 +474,9 @@ B9p33iY66PL90lRPcYnPT6nEGf+ZHhDnesbX2NE/Ug458/cvroRWWhbYEMUm5xo=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2h.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2h.tar.gz">
       <hash type="sha-256">1d4007e53aad94a5b2002fe045ee7bb0b3d98f1a47f8b2bc851dcd1c74332919</hash>
@@ -475,9 +503,9 @@ wFOcJhcGUqKSxlHqukAusxeZLuXMzw7UmucLCDxW9ETB644KlZ3/8E4CkOlLNIM=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2g.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2g.tar.gz">
       <hash type="sha-256">b784b1b3907ce39abf4098702dade6365522a253ad1552e267a9a0e89594aa33</hash>
@@ -504,9 +532,9 @@ sDIRZ18a5JOX/vWU0OmUXGhF7XXV93S1/1mKAAEXRJZOxzrneFuyv5b61t/xXCE=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2f.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2f.tar.gz">
       <hash type="sha-256">932b4ee4def2b434f85435d9e3e19ca8ba99ce9a065a61524b429a9d5e9b2e9c</hash>
@@ -533,9 +561,9 @@ Oi1yVap1NlwfZeiNCwuVK5fWFfNlFACB3vzEEPnD3lVQhUFyDveyeP9AQsFc090=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2e.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2e.tar.gz">
       <hash type="sha-256">e23ccafdb75cfcde782da0151731aa2185195ac745eea3846133f2e05c0e0bff</hash>
@@ -562,9 +590,9 @@ cNG5KdPe3tN3xCgR38k4/DKRNi4F1IVoe5YE7sk7U2wmG4dc5Z/9zGCTx+2atc0=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2d.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2d.tar.gz">
       <hash type="sha-256">671c36487785628a703374c652ad2cebea45fa920ae5681515df25d9f2c9a8c8</hash>
@@ -591,9 +619,9 @@ uKYp7jxV0tdzZeQcuPIOxq74yGQuYTell+hHXKdlmYPrH8LL27ZUpVmGuCUrHBku
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2c.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2c.tar.gz">
       <hash type="sha-1">6e4a5e91159eb32383296c7c83ac0e59b83a0a44</hash>
@@ -620,9 +648,9 @@ qAZ2okW/QfyPsfpLEiS5PpPoTDjMKL6rooJh4frE/CgxTj851Ab5AhTqQwIqghCB
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2b.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2b.tar.gz">
       <hash type="sha-1">9006e53ca56a14d041e3875320eedfa63d82aba7</hash>
@@ -649,9 +677,9 @@ SE2eudvw/zr8xBC0nGQ3GsBM7gmfmLAtIKwWBCZ6Lq4P+qd4PMaGIb4dNRZyxrI=
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/openssl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/openssl</repository>
       <path>v1.0.2a.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-09-22T06:03:29Z</version>
     </repository-reference>
     <file name="openssl-1.0.2a.tar.gz">
       <hash type="sha-1">46ecd325b8e587fa491f6bb02ad4a9fb9f382f5f</hash>
