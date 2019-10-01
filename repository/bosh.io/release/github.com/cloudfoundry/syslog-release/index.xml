@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <path>v11.5.0.meta4</path>
+      <version>2019-10-01T21:22:49Z</version>
+    </repository-reference>
+    <file name="syslog-release-11.5.0.tgz">
+      <hash type="sha-1">de4103fe1051092bd21c30b4bb65b7be53b76b20</hash>
+      <hash type="md5">f8b64daf0f2be9fb5c245fe4ec11f08a</hash>
+      <hash type="sha-256">79630245d0369120c3a66dda107a279bb1dc3f7c899fb064dfa7693521ca0cd9</hash>
+      <hash type="sha-512">3e574d7f4a68f8fcc3bd0b74a915c6a0f2eab2a184774b59d091276599ffaa4045b997f63b7c40fceb1270d1b3a9b3030d55897ded6b8f78519a3e6b8460152c</hash>
+      <size>121079253</size>
+      <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/syslog-release?v=11.5.0</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/de4103fe1051092bd21c30b4bb65b7be53b76b20</url>
+      <version>11.5.0</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.4.0.meta4</path>
-      <version>6cbf0e98f43b9930283162f5770f89e427f8b11f</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.4.0.tgz">
       <hash type="sha-1">f00edc8ae2c4abf92bdb8d9037cd8b7aa85e2f89</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.3.3.meta4</path>
-      <version>d09d9baed9f5c096662a4cbd4f93920c4631ac1a</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.3.3.tgz">
       <hash type="sha-1">0937737d7c80c26a8ce28ce65b2dcc695188945d</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.3.2.meta4</path>
-      <version>ea89b654db3895829a40704a4012565413474b9a</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.3.2.tgz">
       <hash type="sha-1">64cf40d44746b50edffa78cb0e0dd6f072fee695</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.3.1.meta4</path>
-      <version>1deb14320ae6b2f10cd55713247ca64fca66caf6</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.3.1.tgz">
       <hash type="sha-1">d33a03a04c4fbfc40c371b4d6da81982c5933dd2</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.3.0.meta4</path>
-      <version>09aaf95e4987eca40e52c3d7a4c4e8a3bc933758</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.3.0.tgz">
       <hash type="sha-1">c83bd52bceda8664ad7fd71a787390f3c73068c9</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.2.0.meta4</path>
-      <version>b4267145a03c1d28f2cd7d00d3c69cb7d8cba30f</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.2.0.tgz">
       <hash type="sha-1">abcb552fcf04739e25fe92ee1d657106cd62f038</hash>
@@ -104,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.1.1.meta4</path>
-      <version>3a62db62a1327fcc787c2ca622f535a2cc4db9d7</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.1.1.tgz">
       <hash type="sha-1">ba3f9f4e68bfdc39d62aac45147f858b61276dac</hash>
@@ -121,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.1.0.meta4</path>
-      <version>cf2c5cc6e7ffdcf1661a06cfcd564bc75af9aeab</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.1.0.tgz">
       <hash type="sha-1">0dc6bdb820584d915be548dc32c99168230b8eb3</hash>
@@ -138,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.0.2.meta4</path>
-      <version>975dfe969337934a905f7657d16e3617ce549a69</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.0.2.tgz">
       <hash type="sha-1">a39cf59c27480d4d229302ee18b8b55f0c95bc30</hash>
@@ -155,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.0.1.meta4</path>
-      <version>301ad22e8d29adad8fdb39354e79af498470abd7</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.0.1.tgz">
       <hash type="sha-1">f1cee0d5afa7347f3e2593cc7d1bd04d56885af8</hash>
@@ -172,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/bosh.io/release/github.com/cloudfoundry/syslog-release</repository>
       <path>v11.meta4</path>
-      <version>6d286be34dfd8d3d82c06c22fd30dd14144632b8</version>
+      <version>2019-10-01T21:22:23Z</version>
     </repository-reference>
     <file name="syslog-release-11.tgz">
       <hash type="sha-1">332ac15609b220a3fdf5efad0e0aa069d8235788</hash>
