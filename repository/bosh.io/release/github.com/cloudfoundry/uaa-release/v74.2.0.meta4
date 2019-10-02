@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="uaa-release-74.2.0.tgz">
+    <hash type="sha-1">bcc9909e61df23da1deb0612d7950a56bcd2fd9f</hash>
+    <hash type="md5">e72027d3c3a61a6008f5eadcc1305b1f</hash>
+    <hash type="sha-256">48b6991028b348847df53c4254db0dea7350b2b0aa796cda4bf1228fc4f26615</hash>
+    <hash type="sha-512">3aebc2c8c81fbfa55cfb0b96248579c1f41e274957ce893e0b788f37418dec0ec35046842a957071f82629e71cc320b4baaa8f216dc80f75868840a6b64c8ffe</hash>
+    <size>299953347</size>
+    <url priority="1000">https://bosh.io/d/github.com/cloudfoundry/uaa-release?v=74.2.0</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/bcc9909e61df23da1deb0612d7950a56bcd2fd9f</url>
+    <version>74.2.0</version>
+  </file>
+</metalink>
