@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release",
+        "path": "v11.6.0.meta4",
+        "version": "5e52b36e6cedc1d4d989d0f3e208d5c8249c3e09"
+      },
+      "files": [
+        {
+          "name": "syslog-release-11.6.0.tgz",
+          "hashes": [
+            {
+              "type": "sha-1",
+              "hash": "7377d5a82c026e9dd346e22387abd877e151f42c"
+            },
+            {
+              "type": "md5",
+              "hash": "7ecf213c6f47b71f5c6961729f70b3f3"
+            },
+            {
+              "type": "sha-256",
+              "hash": "84076eb2067b9229c021a6e38d7abc70ca881605f49784b77733aeab532b10e7"
+            },
+            {
+              "type": "sha-512",
+              "hash": "f7612111d752aec7d877c5ff24d13b2b9cde8e0fd398f7cdf4fde009c56fc4639e7568071b4c043c58db37d89acc1c355fac42dc7e4cbdfc7dcc6423f5d73fbc"
+            }
+          ],
+          "size": 121102282,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://bosh.io/d/github.com/cloudfoundry/syslog-release?v=11.6.0"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7377d5a82c026e9dd346e22387abd877e151f42c"
+            }
+          ],
+          "version": "11.6.0"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/bosh.io/release/github.com/cloudfoundry/syslog-release",
         "path": "v11.5.0.meta4",
         "version": "b2150bf8822d3983e2de0324a815b072b98a4c6f"
       },
