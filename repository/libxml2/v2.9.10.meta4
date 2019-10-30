@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="libxml2-2.9.10.tar.gz">
+    <hash type="md5">10942a1dc23137a8aa07f0639cbfece5</hash>
+    <hash type="sha-1">db6592ec9ca9708c4e71bf6bfd907bbb5cd40644</hash>
+    <hash type="sha-256">aafee193ffb8fe0c82d4afef6ef91972cbaf5feea100edc2f262750611b4be1f</hash>
+    <hash type="sha-512">0adfd12bfde89cbd6296ba6e66b6bed4edb814a74b4265bda34d95c41d9d92c696ee7adb0c737aaf9cc6e10426a31a35079b2a23d26c074e299858da12c072ed</hash>
+    <size>5624761</size>
+    <url priority="1000">ftp://xmlsoft.org/libxml2/libxml2-2.9.10.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/db6592ec9ca9708c4e71bf6bfd907bbb5cd40644</url>
+    <version>2.9.10</version>
+  </file>
+</metalink>
