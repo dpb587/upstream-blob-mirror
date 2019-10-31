@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet",
+        "path": "v4.1.3.meta4",
+        "version": "5ff6af47bab85b2d1ede3643013c33ce9d16e8ea"
+      },
+      "files": [
+        {
+          "name": "akismet.4.1.3.zip",
+          "hashes": [
+            {
+              "type": "md5",
+              "hash": "0379aaba3d5b7a03ef9148c8c0c37ce8"
+            },
+            {
+              "type": "sha-1",
+              "hash": "2e05e2825ea11f9db47dcfa19a887a230d9478ee"
+            },
+            {
+              "type": "sha-256",
+              "hash": "1709cc22af1a71b56a42cba3970c32f5ae3c5869e0a35cd8d719746231283d6d"
+            },
+            {
+              "type": "sha-512",
+              "hash": "ea51b953dccbb0cd11895b35df45a534a40f415d797fda5d658f3be79b632bd66fec82f195daaf977dc429f29b599df5c59c0ff58a5166e1115a4a3b8f263a76"
+            }
+          ],
+          "size": 73021,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "http://downloads.wordpress.org/plugin/akismet.4.1.3.zip"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/2e05e2825ea11f9db47dcfa19a887a230d9478ee"
+            }
+          ],
+          "version": "4.1.3"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/akismet",
         "path": "v4.1.2.meta4",
         "version": "315f147cb1e091095c5f16096c6c4828f001696f"
       },
