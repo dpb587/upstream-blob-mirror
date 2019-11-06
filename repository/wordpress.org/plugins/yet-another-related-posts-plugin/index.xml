@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
+      <path>v5.1.2.meta4</path>
+      <version>2019-11-06T22:52:06Z</version>
+    </repository-reference>
+    <file name="yet-another-related-posts-plugin.5.1.2.zip">
+      <hash type="md5">498a384b4cbf66dc3837341a9cbeb756</hash>
+      <hash type="sha-1">7af07cce2e73c9bdf1986a154c6de19d96a8dc0b</hash>
+      <hash type="sha-256">3e0b426dd41949ab8e777c56cf52be14da7e1bcebc2423bf93cfafa75bf58be2</hash>
+      <hash type="sha-512">6fec130371c4a35ebad0a58d0da342ff7b16381b1e7e7f4eb5b64c54347b1310f1204fcfc3c1df42515ca1c399e6ddb2c463f97a0d53d8e5070546f39c61741d</hash>
+      <size>767990</size>
+      <url priority="1000">http://downloads.wordpress.org/plugin/yet-another-related-posts-plugin.5.1.2.zip</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/7af07cce2e73c9bdf1986a154c6de19d96a8dc0b</url>
+      <version>5.1.2</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
       <path>v5.1.1.meta4</path>
-      <version>59eb48a291c170c37cf26890b4ccfb306793a04d</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="yet-another-related-posts-plugin.5.1.1.zip">
       <hash type="md5">64059e5e40052223ed650013cf2f47d5</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
       <path>v5.1.0.meta4</path>
-      <version>cd62f90e9590a941c561a63c70992ebe9352f3c2</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="yet-another-related-posts-plugin.5.1.0.zip">
       <hash type="md5">b4d236ca0f46da8c6f95e71bcc4e0bca</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
       <path>v5.0.1.meta4</path>
-      <version>6c55fe5fa23100a92fe3171c540db651ad646edd</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="yet-another-related-posts-plugin.5.0.1.zip">
       <hash type="md5">bc10e3055508bf2c4e587d7e9cdc8558</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
       <path>v5.0.0.meta4</path>
-      <version>8f84887c9a0512b5d29b89af785b3d5a0ba96cdd</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="yet-another-related-posts-plugin.5.0.0.zip">
       <hash type="md5">5923f746e1922c6d1066fd782a955393</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
       <path>v4.5.meta4</path>
-      <version>7852303384850991e40b0dcfeca92e1dbf2d19c0</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="yet-another-related-posts-plugin.4.5.zip">
       <hash type="md5">2ccac7f64df575ce27493ba513fa4ea4</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/wordpress.org/plugins/yet-another-related-posts-plugin</repository>
       <path>v4.4.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="yet-another-related-posts-plugin.4.4.zip">
       <hash type="md5">85903c5d353662f47f131615bcbee2f3</hash>
