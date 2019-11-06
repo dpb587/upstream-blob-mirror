@@ -2,9 +2,26 @@
 <repository xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
+      <path>v7.67.0.meta4</path>
+      <version>2019-11-06T22:49:17Z</version>
+    </repository-reference>
+    <file name="curl-7.67.0.tar.gz">
+      <hash type="md5">e91e478a7fbd8c6dc1636b11cdd3c1f5</hash>
+      <hash type="sha-1">a91652f1eaa810866dce55b2d177c5b20f4aa7a7</hash>
+      <hash type="sha-256">52af3361cf806330b88b4fe6f483b6844209d47ae196ac46da4de59bb361ab02</hash>
+      <hash type="sha-512">73365f964df733b5e79d690ba7260a279986a9637ba0026b37cca2eca7ba8e37967251751bdf26de730f6f432713da8b7e0a315e84f1e9dad0e0bfd3d7882f92</hash>
+      <size>4071318</size>
+      <url priority="1000">http://curl.askapache.com/download/curl-7.67.0.tar.gz</url>
+      <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/a91652f1eaa810866dce55b2d177c5b20f4aa7a7</url>
+      <version>7.67.0</version>
+    </file>
+  </metalink>
+  <metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.66.0.meta4</path>
-      <version>6f0301567fd6327871982463f8fe60302d449edf</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.66.0.tar.gz">
       <hash type="md5">8cb2898a9adc106075ac3cdc2b965bf6</hash>
@@ -19,9 +36,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.65.3.meta4</path>
-      <version>c25268c0aa7c6021326fa11ba96458586b043058</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.65.3.tar.gz">
       <hash type="md5">08e951e3da639bb4197d52222458b5dd</hash>
@@ -36,9 +53,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.65.2.meta4</path>
-      <version>b8c1fa1cabb42187d7cd40aa42881b54da1a91cb</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.65.2.tar.gz">
       <hash type="md5">ca8ff5d93e7eff127e6166a602ac6581</hash>
@@ -53,9 +70,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.65.1.meta4</path>
-      <version>fe85e53ccaf4c0bcf1a006edaea923bb81cc0525</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.65.1.tar.gz">
       <hash type="md5">6f31ec164741cc6aaac461d4b38ffdbe</hash>
@@ -70,9 +87,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.65.0.meta4</path>
-      <version>83ded1163f48398b9466d8483df97c1424743d83</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.65.0.tar.gz">
       <hash type="md5">a9471b18bcdaf3bfca597535b4fae9db</hash>
@@ -87,9 +104,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.64.1.meta4</path>
-      <version>413e2ef99ddccd4c86e4577c6ecee0e4dc13386a</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.64.1.tar.gz">
       <hash type="md5">371239c13ed64ae4c56cd2480cde52f8</hash>
@@ -104,9 +121,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.64.0.meta4</path>
-      <version>accb1623f7c077e742e34aabbf72c0d341323db2</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.64.0.tar.gz">
       <hash type="md5">a026740d599a32bcbbe6e70679397899</hash>
@@ -121,9 +138,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.63.0.meta4</path>
-      <version>bd6452a69f8a3725672dd77f30f6a5f394ce141e</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.63.0.tar.gz">
       <hash type="md5">6121427a7199cd6094fc48c9e31e8992</hash>
@@ -138,9 +155,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.62.0.meta4</path>
-      <version>3352b31b0ccc7c4367c8c9a446e376076bb2bd2a</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.62.0.tar.gz">
       <hash type="md5">e60dbe74a5907c16524ec06e8c787497</hash>
@@ -155,9 +172,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.61.1.meta4</path>
-      <version>b44e46a32a19954dc06f4393638a5d57579c572e</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.61.1.tar.gz">
       <hash type="md5">4762f41ef0dba751d1c7a3060a1c6ec6</hash>
@@ -172,9 +189,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.61.0.meta4</path>
-      <version>0e1c8b0b35e4e732eb25178c9f48e0308a69fde9</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.61.0.tar.gz">
       <hash type="md5">ef343f64daab4691f528697b58a2d984</hash>
@@ -189,9 +206,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.60.0.meta4</path>
-      <version>2e6a111266ea2d53e52b71ad1ba39869365f437d</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.60.0.tar.gz">
       <hash type="md5">48eb126345d3b0f0a71a486b7f5d0307</hash>
@@ -206,9 +223,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.59.0.meta4</path>
-      <version>5a9d94f8271812991aa68b90e2585f3f42100298</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.59.0.tar.gz">
       <hash type="md5">a44f98c25c7506e7103039b542aa5ad8</hash>
@@ -223,9 +240,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.58.0.meta4</path>
-      <version>a0bb1723a4a9db06b24383b1266f8bb45dda38cb</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.58.0.tar.gz">
       <hash type="md5">7e9e9d5405c61148d53035426f162b0a</hash>
@@ -240,9 +257,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.57.0.meta4</path>
-      <version>264acad2e46e2f2156837ceacd210e676f765f1d</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.57.0.tar.gz">
       <hash type="md5">c7aab73aaf5e883ca1d7518f93649dc2</hash>
@@ -257,9 +274,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.56.1.meta4</path>
-      <version>ad27754ac8da8866e5aa758517c73af2f44bea86</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.56.1.tar.gz">
       <hash type="md5">48ba7bd7b363b40cd446d1e7b4be9920</hash>
@@ -274,9 +291,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.56.0.meta4</path>
-      <version>cc6e2db9e3633e1861e7216710484209b2a5edec</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.56.0.tar.gz">
       <hash type="md5">65351b9df687ed539852ae7b9464006c</hash>
@@ -291,9 +308,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.55.1.meta4</path>
-      <version>343f69b711b63afe03f0054876716336c3bd397b</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.55.1.tar.gz">
       <hash type="md5">3b832160a8c9c40075fd71191960307c</hash>
@@ -308,9 +325,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.55.0.meta4</path>
-      <version>5f74d347f85bcd4a2975cd6fd1b1694ffc2bb4bb</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.55.0.tar.gz">
       <hash type="md5">66b2b81489ada6a9de77bafae8dd21d8</hash>
@@ -325,9 +342,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.54.1.meta4</path>
-      <version>559b16e1a350d147766a9d10c01b3647162ba8af</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.54.1.tar.gz">
       <hash type="md5">21a6e5658fd55103a90b11de7b2a8a8c</hash>
@@ -342,9 +359,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.54.0.meta4</path>
-      <version>909d59e91465908d15c7f315a5869cce3449817e</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.54.0.tar.gz">
       <hash type="md5">18091896d871982cc4c2b307885eacb3</hash>
@@ -359,9 +376,9 @@
   </metalink>
   <metalink xmlns="urn:ietf:params:xml:ns:metalink">
     <repository-reference xmlns="https://dpb587.github.io/metalink-repository/schema-0.1.0.xsd">
-      <repository>git@github.com:dpb587/upstream-blob-mirror.git//repository/curl</repository>
+      <repository>file:///tmp/build/0a25ba59/repo-output/repository/curl</repository>
       <path>v7.53.1.meta4</path>
-      <version>055b24a39ddf688cf35d30dcc4f3f1d7db1fc94f</version>
+      <version>2019-11-06T22:49:15Z</version>
     </repository-reference>
     <file name="curl-7.53.1.tar.gz">
       <hash type="md5">9e49bb4cb275bf4464e7b69eb48613c0</hash>
