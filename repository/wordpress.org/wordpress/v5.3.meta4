@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="wordpress-5.3.tar.gz">
+    <hash type="sha-1">e3edcb1131e539c2b2e10fed37f8b6683c824a98</hash>
+    <hash type="md5">b4ffcc17cbe6a6546fba4112d55e8ba5</hash>
+    <hash type="sha-256">b29d911f7e647a9a45d972986d7d26bd7f34793733dea403768b365ca2e9d6ab</hash>
+    <hash type="sha-512">90a0df8a2b965c06ac10ba0dd3521b98bbd6040780bd2ccfa14a445bd2cbdb1311277563dd30f5cdc918a4177ec7c49e89260d95309fb08e271173f242fcfc07</hash>
+    <size>12372564</size>
+    <url priority="1000">https://downloads.wordpress.org/release/wordpress-5.3.tar.gz</url>
+    <url location="us" priority="100">https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/e3edcb1131e539c2b2e10fed37f8b6683c824a98</url>
+    <version>5.3</version>
+  </file>
+</metalink>
