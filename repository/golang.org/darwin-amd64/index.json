@@ -3,6 +3,49 @@
     {
       "repository_reference": {
         "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/darwin-amd64",
+        "path": "v1.13.7.meta4",
+        "version": "a38b37dfadc1b1f28fa22235ce55c22ce0bb5690"
+      },
+      "files": [
+        {
+          "name": "go1.13.7.darwin-amd64.tar.gz",
+          "hashes": [
+            {
+              "type": "sha-256",
+              "hash": "8436f846b49c2b14a96d90eef6b2a6e0a0e1943bbb767299c1ecabb795b042b9"
+            },
+            {
+              "type": "md5",
+              "hash": "f4457b53ad401ecb3eec0e7151bacfb5"
+            },
+            {
+              "type": "sha-1",
+              "hash": "12deba82089bbf02a49c3ab5e4170ca00e6d92fa"
+            },
+            {
+              "type": "sha-512",
+              "hash": "69b6237f02184fdf44bb6711f94f092fbc09a598c0a1018c8a2c37c6e8bbeccee51bcac2c87d1a08f7032c2a5297f90ed67031e69f36fc5840348bd16f76ebb8"
+            }
+          ],
+          "size": 121520192,
+          "url": [
+            {
+              "priority": 1000,
+              "url": "https://storage.googleapis.com/golang/go1.13.7.darwin-amd64.tar.gz"
+            },
+            {
+              "location": "us",
+              "priority": 100,
+              "url": "https://s3.amazonaws.com/dpb587-upstream-blob-receipts-us-east-1/blob/12deba82089bbf02a49c3ab5e4170ca00e6d92fa"
+            }
+          ],
+          "version": "1.13.7"
+        }
+      ]
+    },
+    {
+      "repository_reference": {
+        "repository": "git@github.com:dpb587/upstream-blob-mirror.git//repository/golang.org/darwin-amd64",
         "path": "v1.13.6.meta4",
         "version": "7dfc8d2b53b6e5688e3fce9af37f4a9ee2fc1b24"
       },
